@@ -1,0 +1,2646 @@
+{VERSION 4 0 "Windows 8" "4.0" }
+{USTYLETAB {PSTYLE "Ordered List 1" -1 200 1 {CSTYLE "" -1 -1 "Times"
+ 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Ordered List 2" -1 201 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 
+1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 36 2 0 2 2 -1 1 }{PSTYLE "Ordered
+ List 3" -1 202 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 
+0 0 1 }1 1 0 0 3 3 2 72 2 0 2 2 -1 1 }{PSTYLE "Ordered List 4" -1 203 
+1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3
+ 3 2 108 2 0 2 2 -1 1 }{PSTYLE "Ordered List 5" -1 204 1 {CSTYLE "" -1
+ -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 144 2 0 2 
+2 -1 1 }{PSTYLE "Author" -1 19 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1
+ 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 8 8 2 0 2 0 2 2 -1 1 }{PSTYLE "Warning" 
+-1 7 1 {CSTYLE "" -1 -1 "Courier" 1 10 0 0 255 1 2 2 2 2 2 1 1 0 0 1 }
+1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Annotation Title" -1 205 1 
+{CSTYLE "" -1 -1 "Times" 1 18 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }3 1 0 0 12 
+12 2 0 2 0 2 2 -1 1 }{PSTYLE "Fixed Width" -1 17 1 {CSTYLE "" -1 -1 "C
+ourier" 1 10 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1
+ }{PSTYLE "Maple Plot" -1 13 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2
+ 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Line Printe
+d Output" -1 6 1 {CSTYLE "" -1 -1 "Courier" 1 10 0 0 255 1 2 2 2 2 2 1
+ 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Help" -1 10 1 {CSTYLE
+ "" -1 -1 "Courier" 1 9 0 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0
+ 2 0 2 2 -1 1 }{PSTYLE "Text Output" -1 2 1 {CSTYLE "" -1 -1 "Courier"
+ 1 10 0 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Diagnostic" -1 9 1 {CSTYLE "" -1 -1 "Courier" 1 10 64 128 64 
+1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Normal" 
+-1 0 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 
+0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Maple Output" -1 11 1 {CSTYLE "" -1
+ -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 
+-1 1 }{PSTYLE "Dash Item" -1 16 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 
+1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }{PSTYLE "Hyperlin
+kError" -1 206 1 {CSTYLE "" -1 -1 "Courier New" 1 12 255 0 255 1 2 2 1
+ 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Error" -1 8 1 
+{CSTYLE "" -1 -1 "Courier" 1 10 255 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0
+ 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Title" -1 18 1 {CSTYLE "" -1 -1 "Tim
+es" 1 18 0 0 0 1 2 1 1 2 2 2 1 0 0 1 }3 1 0 0 12 12 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Heading 1" -1 3 1 {CSTYLE "" -1 -1 "Times" 1 18 0 0 0 1 2 1 2
+ 2 2 2 1 0 0 1 }1 1 0 0 8 4 2 0 2 0 2 2 -1 1 }{PSTYLE "Bullet Item" -1
+ 15 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0
+ 0 3 3 2 0 2 0 2 2 -1 1 }{PSTYLE "Heading 4" -1 20 1 {CSTYLE "" -1 -1 
+"Times" 1 10 0 0 0 1 1 1 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1
+ }{PSTYLE "Heading 3" -1 5 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 1 1
+ 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Heading 2" -1
+ 4 1 {CSTYLE "" -1 -1 "Times" 1 14 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 
+0 8 2 2 0 2 0 2 2 -1 1 }{PSTYLE "HyperlinkWarning" -1 207 1 {CSTYLE ""
+ -1 -1 "Courier New" 1 12 0 0 255 1 2 2 1 2 2 1 1 0 0 1 }1 1 0 0 0 0 2
+ 0 2 0 2 2 -1 1 }{PSTYLE "Left Justified Maple Output" -1 12 1 {CSTYLE
+ "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 
+0 2 2 -1 1 }{PSTYLE "List Item" -1 14 1 {CSTYLE "" -1 -1 "Times" 1 12 
+0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }{CSTYLE "An
+notation Text" -1 200 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "Help Maple Name" -1 35 "Times" 1 12 104 64 92 1 2 1 2 2 2 2 0
+ 0 0 1 }{CSTYLE "2D Math Bold" -1 5 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0
+ 0 0 1 }{CSTYLE "Help Menus" -1 36 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 
+0 0 1 }{CSTYLE "2D Math Italic" -1 3 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 
+0 0 0 1 }{CSTYLE "Help Normal" -1 30 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 
+0 0 0 1 }{CSTYLE "Plot Text" -1 28 "Times" 1 8 0 0 0 1 2 2 2 2 2 2 0 0
+ 0 1 }{CSTYLE "Help Nonterminal" -1 24 "Courier" 1 12 0 0 0 1 2 1 2 2 
+2 2 0 0 0 1 }{CSTYLE "Help Heading" -1 26 "Times" 1 14 0 0 0 1 2 1 2 2
+ 2 2 0 0 0 1 }{CSTYLE "Help Italic" -1 42 "Times" 1 12 0 0 0 1 1 2 2 2
+ 2 2 0 0 0 1 }{CSTYLE "Help Variable" -1 25 "Courier" 1 12 0 0 0 1 2 2
+ 2 2 2 2 0 0 0 1 }{CSTYLE "Help Italic Bold" -1 40 "Times" 1 12 0 0 0 
+1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Default" -1 38 "Times" 1 12 0 0 0 1 2 
+2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Underlined Italic" -1 43 "Times" 1 12
+ 0 0 0 1 1 2 1 2 2 2 0 0 0 1 }{CSTYLE "Maple Input" -1 0 "Courier" 1 
+12 255 0 0 1 2 1 2 2 1 2 0 0 0 1 }{CSTYLE "2D Output" -1 20 "Times" 1 
+12 0 0 255 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Bold Small" -1 10 "
+Times" 1 1 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Small" -1 7 "
+Times" 1 1 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Page Number" -1 33 "T
+imes" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Output Labels" -1 29 
+"Times" 1 8 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Plot Title" -1 27 "T
+imes" 1 10 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Emphasized" -1 
+22 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Symbol 2
+" -1 16 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Ita
+lic Small207" -1 201 "Times" 1 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE 
+"Maple Comment" -1 21 "Courier" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "Caption Reference" -1 202 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 
+0 0 1 }{CSTYLE "Maple Input Placeholder" -1 203 "Courier New" 1 12 200
+ 0 200 1 2 1 2 2 1 2 0 0 0 1 }{CSTYLE "Code" -1 204 "Courier New" 1 12
+ 255 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Italic Small206" -1 
+205 "Times" 1 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Italic S
+mall205" -1 206 "Times" 1 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D I
+nert Output" -1 207 "Times" 1 12 144 144 144 1 2 2 2 2 1 2 0 0 0 1 }
+{CSTYLE "2D Math Italic Small" -1 208 "Times" 1 1 0 0 0 1 1 2 2 2 2 2 
+0 0 0 1 }{CSTYLE "2D Comment" -1 18 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0
+ 0 0 1 }{CSTYLE "Help Underlined Bold" -1 41 "Times" 1 12 0 0 0 1 1 1 
+2 2 2 2 0 0 0 1 }{CSTYLE "Copyright" -1 34 "Times" 1 10 0 0 0 1 2 2 2 
+2 2 2 0 0 0 1 }{CSTYLE "Hyperlink" -1 17 "Times" 1 12 0 128 128 1 2 2 
+1 2 2 2 0 0 0 1 }{CSTYLE "Help Underlined" -1 44 "Times" 1 12 0 0 0 1 
+2 2 1 2 2 2 0 0 0 1 }{CSTYLE "Prompt" -1 1 "Courier" 1 12 0 0 0 1 2 1 
+2 2 2 2 0 0 0 1 }{CSTYLE "2D Math" -1 2 "Times" 1 12 0 0 0 1 2 2 2 2 2
+ 2 0 0 0 1 }{CSTYLE "2D Input" -1 19 "Times" 1 12 255 0 0 1 2 2 2 2 1 
+2 0 0 0 1 }{CSTYLE "Header and Footer" -1 209 "Times" 1 10 0 0 0 1 2 2
+ 2 2 2 2 0 0 0 1 }{CSTYLE "Text" -1 210 "Times" 1 12 0 0 0 1 2 2 2 2 2
+ 2 0 0 0 1 }{CSTYLE "Help Notes" -1 37 "Times" 1 12 0 0 0 1 2 1 2 2 2 
+2 0 0 0 1 }{CSTYLE "Help Bold" -1 39 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 
+0 0 0 1 }{CSTYLE "Equation Label" -1 211 "Times" 1 12 0 0 0 1 2 1 2 2 
+2 2 0 0 0 1 }{CSTYLE "LaTeX" -1 32 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 
+0 0 1 }{CSTYLE "Popup" -1 31 "Times" 1 12 0 128 128 1 1 2 1 2 2 2 0 0 
+0 1 }{CSTYLE "Atomic Variable" -1 212 "Times" 1 12 175 0 175 1 1 2 2 2
+ 2 2 0 0 0 1 }{CSTYLE "Dictionary Hyperlink" -1 45 "Times" 1 12 147 0 
+15 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "Caption Text" -1 213 "Times" 1 12 0
+ 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Fixed" -1 23 "Courier" 1 10 
+0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 208 1 {CSTYLE "" -1 -1 "Tim
+es" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "" -1 209 1 {CSTYLE "" -1 -1 "Times" 1 12 255 0 0 1 2 2 2 2 1 
+2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }}
+{SECT 0 {PARA 208 "" 0 "" {TEXT 210 34 "Tau: the first Birkoff Coeffi
+cient" }}{PARA 0 "" 0 "" {TEXT 214 41 "The first Birkoff coefficient i
+s given by" }}{PARA 0 "" 0 "" {TEXT 214 1 " " }{XPPEDIT 18 0 "Typesett
+ing:-mrow(Typesetting:-mi(\"\"), Typesetting:-mrow(Typesetting:-mi(\"&
+tau;\", italic = \"false\", mathvariant = \"normal\"), Typesetting:-mo
+(\"=\", mathvariant = \"normal\", fence = \"false\", separator = \"fal
+se\", stretchy = \"false\", symmetric = \"false\", largeop = \"false\"
+, movablelimits = \"false\", accent = \"false\", lspace = \"0.2777778e
+m\", rspace = \"0.2777778em\"), Typesetting:-mrow(Typesetting:-mi(\"&I
+m;\", italic = \"false\", mathvariant = \"normal\"), Typesetting:-mo(
+\"&ApplyFunction;\", mathvariant = \"normal\", fence = \"false\", sepa
+rator = \"false\", stretchy = \"false\", symmetric = \"false\", largeo
+p = \"false\", movablelimits = \"false\", accent = \"false\", lspace =
+ \"0.0em\", rspace = \"0.0em\"), Typesetting:-mfenced(Typesetting:-mro
+w(Typesetting:-mi(\"\"), Typesetting:-mrow(Typesetting:-msub(Typesetti
+ng:-mi(\"c\", italic = \"true\", mathvariant = \"italic\"), Typesettin
+g:-mrow(Typesetting:-mn(\"2\", mathvariant = \"normal\"), Typesetting:
+-mo(\",\", mathvariant = \"normal\", fence = \"false\", separator = \"
+true\", stretchy = \"false\", symmetric = \"false\", largeop = \"false
+\", movablelimits = \"false\", accent = \"false\", lspace = \"0.0em\",
+ rspace = \"0.3333333em\"), Typesetting:-mn(\"1\", mathvariant = \"nor
+mal\")), subscriptshift = \"0\"), Typesetting:-mo(\"+\", mathvariant =
+ \"normal\", fence = \"false\", separator = \"false\", stretchy = \"fa
+lse\", symmetric = \"false\", largeop = \"false\", movablelimits = \"f
+alse\", accent = \"false\", lspace = \"0.2222222em\", rspace = \"0.222
+2222em\"), Typesetting:-mfrac(Typesetting:-mrow(Typesetting:-mn(\"2\",
+ mathvariant = \"normal\"), Typesetting:-mo(\"&InvisibleTimes;\", math
+variant = \"normal\", fence = \"false\", separator = \"false\", stretc
+hy = \"false\", symmetric = \"false\", largeop = \"false\", movablelim
+its = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.
+0em\"), Typesetting:-mfenced(Typesetting:-mrow(Typesetting:-mi(\"\"), \+
+Typesetting:-mrow(Typesetting:-mn(\"2\", mathvariant = \"normal\"), Ty
+pesetting:-mo(\"&InvisibleTimes;\", mathvariant = \"normal\", fence = \+
+\"false\", separator = \"false\", stretchy = \"false\", symmetric = \"
+false\", largeop = \"false\", movablelimits = \"false\", accent = \"fa
+lse\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mi(\"&mu;
+\", italic = \"false\", mathvariant = \"normal\")), Typesetting:-mo(\"
++\", mathvariant = \"normal\", fence = \"false\", separator = \"false
+\", stretchy = \"false\", symmetric = \"false\", largeop = \"false\", \+
+movablelimits = \"false\", accent = \"false\", lspace = \"0.2222222em
+\", rspace = \"0.2222222em\"), Typesetting:-mn(\"1\", mathvariant = \"
+normal\")), mathvariant = \"normal\"), Typesetting:-mo(\"&InvisibleTim
+es;\", mathvariant = \"normal\", fence = \"false\", separator = \"fals
+e\", stretchy = \"false\", symmetric = \"false\", largeop = \"false\",
+ movablelimits = \"false\", accent = \"false\", lspace = \"0.0em\", rs
+pace = \"0.0em\"), Typesetting:-msup(Typesetting:-mfenced(Typesetting:
+-msub(Typesetting:-mi(\"c\", italic = \"true\", mathvariant = \"italic
+\"), Typesetting:-mrow(Typesetting:-mn(\"2\", mathvariant = \"normal\"
+), Typesetting:-mo(\",\", mathvariant = \"normal\", fence = \"false\",
+ separator = \"true\", stretchy = \"false\", symmetric = \"false\", la
+rgeop = \"false\", movablelimits = \"false\", accent = \"false\", lspa
+ce = \"0.0em\", rspace = \"0.3333333em\"), Typesetting:-mn(\"0\", math
+variant = \"normal\")), subscriptshift = \"0\"), mathvariant = \"norma
+l\", Typesetting:-msemantics = \"abs\", open = \"&verbar;\", close = \+
+\"&verbar;\", Typesetting:-msemantics = \"abs\"), Typesetting:-mn(\"2
+\", mathvariant = \"normal\"), superscriptshift = \"0\")), Typesetting
+:-mrow(Typesetting:-mi(\"\"), Typesetting:-mrow(Typesetting:-mi(\"&mu;
+\", italic = \"false\", mathvariant = \"normal\"), Typesetting:-mo(\"&
+minus;\", mathvariant = \"normal\", fence = \"false\", separator = \"f
+alse\", stretchy = \"false\", symmetric = \"false\", largeop = \"false
+\", movablelimits = \"false\", accent = \"false\", lspace = \"0.222222
+2em\", rspace = \"0.2222222em\"), Typesetting:-mn(\"1\", mathvariant =
+ \"normal\")), Typesetting:-mi(\"\")), linethickness = \"1\", denomali
+gn = \"center\", numalign = \"center\", bevelled = \"false\"), Typeset
+ting:-mo(\"+\", mathvariant = \"normal\", fence = \"false\", separator
+ = \"false\", stretchy = \"false\", symmetric = \"false\", largeop = \+
+\"false\", movablelimits = \"false\", accent = \"false\", lspace = \"0
+.2222222em\", rspace = \"0.2222222em\"), Typesetting:-mfrac(Typesettin
+g:-mrow(Typesetting:-mn(\"2\", mathvariant = \"normal\"), Typesetting:
+-mo(\"&InvisibleTimes;\", mathvariant = \"normal\", fence = \"false\",
+ separator = \"false\", stretchy = \"false\", symmetric = \"false\", l
+argeop = \"false\", movablelimits = \"false\", accent = \"false\", lsp
+ace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-msup(Typesetting:-m
+fenced(Typesetting:-msub(Typesetting:-mi(\"c\", italic = \"true\", mat
+hvariant = \"italic\"), Typesetting:-mrow(Typesetting:-mn(\"0\", mathv
+ariant = \"normal\"), Typesetting:-mo(\",\", mathvariant = \"normal\",
+ fence = \"false\", separator = \"true\", stretchy = \"false\", symmet
+ric = \"false\", largeop = \"false\", movablelimits = \"false\", accen
+t = \"false\", lspace = \"0.0em\", rspace = \"0.3333333em\"), Typesett
+ing:-mn(\"2\", mathvariant = \"normal\")), subscriptshift = \"0\"), ma
+thvariant = \"normal\", Typesetting:-msemantics = \"abs\", open = \"&v
+erbar;\", close = \"&verbar;\", Typesetting:-msemantics = \"abs\"), Ty
+pesetting:-mn(\"2\", mathvariant = \"normal\"), superscriptshift = \"0
+\")), Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetting:-mrow(Types
+etting:-mi(\"\"), Typesetting:-mrow(Typesetting:-msup(Typesetting:-mi(
+\"&mu;\", italic = \"false\", mathvariant = \"normal\"), Typesetting:-
+mn(\"3\", mathvariant = \"normal\"), superscriptshift = \"0\")), Types
+etting:-mo(\"&minus;\", mathvariant = \"normal\", fence = \"false\", s
+eparator = \"false\", stretchy = \"false\", symmetric = \"false\", lar
+geop = \"false\", movablelimits = \"false\", accent = \"false\", lspac
+e = \"0.2222222em\", rspace = \"0.2222222em\"), Typesetting:-mn(\"1\",
+ mathvariant = \"normal\")), Typesetting:-mi(\"\")), linethickness = \+
+\"1\", denomalign = \"center\", numalign = \"center\", bevelled = \"fa
+lse\")), Typesetting:-mi(\"\")), mathvariant = \"normal\")), Typesetti
+ng:-mi(\"\")), Typesetting:-mi(\"\"));" "-I%mrowG6#/I+modulenameG6\"I,
+TypesettingGI(_syslibGF'6%-I#miGF$6#Q!F'-F#6&-F,6%Q&&tau;F'/%'italicGQ
+&falseF'/%,mathvariantGQ'normalF'-I#moGF$6-Q\"=F'F7/%&fenceGF6/%*separ
+atorGF6/%)stretchyGF6/%*symmetricGF6/%(largeopGF6/%.movablelimitsGF6/%
+'accentGF6/%'lspaceGQ,0.2777778emF'/%'rspaceGFN-F#6%-F,6%Q%&Im;F'F4F7-
+F;6-Q0&ApplyFunction;F'F7F>F@FBFDFFFHFJ/FMQ&0.0emF'/FPFZ-I(mfencedGF$6
+$-F#6%F+-F#6'-I%msubGF$6%-F,6%Q\"cF'/F5Q%trueF'/F8Q'italicF'-F#6%-I#mn
+GF$6$Q\"2F'F7-F;6-Q\",F'F7F>/FAFdoFBFDFFFHFJFY/FPQ,0.3333333emF'-Fjo6$
+Q\"1F'F7/%/subscriptshiftGQ\"0F'-F;6-Q\"+F'F7F>F@FBFDFFFHFJ/FMQ,0.2222
+222emF'/FPF]q-I&mfracGF$6(-F#6'Fio-F;6-Q1&InvisibleTimes;F'F7F>F@FBFDF
+FFHFJFYFen-Fgn6$-F#6&F+-F#6%FioFdq-F,6%Q%&mu;F'F4F7FipFcpF7Fdq-I%msupG
+F$6%-Fgn6(-F^o6%F`o-F#6%FioF]p-Fjo6$FhpF7FfpF7/I+msemanticsGF$Q$absF'/
+%%openGQ)&verbar;F'/%&closeGF`sF[sFio/%1superscriptshiftGFhp-F#6%F+-F#
+6%F]r-F;6-Q(&minus;F'F7F>F@FBFDFFFHFJF\\qF^qFcpF+/%.linethicknessGFep/
+%+denomalignGQ'centerF'/%)numalignGF`t/%)bevelledGF6Fip-F`q6(-F#6%FioF
+dq-Far6%-Fgn6(-F^o6%F`o-F#6%FirF]pFioFfpF7F[sF^sFasF[sFioFcs-F#6%F+-F#
+6&F+-F#6#-Far6%F]r-Fjo6$Q\"3F'F7FcsFisFcpF+F\\tF^tFatFctF+F7F+F+" }
+{TEXT 214 8 ".   or  " }{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-
+mi(\"\"), Typesetting:-mrow(Typesetting:-mi(\"&tau;\", italic = \"fals
+e\", mathvariant = \"normal\"), Typesetting:-mo(\":=\", mathvariant = \+
+\"normal\", fence = \"false\", separator = \"false\", stretchy = \"fal
+se\", symmetric = \"false\", largeop = \"false\", movablelimits = \"fa
+lse\", accent = \"false\", lspace = \"0.2777778em\", rspace = \"0.2777
+778em\"), Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetting:-mrow(T
+ypesetting:-mi(\"&Im;\", italic = \"false\", mathvariant = \"normal\")
+, Typesetting:-mo(\"&ApplyFunction;\", mathvariant = \"normal\", fence
+ = \"false\", separator = \"false\", stretchy = \"false\", symmetric =
+ \"false\", largeop = \"false\", movablelimits = \"false\", accent = \+
+\"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mfenc
+ed(Typesetting:-mrow(Typesetting:-msub(Typesetting:-mi(\"c\", italic =
+ \"true\", mathvariant = \"italic\"), Typesetting:-mrow(Typesetting:-m
+n(\"2\", mathvariant = \"normal\"), Typesetting:-mo(\",\", mathvariant
+ = \"normal\", fence = \"false\", separator = \"true\", stretchy = \"f
+alse\", symmetric = \"false\", largeop = \"false\", movablelimits = \"
+false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.3333333e
+m\"), Typesetting:-mn(\"1\", mathvariant = \"normal\")), subscriptshif
+t = \"0\")), mathvariant = \"normal\")), Typesetting:-mo(\"+\", mathva
+riant = \"normal\", fence = \"false\", separator = \"false\", stretchy
+ = \"false\", symmetric = \"false\", largeop = \"false\", movablelimit
+s = \"false\", accent = \"false\", lspace = \"0.2222222em\", rspace = \+
+\"0.2222222em\"), Typesetting:-mfrac(Typesetting:-mrow(Typesetting:-mi
+(\"\"), Typesetting:-mrow(Typesetting:-mi(\"sin\", italic = \"false\",
+ mathvariant = \"normal\"), Typesetting:-mo(\"&ApplyFunction;\", mathv
+ariant = \"normal\", fence = \"false\", separator = \"false\", stretch
+y = \"false\", symmetric = \"false\", largeop = \"false\", movablelimi
+ts = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0
+em\"), Typesetting:-mfenced(Typesetting:-mrow(Typesetting:-mi(\"&gamma
+;\", italic = \"false\", mathvariant = \"normal\")), mathvariant = \"n
+ormal\")), Typesetting:-mo(\"&InvisibleTimes;\", mathvariant = \"norma
+l\", fence = \"false\", separator = \"false\", stretchy = \"false\", s
+ymmetric = \"false\", largeop = \"false\", movablelimits = \"false\", \+
+accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetti
+ng:-mfenced(Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetting:-mrow
+(Typesetting:-mn(\"3\", mathvariant = \"normal\"), Typesetting:-mo(\"&
+InvisibleTimes;\", mathvariant = \"normal\", fence = \"false\", separa
+tor = \"false\", stretchy = \"false\", symmetric = \"false\", largeop \+
+= \"false\", movablelimits = \"false\", accent = \"false\", lspace = \+
+\"0.0em\", rspace = \"0.0em\"), Typesetting:-mrow(Typesetting:-msup(Ty
+pesetting:-mfenced(Typesetting:-msub(Typesetting:-mi(\"c\", italic = \+
+\"true\", mathvariant = \"italic\"), Typesetting:-mrow(Typesetting:-mn
+(\"2\", mathvariant = \"normal\"), Typesetting:-mo(\",\", mathvariant \+
+= \"normal\", fence = \"false\", separator = \"true\", stretchy = \"fa
+lse\", symmetric = \"false\", largeop = \"false\", movablelimits = \"f
+alse\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.3333333em
+\"), Typesetting:-mn(\"0\", mathvariant = \"normal\")), subscriptshift
+ = \"0\"), mathvariant = \"normal\", Typesetting:-msemantics = \"abs\"
+, open = \"&verbar;\", close = \"&verbar;\", Typesetting:-msemantics =
+ \"abs\"), Typesetting:-mn(\"2\", mathvariant = \"normal\"), superscri
+ptshift = \"0\")), Typesetting:-mi(\"\")), Typesetting:-mo(\"+\", math
+variant = \"normal\", fence = \"false\", separator = \"false\", stretc
+hy = \"false\", symmetric = \"false\", largeop = \"false\", movablelim
+its = \"false\", accent = \"false\", lspace = \"0.2222222em\", rspace \+
+= \"0.2222222em\"), Typesetting:-mfrac(Typesetting:-mrow(Typesetting:-
+mfenced(Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetting:-mrow(Typ
+esetting:-mn(\"2\", mathvariant = \"normal\"), Typesetting:-mo(\"&Invi
+sibleTimes;\", mathvariant = \"normal\", fence = \"false\", separator \+
+= \"false\", stretchy = \"false\", symmetric = \"false\", largeop = \"
+false\", movablelimits = \"false\", accent = \"false\", lspace = \"0.0
+em\", rspace = \"0.0em\"), Typesetting:-mrow(Typesetting:-mi(\"cos\", \+
+italic = \"false\", mathvariant = \"normal\"), Typesetting:-mo(\"&Appl
+yFunction;\", mathvariant = \"normal\", fence = \"false\", separator =
+ \"false\", stretchy = \"false\", symmetric = \"false\", largeop = \"f
+alse\", movablelimits = \"false\", accent = \"false\", lspace = \"0.0e
+m\", rspace = \"0.0em\"), Typesetting:-mfenced(Typesetting:-mrow(Types
+etting:-mi(\"&gamma;\", italic = \"false\", mathvariant = \"normal\"))
+, mathvariant = \"normal\")), Typesetting:-mi(\"\")), Typesetting:-mo(
+\"&minus;\", mathvariant = \"normal\", fence = \"false\", separator = \+
+\"false\", stretchy = \"false\", symmetric = \"false\", largeop = \"fa
+lse\", movablelimits = \"false\", accent = \"false\", lspace = \"0.222
+2222em\", rspace = \"0.2222222em\"), Typesetting:-mn(\"1\", mathvarian
+t = \"normal\")), mathvariant = \"normal\"), Typesetting:-mo(\"&Invisi
+bleTimes;\", mathvariant = \"normal\", fence = \"false\", separator = \+
+\"false\", stretchy = \"false\", symmetric = \"false\", largeop = \"fa
+lse\", movablelimits = \"false\", accent = \"false\", lspace = \"0.0em
+\", rspace = \"0.0em\"), Typesetting:-mrow(Typesetting:-msup(Typesetti
+ng:-mfenced(Typesetting:-msub(Typesetting:-mi(\"c\", italic = \"true\"
+, mathvariant = \"italic\"), Typesetting:-mrow(Typesetting:-mn(\"0\", \+
+mathvariant = \"normal\"), Typesetting:-mo(\",\", mathvariant = \"norm
+al\", fence = \"false\", separator = \"true\", stretchy = \"false\", s
+ymmetric = \"false\", largeop = \"false\", movablelimits = \"false\", \+
+accent = \"false\", lspace = \"0.0em\", rspace = \"0.3333333em\"), Typ
+esetting:-mn(\"2\", mathvariant = \"normal\")), subscriptshift = \"0\"
+), mathvariant = \"normal\", Typesetting:-msemantics = \"abs\", open =
+ \"&verbar;\", close = \"&verbar;\", Typesetting:-msemantics = \"abs\"
+), Typesetting:-mn(\"2\", mathvariant = \"normal\"), superscriptshift \+
+= \"0\")), Typesetting:-mi(\"\")), Typesetting:-mrow(Typesetting:-mi(
+\"\"), Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetting:-mrow(Type
+setting:-mn(\"2\", mathvariant = \"normal\"), Typesetting:-mo(\"&Invis
+ibleTimes;\", mathvariant = \"normal\", fence = \"false\", separator =
+ \"false\", stretchy = \"false\", symmetric = \"false\", largeop = \"f
+alse\", movablelimits = \"false\", accent = \"false\", lspace = \"0.0e
+m\", rspace = \"0.0em\"), Typesetting:-mrow(Typesetting:-mi(\"cos\", i
+talic = \"false\", mathvariant = \"normal\"), Typesetting:-mo(\"&Apply
+Function;\", mathvariant = \"normal\", fence = \"false\", separator = \+
+\"false\", stretchy = \"false\", symmetric = \"false\", largeop = \"fa
+lse\", movablelimits = \"false\", accent = \"false\", lspace = \"0.0em
+\", rspace = \"0.0em\"), Typesetting:-mfenced(Typesetting:-mrow(Typese
+tting:-mi(\"&gamma;\", italic = \"false\", mathvariant = \"normal\")),
+ mathvariant = \"normal\")), Typesetting:-mi(\"\")), Typesetting:-mo(
+\"+\", mathvariant = \"normal\", fence = \"false\", separator = \"fals
+e\", stretchy = \"false\", symmetric = \"false\", largeop = \"false\",
+ movablelimits = \"false\", accent = \"false\", lspace = \"0.2222222em
+\", rspace = \"0.2222222em\"), Typesetting:-mn(\"1\", mathvariant = \"
+normal\")), Typesetting:-mi(\"\")), linethickness = \"1\", denomalign \+
+= \"center\", numalign = \"center\", bevelled = \"false\")), mathvaria
+nt = \"normal\")), Typesetting:-mrow(Typesetting:-mi(\"\"), Typesettin
+g:-mrow(Typesetting:-mi(\"\"), Typesetting:-mrow(Typesetting:-mi(\"cos
+\", italic = \"false\", mathvariant = \"normal\"), Typesetting:-mo(\"&
+ApplyFunction;\", mathvariant = \"normal\", fence = \"false\", separat
+or = \"false\", stretchy = \"false\", symmetric = \"false\", largeop =
+ \"false\", movablelimits = \"false\", accent = \"false\", lspace = \"
+0.0em\", rspace = \"0.0em\"), Typesetting:-mfenced(Typesetting:-mrow(T
+ypesetting:-mi(\"&gamma;\", italic = \"false\", mathvariant = \"normal
+\")), mathvariant = \"normal\")), Typesetting:-mo(\"&minus;\", mathvar
+iant = \"normal\", fence = \"false\", separator = \"false\", stretchy \+
+= \"false\", symmetric = \"false\", largeop = \"false\", movablelimits
+ = \"false\", accent = \"false\", lspace = \"0.2222222em\", rspace = \+
+\"0.2222222em\"), Typesetting:-mn(\"1\", mathvariant = \"normal\")), T
+ypesetting:-mi(\"\")), linethickness = \"1\", denomalign = \"center\",
+ numalign = \"center\", bevelled = \"false\")), Typesetting:-mi(\"\"))
+, Typesetting:-mi(\"\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI
+(_syslibGF'6%-I#miGF$6#Q!F'-F#6&-F,6%Q&&tau;F'/%'italicGQ&falseF'/%,ma
+thvariantGQ'normalF'-I#moGF$6-Q#:=F'F7/%&fenceGF6/%*separatorGF6/%)str
+etchyGF6/%*symmetricGF6/%(largeopGF6/%.movablelimitsGF6/%'accentGF6/%'
+lspaceGQ,0.2777778emF'/%'rspaceGFN-F#6&F+-F#6%-F,6%Q%&Im;F'F4F7-F;6-Q0
+&ApplyFunction;F'F7F>F@FBFDFFFHFJ/FMQ&0.0emF'/FPFfn-I(mfencedGF$6$-F#6
+#-I%msubGF$6%-F,6%Q\"cF'/F5Q%trueF'/F8Q'italicF'-F#6%-I#mnGF$6$Q\"2F'F
+7-F;6-Q\",F'F7F>/FAFdoFBFDFFFHFJFen/FPQ,0.3333333emF'-Fjo6$Q\"1F'F7/%/
+subscriptshiftGQ\"0F'F7-F;6-Q\"+F'F7F>F@FBFDFFFHFJ/FMQ,0.2222222emF'/F
+PF]q-I&mfracGF$6(-F#6&F+-F#6%-F,6%Q$sinF'F4F7FX-Fin6$-F#6#-F,6%Q(&gamm
+a;F'F4F7F7-F;6-Q1&InvisibleTimes;F'F7F>F@FBFDFFFHFJFenFgn-Fin6$-F#6&F+
+-F#6&-Fjo6$Q\"3F'F7F`r-F#6#-I%msupGF$6%-Fin6(-F^o6%F`o-F#6%FioF]p-Fjo6
+$FhpF7FfpF7/I+msemanticsGF$Q$absF'/%%openGQ)&verbar;F'/%&closeGF^tFisF
+io/%1superscriptshiftGFhpF+Fip-F`q6(-F#6&-Fin6$-F#6&F+-F#6&FioF`r-F#6%
+-F,6%Q$cosF'F4F7FXFiqF+-F;6-Q(&minus;F'F7F>F@FBFDFFFHFJF\\qF^qFcpF7F`r
+-F#6#-F_s6%-Fin6(-F^o6%F`o-F#6%FgsF]pFioFfpF7FisF\\tF_tFisFioFatF+-F#6
+%F+-F#6&F+F[uFipFcpF+/%.linethicknessGFep/%+denomalignGQ'centerF'/%)nu
+malignGFgv/%)bevelledGF6F7-F#6%F+-F#6&F+F]uFbuFcpF+FcvFevFhvFjvF+F+" }
+}{PARA 0 "" 0 "" {TEXT 214 0 "" }}{PARA 0 "" 0 "" {TEXT 214 2 "  " }
+{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetting:-m
+row(Typesetting:-mi(\"&tau;\", italic = \"false\", mathvariant = \"nor
+mal\"), Typesetting:-mo(\"=\", mathvariant = \"normal\", fence = \"fal
+se\", separator = \"false\", stretchy = \"false\", symmetric = \"false
+\", largeop = \"false\", movablelimits = \"false\", accent = \"false\"
+, lspace = \"0.2777778em\", rspace = \"0.2777778em\"), Typesetting:-mr
+ow(Typesetting:-mi(\"\"), Typesetting:-mrow(Typesetting:-mi(\"&Im;\", \+
+italic = \"false\", mathvariant = \"normal\"), Typesetting:-mo(\"&Appl
+yFunction;\", mathvariant = \"normal\", fence = \"false\", separator =
+ \"false\", stretchy = \"false\", symmetric = \"false\", largeop = \"f
+alse\", movablelimits = \"false\", accent = \"false\", lspace = \"0.0e
+m\", rspace = \"0.0em\"), Typesetting:-mfenced(Typesetting:-mrow(Types
+etting:-msub(Typesetting:-mi(\"c\", italic = \"true\", mathvariant = \+
+\"italic\"), Typesetting:-mrow(Typesetting:-mn(\"2\", mathvariant = \"
+normal\"), Typesetting:-mo(\",\", mathvariant = \"normal\", fence = \"
+false\", separator = \"true\", stretchy = \"false\", symmetric = \"fal
+se\", largeop = \"false\", movablelimits = \"false\", accent = \"false
+\", lspace = \"0.0em\", rspace = \"0.3333333em\"), Typesetting:-mn(\"1
+\", mathvariant = \"normal\")), subscriptshift = \"0\")), mathvariant \+
+= \"normal\")), Typesetting:-mo(\"+\", mathvariant = \"normal\", fence
+ = \"false\", separator = \"false\", stretchy = \"false\", symmetric =
+ \"false\", largeop = \"false\", movablelimits = \"false\", accent = \+
+\"false\", lspace = \"0.2222222em\", rspace = \"0.2222222em\"), Typese
+tting:-msub(Typesetting:-mi(\"e\", italic = \"true\", mathvariant = \"
+italic\"), Typesetting:-mrow(Typesetting:-mn(\"2\", mathvariant = \"no
+rmal\"), Typesetting:-mo(\",\", mathvariant = \"normal\", fence = \"fa
+lse\", separator = \"true\", stretchy = \"false\", symmetric = \"false
+\", largeop = \"false\", movablelimits = \"false\", accent = \"false\"
+, lspace = \"0.0em\", rspace = \"0.3333333em\"), Typesetting:-mn(\"0\"
+, mathvariant = \"normal\")), subscriptshift = \"0\"), Typesetting:-mo
+(\"+\", mathvariant = \"normal\", fence = \"false\", separator = \"fal
+se\", stretchy = \"false\", symmetric = \"false\", largeop = \"false\"
+, movablelimits = \"false\", accent = \"false\", lspace = \"0.2222222e
+m\", rspace = \"0.2222222em\"), Typesetting:-msub(Typesetting:-mi(\"e
+\", italic = \"true\", mathvariant = \"italic\"), Typesetting:-mrow(Ty
+pesetting:-mn(\"0\", mathvariant = \"normal\"), Typesetting:-mo(\",\",
+ mathvariant = \"normal\", fence = \"false\", separator = \"true\", st
+retchy = \"false\", symmetric = \"false\", largeop = \"false\", movabl
+elimits = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \+
+\"0.3333333em\"), Typesetting:-mn(\"2\", mathvariant = \"normal\")), s
+ubscriptshift = \"0\")), Typesetting:-mi(\"\")), Typesetting:-mi(\"\")
+);" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6%-I#miGF$6#
+Q!F'-F#6&-F,6%Q&&tau;F'/%'italicGQ&falseF'/%,mathvariantGQ'normalF'-I#
+moGF$6-Q\"=F'F7/%&fenceGF6/%*separatorGF6/%)stretchyGF6/%*symmetricGF6
+/%(largeopGF6/%.movablelimitsGF6/%'accentGF6/%'lspaceGQ,0.2777778emF'/
+%'rspaceGFN-F#6(F+-F#6%-F,6%Q%&Im;F'F4F7-F;6-Q0&ApplyFunction;F'F7F>F@
+FBFDFFFHFJ/FMQ&0.0emF'/FPFfn-I(mfencedGF$6$-F#6#-I%msubGF$6%-F,6%Q\"cF
+'/F5Q%trueF'/F8Q'italicF'-F#6%-I#mnGF$6$Q\"2F'F7-F;6-Q\",F'F7F>/FAFdoF
+BFDFFFHFJFen/FPQ,0.3333333emF'-Fjo6$Q\"1F'F7/%/subscriptshiftGQ\"0F'F7
+-F;6-Q\"+F'F7F>F@FBFDFFFHFJ/FMQ,0.2222222emF'/FPF]q-F^o6%-F,6%Q\"eF'Fc
+oFeo-F#6%FioF]p-Fjo6$FhpF7FfpFip-F^o6%Faq-F#6%FfqF]pFioFfpF+F+" }{TEXT
+ 214 2 ". " }}{PARA 0 "" 0 "" {TEXT 214 0 "" }}{SECT 0 {PARA 3 "" 0 ""
+ {TEXT 215 17 "e[0,2] and e[2,0]" }}{PARA 0 "" 0 "" {TEXT 214 10 "Term
+s in  " }{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-mi(\"\"), Types
+etting:-mrow(Typesetting:-msup(Typesetting:-mfenced(Typesetting:-msub(
+Typesetting:-mi(\"c\", italic = \"true\", mathvariant = \"italic\"), T
+ypesetting:-mrow(Typesetting:-mn(\"0\", mathvariant = \"normal\"), Typ
+esetting:-mo(\",\", mathvariant = \"normal\", fence = \"false\", separ
+ator = \"true\", stretchy = \"false\", symmetric = \"false\", largeop \+
+= \"false\", movablelimits = \"false\", accent = \"false\", lspace = \+
+\"0.0em\", rspace = \"0.3333333em\"), Typesetting:-mn(\"2\", mathvaria
+nt = \"normal\")), subscriptshift = \"0\"), mathvariant = \"normal\", \+
+Typesetting:-msemantics = \"abs\", open = \"&verbar;\", close = \"&ver
+bar;\", Typesetting:-msemantics = \"abs\"), Typesetting:-mn(\"2\", mat
+hvariant = \"normal\"), superscriptshift = \"0\")), Typesetting:-mi(\"
+\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6%-I#miGF
+$6#Q!F'-F#6#-I%msupGF$6%-I(mfencedGF$6(-I%msubGF$6%-F,6%Q\"cF'/%'itali
+cGQ%trueF'/%,mathvariantGQ'italicF'-F#6%-I#mnGF$6$Q\"0F'/FAQ'normalF'-
+I#moGF$6-Q\",F'FI/%&fenceGQ&falseF'/%*separatorGF?/%)stretchyGFQ/%*sym
+metricGFQ/%(largeopGFQ/%.movablelimitsGFQ/%'accentGFQ/%'lspaceGQ&0.0em
+F'/%'rspaceGQ,0.3333333emF'-FF6$Q\"2F'FI/%/subscriptshiftGFHFI/I+msema
+nticsGF$Q$absF'/%%openGQ)&verbar;F'/%&closeGFhoFcoF^o/%1superscriptshi
+ftGFHF+" }{TEXT 214 5 " and " }{XPPEDIT 18 0 "Typesetting:-mrow(Typese
+tting:-mi(\"\"), Typesetting:-mrow(Typesetting:-msup(Typesetting:-mfen
+ced(Typesetting:-msub(Typesetting:-mi(\"c\", italic = \"true\", mathva
+riant = \"italic\"), Typesetting:-mrow(Typesetting:-mn(\"2\", mathvari
+ant = \"normal\"), Typesetting:-mo(\",\", mathvariant = \"normal\", fe
+nce = \"false\", separator = \"true\", stretchy = \"false\", symmetric
+ = \"false\", largeop = \"false\", movablelimits = \"false\", accent =
+ \"false\", lspace = \"0.0em\", rspace = \"0.3333333em\"), Typesetting
+:-mn(\"0\", mathvariant = \"normal\")), subscriptshift = \"0\"), mathv
+ariant = \"normal\", Typesetting:-msemantics = \"abs\", open = \"&verb
+ar;\", close = \"&verbar;\", Typesetting:-msemantics = \"abs\"), Types
+etting:-mn(\"2\", mathvariant = \"normal\"), superscriptshift = \"0\")
+), Typesetting:-mi(\"\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingG
+I(_syslibGF'6%-I#miGF$6#Q!F'-F#6#-I%msupGF$6%-I(mfencedGF$6(-I%msubGF$
+6%-F,6%Q\"cF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'-F#6%-I#mnGF$6
+$Q\"2F'/FAQ'normalF'-I#moGF$6-Q\",F'FI/%&fenceGQ&falseF'/%*separatorGF
+?/%)stretchyGFQ/%*symmetricGFQ/%(largeopGFQ/%.movablelimitsGFQ/%'accen
+tGFQ/%'lspaceGQ&0.0emF'/%'rspaceGQ,0.3333333emF'-FF6$Q\"0F'FI/%/subscr
+iptshiftGF`oFI/I+msemanticsGF$Q$absF'/%%openGQ)&verbar;F'/%&closeGFhoF
+coFE/%1superscriptshiftGF`oF+" }{TEXT 214 6 "  in  " }{XPPEDIT 18 0 "T
+ypesetting:-mrow(Typesetting:-mi(\"&tau;\", italic = \"false\", mathva
+riant = \"normal\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_sy
+slibGF'6#-I#miGF$6%Q&&tau;F'/%'italicGQ&falseF'/%,mathvariantGQ'normal
+F'" }}{PARA 0 "" 0 "" {TEXT 214 0 "" }}{PARA 0 "" 0 "" {XPPEDIT 18 0 "
+Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetting:-mrow(Typesetting
+:-mi(\"\"), Typesetting:-mrow(Typesetting:-mi(\"I\", italic = \"true\"
+, mathvariant = \"italic\"), Typesetting:-mo(\"&InvisibleTimes;\", mat
+hvariant = \"normal\", fence = \"false\", separator = \"false\", stret
+chy = \"false\", symmetric = \"false\", largeop = \"false\", movableli
+mits = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0
+.0em\"), Typesetting:-mi(\"&tau;\", italic = \"false\", mathvariant = \+
+\"normal\")), Typesetting:-mo(\":=\", mathvariant = \"normal\", fence \+
+= \"false\", separator = \"false\", stretchy = \"false\", symmetric = \+
+\"false\", largeop = \"false\", movablelimits = \"false\", accent = \"
+false\", lspace = \"0.2777778em\", rspace = \"0.2777778em\"), Typesett
+ing:-mrow(Typesetting:-msub(Typesetting:-mi(\"c\", italic = \"true\", \+
+mathvariant = \"italic\"), Typesetting:-mrow(Typesetting:-mn(\"2\", ma
+thvariant = \"normal\"), Typesetting:-mo(\",\", mathvariant = \"normal
+\", fence = \"false\", separator = \"true\", stretchy = \"false\", sym
+metric = \"false\", largeop = \"false\", movablelimits = \"false\", ac
+cent = \"false\", lspace = \"0.0em\", rspace = \"0.3333333em\"), Types
+etting:-mn(\"1\", mathvariant = \"normal\")), subscriptshift = \"0\"),
+ Typesetting:-mo(\"+\", mathvariant = \"normal\", fence = \"false\", s
+eparator = \"false\", stretchy = \"false\", symmetric = \"false\", lar
+geop = \"false\", movablelimits = \"false\", accent = \"false\", lspac
+e = \"0.2222222em\", rspace = \"0.2222222em\"), Typesetting:-mrow(Type
+setting:-mn(\"2\", mathvariant = \"normal\"), Typesetting:-mo(\"&Invis
+ibleTimes;\", mathvariant = \"normal\", fence = \"false\", separator =
+ \"false\", stretchy = \"false\", symmetric = \"false\", largeop = \"f
+alse\", movablelimits = \"false\", accent = \"false\", lspace = \"0.0e
+m\", rspace = \"0.0em\"), Typesetting:-mfenced(Typesetting:-mrow(Types
+etting:-mfrac(Typesetting:-mrow(Typesetting:-msup(Typesetting:-mfenced
+(Typesetting:-msub(Typesetting:-mi(\"c\", italic = \"true\", mathvaria
+nt = \"italic\"), Typesetting:-mrow(Typesetting:-mn(\"2\", mathvariant
+ = \"normal\"), Typesetting:-mo(\",\", mathvariant = \"normal\", fence
+ = \"false\", separator = \"true\", stretchy = \"false\", symmetric = \+
+\"false\", largeop = \"false\", movablelimits = \"false\", accent = \"
+false\", lspace = \"0.0em\", rspace = \"0.3333333em\"), Typesetting:-m
+n(\"0\", mathvariant = \"normal\")), subscriptshift = \"0\"), mathvari
+ant = \"normal\", Typesetting:-msemantics = \"abs\", open = \"&verbar;
+\", close = \"&verbar;\", Typesetting:-msemantics = \"abs\"), Typesett
+ing:-mn(\"2\", mathvariant = \"normal\"), superscriptshift = \"0\"), T
+ypesetting:-mo(\"&InvisibleTimes;\", mathvariant = \"normal\", fence =
+ \"false\", separator = \"false\", stretchy = \"false\", symmetric = \+
+\"false\", largeop = \"false\", movablelimits = \"false\", accent = \"
+false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mfenced
+(Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetting:-mrow(Typesettin
+g:-mn(\"2\", mathvariant = \"normal\"), Typesetting:-mo(\"&InvisibleTi
+mes;\", mathvariant = \"normal\", fence = \"false\", separator = \"fal
+se\", stretchy = \"false\", symmetric = \"false\", largeop = \"false\"
+, movablelimits = \"false\", accent = \"false\", lspace = \"0.0em\", r
+space = \"0.0em\"), Typesetting:-mi(\"&mu;\", italic = \"false\", math
+variant = \"normal\")), Typesetting:-mo(\"+\", mathvariant = \"normal
+\", fence = \"false\", separator = \"false\", stretchy = \"false\", sy
+mmetric = \"false\", largeop = \"false\", movablelimits = \"false\", a
+ccent = \"false\", lspace = \"0.2222222em\", rspace = \"0.2222222em\")
+, Typesetting:-mn(\"1\", mathvariant = \"normal\")), mathvariant = \"n
+ormal\")), Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetting:-mrow(
+Typesetting:-mi(\"&mu;\", italic = \"false\", mathvariant = \"normal\"
+), Typesetting:-mo(\"&minus;\", mathvariant = \"normal\", fence = \"fa
+lse\", separator = \"false\", stretchy = \"false\", symmetric = \"fals
+e\", largeop = \"false\", movablelimits = \"false\", accent = \"false
+\", lspace = \"0.2222222em\", rspace = \"0.2222222em\"), Typesetting:-
+mn(\"1\", mathvariant = \"normal\")), Typesetting:-mi(\"\")), linethic
+kness = \"1\", denomalign = \"center\", numalign = \"center\", bevelle
+d = \"false\"), Typesetting:-mo(\"+\", mathvariant = \"normal\", fence
+ = \"false\", separator = \"false\", stretchy = \"false\", symmetric =
+ \"false\", largeop = \"false\", movablelimits = \"false\", accent = \+
+\"false\", lspace = \"0.2222222em\", rspace = \"0.2222222em\"), Typese
+tting:-mfrac(Typesetting:-mrow(Typesetting:-msup(Typesetting:-mfenced(
+Typesetting:-msub(Typesetting:-mi(\"c\", italic = \"true\", mathvarian
+t = \"italic\"), Typesetting:-mrow(Typesetting:-mn(\"0\", mathvariant \+
+= \"normal\"), Typesetting:-mo(\",\", mathvariant = \"normal\", fence \+
+= \"false\", separator = \"true\", stretchy = \"false\", symmetric = \+
+\"false\", largeop = \"false\", movablelimits = \"false\", accent = \"
+false\", lspace = \"0.0em\", rspace = \"0.3333333em\"), Typesetting:-m
+n(\"2\", mathvariant = \"normal\")), subscriptshift = \"0\"), mathvari
+ant = \"normal\", Typesetting:-msemantics = \"abs\", open = \"&verbar;
+\", close = \"&verbar;\", Typesetting:-msemantics = \"abs\"), Typesett
+ing:-mn(\"2\", mathvariant = \"normal\"), superscriptshift = \"0\")), \+
+Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetting:-mrow(Typesetting
+:-mi(\"\"), Typesetting:-mrow(Typesetting:-msup(Typesetting:-mi(\"&mu;
+\", italic = \"false\", mathvariant = \"normal\"), Typesetting:-mn(\"3
+\", mathvariant = \"normal\"), superscriptshift = \"0\")), Typesetting
+:-mo(\"&minus;\", mathvariant = \"normal\", fence = \"false\", separat
+or = \"false\", stretchy = \"false\", symmetric = \"false\", largeop =
+ \"false\", movablelimits = \"false\", accent = \"false\", lspace = \"
+0.2222222em\", rspace = \"0.2222222em\"), Typesetting:-mn(\"1\", mathv
+ariant = \"normal\")), Typesetting:-mi(\"\")), linethickness = \"1\", \+
+denomalign = \"center\", numalign = \"center\", bevelled = \"false\"))
+, mathvariant = \"normal\")), Typesetting:-mi(\"\")), Typesetting:-mi(
+\"\")), Typesetting:-mi(\"\"));" "-I%mrowG6#/I+modulenameG6\"I,Typeset
+tingGI(_syslibGF'6%-I#miGF$6#Q!F'-F#6'F+-F#6%-F,6%Q\"IF'/%'italicGQ%tr
+ueF'/%,mathvariantGQ'italicF'-I#moGF$6-Q1&InvisibleTimes;F'/F:Q'normal
+F'/%&fenceGQ&falseF'/%*separatorGFD/%)stretchyGFD/%*symmetricGFD/%(lar
+geopGFD/%.movablelimitsGFD/%'accentGFD/%'lspaceGQ&0.0emF'/%'rspaceGFS-
+F,6%Q&&tau;F'/F7FDF@-F=6-Q#:=F'F@FBFEFGFIFKFMFO/FRQ,0.2777778emF'/FUFh
+n-F#6&-I%msubGF$6%-F,6%Q\"cF'F6F9-F#6%-I#mnGF$6$Q\"2F'F@-F=6-Q\",F'F@F
+B/FFF8FGFIFKFMFOFQ/FUQ,0.3333333emF'-Feo6$Q\"1F'F@/%/subscriptshiftGQ
+\"0F'-F=6-Q\"+F'F@FBFEFGFIFKFMFO/FRQ,0.2222222emF'/FUFhp-F#6%FdoF<-I(m
+fencedGF$6$-F#6%-I&mfracGF$6(-F#6%-I%msupGF$6%-F]q6(-F]o6%F_o-F#6%FdoF
+ho-Feo6$FcpF@FapF@/I+msemanticsGF$Q$absF'/%%openGQ)&verbar;F'/%&closeG
+FfrFarFdo/%1superscriptshiftGFcpF<-F]q6$-F#6&F+-F#6%FdoF<-F,6%Q%&mu;F'
+FYF@FdpF^pF@-F#6%F+-F#6%Fas-F=6-Q(&minus;F'F@FBFEFGFIFKFMFOFgpFipF^pF+
+/%.linethicknessGF`p/%+denomalignGQ'centerF'/%)numalignGF_t/%)bevelled
+GFDFdp-Fbq6(-F#6#-Fgq6%-F]q6(-F]o6%F_o-F#6%F_rFhoFdoFapF@FarFdrFgrFarF
+doFir-F#6%F+-F#6&F+-F#6#-Fgq6%Fas-Feo6$Q\"3F'F@FirFhsF^pF+F[tF]tF`tFbt
+F@F+F+F+" }}{PARA 0 "" 0 "" {TEXT 214 0 "" }}{EXCHG {PARA 0 "" 1 "" 
+{TEXT 210 61 "In order to simplify the calculus we will use the fact t
+hat  " }{XPPMATH 18 "6#%$tauG" }{TEXT 210 32 " must be  real (area pre
+serving)" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 9 "restart:\n" }
+{MPLTEXT 1 0 38 "define_mu:=mu=cos(gamma)+I*sin(gamma);" }}{PARA 11 ""
+ 1 "" {XPPMATH 20 "/I#muG6\",&-I$cosG6$%*protectedGI(_syslibGF$6#I&gam
+maGF)\"\"\"*&^#F-F--I$sinGF(F+F-F-" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 78 "tau:= (1/I)*(c[2,1]+2*(abs(c[2,0])^2*(2*mu+1)/(mu-1)+
+abs(c[0,2])^2/(mu^3-1)));" }}{PARA 11 "" 1 "" {XPPMATH 20 ",$*&,$^#\"
+\"\"F&F&,(&I\"cG6\"6$\"\"#F&F&**F,F&)-I$absG%*protectedG6#&F)6$F,\"\"!
+F,F&,&*&F,F&I#muGF*F&F&F&F&F&,&F8F&F&!\"\"F:F&*(F,F&)-F06#&F)6$F5F,F,F
+&,&*$)F8\"\"$F&F&F&F:F:F&F&F:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 29 "B1:=coeff(tau,abs(c[2,0]),2);" }}{PARA 11 "" 1 "" {XPPMATH 20 ",
+$*(,$*&\"\"#\"\"\"^#F'F'F'F',&*&F&F'I#muG6\"F'F'F'F'F',&F+F'F'!\"\"F.F
+." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 44 "B1:=simplify(evalc(Re(
+subs(define_mu,B1))))\n" }{MPLTEXT 1 0 44 "+I*simplify(evalc(Im(subs(d
+efine_mu ,B1))));" }}{PARA 11 "" 1 "" {XPPMATH 20 ",&*(\"\"$\"\"\"-I$s
+inG6$%*protectedGI(_syslibG6\"6#I&gammaGF)F%,&-I$cosGF(F,F%F%!\"\"F1F%
+^#F%F1" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 29 "B2:=coeff(tau,abs
+(c[0,2]),2);" }}{PARA 11 "" 1 "" {XPPMATH 20 ",$*&,$*&\"\"#\"\"\"^#F'F
+'F'F',&*$)I#muG6\"\"\"$F'F'F'!\"\"F/F/" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 52 "B2:=factor(simplify(evalc(Re(subs(define_mu,B2)))))\n
+" }{MPLTEXT 1 0 51 "        +I*simplify(evalc(Im(subs(define_mu,B2))))
+;" }}{PARA 11 "" 1 "" {XPPMATH 20 ",&**,&-I$cosG6$%*protectedGI(_sysli
+bG6\"6#I&gammaGF(\"\"\"F-F-F-,&*&\"\"#F-F%F-F-F-!\"\"F-,&F/F-F-F-F1-I$
+sinGF'F+F1F1^#F-F-" }}}{EXCHG {PARA 0 "" 1 "" {TEXT 210 3 "So " }
+{XPPMATH 18 "6#%$tauG" }{TEXT 210 20 " can be rewritten as" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 53 "X:= (-I*c[2,1]+(B1*abs(c[2,0])^2+B2
+*abs(c[0,2])^2)):\n" }{MPLTEXT 1 0 33 "simplify(X-subs(define_mu,tau))
+;\n" }{MPLTEXT 1 0 145 "X:= -I*(c[2,1]+(abs(c[2,0])^2-abs(c[0,2])^2)+I
+*(sin(gamma)/(cos(gamma)-1))*(3*abs(c[2,0])^2+((2*cos(gamma)-1)/(2*cos
+(gamma)+1))*abs(c[0,2])^2)):\n" }{MPLTEXT 1 0 33 "simplify(X-subs(defi
+ne_mu,tau));\n" }{MPLTEXT 1 0 6 "tau:=\n" }{MPLTEXT 1 0 141 "-I*(c[2,1
+]+(abs(c[2,0])^2-abs(c[0,2])^2)+I*(sin(gamma)/(cos(gamma)-1))*(3*abs(c
+[2,0])^2+((2*cos(gamma)-1)/(2*cos(gamma)+1))*abs(c[0,2])^2)); " }}
+{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}{PARA 11 "" 1 "" {XPPMATH 20 "
+\"\"!" }}{PARA 11 "" 1 "" {XPPMATH 20 ",$*&,$^#\"\"\"F&F&,*&I\"cG6\"6$
+\"\"#F&F&*$)-I$absG%*protectedG6#&F)6$F,\"\"!F,F&F&*$)-F06#&F)6$F5F,F,
+F&!\"\"**F%F&-I$sinG6$F1I(_syslibGF*6#I&gammaGF1F&,&-I$cosGF@FBF&F&F<F
+<,&*&\"\"$F&F.F&F&*(,&*&F,F&FEF&F&F&F<F&,&FLF&F&F&F<F7F&F&F&F&F&F<" }}
+}{PARA 0 "" 0 "" {TEXT 214 4 "As  " }{XPPEDIT 18 0 "Typesetting:-mrow(
+Typesetting:-mi(\"&tau;\", italic = \"false\", mathvariant = \"normal
+\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6#-I#miGF
+$6%Q&&tau;F'/%'italicGQ&falseF'/%,mathvariantGQ'normalF'" }{TEXT 214 
+24 " must be real we have:  " }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+32 "tau:=Im(c[2,1])-coeff(tau,I,2);\n" }{MPLTEXT 1 0 49 "eqreal:=Re(c[
+2,1])+abs(c[2,0])^2-abs(c[0,2])^2=0;" }}{PARA 11 "" 1 "" {XPPMATH 20 "
+,&-I#ImG%*protectedG6#&I\"cG6\"6$\"\"#\"\"\"F,*(-I$sinG6$F%I(_syslibGF
+)6#I&gammaGF%F,,&-I$cosGF0F2F,F,!\"\"F7,&*&\"\"$F,)-I$absGF%6#&F(6$F+
+\"\"!F+F,F,*(,&*&F+F,F5F,F,F,F7F,,&FDF,F,F,F7)-F=6#&F(6$FAF+F+F,F,F,F,
+" }}{PARA 11 "" 1 "" {XPPMATH 20 "/,(-I#ReG%*protectedG6#&I\"cG6\"6$\"
+\"#\"\"\"F-*$)-I$absGF&6#&F)6$F,\"\"!F,F-F-*$)-F16#&F)6$F5F,F,F-!\"\"F
+5" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 57 "define_gamma:=cos(gamm
+a)=a[1,0],sin(gamma)=b[1,0]/omega;\n" }{MPLTEXT 1 0 42 "define_omega:=
+omega=sqrt(-b[1,0]/a[0,1]);\n" }{MPLTEXT 1 0 40 "define_omega2:=omega^
+2=(-b[1,0]/a[0,1]);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6$/-I$cosG6$%*pro
+tectedGI(_syslibG6\"6#I&gammaGF'&I\"aGF)6$\"\"\"\"\"!/-I$sinGF&F**&&I
+\"bGF)F.F/I&omegaGF)!\"\"" }}{PARA 11 "" 1 "" {XPPMATH 20 "/I&omegaG6
+\"*$),$*&&I\"bGF$6$\"\"\"\"\"!F,&I\"aGF$6$F-F,!\"\"F1#F,\"\"#F," }}
+{PARA 11 "" 1 "" {XPPMATH 20 "/*$)I&omegaG6\"\"\"#\"\"\",$*&&I\"bGF&6$
+F(\"\"!F(&I\"aGF&6$F.F(!\"\"F2" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 6 "eq1:=\n" }{MPLTEXT 1 0 9 "a[1,0] = " }{MPLTEXT 1 0 98 "(k[1]*si
+n(L)-cos(L))*(k[0]*sin(L)-cos(L))+sin(L)*(k[1]*k[0]*sin(L)-k[1]*cos(L)
+-sin(L)-k[0]*cos(L))" }{MPLTEXT 1 0 2 ",\n" }{MPLTEXT 1 0 9 "a[0,1] = 
+" }{MPLTEXT 1 0 29 "2*sin(L)*(k[1]*sin(L)-cos(L))" }{MPLTEXT 1 0 2 ",
+\n" }{MPLTEXT 1 0 9 "b[1,0] = " }{MPLTEXT 1 0 74 "(2*(k[0]*sin(L)-cos(
+L)))*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))" }{MPLTEXT 1 0 
+2 ",\n" }{MPLTEXT 1 0 9 "b[0,1] = " }{MPLTEXT 1 0 98 "(k[1]*sin(L)-cos
+(L))*(k[0]*sin(L)-cos(L))+sin(L)*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-
+k[0]*cos(L))" }{MPLTEXT 1 0 1 ":" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 6 "
+eq2:=\n" }{MPLTEXT 1 0 7 "a[2,0]=" }{MPLTEXT 1 0 106 "-sin(L)*(cos(L)^
+2*k[0]^2+sin(2*L)*k[0]-cos(L)^2-k[0]^2)*(D(k))(s[1])+(D(k))(0)*sin(L)*
+(k[1]*sin(L)-cos(L))" }{MPLTEXT 1 0 2 ",\n" }{MPLTEXT 1 0 8 "a[1,1]= "
+ }{MPLTEXT 1 0 44 "2*(D(k))(s[1])*sin(L)^2*(k[0]*sin(L)-cos(L))" }
+{MPLTEXT 1 0 2 ",\n" }{MPLTEXT 1 0 8 "a[0,2]= " }{MPLTEXT 1 0 19 "sin(
+L)^3*D(k)(s[1])" }{MPLTEXT 1 0 2 ",\n" }{MPLTEXT 1 0 7 "b[2,0]=" }
+{MPLTEXT 1 0 540 "(2*cos(L)^4*k[0]^2*k[1]^2+4*sin(L)*cos(L)^3*k[0]^2*k
+[1]+4*sin(L)*cos(L)^3*k[0]*k[1]^2-2*cos(L)^4*k[0]^2-8*cos(L)^4*k[0]*k[
+1]-2*cos(L)^4*k[1]^2-4*cos(L)^2*k[0]^2*k[1]^2-4*sin(L)*cos(L)^3*k[0]-4
+*sin(L)*cos(L)^3*k[1]-4*cos(L)*k[0]^2*k[1]*sin(L)-4*cos(L)*k[0]*k[1]^2
+*sin(L)+2*cos(L)^4+2*cos(L)^2*k[0]^2+9*cos(L)^2*k[0]*k[1]+2*cos(L)^2*k
+[1]^2+2*k[0]^2*k[1]^2+sin(L)*cos(L)*k[0]+sin(L)*cos(L)*k[1]-cos(L)^2-k
+[0]*k[1])*(D(k))(0)+(-sin(L)*cos(L)^2*k[0]^3+3*cos(L)^3*k[0]^2+3*cos(L
+)^2*k[0]*sin(L)+sin(L)*k[0]^3-cos(L)^3-3*cos(L)*k[0]^2)*(D(k))(s[1])" 
+}{MPLTEXT 1 0 2 ",\n" }{MPLTEXT 1 0 7 "b[1,1]=" }{MPLTEXT 1 0 299 "-2*
+sin(L)*(2*sin(L)*cos(L)^2*k[0]*k[1]^2-4*cos(L)^3*k[0]*k[1]-2*cos(L)^3*
+k[1]^2-2*sin(L)*cos(L)^2*k[0]-4*sin(L)*cos(L)^2*k[1]-2*k[0]*k[1]^2*sin
+(L)+2*cos(L)^3+4*cos(L)*k[0]*k[1]+2*cos(L)*k[1]^2+k[1]*sin(L)-cos(L))*
+(D(k))(0)-2*sin(L)*(cos(L)^2*k[0]^2+2*sin(L)*cos(L)*k[0]-cos(L)^2-k[0]
+^2)*(D(k))(s[1])" }{MPLTEXT 1 0 1 "," }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 
+1 0 7 "b[0,2]=" }{MPLTEXT 1 0 120 "-2*sin(L)^2*(cos(L)^2*k[1]^2+2*sin(
+L)*cos(L)*k[1]-cos(L)^2-k[1]^2)*(D(k))(0)+(D(k))(s[1])*sin(L)^2*(k[0]*
+sin(L)-cos(L)):" }}}{PARA 0 "" 0 "" {TEXT 214 0 "" }}{PARA 0 "" 0 "" 
+{TEXT 214 14 "We will write " }{XPPEDIT 18 0 "Typesetting:-mrow(Typese
+tting:-mi(\"\"), Typesetting:-mrow(Typesetting:-mi(\"&tau;\", italic =
+ \"false\", mathvariant = \"normal\"), Typesetting:-mo(\"=\", mathvari
+ant = \"normal\", fence = \"false\", separator = \"false\", stretchy =
+ \"false\", symmetric = \"false\", largeop = \"false\", movablelimits \+
+= \"false\", accent = \"false\", lspace = \"0.2777778em\", rspace = \"
+0.2777778em\"), Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetting:-
+mrow(Typesetting:-mi(\"&Im;\", italic = \"false\", mathvariant = \"nor
+mal\"), Typesetting:-mo(\"&ApplyFunction;\", mathvariant = \"normal\",
+ fence = \"false\", separator = \"false\", stretchy = \"false\", symme
+tric = \"false\", largeop = \"false\", movablelimits = \"false\", acce
+nt = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-
+mfenced(Typesetting:-mrow(Typesetting:-msub(Typesetting:-mi(\"c\", ita
+lic = \"true\", mathvariant = \"italic\"), Typesetting:-mrow(Typesetti
+ng:-mn(\"2\", mathvariant = \"normal\"), Typesetting:-mo(\",\", mathva
+riant = \"normal\", fence = \"false\", separator = \"true\", stretchy \+
+= \"false\", symmetric = \"false\", largeop = \"false\", movablelimits
+ = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.333
+3333em\"), Typesetting:-mn(\"1\", mathvariant = \"normal\")), subscrip
+tshift = \"0\")), mathvariant = \"normal\")), Typesetting:-mo(\"+\", m
+athvariant = \"normal\", fence = \"false\", separator = \"false\", str
+etchy = \"false\", symmetric = \"false\", largeop = \"false\", movable
+limits = \"false\", accent = \"false\", lspace = \"0.2222222em\", rspa
+ce = \"0.2222222em\"), Typesetting:-mrow(Typesetting:-mi(\"C1\", itali
+c = \"true\", mathvariant = \"italic\"), Typesetting:-mo(\"&InvisibleT
+imes;\", mathvariant = \"normal\", fence = \"false\", separator = \"fa
+lse\", stretchy = \"false\", symmetric = \"false\", largeop = \"false
+\", movablelimits = \"false\", accent = \"false\", lspace = \"0.0em\",
+ rspace = \"0.0em\"), Typesetting:-mrow(Typesetting:-msup(Typesetting:
+-mfenced(Typesetting:-msub(Typesetting:-mi(\"c\", italic = \"true\", m
+athvariant = \"italic\"), Typesetting:-mrow(Typesetting:-mn(\"2\", mat
+hvariant = \"normal\"), Typesetting:-mo(\",\", mathvariant = \"normal
+\", fence = \"false\", separator = \"true\", stretchy = \"false\", sym
+metric = \"false\", largeop = \"false\", movablelimits = \"false\", ac
+cent = \"false\", lspace = \"0.0em\", rspace = \"0.3333333em\"), Types
+etting:-mn(\"0\", mathvariant = \"normal\")), subscriptshift = \"0\"),
+ mathvariant = \"normal\", Typesetting:-msemantics = \"abs\", open = \+
+\"&verbar;\", close = \"&verbar;\", Typesetting:-msemantics = \"abs\")
+, Typesetting:-mn(\"2\", mathvariant = \"normal\"), superscriptshift =
+ \"0\")), Typesetting:-mi(\"\")), Typesetting:-mo(\"+\", mathvariant =
+ \"normal\", fence = \"false\", separator = \"false\", stretchy = \"fa
+lse\", symmetric = \"false\", largeop = \"false\", movablelimits = \"f
+alse\", accent = \"false\", lspace = \"0.2222222em\", rspace = \"0.222
+2222em\"), Typesetting:-mrow(Typesetting:-mi(\"C2\", italic = \"true\"
+, mathvariant = \"italic\"), Typesetting:-mo(\"&InvisibleTimes;\", mat
+hvariant = \"normal\", fence = \"false\", separator = \"false\", stret
+chy = \"false\", symmetric = \"false\", largeop = \"false\", movableli
+mits = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0
+.0em\"), Typesetting:-mrow(Typesetting:-msup(Typesetting:-mfenced(Type
+setting:-msub(Typesetting:-mi(\"c\", italic = \"true\", mathvariant = \+
+\"italic\"), Typesetting:-mrow(Typesetting:-mn(\"0\", mathvariant = \"
+normal\"), Typesetting:-mo(\",\", mathvariant = \"normal\", fence = \"
+false\", separator = \"true\", stretchy = \"false\", symmetric = \"fal
+se\", largeop = \"false\", movablelimits = \"false\", accent = \"false
+\", lspace = \"0.0em\", rspace = \"0.3333333em\"), Typesetting:-mn(\"2
+\", mathvariant = \"normal\")), subscriptshift = \"0\"), mathvariant =
+ \"normal\", Typesetting:-msemantics = \"abs\", open = \"&verbar;\", c
+lose = \"&verbar;\", Typesetting:-msemantics = \"abs\"), Typesetting:-
+mn(\"2\", mathvariant = \"normal\"), superscriptshift = \"0\")), Types
+etting:-mi(\"\")), Typesetting:-mi(\"\")), Typesetting:-mi(\"\")), Typ
+esetting:-mi(\"\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_sys
+libGF'6%-I#miGF$6#Q!F'-F#6&-F,6%Q&&tau;F'/%'italicGQ&falseF'/%,mathvar
+iantGQ'normalF'-I#moGF$6-Q\"=F'F7/%&fenceGF6/%*separatorGF6/%)stretchy
+GF6/%*symmetricGF6/%(largeopGF6/%.movablelimitsGF6/%'accentGF6/%'lspac
+eGQ,0.2777778emF'/%'rspaceGFN-F#6)F+-F#6%-F,6%Q%&Im;F'F4F7-F;6-Q0&Appl
+yFunction;F'F7F>F@FBFDFFFHFJ/FMQ&0.0emF'/FPFfn-I(mfencedGF$6$-F#6#-I%m
+subGF$6%-F,6%Q\"cF'/F5Q%trueF'/F8Q'italicF'-F#6%-I#mnGF$6$Q\"2F'F7-F;6
+-Q\",F'F7F>/FAFdoFBFDFFFHFJFen/FPQ,0.3333333emF'-Fjo6$Q\"1F'F7/%/subsc
+riptshiftGQ\"0F'F7-F;6-Q\"+F'F7F>F@FBFDFFFHFJ/FMQ,0.2222222emF'/FPF]q-
+F#6&-F,6%Q#C1F'FcoFeo-F;6-Q1&InvisibleTimes;F'F7F>F@FBFDFFFHFJFenFgn-F
+#6#-I%msupGF$6%-Fin6(-F^o6%F`o-F#6%FioF]p-Fjo6$FhpF7FfpF7/I+msemantics
+GF$Q$absF'/%%openGQ)&verbar;F'/%&closeGFirFdrFio/%1superscriptshiftGFh
+pF+Fip-F#6&-F,6%Q#C2F'FcoFeoFdq-F#6#-Fjq6%-Fin6(-F^o6%F`o-F#6%FbrF]pFi
+oFfpF7FdrFgrFjrFdrFioF\\sF+F+F+F+" }{TEXT 214 1 "\n" }{TEXT 214 27 "  \+
+                         " }{XPPEDIT 18 0 "Typesetting:-mrow(Typesetti
+ng:-mi(\"\"), Typesetting:-mrow(Typesetting:-mi(\"&tau;\", italic = \"
+false\", mathvariant = \"normal\"), Typesetting:-mo(\"=\", mathvariant
+ = \"normal\", fence = \"false\", separator = \"false\", stretchy = \"
+false\", symmetric = \"false\", largeop = \"false\", movablelimits = \+
+\"false\", accent = \"false\", lspace = \"0.2777778em\", rspace = \"0.
+2777778em\"), Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetting:-mr
+ow(Typesetting:-mi(\"&Im;\", italic = \"false\", mathvariant = \"norma
+l\"), Typesetting:-mo(\"&ApplyFunction;\", mathvariant = \"normal\", f
+ence = \"false\", separator = \"false\", stretchy = \"false\", symmetr
+ic = \"false\", largeop = \"false\", movablelimits = \"false\", accent
+ = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mf
+enced(Typesetting:-mrow(Typesetting:-msub(Typesetting:-mi(\"c\", itali
+c = \"true\", mathvariant = \"italic\"), Typesetting:-mrow(Typesetting
+:-mn(\"2\", mathvariant = \"normal\"), Typesetting:-mo(\",\", mathvari
+ant = \"normal\", fence = \"false\", separator = \"true\", stretchy = \+
+\"false\", symmetric = \"false\", largeop = \"false\", movablelimits =
+ \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.33333
+33em\"), Typesetting:-mn(\"1\", mathvariant = \"normal\")), subscripts
+hift = \"0\")), mathvariant = \"normal\")), Typesetting:-mo(\"+\", mat
+hvariant = \"normal\", fence = \"false\", separator = \"false\", stret
+chy = \"false\", symmetric = \"false\", largeop = \"false\", movableli
+mits = \"false\", accent = \"false\", lspace = \"0.2222222em\", rspace
+ = \"0.2222222em\"), Typesetting:-msub(Typesetting:-mi(\"e\", italic =
+ \"true\", mathvariant = \"italic\"), Typesetting:-mrow(Typesetting:-m
+n(\"2\", mathvariant = \"normal\"), Typesetting:-mo(\",\", mathvariant
+ = \"normal\", fence = \"false\", separator = \"true\", stretchy = \"f
+alse\", symmetric = \"false\", largeop = \"false\", movablelimits = \"
+false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.3333333e
+m\"), Typesetting:-mn(\"0\", mathvariant = \"normal\")), subscriptshif
+t = \"0\"), Typesetting:-mo(\"+\", mathvariant = \"normal\", fence = \+
+\"false\", separator = \"false\", stretchy = \"false\", symmetric = \"
+false\", largeop = \"false\", movablelimits = \"false\", accent = \"fa
+lse\", lspace = \"0.2222222em\", rspace = \"0.2222222em\"), Typesettin
+g:-msub(Typesetting:-mi(\"e\", italic = \"true\", mathvariant = \"ital
+ic\"), Typesetting:-mrow(Typesetting:-mn(\"0\", mathvariant = \"normal
+\"), Typesetting:-mo(\",\", mathvariant = \"normal\", fence = \"false
+\", separator = \"true\", stretchy = \"false\", symmetric = \"false\",
+ largeop = \"false\", movablelimits = \"false\", accent = \"false\", l
+space = \"0.0em\", rspace = \"0.3333333em\"), Typesetting:-mn(\"2\", m
+athvariant = \"normal\")), subscriptshift = \"0\")), Typesetting:-mi(
+\"\")), Typesetting:-mi(\"\"));" "-I%mrowG6#/I+modulenameG6\"I,Typeset
+tingGI(_syslibGF'6%-I#miGF$6#Q!F'-F#6&-F,6%Q&&tau;F'/%'italicGQ&falseF
+'/%,mathvariantGQ'normalF'-I#moGF$6-Q\"=F'F7/%&fenceGF6/%*separatorGF6
+/%)stretchyGF6/%*symmetricGF6/%(largeopGF6/%.movablelimitsGF6/%'accent
+GF6/%'lspaceGQ,0.2777778emF'/%'rspaceGFN-F#6(F+-F#6%-F,6%Q%&Im;F'F4F7-
+F;6-Q0&ApplyFunction;F'F7F>F@FBFDFFFHFJ/FMQ&0.0emF'/FPFfn-I(mfencedGF$
+6$-F#6#-I%msubGF$6%-F,6%Q\"cF'/F5Q%trueF'/F8Q'italicF'-F#6%-I#mnGF$6$Q
+\"2F'F7-F;6-Q\",F'F7F>/FAFdoFBFDFFFHFJFen/FPQ,0.3333333emF'-Fjo6$Q\"1F
+'F7/%/subscriptshiftGQ\"0F'F7-F;6-Q\"+F'F7F>F@FBFDFFFHFJ/FMQ,0.2222222
+emF'/FPF]q-F^o6%-F,6%Q\"eF'FcoFeo-F#6%FioF]p-Fjo6$FhpF7FfpFip-F^o6%Faq
+-F#6%FfqF]pFioFfpF+F+" }{TEXT 214 4 "    " }}{PARA 0 "" 0 "" {TEXT 
+214 12 "Calculus of " }{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-m
+i(\"\"), Typesetting:-mrow(Typesetting:-msub(Typesetting:-mi(\"e\", it
+alic = \"true\", mathvariant = \"italic\"), Typesetting:-mrow(Typesett
+ing:-mn(\"0\", mathvariant = \"normal\"), Typesetting:-mo(\",\", mathv
+ariant = \"normal\", fence = \"false\", separator = \"true\", stretchy
+ = \"false\", symmetric = \"false\", largeop = \"false\", movablelimit
+s = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.33
+33333em\"), Typesetting:-mn(\"2\", mathvariant = \"normal\")), subscri
+ptshift = \"0\"), Typesetting:-mo(\"=\", mathvariant = \"normal\", fen
+ce = \"false\", separator = \"false\", stretchy = \"false\", symmetric
+ = \"false\", largeop = \"false\", movablelimits = \"false\", accent =
+ \"false\", lspace = \"0.2777778em\", rspace = \"0.2777778em\"), Types
+etting:-mrow(Typesetting:-mi(\"C2\", italic = \"true\", mathvariant = \+
+\"italic\"), Typesetting:-mo(\"&InvisibleTimes;\", mathvariant = \"nor
+mal\", fence = \"false\", separator = \"false\", stretchy = \"false\",
+ symmetric = \"false\", largeop = \"false\", movablelimits = \"false\"
+, accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typeset
+ting:-mrow(Typesetting:-msubsup(Typesetting:-mi(\"c\", italic = \"true
+\", mathvariant = \"italic\"), Typesetting:-mrow(Typesetting:-mn(\"0\"
+, mathvariant = \"normal\"), Typesetting:-mo(\",\", mathvariant = \"no
+rmal\", fence = \"false\", separator = \"true\", stretchy = \"false\",
+ symmetric = \"false\", largeop = \"false\", movablelimits = \"false\"
+, accent = \"false\", lspace = \"0.0em\", rspace = \"0.3333333em\"), T
+ypesetting:-mn(\"2\", mathvariant = \"normal\")), Typesetting:-mn(\"2
+\", mathvariant = \"normal\"), superscriptshift = \"0\", subscriptshif
+t = \"0\")), Typesetting:-mi(\"\")), Typesetting:-mi(\"\")), Typesetti
+ng:-mi(\"\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'
+6%-I#miGF$6#Q!F'-F#6&-I%msubGF$6%-F,6%Q\"eF'/%'italicGQ%trueF'/%,mathv
+ariantGQ'italicF'-F#6%-I#mnGF$6$Q\"0F'/F;Q'normalF'-I#moGF$6-Q\",F'FC/
+%&fenceGQ&falseF'/%*separatorGF9/%)stretchyGFK/%*symmetricGFK/%(largeo
+pGFK/%.movablelimitsGFK/%'accentGFK/%'lspaceGQ&0.0emF'/%'rspaceGQ,0.33
+33333emF'-F@6$Q\"2F'FC/%/subscriptshiftGFB-FF6-Q\"=F'FCFI/FMFKFNFPFRFT
+FV/FYQ,0.2777778emF'/FfnFbo-F#6&-F,6%Q#C2F'F7F:-FF6-Q1&InvisibleTimes;
+F'FCFIF`oFNFPFRFTFVFX/FfnFZ-F#6#-I(msubsupGF$6'-F,6%Q\"cF'F7F:F=Fhn/%1
+superscriptshiftGFBF[oF+F+F+" }{TEXT 214 6 "  in  " }{XPPEDIT 18 0 "Ty
+pesetting:-mrow(Typesetting:-mi(\"&tau;\", italic = \"false\", mathvar
+iant = \"normal\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_sys
+libGF'6#-I#miGF$6%Q&&tau;F'/%'italicGQ&falseF'/%,mathvariantGQ'normalF
+'" }{TEXT 214 4 " .  " }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 31 "C2:
+= coeff(tau,abs(c[0,2]),2);\n" }{MPLTEXT 1 0 50 "C2:= subs(define_gamm
+a,coeff(tau,abs(c[0,2]),2));\n" }}{PARA 11 "" 1 "" {XPPMATH 20 "**-I$s
+inG6$%*protectedGI(_syslibG6\"6#I&gammaGF&\"\"\",&*&\"\"#F+-I$cosGF%F)
+F+F+F+!\"\"F+,&F-F+F+F+F1,&F/F+F+F1F1" }}{PARA 11 "" 1 "" {XPPMATH 20 
+"*,&I\"bG6\"6$\"\"\"\"\"!F'I&omegaGF%!\"\",&*&\"\"#F'&I\"aGF%F&F'F'F'F
+*F',&F,F'F'F'F*,&F.F'F'F*F*" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 214 15 "F
+rom worksheet " }{HYPERLNK 17 "2Complex" 1 "2Complex.mws" "" }{TEXT 
+214 27 " we have the expression of " }{XPPEDIT 18 0 "Typesetting:-mrow
+(Typesetting:-mi(\"\"), Typesetting:-mrow(Typesetting:-mi(\"\"), Types
+etting:-mrow(Typesetting:-msup(Typesetting:-mfenced(Typesetting:-msub(
+Typesetting:-mi(\"g\", italic = \"true\", mathvariant = \"italic\"), T
+ypesetting:-mrow(Typesetting:-mn(\"0\", mathvariant = \"normal\"), Typ
+esetting:-mo(\",\", mathvariant = \"normal\", fence = \"false\", separ
+ator = \"true\", stretchy = \"false\", symmetric = \"false\", largeop \+
+= \"false\", movablelimits = \"false\", accent = \"false\", lspace = \+
+\"0.0em\", rspace = \"0.3333333em\"), Typesetting:-mn(\"2\", mathvaria
+nt = \"normal\")), subscriptshift = \"0\"), mathvariant = \"normal\", \+
+Typesetting:-msemantics = \"abs\", open = \"&verbar;\", close = \"&ver
+bar;\", Typesetting:-msemantics = \"abs\"), Typesetting:-mn(\"2\", mat
+hvariant = \"normal\"), superscriptshift = \"0\")), Typesetting:-mo(\"
+=\", mathvariant = \"normal\", fence = \"false\", separator = \"false
+\", stretchy = \"false\", symmetric = \"false\", largeop = \"false\", \+
+movablelimits = \"false\", accent = \"false\", lspace = \"0.2777778em
+\", rspace = \"0.2777778em\"), Typesetting:-mrow(Typesetting:-msup(Typ
+esetting:-mfenced(Typesetting:-msub(Typesetting:-mi(\"c\", italic = \"
+true\", mathvariant = \"italic\"), Typesetting:-mrow(Typesetting:-mn(
+\"0\", mathvariant = \"normal\"), Typesetting:-mo(\",\", mathvariant =
+ \"normal\", fence = \"false\", separator = \"true\", stretchy = \"fal
+se\", symmetric = \"false\", largeop = \"false\", movablelimits = \"fa
+lse\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.3333333em
+\"), Typesetting:-mn(\"2\", mathvariant = \"normal\")), subscriptshift
+ = \"0\"), mathvariant = \"normal\", Typesetting:-msemantics = \"abs\"
+, open = \"&verbar;\", close = \"&verbar;\", Typesetting:-msemantics =
+ \"abs\"), Typesetting:-mn(\"2\", mathvariant = \"normal\"), superscri
+ptshift = \"0\")), Typesetting:-mi(\"\")), Typesetting:-mi(\"\"));" "-
+I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6%-I#miGF$6#Q!F'-F
+#6'F+-F#6#-I%msupGF$6%-I(mfencedGF$6(-I%msubGF$6%-F,6%Q\"gF'/%'italicG
+Q%trueF'/%,mathvariantGQ'italicF'-F#6%-I#mnGF$6$Q\"0F'/FCQ'normalF'-I#
+moGF$6-Q\",F'FK/%&fenceGQ&falseF'/%*separatorGFA/%)stretchyGFS/%*symme
+tricGFS/%(largeopGFS/%.movablelimitsGFS/%'accentGFS/%'lspaceGQ&0.0emF'
+/%'rspaceGQ,0.3333333emF'-FH6$Q\"2F'FK/%/subscriptshiftGFJFK/I+msemant
+icsGF$Q$absF'/%%openGQ)&verbar;F'/%&closeGFjoFeoF`o/%1superscriptshift
+GFJ-FN6-Q\"=F'FKFQ/FUFSFVFXFZFfnFhn/F[oQ,0.2777778emF'/F^oFdp-F#6#-F46
+%-F76(-F:6%-F,6%Q\"cF'F?FBFEFcoFKFeoFhoF[pFeoF`oF]pF+F+" }{TEXT 214 2 
+" :" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 114 "g[0,2] := 1/4*(omeg
+a*a[2,0]+I*omega^2*a[1,1]-omega^3*a[0,2]+I*b[2,0]-b[1,1]*omega-I*b[0,2
+]*omega^2)/(omega^(3/2));" }}{PARA 11 "" 1 "" {XPPMATH 20 ",$*(#\"\"\"
+\"\"%F%,.*&I&omegaG6\"F%&I\"aGF*6$\"\"#\"\"!F%F%*(^#F%F%)F)F.F%&F,6$F%
+F%F%F%*&)F)\"\"$F%&F,6$F/F.F%!\"\"*&F1F%&I\"bGF*F-F%F%*&&F=F4F%F)F%F:*
+(,$F1F%F%&F=F9F%F2F%F:F%)F)#F7F.F:F%" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 111 "eqc02:=abs(c[0,2])^2=1/(16*omega)*(a[2,0]-b[1,1]-ome
+ga^2*a[0,2])^2+(omega)/16*(b[2,0]/omega^2-b[0,2]+a[1,1])^2;" }{TEXT 
+214 1 "\n" }{MPLTEXT 1 0 84 "simplify(subs(eqc02,abs(c[0,2])^2-simplif
+y(evalc(abs(g[0,2])^2),assume=positive)));\n" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "/*$)-I$absG%*protectedG6#&I\"cG6\"6$\"\"!\"\"#F.\"\"\",&*
+(#F/\"#;F/I&omegaGF+!\"\"),(*&)F4F.F/&I\"aGF+F,F/F5&F;6$F.F-F/&I\"bGF+
+6$F/F/F5F.F/F/*(F2F/F4F/),(*&&F?F=F/F9F5F/&F?F,F5&F;F@F/F.F/F/" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 38 "e[0,2]:=subs(eqc02,C2*abs(c[0,2])^2);\n" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "*.&I\"bG6\"6$\"\"\"\"\"!F'I&omegaGF%!\"\",&*&\"\"#
+F'&I\"aGF%F&F'F'F'F*F',&F,F'F'F'F*,&F.F'F'F*F*,&*(#F'\"#;F'F)F*),(*&)F
+)F-F'&F/6$F(F-F'F*&F/6$F-F(F'&F$6$F'F'F*F-F'F'*(F4F'F)F'),(*&&F$F=F'F9
+F*F'&F$F;F*&F/F?F'F-F'F'F'" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+133 "X := (2*a[1,0]-1)*b[1,0]*((a[2,0]-b[1,1]-omega^2*a[0,2])^2/omega^
+2+(b[2,0]/(omega^2)-b[0,2]+a[1,1])^2)/(16*(2*a[1,0]+1)*(a[1,0]-1)):\n"
+ }{MPLTEXT 1 0 20 "simplify(X-e[0,2]):\n" }{MPLTEXT 1 0 141 "e[0,2]:= \+
+1/16*(2*a[1,0]-1)*b[1,0]*((a[2,0]-b[1,1]-omega^2*a[0,2])^2/(omega^2)+(
+b[2,0]/(omega^2)-b[0,2]+a[1,1])^2)/((2*a[1,0]+1)*(a[1,0]-1));\n" }}
+{PARA 11 "" 1 "" {XPPMATH 20 ",$*.#\"\"\"\"#;F%,&*&\"\"#F%&I\"aG6\"6$F
+%\"\"!F%F%F%!\"\"F%&I\"bGF,F-F%,&*&),(*&)I&omegaGF,F)F%&F+6$F.F)F%F/&F
++6$F)F.F%&F16$F%F%F/F)F%F7F/F%*$),(*&&F1F<F%F7F/F%&F1F:F/&F+F>F%F)F%F%
+F%,&F(F%F%F%F/,&F*F%F%F/F/F%" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 48 "e[0,2]:=subs(eq1,eq2,subs(define_omega,e[0,2])):" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 39 "E00:=simplify(coeff(e[0,2],D(k)(0),
+2));" }}{PARA 11 "" 1 "" {XPPMATH 20 ",$*(#\"\"\"\"#;F%,`[l**\"$?(F%)-
+I$cosG6$%*protectedGI(_syslibG6\"6#I\"LGF0\"\"%F%)&I\"kGF06#\"\"!\"\"#
+F%&F66#F%F%F%**\"%wTF%F*F%F5F%)F:F9F%F%**\"%S9F%)F+F9F%F4F%)F:\"\"$F%F
+%**\"$['F%FAF%F5F%F>F%!\"\"*,\"%s=F%)F+\"\"&F%-I$sinGF-F1F%F5F%F:F%FF*
+,\"$K%F%FKF%)F+FCF%F5F%F:F%F%**\"$W\"F%FIF%FKF%F4F%FF**\"%)3#F%FIF%FKF
+%F>F%FF**\"$H(F%FKF%FOF%F>F%F%*(\"%JBF%F*F%FBF%F%*(FQF%F4F%)F:FJF%F%*(
+\"$3\"F%F5F%)F:F3F%FF*(\"#kF%)F5FCF%)F:\"\"'F%FF*(\"$'RF%)F+F[oF%F5F%F
+%*(\"%_6F%F^oF%F:F%F%*(FenF%FIF%FKF%F%*(FenF%F*F%F5F%FF*(\"$8&F%F*F%F:
+F%FF*(\"#FF%FOF%FKF%FF*(\"#\")F%FAF%F:F%F%*&FfoF%FBF%F%*(\"$%QF%)F+\"#
+5F%FYF%F%*(FhnF%F\\pF%FinF%FF*(\"%!G\"F%F\\pF%FBF%FF*(\"%'H\"F%)F+\"\"
+)F%FYF%FF*(\"$#>F%F\\pF%F5F%F%*(F[pF%F\\pF%F:F%F%*(\"$G\"F%FcpF%FinF%F
+%*(\"%+SF%FcpF%FBF%F%*(\"%%e\"F%F^oF%FYF%F%*(FhnF%FKF%)F+\"\"*F%F%*(\"
+$![F%FcpF%F5F%FF*(\"%/6F%FcpF%F:F%FF*(FhnF%F^oF%FinF%FF*(\"%#f%F%F^oF%
+FBF%FF*(\"$;)F%F*F%FYF%FF*(FQF%FKF%)F+\"\"(F%FF*(FQF%FAF%FYF%F%*(\"$'[
+F%FAF%FBF%FF**\"&Se\"F%F^oF%F4F%FBF%F%**\"&oI\"F%F^oF%F5F%FfnF%F%**\"%
+SQF%F*F%FinF%FfnF%F%**\"%saF%F*F%F4F%FYF%F%**\"$o(F%F*F%F5F%FjnF%F%**
+\"$?$F%FAF%FinF%FjnF%F%**\"$O$F%FKF%F[rF%F4F%F%**\"%+CF%FKF%F[rF%F>F%F
+%**\"%3DF%FKF%FIF%FfnF%F%**FhnF%FKF%FOF%FjnF%F%**\"%#f#F%F^oF%F4F%F:F%
+FF**\"%)G*F%F^oF%F5F%F>F%FF**\"$g*F%F*F%FinF%F>F%FF**\"%g\")F%F*F%F4F%
+FBF%FF**\"%CvF%F*F%F5F%FfnF%FF**FhsF%FAF%FinF%FfnF%FF**\"%G<F%FAF%F4F%
+FYF%FF**FfpF%FAF%F5F%FjnF%FF**\"$O*F%FKF%FOF%FfnF%FF**\"%k<F%FAF%F5F%F
+fnF%F%**FenF%FKF%F+F%FfnF%F%**FhoF%FKF%F+F%F>F%FF**FhnF%F\\pF%FinF%Fjn
+F%F%**FhsF%F\\pF%FinF%FfnF%FF**F`oF%F\\pF%F4F%FYF%FF**FfpF%F\\pF%F5F%F
+jnF%FF**F[sF%FcpF%FinF%FjnF%FF**FhnF%FKF%F_qF%FjnF%FF**FhsF%F\\pF%FinF
+%F>F%F%**FerF%F\\pF%F4F%FBF%F%**\"%!)GF%F\\pF%F5F%FfnF%F%**FerF%FcpF%F
+inF%FfnF%F%**\"%_ZF%FcpF%F4F%FYF%F%**FirF%FcpF%F5F%FjnF%F%**\"$S'F%F^o
+F%FinF%FjnF%F%**FhsF%FKF%F_qF%FfnF%F%**FfpF%FKF%F[rF%FjnF%F%**F`oF%F
+\\pF%F4F%F:F%FF**F`uF%F\\pF%F5F%F>F%FF**F`uF%FcpF%FinF%F>F%FF**\"&gH\"
+F%FcpF%F4F%FBF%FF**\"&!35F%FcpF%F5F%FfnF%FF**\"%gdF%F^oF%FinF%FfnF%FF*
+*\"%)[(F%F^oF%F4F%FYF%FF**F`oF%F^oF%F5F%FjnF%FF**FfuF%F*F%FinF%FjnF%FF
+**FfpF%FKF%F_qF%F4F%FF**FhsF%FKF%F_qF%F>F%FF**\"%SEF%FKF%F[rF%FfnF%FF*
+*FfpF%FKF%FIF%FjnF%FF**\"%CIF%FcpF%F4F%F:F%F%**\"%S')F%FcpF%F5F%F>F%F%
+**F`uF%F^oF%FinF%F>F%F%*,\"&+3\"F%FKF%FIF%F4F%FfnF%FF*,\"%?VF%FKF%FIF%
+F5F%FYF%FF*,\"%O:F%FKF%FOF%FinF%FYF%FF*,FirF%FKF%FOF%F4F%FjnF%FF*,FdsF
+%FKF%F[rF%F5F%F:F%F%*,F[pF%FKF%FIF%FinF%F:F%F%*,FavF%FKF%FIF%F4F%F>F%F
+%*,\"&K+\"F%FKF%FIF%F5F%FBF%F%*,F`pF%FKF%FOF%FinF%FBF%F%*,\"%S]F%FKF%F
+OF%F4F%FfnF%F%*,\"%;?F%FKF%FOF%F5F%FYF%F%*,F[pF%FKF%F+F%FinF%FYF%F%*,F
+fpF%FKF%F+F%F4F%FjnF%F%*,F@F%FKF%FOF%F4F%F>F%FF*,\"%WPF%FKF%FOF%F5F%FB
+F%FF*,F)F%FKF%F+F%F4F%FfnF%FF*,\"$)GF%FKF%F+F%F5F%FYF%FF*,FNF%FKF%F+F%
+F5F%FBF%F%*,F[pF%FKF%F_qF%FinF%FYF%F%*,FfpF%FKF%F_qF%F4F%FjnF%F%*,F`pF
+%FKF%F_qF%FinF%FBF%FF*,F`uF%FKF%F_qF%F4F%FfnF%FF*,F`oF%FKF%F_qF%F5F%FY
+F%FF*,FewF%FKF%F[rF%FinF%FYF%FF*,FirF%FKF%F[rF%F4F%FjnF%FF*,F[pF%FKF%F
+_qF%FinF%F:F%F%*,F`uF%FKF%F_qF%F4F%F>F%F%*,FerF%FKF%F_qF%F5F%FBF%F%*,F
+erF%FKF%F[rF%FinF%FBF%F%*,\"%g$*F%FKF%F[rF%F4F%FfnF%F%*,FexF%FKF%F[rF%
+F5F%FYF%F%*,\"%/BF%FKF%FIF%FinF%FYF%F%*,F`oF%FKF%FIF%F4F%FjnF%F%*,F`oF
+%FKF%F_qF%F5F%F:F%FF*,FirF%FKF%F[rF%FinF%F:F%FF*,\"%+sF%FKF%F[rF%F4F%F
+>F%FF*,\"&g0\"F%FKF%F[rF%F5F%FBF%FF*,FerF%FKF%FIF%FinF%FBF%FFF%,`oF%FF
+**F3F%FKF%FOF%FBF%FF**\"#7F%FAF%F5F%FBF%F%*,FezF%FKF%F+F%F4F%FBF%FF*,F
+ezF%FKF%FOF%FinF%F>F%F%*,FezF%FKF%FOF%F4F%FBF%F%*(F3F%FinF%FBF%F%**Fez
+F%F*F%F5F%FBF%FF**FdpF%FAF%FinF%FBF%FF**F3F%F*F%FinF%FBF%F%**FezF%F*F%
+FinF%F:F%FF*&FJF%FAF%F%*&F3F%F*F%FF**\"#OF%F*F%F5F%F:F%F%**\"#XF%FAF%F
+4F%F>F%F%**FezF%FKF%FOF%F5F%F%**FezF%FKF%FOF%F:F%F%**Fa[lF%FAF%F5F%F:F
+%FF**Fa[lF%F*F%F4F%F>F%FF*(F`qF%FAF%F4F%FF*(F[oF%F5F%F:F%F%*(FezF%F*F%
+F4F%F%*(FezF%F*F%F>F%F%*(F`qF%FAF%F>F%FF*(F`qF%F4F%F>F%FF*,Fa[lF%FKF%F
+OF%F5F%F>F%FF*,\"#=F%F+F%F4F%F:F%FKF%F%*,F`\\lF%F+F%F5F%F>F%FKF%F%**F[
+oF%FKF%F+F%F5F%FF**F[oF%FKF%F+F%F:F%FF*,Fa[lF%FKF%FOF%F4F%F:F%FF**F3F%
+FKF%FOF%FinF%FF**FezF%FAF%FinF%F:F%F%*,FezF%FKF%F+F%FinF%F>F%FFFFFF" }
+}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 42 "E11:=simplify(coeff(e[0,2]
+,D(k)(s[1]),2));" }}{PARA 11 "" 1 "" {XPPMATH 20 ",$*(#\"\"\"\"#;F%,L*
+,\"\"%F%-I$sinG6$%*protectedGI(_syslibG6\"6#I\"LGF/F%)-I$cosGF,F0F)F%)
+&I\"kGF/6#\"\"!\"\"$F%&F76#F%F%F%*(F)F%)F3\"\"&F%F5F%!\"\"**\"#7F%F>F%
+)F6\"\"#F%F;F%F@**FBF%F*F%F2F%FCF%F@*,FBF%F*F%F2F%F6F%F;F%F@*,\"\")F%F
+*F%)F3FDF%F5F%F;F%F@*(FBF%F>F%F6F%F%*(F)F%F>F%F;F%F%*(FHF%)F3F:F%F5F%F
+%**\"#CF%FMF%FCF%F;F%F%*(F)F%F*F%F2F%F%**\"#:F%F*F%FIF%FCF%F%*,FBF%F*F
+%FIF%F6F%F;F%F%**F)F%F*F%F5F%F;F%F%*(\"#=F%FMF%F6F%F@*(F)F%FMF%F;F%F@*
+(F)F%F3F%F5F%F@**FBF%F3F%FCF%F;F%F@*(F:F%F*F%FIF%F@*(F:F%F*F%FCF%F@*(
+\"\"'F%F6F%F3F%F%F%,`q**F&F%F>F%F5F%)F;F:F%F@**F&F%F>F%F5F%F;F%F%**\"#
+sF%F>F%FCF%)F;FDF%F%**\"#[F%F>F%F6F%FjnF%F%**\"#KF%FMF%F5F%FjnF%F%**F)
+F%F*F%F2F%F5F%F%**F&F%F*F%F2F%FjnF%F%**FBF%F*F%F2F%F6F%F@**F&F%F*F%F2F
+%F;F%F@**F`oF%F>F%F6F%F;F%F@**F&F%F3F%F5F%FjnF%F@**\"#FF%F3F%FCF%F^oF%
+F%**F&F%FMF%F5F%F;F%F@**\"#**F%FMF%FCF%F^oF%F@**\"#mF%FMF%F6F%FjnF%F@*
+*F)F%F*F%F5F%)F;F)F%F%**\"\"*F%F*F%FCF%FjnF%F@*(FBF%F>F%FCF%F@*(FOF%F>
+F%F^oF%F@*&F)F%F>F%F%*&F?F%FMF%F@F3F%**FgnF%FIF%F6F%F*F%F%**\"#aF%FMF%
+F6F%F;F%F%**\"#6F%F*F%FIF%F;F%F%**FgnF%F6F%F^oF%F*F%F%**FBF%F3F%F6F%F;
+F%F@*(FcpF%FMF%FCF%F%*(FjoF%FMF%F^oF%F%*(FgnF%F3F%F^oF%F@*&F;F%F*F%F@*
+,FjpF%F*F%FIF%F6F%F^oF%F@*,FOF%F*F%F2F%F5F%F^oF%F@*,F`oF%F*F%F2F%FCF%F
+jnF%F@*,F`oF%F*F%F2F%FCF%F;F%F%*,F]oF%F*F%F2F%F6F%F^oF%F%*,FOF%F*F%FIF
+%F5F%F^oF%F%*,\"#dF%F*F%FIF%FCF%FjnF%F%*,FjoF%F*F%FIF%FCF%F;F%F@*,F)F%
+F*F%F2F%F5F%FapF%F%*,FBF%F*F%F2F%F6F%FapF%F@*,FHF%F*F%FIF%F5F%FapF%F@*
+,FBF%F*F%FIF%F6F%FapF%F%**FcpF%F*F%FIF%FjnF%F@**FBF%F>F%FCF%FapF%F@**F
+OF%FMF%FCF%FapF%F%**FBF%F3F%FCF%FapF%F@**FVF%F3F%F6F%FjnF%F%*(F)F%F>F%
+FapF%F%*(F)F%FMF%FapF%F@F@F%" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 59 "E01:=simplify(coeff(coeff(e[0,2],D(k)(s[1]),1),D(k)(0),1));" }}
+{PARA 11 "" 1 "" {XPPMATH 20 ",$*(#\"\"\"\"\")F%,^r**\"#[F%)-I$cosG6$%
+*protectedGI(_syslibG6\"6#I\"LGF0\"\"(F%)&I\"kGF06#\"\"!\"\"$F%)&F66#F
+%\"\"#F%!\"\"**F)F%F*F%)F5F=F%)F;F9F%F>**\"$W\"F%F*F%F@F%F;F%F%**FCF%F
+*F%F5F%F:F%F%**FCF%)F+\"\"&F%F4F%F:F%F%**FCF%FFF%F@F%FAF%F%**F)F%-I$si
+nGF-F1F%)F+\"\"'F%F@F%F%**F)F%FJF%FLF%F:F%F%**\"$O$F%FFF%F5F%F:F%F>**
+\"#sF%FJF%)F+\"\"%F%F:F%F>**\"#;F%FJF%F4F%FAF%F>**\"#CF%FJF%)F+F=F%F:F
+%F%**FXF%FJF%F@F%F:F%F%**FPF%FFF%F@F%F;F%F>**F)F%F+F%F5F%F:F%F>**FCF%)
+F+F9F%F4F%F:F%F>**FCF%FhnF%F@F%FAF%F>**\"$S#F%FhnF%F@F%F;F%F%**F[oF%Fh
+nF%F5F%F:F%F%**F)F%F+F%F@F%FAF%F%*(\"#'*F%FFF%F5F%F%*(F_oF%FFF%F;F%F%*
+(FVF%FhnF%FAF%F%*(\"#KF%FFF%F4F%F>*(\"#dF%FhnF%F5F%F>*(FeoF%FhnF%F;F%F
+>*,F_oF%FJF%FSF%F4F%F;F%F%*,F)F%FJF%FYF%F4F%F;F%F>*(\"\"*F%F;F%F+F%F%*
+(FjoF%F5F%F+F%F%**FjoF%F;F%F5F%FJF%F>*(FVF%F*F%F4F%F%*(FVF%F*F%FAF%F%*
+(F)F%F*F%F5F%F>*(F)F%F*F%F;F%F>*(FcoF%FFF%FAF%F>*(FVF%FJF%FLF%F>**FRF%
+FJF%FSF%F@F%F>**FXF%FJF%FYF%F@F%F%*,F[oF%FJF%FSF%F5F%F;F%F>*,\"$0\"F%F
+JF%FYF%F5F%F;F%F%*(FXF%FJF%FSF%F%*(FjoF%FJF%FYF%F>*,F)F%FJF%FYF%F5F%FA
+F%F>*,FVF%FJF%FLF%F4F%FAF%F%*,F)F%FJF%FLF%F4F%F;F%F>*,FCF%FJF%FLF%F@F%
+F:F%F>*,F)F%FJF%FLF%F5F%FAF%F>*,F)F%FJF%FSF%F4F%FAF%F>*,FCF%FJF%FLF%F5
+F%F;F%F%*,\"$7$F%FJF%FSF%F@F%F:F%F%*,F_oF%FJF%FSF%F5F%FAF%F%*,F)F%FJF%
+FYF%F4F%FAF%F%*,\"$#>F%FJF%FYF%F@F%F:F%F>**F)F%F+F%F4F%F:F%F%**F)F%F+F
+%F@F%F;F%F>*(FVF%FhnF%F4F%F%F%,`oF%F>**FTF%FJF%FhnF%FAF%F>**\"#7F%FYF%
+F5F%FAF%F%*,F]rF%FJF%F+F%F@F%FAF%F>*,F]rF%FJF%FhnF%F4F%F:F%F%*,F]rF%FJ
+F%FhnF%F@F%FAF%F%*(FTF%F4F%FAF%F%**F]rF%FSF%F5F%FAF%F>**F&F%FYF%F4F%FA
+F%F>**FTF%FSF%F4F%FAF%F%**F]rF%FSF%F4F%F;F%F>*&FGF%FYF%F%*&FTF%FSF%F>*
+*\"#OF%FSF%F5F%F;F%F%**\"#XF%FYF%F@F%F:F%F%**F]rF%FJF%FhnF%F5F%F%**F]r
+F%FJF%FhnF%F;F%F%**FirF%FYF%F5F%F;F%F>**FirF%FSF%F@F%F:F%F>*(FjoF%FYF%
+F@F%F>*(FMF%F5F%F;F%F%*(F]rF%FSF%F@F%F%*(F]rF%FSF%F:F%F%*(FjoF%FYF%F:F
+%F>*(FjoF%F@F%F:F%F>*,FirF%FJF%FhnF%F5F%F:F%F>*,\"#=F%F+F%F@F%F;F%FJF%
+F%*,FhsF%F+F%F5F%F:F%FJF%F%**FMF%FJF%F+F%F5F%F>**FMF%FJF%F+F%F;F%F>*,F
+irF%FJF%FhnF%F@F%F;F%F>**FTF%FJF%FhnF%F4F%F>**F]rF%FYF%F4F%F;F%F%*,F]r
+F%FJF%F+F%F4F%F:F%F>F>F>" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 79 
+"simplify(E00*(D(k)(0))^2+E11*(D(k)(s[1]))^2+E01*(D(k)(0))*(D(k)(s[1])
+)-e[0,2]);" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 70 "e[0,2]:=E00*(D(k)(0
+))^2+E11*(D(k)(s[1]))^2+E01*(D(k)(0))*(D(k)(s[1]));" }}{PARA 11 "" 1 "
+" {XPPMATH 20 "\"\"!" }}{PARA 11 "" 1 "" {XPPMATH 20 ",(**#\"\"\"\"#;F
+%,`[l**\"$?(F%)-I$cosG6$%*protectedGI(_syslibG6\"6#I\"LGF0\"\"%F%)&I\"
+kGF06#\"\"!\"\"#F%&F66#F%F%F%**\"%wTF%F*F%F5F%)F:F9F%F%**\"%S9F%)F+F9F
+%F4F%)F:\"\"$F%F%**\"$['F%FAF%F5F%F>F%!\"\"*,\"%s=F%)F+\"\"&F%-I$sinGF
+-F1F%F5F%F:F%FF*,\"$K%F%FKF%)F+FCF%F5F%F:F%F%**\"$W\"F%FIF%FKF%F4F%FF*
+*\"%)3#F%FIF%FKF%F>F%FF**\"$H(F%FKF%FOF%F>F%F%*(\"%JBF%F*F%FBF%F%*(FQF
+%F4F%)F:FJF%F%*(\"$3\"F%F5F%)F:F3F%FF*(\"#kF%)F5FCF%)F:\"\"'F%FF*(\"$'
+RF%)F+F[oF%F5F%F%*(\"%_6F%F^oF%F:F%F%*(FenF%FIF%FKF%F%*(FenF%F*F%F5F%F
+F*(\"$8&F%F*F%F:F%FF*(\"#FF%FOF%FKF%FF*(\"#\")F%FAF%F:F%F%*&FfoF%FBF%F
+%*(\"$%QF%)F+\"#5F%FYF%F%*(FhnF%F\\pF%FinF%FF*(\"%!G\"F%F\\pF%FBF%FF*(
+\"%'H\"F%)F+\"\")F%FYF%FF*(\"$#>F%F\\pF%F5F%F%*(F[pF%F\\pF%F:F%F%*(\"$
+G\"F%FcpF%FinF%F%*(\"%+SF%FcpF%FBF%F%*(\"%%e\"F%F^oF%FYF%F%*(FhnF%FKF%
+)F+\"\"*F%F%*(\"$![F%FcpF%F5F%FF*(\"%/6F%FcpF%F:F%FF*(FhnF%F^oF%FinF%F
+F*(\"%#f%F%F^oF%FBF%FF*(\"$;)F%F*F%FYF%FF*(FQF%FKF%)F+\"\"(F%FF*(FQF%F
+AF%FYF%F%*(\"$'[F%FAF%FBF%FF**\"&Se\"F%F^oF%F4F%FBF%F%**\"&oI\"F%F^oF%
+F5F%FfnF%F%**\"%SQF%F*F%FinF%FfnF%F%**\"%saF%F*F%F4F%FYF%F%**\"$o(F%F*
+F%F5F%FjnF%F%**\"$?$F%FAF%FinF%FjnF%F%**\"$O$F%FKF%F[rF%F4F%F%**\"%+CF
+%FKF%F[rF%F>F%F%**\"%3DF%FKF%FIF%FfnF%F%**FhnF%FKF%FOF%FjnF%F%**\"%#f#
+F%F^oF%F4F%F:F%FF**\"%)G*F%F^oF%F5F%F>F%FF**\"$g*F%F*F%FinF%F>F%FF**\"
+%g\")F%F*F%F4F%FBF%FF**\"%CvF%F*F%F5F%FfnF%FF**FhsF%FAF%FinF%FfnF%FF**
+\"%G<F%FAF%F4F%FYF%FF**FfpF%FAF%F5F%FjnF%FF**\"$O*F%FKF%FOF%FfnF%FF**
+\"%k<F%FAF%F5F%FfnF%F%**FenF%FKF%F+F%FfnF%F%**FhoF%FKF%F+F%F>F%FF**Fhn
+F%F\\pF%FinF%FjnF%F%**FhsF%F\\pF%FinF%FfnF%FF**F`oF%F\\pF%F4F%FYF%FF**
+FfpF%F\\pF%F5F%FjnF%FF**F[sF%FcpF%FinF%FjnF%FF**FhnF%FKF%F_qF%FjnF%FF*
+*FhsF%F\\pF%FinF%F>F%F%**FerF%F\\pF%F4F%FBF%F%**\"%!)GF%F\\pF%F5F%FfnF
+%F%**FerF%FcpF%FinF%FfnF%F%**\"%_ZF%FcpF%F4F%FYF%F%**FirF%FcpF%F5F%Fjn
+F%F%**\"$S'F%F^oF%FinF%FjnF%F%**FhsF%FKF%F_qF%FfnF%F%**FfpF%FKF%F[rF%F
+jnF%F%**F`oF%F\\pF%F4F%F:F%FF**F`uF%F\\pF%F5F%F>F%FF**F`uF%FcpF%FinF%F
+>F%FF**\"&gH\"F%FcpF%F4F%FBF%FF**\"&!35F%FcpF%F5F%FfnF%FF**\"%gdF%F^oF
+%FinF%FfnF%FF**\"%)[(F%F^oF%F4F%FYF%FF**F`oF%F^oF%F5F%FjnF%FF**FfuF%F*
+F%FinF%FjnF%FF**FfpF%FKF%F_qF%F4F%FF**FhsF%FKF%F_qF%F>F%FF**\"%SEF%FKF
+%F[rF%FfnF%FF**FfpF%FKF%FIF%FjnF%FF**\"%CIF%FcpF%F4F%F:F%F%**\"%S')F%F
+cpF%F5F%F>F%F%**F`uF%F^oF%FinF%F>F%F%*,\"&+3\"F%FKF%FIF%F4F%FfnF%FF*,
+\"%?VF%FKF%FIF%F5F%FYF%FF*,\"%O:F%FKF%FOF%FinF%FYF%FF*,FirF%FKF%FOF%F4
+F%FjnF%FF*,FdsF%FKF%F[rF%F5F%F:F%F%*,F[pF%FKF%FIF%FinF%F:F%F%*,FavF%FK
+F%FIF%F4F%F>F%F%*,\"&K+\"F%FKF%FIF%F5F%FBF%F%*,F`pF%FKF%FOF%FinF%FBF%F
+%*,\"%S]F%FKF%FOF%F4F%FfnF%F%*,\"%;?F%FKF%FOF%F5F%FYF%F%*,F[pF%FKF%F+F
+%FinF%FYF%F%*,FfpF%FKF%F+F%F4F%FjnF%F%*,F@F%FKF%FOF%F4F%F>F%FF*,\"%WPF
+%FKF%FOF%F5F%FBF%FF*,F)F%FKF%F+F%F4F%FfnF%FF*,\"$)GF%FKF%F+F%F5F%FYF%F
+F*,FNF%FKF%F+F%F5F%FBF%F%*,F[pF%FKF%F_qF%FinF%FYF%F%*,FfpF%FKF%F_qF%F4
+F%FjnF%F%*,F`pF%FKF%F_qF%FinF%FBF%FF*,F`uF%FKF%F_qF%F4F%FfnF%FF*,F`oF%
+FKF%F_qF%F5F%FYF%FF*,FewF%FKF%F[rF%FinF%FYF%FF*,FirF%FKF%F[rF%F4F%FjnF
+%FF*,F[pF%FKF%F_qF%FinF%F:F%F%*,F`uF%FKF%F_qF%F4F%F>F%F%*,FerF%FKF%F_q
+F%F5F%FBF%F%*,FerF%FKF%F[rF%FinF%FBF%F%*,\"%g$*F%FKF%F[rF%F4F%FfnF%F%*
+,FexF%FKF%F[rF%F5F%FYF%F%*,\"%/BF%FKF%FIF%FinF%FYF%F%*,F`oF%FKF%FIF%F4
+F%FjnF%F%*,F`oF%FKF%F_qF%F5F%F:F%FF*,FirF%FKF%F[rF%FinF%F:F%FF*,\"%+sF
+%FKF%F[rF%F4F%F>F%FF*,\"&g0\"F%FKF%F[rF%F5F%FBF%FF*,FerF%FKF%FIF%FinF%
+FBF%FFF%,`oF%FF**F3F%FKF%FOF%FBF%FF**\"#7F%FAF%F5F%FBF%F%*,FezF%FKF%F+
+F%F4F%FBF%FF*,FezF%FKF%FOF%FinF%F>F%F%*,FezF%FKF%FOF%F4F%FBF%F%*(F3F%F
+inF%FBF%F%**FezF%F*F%F5F%FBF%FF**FdpF%FAF%FinF%FBF%FF**F3F%F*F%FinF%FB
+F%F%**FezF%F*F%FinF%F:F%FF*&FJF%FAF%F%*&F3F%F*F%FF**\"#OF%F*F%F5F%F:F%
+F%**\"#XF%FAF%F4F%F>F%F%**FezF%FKF%FOF%F5F%F%**FezF%FKF%FOF%F:F%F%**Fa
+[lF%FAF%F5F%F:F%FF**Fa[lF%F*F%F4F%F>F%FF*(F`qF%FAF%F4F%FF*(F[oF%F5F%F:
+F%F%*(FezF%F*F%F4F%F%*(FezF%F*F%F>F%F%*(F`qF%FAF%F>F%FF*(F`qF%F4F%F>F%
+FF*,Fa[lF%FKF%FOF%F5F%F>F%FF*,\"#=F%F+F%F4F%F:F%FKF%F%*,F`\\lF%F+F%F5F
+%F>F%FKF%F%**F[oF%FKF%F+F%F5F%FF**F[oF%FKF%F+F%F:F%FF*,Fa[lF%FKF%FOF%F
+4F%F:F%FF**F3F%FKF%FOF%FinF%FF**FezF%FAF%FinF%F:F%F%*,FezF%FKF%F+F%Fin
+F%F>F%FFFF)--I\"DGF-6#F6F7F9F%FF**F$F%,L*,F3F%FKF%F*F%FinF%F:F%F%*(F3F
+%FIF%FinF%FF**FezF%FIF%F4F%F:F%FF**FezF%FKF%F*F%F4F%FF*,FezF%FKF%F*F%F
+5F%F:F%FF*,FdpF%FKF%FAF%FinF%F:F%FF*(FezF%FIF%F5F%F%*(F3F%FIF%F:F%F%*(
+FdpF%FOF%FinF%F%**\"#CF%FOF%F4F%F:F%F%*(F3F%FKF%F*F%F%**\"#:F%FKF%FAF%
+F4F%F%*,FezF%FKF%FAF%F5F%F:F%F%**F3F%FKF%FinF%F:F%F%*(F`\\lF%FOF%F5F%F
+F*(F3F%FOF%F:F%FF*(F3F%F+F%FinF%FF**FezF%F+F%F4F%F:F%FF*(FCF%FKF%FAF%F
+F*(FCF%FKF%F4F%FF*(F[oF%F5F%F+F%F%F%,`q**F&F%FIF%FinF%FBF%FF**F&F%FIF%
+FinF%F:F%F%**\"#sF%FIF%F4F%F>F%F%**\"#[F%FIF%F5F%FBF%F%**\"#KF%FOF%Fin
+F%FBF%F%**F3F%FKF%F*F%FinF%F%**F&F%FKF%F*F%FBF%F%**FezF%FKF%F*F%F5F%FF
+**F&F%FKF%F*F%F:F%FF**F\\_lF%FIF%F5F%F:F%FF**F&F%F+F%FinF%FBF%FF**FfoF
+%F+F%F4F%F>F%F%**F&F%FOF%FinF%F:F%FF**\"#**F%FOF%F4F%F>F%FF**\"#mF%FOF
+%F5F%FBF%FF**F3F%FKF%FinF%FfnF%F%**F`qF%FKF%F4F%FBF%FF*(FezF%FIF%F4F%F
+F*(Fi]lF%FIF%F>F%FF*&F3F%FIF%F%*&FJF%FOF%FFF+F%**F[oF%FAF%F5F%FKF%F%**
+\"#aF%FOF%F5F%F:F%F%**\"#6F%FKF%FAF%F:F%F%**F[oF%F5F%F>F%FKF%F%**FezF%
+F+F%F5F%F:F%FF*(F`qF%FOF%F4F%F%*(FfoF%FOF%F>F%F%*(F[oF%F+F%F>F%FF*&F:F
+%FKF%FF*,Fc`lF%FKF%FAF%F5F%F>F%FF*,Fi]lF%FKF%F*F%FinF%F>F%FF*,F\\_lF%F
+KF%F*F%F4F%FBF%FF*,F\\_lF%FKF%F*F%F4F%F:F%F%*,Fj^lF%FKF%F*F%F5F%F>F%F%
+*,Fi]lF%FKF%FAF%FinF%F>F%F%*,\"#dF%FKF%FAF%F4F%FBF%F%*,FfoF%FKF%FAF%F4
+F%F:F%FF*,F3F%FKF%F*F%FinF%FfnF%F%*,FezF%FKF%F*F%F5F%FfnF%FF*,FdpF%FKF
+%FAF%FinF%FfnF%FF*,FezF%FKF%FAF%F5F%FfnF%F%**F`qF%FKF%FAF%FBF%FF**FezF
+%FIF%F4F%FfnF%FF**Fi]lF%FOF%F4F%FfnF%F%**FezF%F+F%F4F%FfnF%FF**F`\\lF%
+F+F%F5F%FBF%F%*(F3F%FIF%FfnF%F%*(F3F%FOF%FfnF%FFFF)-Fj\\l6#&I\"sGF0F;F
+9F%F%*,#F%FdpF%,^r**F\\_lF%F[rF%FinF%F>F%FF**F\\_lF%F[rF%F4F%FBF%FF**F
+QF%F[rF%F4F%F:F%F%**FQF%F[rF%F5F%F>F%F%**FQF%FIF%FinF%F>F%F%**FQF%FIF%
+F4F%FBF%F%**F\\_lF%FKF%F^oF%F4F%F%**F\\_lF%FKF%F^oF%F>F%F%**F]sF%FIF%F
+5F%F>F%FF**Fj^lF%FKF%F*F%F>F%FF**F&F%FKF%FinF%FBF%FF**Fi]lF%FKF%FAF%F>
+F%F%**Fi]lF%FKF%F4F%F>F%F%**F]sF%FIF%F4F%F:F%FF**F\\_lF%F+F%F5F%F>F%FF
+**FQF%FOF%FinF%F>F%FF**FQF%FOF%F4F%FBF%FF**\"$S#F%FOF%F4F%F:F%F%**Fjcl
+F%FOF%F5F%F>F%F%**F\\_lF%F+F%F4F%FBF%F%*(\"#'*F%FIF%F5F%F%*(F^dlF%FIF%
+F:F%F%*(F&F%FOF%FBF%F%*(F^_lF%FIF%FinF%FF*(FcalF%FOF%F5F%FF*(FcalF%FOF
+%F:F%FF*,F^dlF%FKF%F*F%FinF%F:F%F%*,F\\_lF%FKF%FAF%FinF%F:F%FF*(F`qF%F
+:F%F+F%F%*(F`qF%F5F%F+F%F%**F`qF%F:F%F5F%FKF%FF*(F&F%F[rF%FinF%F%*(F&F
+%F[rF%FBF%F%*(F\\_lF%F[rF%F5F%FF*(F\\_lF%F[rF%F:F%FF*(F^_lF%FIF%FBF%FF
+*(F&F%FKF%F^oF%FF**Fj^lF%FKF%F*F%F4F%FF**Fi]lF%FKF%FAF%F4F%F%*,FjclF%F
+KF%F*F%F5F%F:F%FF*,\"$0\"F%FKF%FAF%F5F%F:F%F%*(Fi]lF%FKF%F*F%F%*(F`qF%
+FKF%FAF%FF*,F\\_lF%FKF%FAF%F5F%FBF%FF*,F&F%FKF%F^oF%FinF%FBF%F%*,F\\_l
+F%FKF%F^oF%FinF%F:F%FF*,FQF%FKF%F^oF%F4F%F>F%FF*,F\\_lF%FKF%F^oF%F5F%F
+BF%FF*,F\\_lF%FKF%F*F%FinF%FBF%FF*,FQF%FKF%F^oF%F5F%F:F%F%*,\"$7$F%FKF
+%F*F%F4F%F>F%F%*,F^dlF%FKF%F*F%F5F%FBF%F%*,F\\_lF%FKF%FAF%FinF%FBF%F%*
+,FfpF%FKF%FAF%F4F%F>F%FF**F\\_lF%F+F%FinF%F>F%F%**F\\_lF%F+F%F4F%F:F%F
+F*(F&F%FOF%FinF%F%F%FbzFFFi\\lF%FablF%FF" }}}{PARA 0 "" 0 "" {TEXT 
+214 1 " " }}{PARA 0 "" 0 "" {TEXT 214 12 "Calculus of " }{XPPEDIT 18 0
+ "Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetting:-mrow(Typesetti
+ng:-msub(Typesetting:-mi(\"e\", italic = \"true\", mathvariant = \"ita
+lic\"), Typesetting:-mrow(Typesetting:-mn(\"2\", mathvariant = \"norma
+l\"), Typesetting:-mo(\",\", mathvariant = \"normal\", fence = \"false
+\", separator = \"true\", stretchy = \"false\", symmetric = \"false\",
+ largeop = \"false\", movablelimits = \"false\", accent = \"false\", l
+space = \"0.0em\", rspace = \"0.3333333em\"), Typesetting:-mn(\"0\", m
+athvariant = \"normal\")), subscriptshift = \"0\"), Typesetting:-mo(\"
+=\", mathvariant = \"normal\", fence = \"false\", separator = \"false
+\", stretchy = \"false\", symmetric = \"false\", largeop = \"false\", \+
+movablelimits = \"false\", accent = \"false\", lspace = \"0.2777778em
+\", rspace = \"0.2777778em\"), Typesetting:-mrow(Typesetting:-mi(\"C1
+\", italic = \"true\", mathvariant = \"italic\"), Typesetting:-mo(\"&I
+nvisibleTimes;\", mathvariant = \"normal\", fence = \"false\", separat
+or = \"false\", stretchy = \"false\", symmetric = \"false\", largeop =
+ \"false\", movablelimits = \"false\", accent = \"false\", lspace = \"
+0.0em\", rspace = \"0.0em\"), Typesetting:-mrow(Typesetting:-msubsup(T
+ypesetting:-mi(\"c\", italic = \"true\", mathvariant = \"italic\"), Ty
+pesetting:-mrow(Typesetting:-mn(\"2\", mathvariant = \"normal\"), Type
+setting:-mo(\",\", mathvariant = \"normal\", fence = \"false\", separa
+tor = \"true\", stretchy = \"false\", symmetric = \"false\", largeop =
+ \"false\", movablelimits = \"false\", accent = \"false\", lspace = \"
+0.0em\", rspace = \"0.3333333em\"), Typesetting:-mn(\"0\", mathvariant
+ = \"normal\")), Typesetting:-mn(\"2\", mathvariant = \"normal\"), sup
+erscriptshift = \"0\", subscriptshift = \"0\")), Typesetting:-mi(\"\")
+), Typesetting:-mi(\"\")), Typesetting:-mi(\"\"));" "-I%mrowG6#/I+modu
+lenameG6\"I,TypesettingGI(_syslibGF'6%-I#miGF$6#Q!F'-F#6&-I%msubGF$6%-
+F,6%Q\"eF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'-F#6%-I#mnGF$6$Q
+\"2F'/F;Q'normalF'-I#moGF$6-Q\",F'FC/%&fenceGQ&falseF'/%*separatorGF9/
+%)stretchyGFK/%*symmetricGFK/%(largeopGFK/%.movablelimitsGFK/%'accentG
+FK/%'lspaceGQ&0.0emF'/%'rspaceGQ,0.3333333emF'-F@6$Q\"0F'FC/%/subscrip
+tshiftGFjn-FF6-Q\"=F'FCFI/FMFKFNFPFRFTFV/FYQ,0.2777778emF'/FfnFbo-F#6&
+-F,6%Q#C1F'F7F:-FF6-Q1&InvisibleTimes;F'FCFIF`oFNFPFRFTFVFX/FfnFZ-F#6#
+-I(msubsupGF$6'-F,6%Q\"cF'F7F:F=F?/%1superscriptshiftGFjnF[oF+F+F+" }
+{TEXT 214 7 "   in  " }{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-m
+i(\"&tau;\", italic = \"false\", mathvariant = \"normal\"));" "-I%mrow
+G6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6#-I#miGF$6%Q&&tau;F'/%'
+italicGQ&falseF'/%,mathvariantGQ'normalF'" }{TEXT 214 4 " .  " }}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 31 "C1:= coeff(tau,abs(c[2,0]),2
+);\n" }{MPLTEXT 1 0 50 "C1:= subs(define_gamma,coeff(tau,abs(c[2,0]),2
+));\n" }}{PARA 11 "" 1 "" {XPPMATH 20 ",$*(\"\"$\"\"\"-I$sinG6$%*prote
+ctedGI(_syslibG6\"6#I&gammaGF)F%,&-I$cosGF(F,F%F%!\"\"F1F%" }}{PARA 11
+ "" 1 "" {XPPMATH 20 ",$**\"\"$\"\"\"&I\"bG6\"6$F%\"\"!F%I&omegaGF(!\"
+\",&&I\"aGF(F)F%F%F,F,F%" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 214 16 "From
+ worksheet  " }{HYPERLNK 17 "2Complex" 1 "2Complex.mws" "" }{TEXT 214 
+27 " we have the expression of " }{XPPEDIT 18 0 "Typesetting:-mrow(Typ
+esetting:-mi(\"\"), Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetti
+ng:-mrow(Typesetting:-msup(Typesetting:-mfenced(Typesetting:-msub(Type
+setting:-mi(\"g\", italic = \"true\", mathvariant = \"italic\"), Types
+etting:-mrow(Typesetting:-mn(\"2\", mathvariant = \"normal\"), Typeset
+ting:-mo(\",\", mathvariant = \"normal\", fence = \"false\", separator
+ = \"true\", stretchy = \"false\", symmetric = \"false\", largeop = \"
+false\", movablelimits = \"false\", accent = \"false\", lspace = \"0.0
+em\", rspace = \"0.3333333em\"), Typesetting:-mn(\"0\", mathvariant = \+
+\"normal\")), subscriptshift = \"0\"), mathvariant = \"normal\", Types
+etting:-msemantics = \"abs\", open = \"&verbar;\", close = \"&verbar;
+\", Typesetting:-msemantics = \"abs\"), Typesetting:-mn(\"2\", mathvar
+iant = \"normal\"), superscriptshift = \"0\")), Typesetting:-mo(\"=\",
+ mathvariant = \"normal\", fence = \"false\", separator = \"false\", s
+tretchy = \"false\", symmetric = \"false\", largeop = \"false\", movab
+lelimits = \"false\", accent = \"false\", lspace = \"0.2777778em\", rs
+pace = \"0.2777778em\"), Typesetting:-mrow(Typesetting:-msup(Typesetti
+ng:-mfenced(Typesetting:-msub(Typesetting:-mi(\"c\", italic = \"true\"
+, mathvariant = \"italic\"), Typesetting:-mrow(Typesetting:-mn(\"2\", \+
+mathvariant = \"normal\"), Typesetting:-mo(\",\", mathvariant = \"norm
+al\", fence = \"false\", separator = \"true\", stretchy = \"false\", s
+ymmetric = \"false\", largeop = \"false\", movablelimits = \"false\", \+
+accent = \"false\", lspace = \"0.0em\", rspace = \"0.3333333em\"), Typ
+esetting:-mn(\"0\", mathvariant = \"normal\")), subscriptshift = \"0\"
+), mathvariant = \"normal\", Typesetting:-msemantics = \"abs\", open =
+ \"&verbar;\", close = \"&verbar;\", Typesetting:-msemantics = \"abs\"
+), Typesetting:-mn(\"2\", mathvariant = \"normal\"), superscriptshift \+
+= \"0\")), Typesetting:-mi(\"\")), Typesetting:-mi(\"\"));" "-I%mrowG6
+#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6%-I#miGF$6#Q!F'-F#6'F+-F#
+6#-I%msupGF$6%-I(mfencedGF$6(-I%msubGF$6%-F,6%Q\"gF'/%'italicGQ%trueF'
+/%,mathvariantGQ'italicF'-F#6%-I#mnGF$6$Q\"2F'/FCQ'normalF'-I#moGF$6-Q
+\",F'FK/%&fenceGQ&falseF'/%*separatorGFA/%)stretchyGFS/%*symmetricGFS/
+%(largeopGFS/%.movablelimitsGFS/%'accentGFS/%'lspaceGQ&0.0emF'/%'rspac
+eGQ,0.3333333emF'-FH6$Q\"0F'FK/%/subscriptshiftGFboFK/I+msemanticsGF$Q
+$absF'/%%openGQ)&verbar;F'/%&closeGFjoFeoFG/%1superscriptshiftGFbo-FN6
+-Q\"=F'FKFQ/FUFSFVFXFZFfnFhn/F[oQ,0.2777778emF'/F^oFdp-F#6#-F46%-F76(-
+F:6%-F,6%Q\"cF'F?FBFEFcoFKFeoFhoF[pFeoFGF]pF+F+" }{TEXT 214 2 " :" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 114 "g[2,0] := 1/4*(omega*a[2,0]
+-I*omega^2*a[1,1]-omega^3*a[0,2]+I*b[2,0]+b[1,1]*omega-I*b[0,2]*omega^
+2)/(omega^(3/2));" }}{PARA 11 "" 1 "" {XPPMATH 20 ",$*(#\"\"\"\"\"%F%,
+.*&I&omegaG6\"F%&I\"aGF*6$\"\"#\"\"!F%F%*(,$^#F%F%F%)F)F.F%&F,6$F%F%F%
+!\"\"*&)F)\"\"$F%&F,6$F/F.F%F6*&F2F%&I\"bGF*F-F%F%*&&F>F5F%F)F%F%*(F1F
+%&F>F;F%F3F%F6F%)F)#F9F.F6F%" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 112 "eqc20:= abs(c[2,0])^2=(a[2,0]-omega^2*a[0,2]+b[1,1])^2/(16*omeg
+a)+omega/16*(-b[0,2]+b[2,0]/(omega^2)-a[1,1])^2;\n" }{MPLTEXT 1 0 84 "
+simplify(subs(eqc20,abs(c[2,0])^2-simplify(evalc(abs(g[2,0])^2),assume
+=positive)));\n" }{MPLTEXT 1 0 1 " " }}{PARA 11 "" 1 "" {XPPMATH 20 "/
+*$)-I$absG%*protectedG6#&I\"cG6\"6$\"\"#\"\"!F-\"\"\",&*(#F/\"#;F/),(*
+&)I&omegaGF+F-F/&I\"aGF+6$F.F-F/!\"\"&F:F,F/&I\"bGF+6$F/F/F/F-F/F8F<F/
+*(F2F/F8F/),(&F?F;F<*&&F?F,F/F7F<F/&F:F@F<F-F/F/" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 38 "e[2,0
+]:=subs(eqc20,C1*abs(c[2,0])^2):\n" }{MPLTEXT 1 0 116 "X:=3/16*b[1,0]*
+((a[2,0]-omega^2*a[0,2]+b[1,1])^2+omega^2*(-b[0,2]+b[2,0]/(omega^2)-a[
+1,1])^2)/(omega^2*(a[1,0]-1)):\n" }{MPLTEXT 1 0 20 "simplify(X-e[2,0])
+:\n" }{MPLTEXT 1 0 120 "e[2,0]:=3/16*b[1,0]*((a[2,0]-omega^2*a[0,2]+b[
+1,1])^2+omega^2*(-b[0,2]+b[2,0]/(omega^2)-a[1,1])^2)/(omega^2*(a[1,0]-
+1));" }}{PARA 11 "" 1 "" {XPPMATH 20 ",$*,#\"\"$\"#;\"\"\"&I\"bG6\"6$F
+'\"\"!F',&*$),(*&)I&omegaGF*\"\"#F'&I\"aGF*6$F,F4F'!\"\"&F66$F4F,F'&F)
+6$F'F'F'F4F'F'*&F2F'),(&F)F7F8*&&F)F:F'F2F8F'&F6F<F8F4F'F'F'F2F8,&&F6F
++F'F'F8F8F'" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 35 "e[2,0]:=subs
+(define_omega,e[2,0]);\n" }{MPLTEXT 1 0 29 "e[2,0]:=subs(eq2,eq1,e[2,0
+]):" }}{PARA 11 "" 1 "" {XPPMATH 20 ",$**#\"\"$\"#;\"\"\",&*$),(*(&I\"
+bG6\"6$F'\"\"!F'&I\"aGF/6$F1F'!\"\"&F36$F1\"\"#F'F'&F36$F8F1F'&F.6$F'F
+'F'F8F'F'*(F-F'F2F5),(&F.F7F5*(&F.F:F'F-F5F2F'F5&F3F<F5F8F'F5F'F2F',&&
+F3F0F'F'F5F5F5" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 39 "E00:=simp
+lify(coeff(e[2,0],D(k)(0),2));" }}{PARA 11 "" 1 "" {XPPMATH 20 ",$*(#
+\"\"$\"#;\"\"\",2*&)-I$cosG6$%*protectedGI(_syslibG6\"6#I\"LGF0\"\"%F'
+)&I\"kGF06#F'F%F'F'**F%F'-I$sinGF-F1F')F+F%F')F5\"\"#F'F'*(F%F'F*F'F5F
+'!\"\"*(F=F')F+F=F'F4F'F?*&F;F'F9F'F?**F%F'F9F'F+F'F<F'F?*(F%F'FAF'F5F
+'F'*$F4F'F'F',:*(FAF')&F66#\"\"!F=F'F<F'F'*,F=F'F+F'FHF'F5F'F9F'F'*,F=
+F'F+F'FIF'F<F'F9F'F'*&FAF'FHF'F?**F3F'FAF'FIF'F5F'F?*&FAF'F<F'F?*&FHF'
+F<F'F?**F=F'F9F'F+F'FIF'F?**F=F'F9F'F+F'F5F'F?*$FAF'F'*(F=F'FIF'F5F'F'
+F'F?F?F?" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 42 "E11:=simplify(c
+oeff(e[2,0],D(k)(s[1]),2));" }}{PARA 11 "" 1 "" {XPPMATH 20 ",$*(#\"\"
+$\"#;\"\"\",,*(-I$sinG6$%*protectedGI(_syslibG6\"6#I\"LGF/F')-I$cosGF,
+F0\"\"#F')&I\"kGF/6#\"\"!F5F'F'*(F5F')F3F%F'F7F'!\"\"*&F*F'F2F'F=*&F*F
+'F6F'F=*(F5F'F7F'F3F'F'F',J**F*F'F2F'F6F')&F86#F'F%F'F'**F%F'F<F'F6F')
+FDF5F'F=**F5F'F<F'F7F'FCF'F=*,F%F'F*F'F2F'F6F'FDF'F=*,\"\"'F'F*F'F2F'F
+7F'FGF'F=*(F*F'F2F'FCF'F=*(F*F'F6F'FCF'F=*&F<F'F6F'F'**FKF'F<F'F7F'FDF
+'F'*(F%F'F<F'FGF'F'**F%F'F3F'F6F'FGF'F'**F5F'F3F'F7F'FCF'F'**F5F'F2F'F
+7F'F*F'F'**F%F'F*F'F2F'FDF'F'**F5F'F7F'FGF'F*F'F'*$F<F'F=**\"\"%F'F3F'
+F7F'FDF'F=*(F5F'F3F'FGF'F=*&FDF'F*F'F=F3F'F=F'" }}}{EXCHG {PARA 0 "> "
+ 0 "" {MPLTEXT 1 0 59 "E01:=simplify(coeff(coeff(e[2,0],D(k)(s[1]),1),
+D(k)(0),1));" }}{PARA 11 "" 1 "" {XPPMATH 20 ",$*(#\"\"$\"\")\"\"\",0*
+*-I$sinG6$%*protectedGI(_syslibG6\"6#I\"LGF/F')-I$cosGF,F0\"\"#F'&I\"k
+GF/6#\"\"!F'&F76#F'F'F'*&)F3F%F'F6F'!\"\"*&F=F'F:F'F>*&F*F'F2F'F>*(F:F
+'F6F'F*F'F>*&F6F'F3F'F'*&F:F'F3F'F'F',:*(F2F')F6F5F')F:F5F'F'*,F5F'F3F
+'FFF'F:F'F*F'F'*,F5F'F3F'F6F'FGF'F*F'F'*&F2F'FFF'F>**\"\"%F'F2F'F6F'F:
+F'F>*&F2F'FGF'F>*&FFF'FGF'F>**F5F'F*F'F3F'F6F'F>**F5F'F*F'F3F'F:F'F>*$
+F2F'F'*(F5F'F6F'F:F'F'F'F>F>F'" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 80 "simplify(E00*(D(k)(0))^2+E11*(D(k)(s[1]))^2+E01*(D(k)(0))*(D(k
+)(s[1]))-e[2,0]);\n" }{MPLTEXT 1 0 70 "e[2,0]:=E00*(D(k)(0))^2+E11*(D(
+k)(s[1]))^2+E01*(D(k)(0))*(D(k)(s[1]));" }{MPLTEXT 1 0 1 "\n" }
+{MPLTEXT 1 0 1 "\n" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}{PARA 11 
+"" 1 "" {XPPMATH 20 ",(**#\"\"$\"#;\"\"\",2*&)-I$cosG6$%*protectedGI(_
+syslibG6\"6#I\"LGF0\"\"%F')&I\"kGF06#F'F%F'F'**F%F'-I$sinGF-F1F')F+F%F
+')F5\"\"#F'F'*(F%F'F*F'F5F'!\"\"*(F=F')F+F=F'F4F'F?*&F;F'F9F'F?**F%F'F
+9F'F+F'F<F'F?*(F%F'FAF'F5F'F'*$F4F'F'F',:*(FAF')&F66#\"\"!F=F'F<F'F'*,
+F=F'F+F'FHF'F5F'F9F'F'*,F=F'F+F'FIF'F<F'F9F'F'*&FAF'FHF'F?**F3F'FAF'FI
+F'F5F'F?*&FAF'F<F'F?*&FHF'F<F'F?**F=F'F9F'F+F'FIF'F?**F=F'F9F'F+F'F5F'
+F?*$FAF'F'*(F=F'FIF'F5F'F'F'F?F?)--I\"DGF-6#F6FJF=F'F?**F$F',,*(F9F'FA
+F'FHF'F'*(F=F'F;F'FIF'F?*&F9F'FAF'F?*&F9F'FHF'F?*(F=F'FIF'F+F'F'F',J**
+F9F'FAF'FHF'F4F'F'**F%F'F;F'FHF'F<F'F?**F=F'F;F'FIF'F4F'F?*,F%F'F9F'FA
+F'FHF'F5F'F?*,\"\"'F'F9F'FAF'FIF'F<F'F?*(F9F'FAF'F4F'F?*(F9F'FHF'F4F'F
+?*&F;F'FHF'F'**FboF'F;F'FIF'F5F'F'*(F%F'F;F'F<F'F'**F%F'F+F'FHF'F<F'F'
+**F=F'F+F'FIF'F4F'F'**F=F'FAF'FIF'F9F'F'**F%F'F9F'FAF'F5F'F'**F=F'FIF'
+F<F'F9F'F'*$F;F'F?**F3F'F+F'FIF'F5F'F?*(F=F'F+F'F<F'F?*&F5F'F9F'F?F+F'
+F?)-FX6#&I\"sGF0F7F=F'F'*,#F%\"\")F',0**F9F'FAF'FIF'F5F'F'*&F;F'FIF'F?
+*&F;F'F5F'F?FinF?*(F5F'FIF'F9F'F?*&FIF'F+F'F'*&F5F'F+F'F'F'FFF?FWF'Fbp
+F'F'" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 1254 "e[2,0] := -(3/16)
+*sinh(L)*(-sinh(L)*cosh(L)^2*k[1]^3+3*cosh(L)^3*k[1]^2-3*sinh(L)*cosh(
+L)^2*k[1]+sinh(L)*k[1]^3+cosh(L)^3-3*cosh(L)*k[1]^2)*(D(k))(0)^2/(cosh
+(L)^2*k[0]^2*k[1]^2-2*cosh(L)*k[0]^2*k[1]*sinh(L)-2*cosh(L)*k[0]*k[1]^
+2*sinh(L)+cosh(L)^2*k[0]^2+4*cosh(L)^2*k[0]*k[1]+cosh(L)^2*k[1]^2-k[0]
+^2*k[1]^2-2*sinh(L)*cosh(L)*k[0]-2*sinh(L)*cosh(L)*k[1]+cosh(L)^2-2*k[
+0]*k[1]-1)-(3/16)*sinh(L)*(cosh(L)^2*k[0]^2-2*sinh(L)*cosh(L)*k[0]+cos
+h(L)^2-k[0]^2)*(D(k))(s[1])^2/(-sinh(L)*cosh(L)^2*k[0]^2*k[1]^3+3*cosh
+(L)^3*k[0]^2*k[1]^2+2*cosh(L)^3*k[0]*k[1]^3-3*sinh(L)*cosh(L)^2*k[0]^2
+*k[1]-6*sinh(L)*cosh(L)^2*k[0]*k[1]^2-sinh(L)*cosh(L)^2*k[1]^3+sinh(L)
+*k[0]^2*k[1]^3+cosh(L)^3*k[0]^2+6*cosh(L)^3*k[0]*k[1]+3*cosh(L)^3*k[1]
+^2-3*cosh(L)*k[0]^2*k[1]^2-2*cosh(L)*k[0]*k[1]^3-2*cosh(L)^2*k[0]*sinh
+(L)-3*sinh(L)*cosh(L)^2*k[1]+2*k[0]*k[1]^2*sinh(L)+cosh(L)^3-4*cosh(L)
+*k[0]*k[1]-2*cosh(L)*k[1]^2+k[1]*sinh(L)-cosh(L))+(3/8)*sinh(L)*(cosh(
+L)^2*k[0]*k[1]-sinh(L)*cosh(L)*k[0]-sinh(L)*cosh(L)*k[1]+cosh(L)^2-k[0
+]*k[1])*(D(k))(0)*(D(k))(s[1])/(cosh(L)^2*k[0]^2*k[1]^2-2*cosh(L)*k[0]
+^2*k[1]*sinh(L)-2*cosh(L)*k[0]*k[1]^2*sinh(L)+cosh(L)^2*k[0]^2+4*cosh(
+L)^2*k[0]*k[1]+cosh(L)^2*k[1]^2-k[0]^2*k[1]^2-2*sinh(L)*cosh(L)*k[0]-2
+*sinh(L)*cosh(L)*k[1]+cosh(L)^2-2*k[0]*k[1]-1):" }}}{PARA 0 "" 0 "" 
+{TEXT 210 0 "" }}}{PARA 0 "" 0 "" {TEXT 210 0 "" }}{PARA 0 "" 0 "" 
+{TEXT 210 0 "" }}{SECT 0 {PARA 3 "" 0 "" {TEXT 210 11 "im(c[2,1]])" }}
+{PARA 0 "" 0 "" {TEXT 210 139 "n this worksheet we determine the expre
+ssion of the immaginary and real part of c[2,1] as as function of L, r
+[0], r[1] and its derivatives." }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 8 "restart:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 185 "Imaginary
+ := Im(c[21]) = -1/8*(a[1,0]*(-3*b[3,0]+3*omega^4*a[0,3]+omega^2*a[2,1
+]-b[1,2]*omega^2)-b[1,0]*(-omega^3*a[1,2]-3*omega*a[3,0]-b[2,1]*omega-
+3*b[0,3]*omega^3)/omega)/(omega^2);\n" }{MPLTEXT 1 0 184 "Real:=Re(c[2
+1]) = -1/8*a[1,0]*(-omega^3*a[1,2]-3*omega*a[3,0]-b[2,1]*omega-3*b[0,3
+]*omega^3)/(omega^2)-1/8*b[1,0]*(-3*b[3,0]+3*omega^4*a[0,3]+omega^2*a[
+2,1]-b[1,2]*omega^2)/(omega^3);\n" }}{PARA 11 "" 1 "" {XPPMATH 20 "/-I
+#ImG%*protectedG6#&I\"cG6\"6#\"#@,$*(#\"\"\"\"\")F/,&*&&I\"aGF)6$F/\"
+\"!F/,**(\"\"$F/)I&omegaGF)\"\"%F/&F46$F6F9F/F/*&)F;\"\"#F/&F46$FAF/F/
+F/*&F@F/&I\"bGF)6$F/FAF/!\"\"*&F9F/&FF6$F9F6F/FHF/F/*(&FFF5F/,**&)F;F9
+F/&F4FGF/FH*(F9F/FPF/&FFF>F/FH*(F9F/F;F/&F4FKF/FH*&F;F/&FFFCF/FHF/F;FH
+FHF/F@FHFH" }}{PARA 11 "" 1 "" {XPPMATH 20 "/-I#ReG%*protectedG6#&I\"c
+G6\"6#\"#@,&**#\"\"\"\"\")F/&I\"aGF)6$F/\"\"!F/,**&)I&omegaGF)\"\"$F/&
+F26$F/\"\"#F/!\"\"*(F9F/F7F/&I\"bGF)6$F4F9F/F=*(F9F/F8F/&F26$F9F4F/F=*
+&F8F/&F@6$F<F/F/F=F/)F8F<F=F=**F.F/&F@F3F/,**(F9F/)F8\"\"%F/&F2FAF/F/*
+&FHF/&F2FGF/F/*&FHF/&F@F;F/F=*&F9F/&F@FDF/F=F/F7F=F=" }}}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 65 "define_omega:=omega=sqrt(-b[1,0]/a[0,1]);
+assume(omega,positive);\n" }{MPLTEXT 1 0 6 "eq1:=\n" }{MPLTEXT 1 0 9 "
+a[1,0] = " }{MPLTEXT 1 0 98 "(k[1]*sin(L)-cos(L))*(k[0]*sin(L)-cos(L))
++sin(L)*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))" }{MPLTEXT 
+1 0 2 ",\n" }{MPLTEXT 1 0 9 "a[0,1] = " }{MPLTEXT 1 0 29 "2*sin(L)*(k[
+1]*sin(L)-cos(L))" }{MPLTEXT 1 0 2 ",\n" }{MPLTEXT 1 0 9 "b[1,0] = " }
+{MPLTEXT 1 0 74 "(2*(k[0]*sin(L)-cos(L)))*(k[1]*k[0]*sin(L)-k[1]*cos(L
+)-sin(L)-k[0]*cos(L))" }{MPLTEXT 1 0 2 ",\n" }{MPLTEXT 1 0 9 "b[0,1] =
+ " }{MPLTEXT 1 0 98 "(k[1]*sin(L)-cos(L))*(k[0]*sin(L)-cos(L))+sin(L)*
+(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))" }{MPLTEXT 1 0 1 ":"
+ }}{PARA 11 "" 1 "" {XPPMATH 20 "/I&omegaG6\"*$),$*&&I\"bGF$6$\"\"\"\"
+\"!F,&I\"aGF$6$F-F,!\"\"F1#F,\"\"#F," }}}{PARA 0 "" 0 "" {TEXT 210 
+100 "As we can see above, c[2,1] is a linear combination of the a[i,j]
+ (i+j=3) and thus can be written as" }}{PARA 0 "" 0 "" {TEXT 210 9 "c[
+2,1] = " }{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-mi(\"\"), Type
+setting:-mrow(Typesetting:-mi(\"E\", italic = \"true\", mathvariant = \+
+\"italic\"), Typesetting:-mo(\"+\", mathvariant = \"normal\", fence = \+
+\"false\", separator = \"false\", stretchy = \"false\", symmetric = \"
+false\", largeop = \"false\", movablelimits = \"false\", accent = \"fa
+lse\", lspace = \"0.2222222em\", rspace = \"0.2222222em\"), Typesettin
+g:-mrow(Typesetting:-mi(\"E00\", italic = \"true\", mathvariant = \"it
+alic\"), Typesetting:-mo(\"&ApplyFunction;\", mathvariant = \"normal\"
+, fence = \"false\", separator = \"false\", stretchy = \"false\", symm
+etric = \"false\", largeop = \"false\", movablelimits = \"false\", acc
+ent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:
+-msup(Typesetting:-mfenced(Typesetting:-mrow(Typesetting:-mi(\"\"), Ty
+pesetting:-mrow(Typesetting:-mi(\"\"), Typesetting:-mrow(Typesetting:-
+mi(\"D\", italic = \"false\", mathvariant = \"normal\"), Typesetting:-
+mo(\"&ApplyFunction;\", mathvariant = \"normal\", fence = \"false\", s
+eparator = \"false\", stretchy = \"false\", symmetric = \"false\", lar
+geop = \"false\", movablelimits = \"false\", accent = \"false\", lspac
+e = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mfenced(Typesetting:-
+mrow(Typesetting:-mi(\"k\", italic = \"true\", mathvariant = \"italic
+\")), mathvariant = \"normal\")), Typesetting:-mo(\"&ApplyFunction;\",
+ mathvariant = \"normal\", fence = \"false\", separator = \"false\", s
+tretchy = \"false\", symmetric = \"false\", largeop = \"false\", movab
+lelimits = \"false\", accent = \"false\", lspace = \"0.0em\", rspace =
+ \"0.0em\"), Typesetting:-mfenced(Typesetting:-mrow(Typesetting:-mn(\"
+0\", mathvariant = \"normal\")), mathvariant = \"normal\")), Typesetti
+ng:-mi(\"\")), mathvariant = \"normal\"), Typesetting:-mn(\"2\", mathv
+ariant = \"normal\"), superscriptshift = \"0\")), Typesetting:-mo(\"+
+\", mathvariant = \"normal\", fence = \"false\", separator = \"false\"
+, stretchy = \"false\", symmetric = \"false\", largeop = \"false\", mo
+vablelimits = \"false\", accent = \"false\", lspace = \"0.2222222em\",
+ rspace = \"0.2222222em\"), Typesetting:-mrow(Typesetting:-mi(\"\"), T
+ypesetting:-mrow(Typesetting:-mi(\"E01\", italic = \"true\", mathvaria
+nt = \"italic\"), Typesetting:-mo(\"&ApplyFunction;\", mathvariant = \+
+\"normal\", fence = \"false\", separator = \"false\", stretchy = \"fal
+se\", symmetric = \"false\", largeop = \"false\", movablelimits = \"fa
+lse\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Ty
+pesetting:-mfenced(Typesetting:-mrow(Typesetting:-mi(\"\"), Typesettin
+g:-mrow(Typesetting:-mi(\"\"), Typesetting:-mrow(Typesetting:-mi(\"D\"
+, italic = \"false\", mathvariant = \"normal\"), Typesetting:-mo(\"&Ap
+plyFunction;\", mathvariant = \"normal\", fence = \"false\", separator
+ = \"false\", stretchy = \"false\", symmetric = \"false\", largeop = \+
+\"false\", movablelimits = \"false\", accent = \"false\", lspace = \"0
+.0em\", rspace = \"0.0em\"), Typesetting:-mfenced(Typesetting:-mrow(Ty
+pesetting:-mi(\"k\", italic = \"true\", mathvariant = \"italic\")), ma
+thvariant = \"normal\")), Typesetting:-mo(\"&ApplyFunction;\", mathvar
+iant = \"normal\", fence = \"false\", separator = \"false\", stretchy \+
+= \"false\", symmetric = \"false\", largeop = \"false\", movablelimits
+ = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em
+\"), Typesetting:-mfenced(Typesetting:-mrow(Typesetting:-mn(\"0\", mat
+hvariant = \"normal\")), mathvariant = \"normal\")), Typesetting:-mi(
+\"\")), mathvariant = \"normal\")), Typesetting:-mo(\"&ApplyFunction;
+\", mathvariant = \"normal\", fence = \"false\", separator = \"false\"
+, stretchy = \"false\", symmetric = \"false\", largeop = \"false\", mo
+vablelimits = \"false\", accent = \"false\", lspace = \"0.0em\", rspac
+e = \"0.0em\"), Typesetting:-mfenced(Typesetting:-mrow(Typesetting:-mi
+(\"\"), Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetting:-mrow(Typ
+esetting:-mi(\"D\", italic = \"false\", mathvariant = \"normal\"), Typ
+esetting:-mo(\"&ApplyFunction;\", mathvariant = \"normal\", fence = \"
+false\", separator = \"false\", stretchy = \"false\", symmetric = \"fa
+lse\", largeop = \"false\", movablelimits = \"false\", accent = \"fals
+e\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mfenced(Typ
+esetting:-mrow(Typesetting:-mi(\"k\", italic = \"true\", mathvariant =
+ \"italic\")), mathvariant = \"normal\")), Typesetting:-mo(\"&ApplyFun
+ction;\", mathvariant = \"normal\", fence = \"false\", separator = \"f
+alse\", stretchy = \"false\", symmetric = \"false\", largeop = \"false
+\", movablelimits = \"false\", accent = \"false\", lspace = \"0.0em\",
+ rspace = \"0.0em\"), Typesetting:-mfenced(Typesetting:-mrow(Typesetti
+ng:-msub(Typesetting:-mi(\"s\", italic = \"true\", mathvariant = \"ita
+lic\"), Typesetting:-mrow(Typesetting:-mn(\"1\", mathvariant = \"norma
+l\")), subscriptshift = \"0\")), mathvariant = \"normal\")), Typesetti
+ng:-mi(\"\")), mathvariant = \"normal\")), Typesetting:-mo(\"+\", math
+variant = \"normal\", fence = \"false\", separator = \"false\", stretc
+hy = \"false\", symmetric = \"false\", largeop = \"false\", movablelim
+its = \"false\", accent = \"false\", lspace = \"0.2222222em\", rspace \+
+= \"0.2222222em\"), Typesetting:-mrow(Typesetting:-mi(\"E11\", italic \+
+= \"true\", mathvariant = \"italic\"), Typesetting:-mo(\"&ApplyFunctio
+n;\", mathvariant = \"normal\", fence = \"false\", separator = \"false
+\", stretchy = \"false\", symmetric = \"false\", largeop = \"false\", \+
+movablelimits = \"false\", accent = \"false\", lspace = \"0.0em\", rsp
+ace = \"0.0em\"), Typesetting:-msup(Typesetting:-mfenced(Typesetting:-
+mrow(Typesetting:-mi(\"\"), Typesetting:-mrow(Typesetting:-mi(\"\"), T
+ypesetting:-mrow(Typesetting:-mi(\"D\", italic = \"false\", mathvarian
+t = \"normal\"), Typesetting:-mo(\"&ApplyFunction;\", mathvariant = \"
+normal\", fence = \"false\", separator = \"false\", stretchy = \"false
+\", symmetric = \"false\", largeop = \"false\", movablelimits = \"fals
+e\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Type
+setting:-mfenced(Typesetting:-mrow(Typesetting:-mi(\"k\", italic = \"t
+rue\", mathvariant = \"italic\")), mathvariant = \"normal\")), Typeset
+ting:-mo(\"&ApplyFunction;\", mathvariant = \"normal\", fence = \"fals
+e\", separator = \"false\", stretchy = \"false\", symmetric = \"false
+\", largeop = \"false\", movablelimits = \"false\", accent = \"false\"
+, lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mfenced(Typese
+tting:-mrow(Typesetting:-msub(Typesetting:-mi(\"s\", italic = \"true\"
+, mathvariant = \"italic\"), Typesetting:-mrow(Typesetting:-mn(\"1\", \+
+mathvariant = \"normal\")), subscriptshift = \"0\")), mathvariant = \"
+normal\")), Typesetting:-mi(\"\")), mathvariant = \"normal\"), Typeset
+ting:-mn(\"2\", mathvariant = \"normal\"), superscriptshift = \"0\")),
+ Typesetting:-mo(\"+\", mathvariant = \"normal\", fence = \"false\", s
+eparator = \"false\", stretchy = \"false\", symmetric = \"false\", lar
+geop = \"false\", movablelimits = \"false\", accent = \"false\", lspac
+e = \"0.2222222em\", rspace = \"0.2222222em\"), Typesetting:-mrow(Type
+setting:-mi(\"\"), Typesetting:-mrow(Typesetting:-mi(\"\"), Typesettin
+g:-mrow(Typesetting:-mi(\"EE0\", italic = \"true\", mathvariant = \"it
+alic\"), Typesetting:-mo(\"&ApplyFunction;\", mathvariant = \"normal\"
+, fence = \"false\", separator = \"false\", stretchy = \"false\", symm
+etric = \"false\", largeop = \"false\", movablelimits = \"false\", acc
+ent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:
+-mfenced(Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetting:-mrow(Ty
+pesetting:-msup(Typesetting:-mi(\"D\", italic = \"false\", mathvariant
+ = \"normal\"), Typesetting:-mn(\"2\", mathvariant = \"normal\"), supe
+rscriptshift = \"0\")), Typesetting:-mi(\"\")), mathvariant = \"normal
+\")), Typesetting:-mo(\"&ApplyFunction;\", mathvariant = \"normal\", f
+ence = \"false\", separator = \"false\", stretchy = \"false\", symmetr
+ic = \"false\", largeop = \"false\", movablelimits = \"false\", accent
+ = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mf
+enced(Typesetting:-mrow(Typesetting:-mi(\"k\", italic = \"true\", math
+variant = \"italic\")), mathvariant = \"normal\")), Typesetting:-mo(\"
+&ApplyFunction;\", mathvariant = \"normal\", fence = \"false\", separa
+tor = \"false\", stretchy = \"false\", symmetric = \"false\", largeop \+
+= \"false\", movablelimits = \"false\", accent = \"false\", lspace = \+
+\"0.0em\", rspace = \"0.0em\"), Typesetting:-mfenced(Typesetting:-mrow
+(Typesetting:-mn(\"0\", mathvariant = \"normal\")), mathvariant = \"no
+rmal\")), Typesetting:-mo(\"+\", mathvariant = \"normal\", fence = \"f
+alse\", separator = \"false\", stretchy = \"false\", symmetric = \"fal
+se\", largeop = \"false\", movablelimits = \"false\", accent = \"false
+\", lspace = \"0.2222222em\", rspace = \"0.2222222em\"), Typesetting:-
+mrow(Typesetting:-mi(\"\"), Typesetting:-mrow(Typesetting:-mi(\"\"), T
+ypesetting:-mrow(Typesetting:-mi(\"EE1\", italic = \"true\", mathvaria
+nt = \"italic\"), Typesetting:-mo(\"&ApplyFunction;\", mathvariant = \+
+\"normal\", fence = \"false\", separator = \"false\", stretchy = \"fal
+se\", symmetric = \"false\", largeop = \"false\", movablelimits = \"fa
+lse\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Ty
+pesetting:-mfenced(Typesetting:-mrow(Typesetting:-mi(\"\"), Typesettin
+g:-mrow(Typesetting:-msup(Typesetting:-mi(\"D\", italic = \"false\", m
+athvariant = \"normal\"), Typesetting:-mn(\"2\", mathvariant = \"norma
+l\"), superscriptshift = \"0\")), Typesetting:-mi(\"\")), mathvariant \+
+= \"normal\")), Typesetting:-mo(\"&ApplyFunction;\", mathvariant = \"n
+ormal\", fence = \"false\", separator = \"false\", stretchy = \"false
+\", symmetric = \"false\", largeop = \"false\", movablelimits = \"fals
+e\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Type
+setting:-mfenced(Typesetting:-mrow(Typesetting:-mi(\"k\", italic = \"t
+rue\", mathvariant = \"italic\")), mathvariant = \"normal\")), Typeset
+ting:-mo(\"&ApplyFunction;\", mathvariant = \"normal\", fence = \"fals
+e\", separator = \"false\", stretchy = \"false\", symmetric = \"false
+\", largeop = \"false\", movablelimits = \"false\", accent = \"false\"
+, lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mfenced(Typese
+tting:-mrow(Typesetting:-msub(Typesetting:-mi(\"s\", italic = \"true\"
+, mathvariant = \"italic\"), Typesetting:-mrow(Typesetting:-mn(\"1\", \+
+mathvariant = \"normal\")), subscriptshift = \"0\")), mathvariant = \"
+normal\")), Typesetting:-mi(\"\")), Typesetting:-mi(\"\"));" "-I%mrowG
+6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6%-I#miGF$6#Q!F'-F#6.-F,6
+%Q\"EF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'-I#moGF$6-Q\"+F'/F8Q
+'normalF'/%&fenceGQ&falseF'/%*separatorGFB/%)stretchyGFB/%*symmetricGF
+B/%(largeopGFB/%.movablelimitsGFB/%'accentGFB/%'lspaceGQ,0.2222222emF'
+/%'rspaceGFQ-F#6%-F,6%Q$E00F'F4F7-F;6-Q0&ApplyFunction;F'F>F@FCFEFGFIF
+KFM/FPQ&0.0emF'/FSFgn-I%msupGF$6%-I(mfencedGF$6$-F#6%F+-F#6&F+-F#6%-F,
+6%Q\"DF'/F5FBF>FY-F]o6$-F#6#-F,6%Q\"kF'F4F7F>FY-F]o6$-F#6#-I#mnGF$6$Q
+\"0F'F>F>F+F>-Fep6$Q\"2F'F>/%1superscriptshiftGFgpF:-F#6&F+-F#6%-F,6%Q
+$E01F'F4F7FYF\\oFY-F]o6$-F#6%F+-F#6&F+FcoFY-F]o6$-F#6#-I%msubGF$6%-F,6
+%Q\"sF'F4F7-F#6#-Fep6$Q\"1F'F>/%/subscriptshiftGFgpF>F+F>F:-F#6%-F,6%Q
+$E11F'F4F7FY-Fjn6%FdqFhpF[qF:-F#6&F+-F#6&F+-F#6%-F,6%Q$EE0F'F4F7FY-F]o
+6$-F#6%F+-F#6#-Fjn6%FeoFhpF[qF+F>FYFioFYF`pF:-F#6&F+-F#6&F+-F#6%-F,6%Q
+$EE1F'F4F7FYF[tFYFioFYFjqF+F+" }{TEXT 210 0 "" }}{PARA 0 "" 0 "" {TEXT
+ 210 30 "where the E\264s dependend on L, " }{XPPEDIT 18 0 "Typesettin
+g:-mrow(Typesetting:-msub(Typesetting:-mi(\"k\", italic = \"true\", ma
+thvariant = \"italic\"), Typesetting:-mrow(Typesetting:-mn(\"0\", math
+variant = \"normal\")), subscriptshift = \"0\"));" "-I%mrowG6#/I+modul
+enameG6\"I,TypesettingGI(_syslibGF'6#-I%msubGF$6%-I#miGF$6%Q\"kF'/%'it
+alicGQ%trueF'/%,mathvariantGQ'italicF'-F#6#-I#mnGF$6$Q\"0F'/F6Q'normal
+F'/%/subscriptshiftGF=" }{TEXT 210 5 " and " }{XPPEDIT 18 0 "Typesetti
+ng:-mrow(Typesetting:-msub(Typesetting:-mi(\"k\", italic = \"true\", m
+athvariant = \"italic\"), Typesetting:-mrow(Typesetting:-mn(\"1\", mat
+hvariant = \"normal\")), subscriptshift = \"0\"));" "-I%mrowG6#/I+modu
+lenameG6\"I,TypesettingGI(_syslibGF'6#-I%msubGF$6%-I#miGF$6%Q\"kF'/%'i
+talicGQ%trueF'/%,mathvariantGQ'italicF'-F#6#-I#mnGF$6$Q\"1F'/F6Q'norma
+lF'/%/subscriptshiftGQ\"0F'" }{TEXT 210 2 " ." }}{PARA 0 "" 0 "" {TEXT
+ 210 16 "Coefficient of  " }{XPPEDIT 18 0 "Typesetting:-mrow(Typesetti
+ng:-msub(Typesetting:-mi(\"k\", italic = \"true\", mathvariant = \"ita
+lic\"), Typesetting:-mrow(Typesetting:-mn(\"0\", mathvariant = \"norma
+l\")), subscriptshift = \"0\"));" "-I%mrowG6#/I+modulenameG6\"I,Typese
+ttingGI(_syslibGF'6#-I%msubGF$6%-I#miGF$6%Q\"kF'/%'italicGQ%trueF'/%,m
+athvariantGQ'italicF'-F#6#-I#mnGF$6$Q\"0F'/F6Q'normalF'/%/subscriptshi
+ftGF=" }{TEXT 210 3 "\264\264 " }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 8 "eqd20:=\n" }{MPLTEXT 1 0 43 "a[3,0] =(1/3)*sin(L)*(k[1]*sin(L)-co
+s(L)),\n" }{MPLTEXT 1 0 31 "a[2,1]=0, a[1,2] =0, a[0,3]=0,\n" }
+{MPLTEXT 1 0 7 "b[3,0]=" }{MPLTEXT 1 0 1195 "4*cos(L)*k[0]^2*k[1]*sin(
+L)+(4/3)*k[0]*k[1]-16*sin(L)*cos(L)^3*k[0]^2*k[1]+4*sin(L)*cos(L)^3*k[
+0]+4*sin(L)*cos(L)^3*k[1]-(4/3)*sin(L)*cos(L)*k[0]-(4/3)*k[1]*sin(L)*c
+os(L)-2*cos(L)^4+(4/3)*cos(L)^2-2*cos(L)^2*k[0]^2-(28/3)*cos(L)^2*k[0]
+*k[1]-8*cos(L)^4*k[0]^3*k[1]+20*cos(L)^4*k[0]*k[1]+4*cos(L)^2*k[0]^3*k
+[1]-(4/3)*sin(L)*cos(L)^3*k[0]^3+8*sin(L)*cos(L)^3*k[0]^2*k[1]^3-16*si
+n(L)*cos(L)^3*k[0]*k[1]^2-4*sin(L)*cos(L)^5*k[0]^3*k[1]^2-4*sin(L)*cos
+(L)^5*k[0]^2*k[1]^3+12*sin(L)*cos(L)^5*k[0]^2*k[1]+12*sin(L)*cos(L)^5*
+k[0]*k[1]^2+8*sin(L)*cos(L)^3*k[0]^3*k[1]^2-(4/3)*sin(L)*cos(L)^3*k[1]
+^3+(4/3)*sin(L)*cos(L)^5*k[0]^3+(4/3)*sin(L)*cos(L)^5*k[1]^3+4*cos(L)^
+4*k[0]^3*k[1]^3-26*cos(L)^4*k[0]^2*k[1]^2-8*cos(L)^4*k[0]*k[1]^3-4*cos
+(L)^2*k[0]^3*k[1]^3-(4/3)*cos(L)^6*k[0]^3*k[1]^3+4*cos(L)^6*k[0]^3*k[1
+]+12*cos(L)^6*k[0]^2*k[1]^2+4*cos(L)^6*k[0]*k[1]^3-12*cos(L)^6*k[0]*k[
+1]+16*cos(L)^2*k[0]^2*k[1]^2+4*cos(L)^2*k[0]*k[1]^3+4*cos(L)*k[0]*k[1]
+^2*sin(L)-4*cos(L)^6*k[0]^2-4*cos(L)^6*k[1]^2-2*cos(L)^2*k[1]^2+6*cos(
+L)^4*k[1]^2+(4/3)*cos(L)^6+(4/3)*k[0]^3*k[1]^3-2*k[0]^2*k[1]^2-4*sin(L
+)*cos(L)^5*k[0]-4*sin(L)*cos(L)^5*k[1]-1/3-4*cos(L)*k[0]^3*k[1]^2*sin(
+L)-4*cos(L)*k[0]^2*k[1]^3*sin(L)+6*cos(L)^4*k[0]^2" }{MPLTEXT 1 0 2 ",
+\n" }{MPLTEXT 1 0 8 "b[2,1]= " }{MPLTEXT 1 0 721 "sin(L)*(k[1]*sin(L)-
+cos(L)+12*sin(L)*cos(L)^2*k[0]^2*k[1]+4*cos(L)^3-4*sin(L)*cos(L)^2*k[0
+]-8*sin(L)*cos(L)^2*k[1]+8*cos(L)*k[0]*k[1]-4*cos(L)^3*k[0]^2-32*cos(L
+)^3*k[0]*k[1]+4*cos(L)^5*k[0]^2+12*cos(L)^5*k[1]^2+4*sin(L)*cos(L)^4*k
+[0]^2*k[1]^3-12*sin(L)*cos(L)^4*k[0]^2*k[1]-24*sin(L)*cos(L)^4*k[0]*k[
+1]^2-8*sin(L)*cos(L)^2*k[0]^2*k[1]^3+28*sin(L)*cos(L)^2*k[0]*k[1]^2-12
+*cos(L)^5*k[0]^2*k[1]^2-8*cos(L)^5*k[0]*k[1]^3+24*cos(L)^5*k[0]*k[1]+2
+4*cos(L)^3*k[0]^2*k[1]^2+16*cos(L)^3*k[0]*k[1]^3-4*sin(L)*cos(L)^4*k[1
+]^3+4*sin(L)*cos(L)^2*k[1]^3-16*cos(L)^3*k[1]^2-4*cos(L)^5+4*cos(L)*k[
+1]^2-8*cos(L)*k[0]*k[1]^3-4*k[0]*k[1]^2*sin(L)-12*cos(L)*k[0]^2*k[1]^2
++4*k[0]^2*k[1]^3*sin(L)+8*sin(L)*cos(L)^4*k[0]+12*sin(L)*cos(L)^4*k[1]
+)" }{MPLTEXT 1 0 2 ",\n" }{MPLTEXT 1 0 7 "b[1,2]=" }{MPLTEXT 1 0 350 "
+2*sin(L)^2*(2*cos(L)^4*k[0]*k[1]^3+6*sin(L)*cos(L)^3*k[0]*k[1]^2+2*sin
+(L)*cos(L)^3*k[1]^3-6*cos(L)^4*k[0]*k[1]-6*cos(L)^4*k[1]^2-4*cos(L)^2*
+k[0]*k[1]^3-2*sin(L)*cos(L)^3*k[0]-6*sin(L)*cos(L)^3*k[1]-6*cos(L)*k[0
+]*k[1]^2*sin(L)-2*cos(L)*k[1]^3*sin(L)+2*cos(L)^4+6*cos(L)^2*k[0]*k[1]
++7*cos(L)^2*k[1]^2+2*k[0]*k[1]^3+2*sin(L)*cos(L)*k[1]-cos(L)^2-k[1]^2)
+" }{MPLTEXT 1 0 2 ",\n" }{MPLTEXT 1 0 129 "b[0,3]= -(4/3)*sin(L)^3*(si
+n(L)*cos(L)^2*k[1]^3-3*cos(L)^3*k[1]^2-3*sin(L)*cos(L)^2*k[1]-k[1]^3*s
+in(L)+cos(L)^3+3*cos(L)*k[1]^2):" }}}{PARA 0 "" 0 "" {TEXT 210 16 "Coe
+fficient of  " }{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-msub(Typ
+esetting:-mi(\"k\", italic = \"true\", mathvariant = \"italic\"), Type
+setting:-mrow(Typesetting:-mn(\"1\", mathvariant = \"normal\")), subsc
+riptshift = \"0\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_sys
+libGF'6#-I%msubGF$6%-I#miGF$6%Q\"kF'/%'italicGQ%trueF'/%,mathvariantGQ
+'italicF'-F#6#-I#mnGF$6$Q\"1F'/F6Q'normalF'/%/subscriptshiftGQ\"0F'" }
+{TEXT 210 2 "\264\264" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "eqd2
+1:=\n" }{MPLTEXT 1 0 127 "a[3,0]=-(1/3)*sin(L)*(sin(L)*cos(L)^2*k[0]^3
+-3*cos(L)^3*k[0]^2-3*sin(L)*cos(L)^2*k[0]-sin(L)*k[0]^3+cos(L)^3+3*cos
+(L)*k[0]^2),\n" }{MPLTEXT 1 0 73 "a[2,1]=-sin(L)^2*(cos(L)^2*k[0]^2+2*
+sin(L)*cos(L)*k[0]-cos(L)^2-k[0]^2),\n" }{MPLTEXT 1 0 38 "a[1,2]=sin(L
+)^3*(k[0]*sin(L)-cos(L)),\n" }{MPLTEXT 1 0 23 "a[0,3]=(1/3)*sin(L)^4,
+\n" }{MPLTEXT 1 0 199 "b[3,0]=(1/3)*cos(L)^4*k[0]^4+(4/3)*sin(L)*cos(L
+)^3*k[0]^3-2*cos(L)^4*k[0]^2-(2/3)*cos(L)^2*k[0]^4-(4/3)*sin(L)*cos(L)
+^3*k[0]-(4/3)*cos(L)*k[0]^3*sin(L)+(1/3)*cos(L)^4+2*cos(L)^2*k[0]^2+(1
+/3)*k[0]^4,\n" }{MPLTEXT 1 0 121 "b[2,1]=-sin(L)*(sin(L)*cos(L)^2*k[0]
+^3-3*cos(L)^3*k[0]^2-3*sin(L)*cos(L)^2*k[0]-sin(L)*k[0]^3+cos(L)^3+3*c
+os(L)*k[0]^2),\n" }{MPLTEXT 1 0 73 "b[1,2]=-sin(L)^2*(cos(L)^2*k[0]^2+
+2*sin(L)*cos(L)*k[0]-cos(L)^2-k[0]^2),\n" }{MPLTEXT 1 0 43 "b[0,3]=(1/
+3)*sin(L)^3*(k[0]*sin(L)-cos(L)):" }}}{PARA 0 "" 0 "" {TEXT 210 16 "Co
+efficient of  " }{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-msub(Ty
+pesetting:-mi(\"k\", italic = \"true\", mathvariant = \"italic\"), Typ
+esetting:-mrow(Typesetting:-mn(\"0\", mathvariant = \"normal\")), subs
+criptshift = \"0\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_sy
+slibGF'6#-I%msubGF$6%-I#miGF$6%Q\"kF'/%'italicGQ%trueF'/%,mathvariantG
+Q'italicF'-F#6#-I#mnGF$6$Q\"0F'/F6Q'normalF'/%/subscriptshiftGF=" }
+{TEXT 210 2 "\264 " }{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-msu
+b(Typesetting:-mi(\"k\", italic = \"true\", mathvariant = \"italic\"),
+ Typesetting:-mrow(Typesetting:-mn(\"1\", mathvariant = \"normal\")), \+
+subscriptshift = \"0\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI
+(_syslibGF'6#-I%msubGF$6%-I#miGF$6%Q\"kF'/%'italicGQ%trueF'/%,mathvari
+antGQ'italicF'-F#6#-I#mnGF$6$Q\"1F'/F6Q'normalF'/%/subscriptshiftGQ\"0
+F'" }{TEXT 210 2 "\264 " }}{EXCHG {PARA 209 "> " 0 "" {MPLTEXT 1 0 9 "
+eqd0d1:=\n" }{MPLTEXT 1 0 40 "a[3,0] = (k[0]*sin(L)-cos(L))*sin(L)^2,
+\n" }{MPLTEXT 1 0 19 "a[2,1] = sin(L)^3,\n" }{MPLTEXT 1 0 12 "a[1,2] =
+ 0,\n" }{MPLTEXT 1 0 12 "a[0,3] = 0,\n" }{MPLTEXT 1 0 9 "b[3,0] = " }
+{MPLTEXT 1 0 301 "2*sin(L)*(cos(L)^4*k[0]^3*k[1]+sin(L)*cos(L)^3*k[0]^
+3+3*sin(L)*cos(L)^3*k[0]^2*k[1]-3*cos(L)^4*k[0]^2-3*cos(L)^4*k[0]*k[1]
+-2*cos(L)^2*k[0]^3*k[1]-3*sin(L)*cos(L)^3*k[0]-sin(L)*cos(L)^3*k[1]-co
+s(L)*k[0]^3*sin(L)-3*cos(L)*k[0]^2*k[1]*sin(L)+cos(L)^4+3*cos(L)^2*k[0
+]^2+3*cos(L)^2*k[0]*k[1]+k[0]^3*k[1]),\n" }{MPLTEXT 1 0 9 "b[2,1] = " 
+}{MPLTEXT 1 0 217 "-sin(L)^2*(6*sin(L)*cos(L)^2*k[0]^2*k[1]-6*cos(L)^3
+*k[0]^2-12*cos(L)^3*k[0]*k[1]-12*sin(L)*cos(L)^2*k[0]-6*sin(L)*cos(L)^
+2*k[1]-6*k[0]^2*k[1]*sin(L)+6*cos(L)^3+6*cos(L)*k[0]^2+12*cos(L)*k[0]*
+k[1]+k[0]*sin(L)-cos(L)),\n" }{MPLTEXT 1 0 110 "b[1,2] = -sin(L)^3*(6*
+cos(L)^2*k[0]*k[1]+6*sin(L)*cos(L)*k[0]+6*sin(L)*cos(L)*k[1]-6*cos(L)^
+2-6*k[0]*k[1]+1),\n" }{MPLTEXT 1 0 40 "b[0,3] = 2*sin(L)^4*(k[1]*sin(L
+)-cos(L))" }{XPPEDIT 19 1 "Typesetting:-mi(\"?\", italic = \"true\", m
+athvariant = \"italic\");" "-I#miG6#/I+modulenameG6\"I,TypesettingGI(_
+syslibGF'6%Q\"?F'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'" }
+{MPLTEXT 1 0 1 ":" }}}{PARA 0 "" 0 "" {TEXT 210 16 "Coefficient of  " 
+}{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-msub(Typesetting:-mi(\"
+k\", italic = \"true\", mathvariant = \"italic\"), Typesetting:-mrow(T
+ypesetting:-mn(\"0\", mathvariant = \"normal\")), subscriptshift = \"0
+\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6#-I%msub
+GF$6%-I#miGF$6%Q\"kF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'-F#6#-
+I#mnGF$6$Q\"0F'/F6Q'normalF'/%/subscriptshiftGF=" }{TEXT 210 1 "\264" 
+}{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-msub(Typesetting:-mi(\"
+k\", italic = \"true\", mathvariant = \"italic\"), Typesetting:-mrow(T
+ypesetting:-mn(\"0\", mathvariant = \"normal\")), subscriptshift = \"0
+\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6#-I%msub
+GF$6%-I#miGF$6%Q\"kF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'-F#6#-
+I#mnGF$6$Q\"0F'/F6Q'normalF'/%/subscriptshiftGF=" }{TEXT 210 1 "\264" 
+}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 9 "eqd0d0:=\n" }{MPLTEXT 1 0 
+11 "a[3,0]= 0,\n" }{MPLTEXT 1 0 10 "a[2,1]=0,\n" }{MPLTEXT 1 0 10 "a[1
+,2]=0,\n" }{MPLTEXT 1 0 10 "a[0,3]=0,\n" }{MPLTEXT 1 0 219 "b[3,0]=-si
+n(L)*(2*sin(L)*cos(L)^2*k[0]*k[1]^2-4*cos(L)^3*k[0]*k[1]-2*cos(L)^3*k[
+1]^2-2*sin(L)*cos(L)^2*k[0]-4*sin(L)*cos(L)^2*k[1]-2*k[0]*k[1]^2*sin(L
+)+2*cos(L)^3+4*cos(L)*k[0]*k[1]+2*cos(L)*k[1]^2+k[1]*sin(L)-cos(L)),\n
+" }{MPLTEXT 1 0 7 "b[2,1]=" }{MPLTEXT 1 0 67 "-2*sin(L)^2*(cos(L)^2*k[
+1]^2+2*sin(L)*cos(L)*k[1]-cos(L)^2-k[1]^2)," }{MPLTEXT 1 0 1 "\n" }
+{MPLTEXT 1 0 10 "b[1,2]=0,\n" }{MPLTEXT 1 0 9 "b[0,3]=0:" }}}{PARA 0 "
+" 0 "" {TEXT 210 17 "Coefficient of   " }{XPPEDIT 18 0 "Typesetting:-m
+row(Typesetting:-msub(Typesetting:-mi(\"k\", italic = \"true\", mathva
+riant = \"italic\"), Typesetting:-mrow(Typesetting:-mn(\"1\", mathvari
+ant = \"normal\")), subscriptshift = \"0\"));" "-I%mrowG6#/I+modulenam
+eG6\"I,TypesettingGI(_syslibGF'6#-I%msubGF$6%-I#miGF$6%Q\"kF'/%'italic
+GQ%trueF'/%,mathvariantGQ'italicF'-F#6#-I#mnGF$6$Q\"1F'/F6Q'normalF'/%
+/subscriptshiftGQ\"0F'" }{TEXT 210 1 "\264" }{XPPEDIT 18 0 "Typesettin
+g:-mrow(Typesetting:-msub(Typesetting:-mi(\"k\", italic = \"true\", ma
+thvariant = \"italic\"), Typesetting:-mrow(Typesetting:-mn(\"1\", math
+variant = \"normal\")), subscriptshift = \"0\"));" "-I%mrowG6#/I+modul
+enameG6\"I,TypesettingGI(_syslibGF'6#-I%msubGF$6%-I#miGF$6%Q\"kF'/%'it
+alicGQ%trueF'/%,mathvariantGQ'italicF'-F#6#-I#mnGF$6$Q\"1F'/F6Q'normal
+F'/%/subscriptshiftGQ\"0F'" }{TEXT 210 1 "\264" }}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 9 "eqd1d1:=\n" }{MPLTEXT 1 0 11 "a[3,0]= 0,\n" }
+{MPLTEXT 1 0 11 "a[2,1]= 0,\n" }{MPLTEXT 1 0 11 "a[1,2]= 0,\n" }
+{MPLTEXT 1 0 11 "a[0,3]= 0,\n" }{MPLTEXT 1 0 11 "b[3,0]= 0,\n" }
+{MPLTEXT 1 0 11 "b[2,1]= 0,\n" }{MPLTEXT 1 0 11 "b[1,2]= 0,\n" }
+{MPLTEXT 1 0 10 "b[0,3]= 0:" }}}{PARA 0 "" 0 "" {TEXT 210 16 "Independ
+ent term" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 7 "eq00:=\n" }
+{MPLTEXT 1 0 7 "a[3,0]=" }{MPLTEXT 1 0 1937 "(7/3)*cos(L)*k[0]*sin(L)-
+(2/3)*sin(L)*cos(L)*k[1]-64*sin(L)*cos(L)^5*k[0]^2*k[1]-36*sin(L)*cos(
+L)^5*k[0]*k[1]^2+63*sin(L)*cos(L)^3*k[0]^2*k[1]-k[0]^2-(4/3)*cos(L)^2-
+4*k[0]^4*k[1]^2+(11/3)*k[0]^3*k[1]-(56/3)*sin(L)*cos(L)^5*k[0]^3-(8/3)
+*sin(L)*cos(L)^5*k[1]^3+36*cos(L)^6*k[0]*k[1]+12*sin(L)*cos(L)^5*k[0]+
+8*sin(L)*cos(L)^5*k[1]+(56/3)*sin(L)*cos(L)^3*k[0]^3-(1/3)*sin(L)*cos(
+L)^3*k[1]^3-47*cos(L)^4*k[0]*k[1]-12*sin(L)*cos(L)^3*k[0]-5*sin(L)*cos
+(L)^3*k[1]+(64/3)*cos(L)^6*k[0]^2+8*cos(L)^6*k[1]^2-32*cos(L)^4*k[0]^2
+-6*cos(L)^4*k[1]^2+4*cos(L)^4+(1/3)*k[0]^3*k[1]^3-k[0]^2*k[1]^2-(35/3)
+*cos(L)*k[0]^2*k[1]*sin(L)+2*sin(L)*cos(L)*k[0]*k[1]^2+18*cos(L)*k[0]^
+3*k[1]^2*sin(L)-cos(L)*k[0]^2*k[1]^3*sin(L)+(2/3)*k[0]*k[1]-(8/3)*cos(
+L)^6+4*cos(L)^2*k[0]^5*k[1]+32*cos(L)^2*k[0]^4*k[1]^2+18*cos(L)^2*k[0]
+^3*k[1]^3-(122/3)*cos(L)^2*k[0]^3*k[1]-29*cos(L)^2*k[0]^2*k[1]^2+(37/3
+)*cos(L)^2*k[0]*k[1]+93*cos(L)^4*k[0]^3*k[1]+94*cos(L)^4*k[0]^2*k[1]^2
++11*cos(L)^4*k[0]*k[1]^3+cos(L)^2*k[0]*k[1]^3+(4/3)*k[0]^5*k[1]^3-(11/
+3)*cos(L)*k[0]^3*sin(L)+16*sin(L)*cos(L)^3*k[0]^4*k[1]^3-32*sin(L)*cos
+(L)^3*k[0]^4*k[1]-74*sin(L)*cos(L)^3*k[0]^3*k[1]^2-(61/3)*sin(L)*cos(L
+)^3*k[0]^2*k[1]^3-4*sin(L)*cos(L)*k[0]^5*k[1]^2-8*sin(L)*cos(L)*k[0]^4
+*k[1]^3+8*sin(L)*cos(L)*k[0]^4*k[1]-4*sin(L)*cos(L)^5*k[0]^5*k[1]^2-8*
+sin(L)*cos(L)^5*k[0]^4*k[1]^3+24*sin(L)*cos(L)^5*k[0]^4*k[1]+56*sin(L)
+*cos(L)^5*k[0]^3*k[1]^2+(64/3)*sin(L)*cos(L)^5*k[0]^2*k[1]^3+8*sin(L)*
+cos(L)^3*k[0]^5*k[1]^2+22*sin(L)*cos(L)^3*k[0]*k[1]^2+(4/3)*sin(L)*cos
+(L)^5*k[0]^5-(4/3)*sin(L)*cos(L)^3*k[0]^5+4*cos(L)^4*k[0]^5*k[1]^3-8*c
+os(L)^4*k[0]^5*k[1]-52*cos(L)^4*k[0]^4*k[1]^2-37*cos(L)^4*k[0]^3*k[1]^
+3-4*cos(L)^2*k[0]^5*k[1]^3-(4/3)*cos(L)^6*k[0]^5*k[1]^3+4*cos(L)^6*k[0
+]^5*k[1]+24*cos(L)^6*k[0]^4*k[1]^2+(56/3)*cos(L)^6*k[0]^3*k[1]^3-56*co
+s(L)^6*k[0]^3*k[1]-64*cos(L)^6*k[0]^2*k[1]^2-12*cos(L)^6*k[0]*k[1]^3-8
+*cos(L)^6*k[0]^4-4*cos(L)^2*k[0]^4+(38/3)*cos(L)^2*k[0]^2+12*cos(L)^4*
+k[0]^4-cos(L)^2*k[1]^2" }{MPLTEXT 1 0 2 ",\n" }{MPLTEXT 1 0 2 "#\n" }
+{MPLTEXT 1 0 7 "a[2,1]=" }{MPLTEXT 1 0 1557 "-k[0]+k[1]+sin(L)*cos(L)-
+84*sin(L)*cos(L)^5*k[0]*k[1]+82*sin(L)*cos(L)^3*k[0]*k[1]+k[0]^2*k[1]^
+3-2*k[0]*k[1]^2+4*k[0]^4*k[1]^3-10*k[0]^3*k[1]^2+7*k[0]^2*k[1]-10*cos(
+L)^2*k[0]^3+16*cos(L)^2*k[0]+7*cos(L)^2*k[1]+30*cos(L)^4*k[0]^3+7*cos(
+L)^4*k[1]^3+cos(L)^2*k[1]^3+28*cos(L)^6*k[0]+24*cos(L)^6*k[1]+8*sin(L)
+*cos(L)^5-42*cos(L)^4*k[0]-31*cos(L)^4*k[1]-8*sin(L)*cos(L)^3-36*sin(L
+)*cos(L)^5*k[0]^2-24*sin(L)*cos(L)^5*k[1]^2+36*sin(L)*cos(L)^3*k[0]^2+
+12*cos(L)^2*k[0]^4*k[1]+80*cos(L)^2*k[0]^3*k[1]^2+34*cos(L)^2*k[0]^2*k
+[1]^3-78*cos(L)^2*k[0]^2*k[1]-36*cos(L)^2*k[0]*k[1]^2+179*cos(L)^4*k[0
+]^2*k[1]+122*cos(L)^4*k[0]*k[1]^2-20*cos(L)^6*k[0]^3-8*cos(L)^6*k[1]^3
+-7*cos(L)*k[0]^2*sin(L)+2*sin(L)*cos(L)*k[1]^2+4*sin(L)*cos(L)^5*k[0]^
+4-4*sin(L)*cos(L)^3*k[0]^4+14*sin(L)*cos(L)^3*k[1]^2+12*cos(L)^4*k[0]^
+4*k[1]^3-24*cos(L)^4*k[0]^4*k[1]-130*cos(L)^4*k[0]^3*k[1]^2-71*cos(L)^
+4*k[0]^2*k[1]^3-12*cos(L)^2*k[0]^4*k[1]^3-4*cos(L)^6*k[0]^4*k[1]^3+12*
+cos(L)^6*k[0]^4*k[1]+60*cos(L)^6*k[0]^3*k[1]^2+36*cos(L)^6*k[0]^2*k[1]
+^3-108*cos(L)^6*k[0]^2*k[1]-84*cos(L)^6*k[0]*k[1]^2-26*sin(L)*cos(L)^3
+*k[0]*k[1]^3-12*sin(L)*cos(L)*k[0]^4*k[1]^2-20*sin(L)*cos(L)*k[0]^3*k[
+1]^3+20*sin(L)*cos(L)*k[0]^3*k[1]+34*sin(L)*cos(L)*k[0]^2*k[1]^2-2*sin
+(L)*cos(L)*k[0]*k[1]^3-14*k[1]*k[0]*sin(L)*cos(L)-12*sin(L)*cos(L)^5*k
+[0]^4*k[1]^2-20*sin(L)*cos(L)^5*k[0]^3*k[1]^3+60*sin(L)*cos(L)^5*k[0]^
+3*k[1]+108*sin(L)*cos(L)^5*k[0]^2*k[1]^2+28*sin(L)*cos(L)^5*k[0]*k[1]^
+3+24*sin(L)*cos(L)^3*k[0]^4*k[1]^2+40*sin(L)*cos(L)^3*k[0]^3*k[1]^3-80
+*sin(L)*cos(L)^3*k[0]^3*k[1]-142*sin(L)*cos(L)^3*k[0]^2*k[1]^2" }
+{MPLTEXT 1 0 2 ",\n" }{MPLTEXT 1 0 2 "#\n" }{MPLTEXT 1 0 7 "a[1,2]=" }
+{MPLTEXT 1 0 1032 "sin(L)*(-12*cos(L)*k[0]^3*k[1]^2-16*cos(L)*k[0]^2*k
+[1]^3+16*cos(L)*k[0]^2*k[1]+18*cos(L)*k[0]*k[1]^2-64*cos(L)^3*k[0]^2*k
+[1]-78*cos(L)^3*k[0]*k[1]^2-3*k[1]*cos(L)-4*k[0]*cos(L)+4*cos(L)^5*k[0
+]^3+8*cos(L)^5*k[1]^3+4*k[1]*k[0]*sin(L)-8*sin(L)*cos(L)^4+4*sin(L)*co
+s(L)^2-sin(L)*k[1]^2-12*cos(L)^5*k[0]^3*k[1]^2-16*cos(L)^5*k[0]^2*k[1]
+^3+48*cos(L)^5*k[0]^2*k[1]+60*cos(L)^5*k[0]*k[1]^2+24*cos(L)^3*k[0]^3*
+k[1]^2+32*cos(L)^3*k[0]^2*k[1]^3+16*sin(L)*cos(L)^4*k[0]^2+24*sin(L)*c
+os(L)^4*k[1]^2+4*sin(L)*k[0]^3*k[1]^3-8*sin(L)*cos(L)^2*k[0]^2-10*sin(
+L)*cos(L)^2*k[1]^2-8*sin(L)*k[0]^2*k[1]^2+sin(L)*k[0]*k[1]^3+4*sin(L)*
+cos(L)^4*k[0]^3*k[1]^3-12*sin(L)*cos(L)^4*k[0]^3*k[1]-48*sin(L)*cos(L)
+^4*k[0]^2*k[1]^2-20*sin(L)*cos(L)^4*k[0]*k[1]^3-8*sin(L)*cos(L)^2*k[0]
+^3*k[1]^3+60*sin(L)*cos(L)^4*k[0]*k[1]+12*sin(L)*cos(L)^2*k[0]^3*k[1]+
+56*sin(L)*cos(L)^2*k[0]^2*k[1]^2+19*sin(L)*cos(L)^2*k[0]*k[1]^3-39*sin
+(L)*cos(L)^2*k[0]*k[1]-4*cos(L)^3*k[0]^3-7*cos(L)^3*k[1]^3+20*cos(L)^3
+*k[0]+23*cos(L)^3*k[1]-cos(L)*k[1]^3-20*cos(L)^5*k[0]-24*cos(L)^5*k[1]
+)" }{MPLTEXT 1 0 2 ",\n" }{MPLTEXT 1 0 2 "#\n" }{MPLTEXT 1 0 7 "a[0,3]
+=" }{MPLTEXT 1 0 750 "(1/3)*sin(L)*(3*k[1]*sin(L)-3*cos(L)-12*cos(L)^5
+*k[0]^2*k[1]^2-12*cos(L)^5*k[0]*k[1]^3+36*cos(L)^5*k[0]*k[1]+24*cos(L)
+^3*k[0]^2*k[1]^2+24*cos(L)^3*k[0]*k[1]^3-8*sin(L)*cos(L)^4*k[1]^3+7*si
+n(L)*cos(L)^2*k[1]^3+4*sin(L)*k[0]^2*k[1]^3-6*sin(L)*cos(L)^2*k[0]-6*s
+in(L)*k[0]*k[1]^2+12*sin(L)*cos(L)^4*k[0]+24*sin(L)*cos(L)^4*k[1]-15*s
+in(L)*cos(L)^2*k[1]-8*cos(L)^5+8*cos(L)^3+4*cos(L)^5*k[0]^2+24*cos(L)^
+5*k[1]^2+sin(L)*k[1]^3+6*cos(L)*k[1]^2-4*cos(L)^3*k[0]^2-30*cos(L)^3*k
+[1]^2+4*sin(L)*cos(L)^4*k[0]^2*k[1]^3-12*sin(L)*cos(L)^4*k[0]^2*k[1]-3
+6*sin(L)*cos(L)^4*k[0]*k[1]^2-8*sin(L)*cos(L)^2*k[0]^2*k[1]^3+12*sin(L
+)*cos(L)^2*k[0]^2*k[1]+42*sin(L)*cos(L)^2*k[0]*k[1]^2-12*cos(L)*k[0]^2
+*k[1]^2-12*cos(L)*k[0]*k[1]^3+12*cos(L)*k[0]*k[1]-48*cos(L)^3*k[0]*k[1
+])" }{MPLTEXT 1 0 2 ",\n" }{MPLTEXT 1 0 2 "#\n" }{MPLTEXT 1 0 7 "b[3,0
+]=" }{MPLTEXT 1 0 880 "-(4/3)*k[0]^2*k[1]-(1/3)*sin(L)*cos(L)+(1/3)*k[
+0]+2*k[0]^3*k[1]^2+(1/3)*k[0]^3-cos(L)^4*k[0]^4*k[1]^3-(2/3)*cos(L)^2*
+k[0]^3-(2/3)*cos(L)^2*k[0]-(4/3)*cos(L)^2*k[1]-2*sin(L)*cos(L)^3*k[0]^
+4*k[1]^2-4*sin(L)*cos(L)^3*k[0]^3*k[1]^3+2*cos(L)^2*k[0]^4*k[1]^3-(2/3
+)*cos(L)^2*k[0]^4*k[1]-10*cos(L)^2*k[0]^3*k[1]^2-6*cos(L)^2*k[0]^2*k[1
+]^3+6*cos(L)^2*k[0]^2*k[1]+6*cos(L)^2*k[0]*k[1]^2+cos(L)^4*k[0]^4*k[1]
++8*cos(L)^4*k[0]^3*k[1]^2+6*cos(L)^4*k[0]^2*k[1]^3-6*cos(L)*k[0]^2*k[1
+]^2*sin(L)-(4/3)*cos(L)*k[0]^3*k[1]*sin(L)+2*cos(L)*k[0]^4*k[1]^2*sin(
+L)+4*cos(L)*k[0]^3*k[1]^3*sin(L)+(8/3)*k[1]*k[0]*sin(L)*cos(L)+(1/3)*c
+os(L)*k[0]^4*sin(L)-6*cos(L)^4*k[0]^2*k[1]-8*cos(L)^4*k[0]*k[1]^2-2*si
+n(L)*cos(L)^3*k[1]^2-cos(L)^4*k[1]^3+cos(L)^4*k[1]-k[0]^4*k[1]^3-(1/3)
+*k[0]^4*k[1]+4*sin(L)*cos(L)^3*k[0]*k[1]^3-4*sin(L)*cos(L)^3*k[0]*k[1]
++4*sin(L)*cos(L)^3*k[0]^3*k[1]+12*sin(L)*cos(L)^3*k[0]^2*k[1]^2" }
+{MPLTEXT 1 0 2 ",\n" }{MPLTEXT 1 0 2 "#\n" }{MPLTEXT 1 0 7 "b[2,1]=" }
+{MPLTEXT 1 0 703 "k[0]^2+6*cos(L)*k[0]^3*k[1]^2*sin(L)+9*cos(L)*k[0]^2
+*k[1]^3*sin(L)+5*cos(L)^2*k[1]^2-3*cos(L)^4*k[0]^3*k[1]^3-6*sin(L)*cos
+(L)^3*k[0]^3*k[1]^2-9*sin(L)*cos(L)^3*k[0]^2*k[1]^3+2*sin(L)*cos(L)*k[
+1]-6*cos(L)^4*k[1]^2-k[0]^3*k[1]-3*k[0]^3*k[1]^3-10*k[0]*k[1]^2*sin(L)
+*cos(L)-3*sin(L)*k[0]^2*k[1]*cos(L)+6*cos(L)^2*k[0]^3*k[1]^3-2*cos(L)^
+2*k[0]^3*k[1]-23*cos(L)^2*k[0]^2*k[1]^2-9*cos(L)^2*k[0]*k[1]^3+9*cos(L
+)^2*k[0]*k[1]+3*cos(L)^4*k[0]^3*k[1]+18*cos(L)^4*k[0]^2*k[1]^2+9*cos(L
+)^4*k[0]*k[1]^3-2*cos(L)^2*k[0]^2-k[0]*sin(L)*cos(L)+3*sin(L)*cos(L)^3
+*k[1]^3-9*cos(L)^4*k[0]*k[1]+cos(L)*k[0]^3*sin(L)-3*sin(L)*cos(L)^3*k[
+1]+9*sin(L)*cos(L)^3*k[0]^2*k[1]+18*sin(L)*cos(L)^3*k[0]*k[1]^2-2*k[0]
+*k[1]+5*k[0]^2*k[1]^2" }{MPLTEXT 1 0 2 ",\n" }{MPLTEXT 1 0 2 "#\n" }
+{MPLTEXT 1 0 7 "b[1,2]=" }{MPLTEXT 1 0 537 "-k[1]+k[0]-sin(L)*cos(L)+6
+*sin(L)*cos(L)^3*k[0]*k[1]-2*k[1]*k[0]*sin(L)*cos(L)+6*cos(L)*k[0]^2*k
+[1]^2*sin(L)+6*cos(L)*k[0]*k[1]^3*sin(L)-4*cos(L)*k[1]^2*sin(L)+cos(L)
+*k[0]^2*sin(L)-3*cos(L)^4*k[0]^2*k[1]^3+6*cos(L)^2*k[0]^2*k[1]^3-2*cos
+(L)^2*k[0]^2*k[1]-16*cos(L)^2*k[0]*k[1]^2+3*cos(L)^4*k[0]^2*k[1]+12*co
+s(L)^4*k[0]*k[1]^2-6*sin(L)*cos(L)^3*k[0]^2*k[1]^2-6*sin(L)*cos(L)^3*k
+[0]*k[1]^3-3*cos(L)^2*k[1]^3+3*cos(L)^4*k[1]^3-3*cos(L)^4*k[1]+3*cos(L
+)^2*k[1]-k[0]^2*k[1]-3*k[0]^2*k[1]^3+6*sin(L)*cos(L)^3*k[1]^2+4*k[0]*k
+[1]^2-2*cos(L)^2*k[0]" }{MPLTEXT 1 0 2 ",\n" }{MPLTEXT 1 0 2 "#\n" }
+{MPLTEXT 1 0 7 "b[0,3]=" }{MPLTEXT 1 0 144 "sin(L)^2*k[1]*(cos(L)^2*k[
+0]*k[1]^2+2*k[1]*k[0]*sin(L)*cos(L)+sin(L)*cos(L)*k[1]^2-cos(L)^2*k[0]
+-2*cos(L)^2*k[1]-k[0]*k[1]^2-cos(L)*sin(L)+k[1])" }{MPLTEXT 1 0 2 ":\n
+" }}}{PARA 0 "" 0 "" {TEXT 210 0 "" }}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}{SECT 0 {PARA 3 "" 0 "" {TEXT 210 25 "Immaginary \+
+part of c[2,1]" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 26 "imc[2,1]:=
+rhs(Imaginary):\n" }{MPLTEXT 1 0 38 "imc[2,1]:=subs(define_omega,imc[2
+,1]):" }}}{PARA 0 "" 0 "" {TEXT 210 0 "" }}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 38 "E:=simplify(subs(eq00,eq1,imc[2,1])):\n" }{MPLTEXT 1 
+0 41 "EE0:=simplify(subs(eqd20,eq1,imc[2,1]));\n" }{MPLTEXT 1 0 41 "EE
+1:=simplify(subs(eqd21,eq1,imc[2,1])):\n" }{MPLTEXT 1 0 42 "E01:=simpl
+ify(subs(eqd0d1,eq1,imc[2,1])):\n" }{MPLTEXT 1 0 42 "E00:=simplify(sub
+s(eqd0d0,eq1,imc[2,1])):\n" }{MPLTEXT 1 0 41 "E11:=simplify(subs(eqd1d
+1,eq1,imc[2,1])):" }}{PARA 11 "" 1 "" {XPPMATH 20 ",$**#\"\"\"\"\")F%-
+I$sinG6$%*protectedGI(_syslibG6\"6#I\"LGF,F%,&*&&I\"kGF,6#F%F%F'F%F%-I
+$cosGF)F-!\"\"F%,2*()F4\"\"#F%)&F26#\"\"!F:F%F1F%F%*(F4F%F;F%F'F%F%*,F
+:F%F1F%F<F%F'F%F4F%F%*(F:F%F9F%F<F%F6*&F9F%F1F%F6*&F;F%F1F%F6*&F'F%F4F
+%F6F<F%F6F%" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 171 "X:=(1/4)*si
+nh(L)^2*(-2*cosh(L)^2*k[0]*k[1]+2*sinh(L)*cosh(L)*k[0]+2*sinh(L)*cosh(
+L)*k[1]-2*cosh(L)^2+2*k[0]*k[1]-1)/(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sin
+h(L)-k[0]*cosh(L)):\n" }{MPLTEXT 1 0 17 "simplify(X-E01);\n" }{MPLTEXT
+ 1 0 5 "E01:=" }{MPLTEXT 1 0 167 "(1/4)*sinh(L)^2*(-2*cosh(L)^2*k[0]*k
+[1]+2*sinh(L)*cosh(L)*k[0]+2*sinh(L)*cosh(L)*k[1]-2*cosh(L)^2+2*k[0]*k
+[1]-1)/(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L)):" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 1273 "X:= -(1/8)*sinh(L)^2*(72*cosh(L)^4*k[1]^2-27*cosh(L
+)^2*k[1]^2+8*k[0]*k[1]^3+8*cosh(L)^4*k[0]^2-120*sinh(L)*cosh(L)^3*k[0]
+*k[1]^2+24*cosh(L)*k[0]*k[1]^2*sinh(L)-32*sinh(L)*cosh(L)^3*k[0]^2*k[1
+]-64*sinh(L)*cosh(L)^3*k[0]^2*k[1]^3+32*cosh(L)*k[0]^2*k[1]^3*sinh(L)+
+136*cosh(L)^4*k[0]*k[1]^3-40*sinh(L)*cosh(L)^3*k[1]^3+88*cosh(L)^4*k[0
+]*k[1]-80*cosh(L)^2*k[0]*k[1]^3-8*sinh(L)*cosh(L)^3*k[0]-24*sinh(L)*co
+sh(L)^3*k[1]+8*cosh(L)*k[1]^3*sinh(L)-24*cosh(L)^2*k[0]*k[1]+6*sinh(L)
+*cosh(L)*k[1]+8*cosh(L)^4+3*k[1]^2-3*cosh(L)^2-48*cosh(L)^2*k[0]^2*k[1
+]^2+96*cosh(L)^4*k[0]^2*k[1]^2+8*k[0]^2*k[1]^4-64*cosh(L)^6*k[0]*k[1]+
+24*cosh(L)^4*k[0]^2*k[1]^4-24*cosh(L)^2*k[0]^2*k[1]^4+16*cosh(L)^4*k[1
+]^4-8*cosh(L)^6*k[1]^4-8*cosh(L)^6*k[0]^2*k[1]^4-48*cosh(L)^6*k[0]^2*k
+[1]^2-64*cosh(L)^6*k[0]*k[1]^3-8*cosh(L)^6*k[0]^2-48*cosh(L)^6*k[1]^2-
+8*cosh(L)^6-8*cosh(L)^2*k[1]^4-32*sinh(L)*cosh(L)^3*k[0]*k[1]^4+32*sin
+h(L)*cosh(L)^5*k[0]^2*k[1]^3+16*sinh(L)*cosh(L)^5*k[0]*k[1]^4+32*sinh(
+L)*cosh(L)^5*k[0]^2*k[1]+96*sinh(L)*cosh(L)^5*k[0]*k[1]^2+32*sinh(L)*c
+osh(L)^5*k[1]^3+16*sinh(L)*cosh(L)^5*k[0]+32*sinh(L)*cosh(L)^5*k[1]+16
+*sinh(L)*cosh(L)*k[0]*k[1]^4)/(-cosh(L)^2*k[0]^2*k[1]+cosh(L)*k[0]^2*s
+inh(L)+2*k[1]*k[0]*sinh(L)*cosh(L)-2*cosh(L)^2*k[0]-cosh(L)^2*k[1]+k[0
+]^2*k[1]+cosh(L)*sinh(L)+k[0]):\n" }{MPLTEXT 1 0 17 "simplify(X-E00);
+\n" }{MPLTEXT 1 0 1273 "E00:=-(1/8)*sinh(L)^2*(72*cosh(L)^4*k[1]^2-27*
+cosh(L)^2*k[1]^2+8*k[0]*k[1]^3+8*cosh(L)^4*k[0]^2-120*sinh(L)*cosh(L)^
+3*k[0]*k[1]^2+24*cosh(L)*k[0]*k[1]^2*sinh(L)-32*sinh(L)*cosh(L)^3*k[0]
+^2*k[1]-64*sinh(L)*cosh(L)^3*k[0]^2*k[1]^3+32*cosh(L)*k[0]^2*k[1]^3*si
+nh(L)+136*cosh(L)^4*k[0]*k[1]^3-40*sinh(L)*cosh(L)^3*k[1]^3+88*cosh(L)
+^4*k[0]*k[1]-80*cosh(L)^2*k[0]*k[1]^3-8*sinh(L)*cosh(L)^3*k[0]-24*sinh
+(L)*cosh(L)^3*k[1]+8*cosh(L)*k[1]^3*sinh(L)-24*cosh(L)^2*k[0]*k[1]+6*s
+inh(L)*cosh(L)*k[1]+8*cosh(L)^4+3*k[1]^2-3*cosh(L)^2-48*cosh(L)^2*k[0]
+^2*k[1]^2+96*cosh(L)^4*k[0]^2*k[1]^2+8*k[0]^2*k[1]^4-64*cosh(L)^6*k[0]
+*k[1]+24*cosh(L)^4*k[0]^2*k[1]^4-24*cosh(L)^2*k[0]^2*k[1]^4+16*cosh(L)
+^4*k[1]^4-8*cosh(L)^6*k[1]^4-8*cosh(L)^6*k[0]^2*k[1]^4-48*cosh(L)^6*k[
+0]^2*k[1]^2-64*cosh(L)^6*k[0]*k[1]^3-8*cosh(L)^6*k[0]^2-48*cosh(L)^6*k
+[1]^2-8*cosh(L)^6-8*cosh(L)^2*k[1]^4-32*sinh(L)*cosh(L)^3*k[0]*k[1]^4+
+32*sinh(L)*cosh(L)^5*k[0]^2*k[1]^3+16*sinh(L)*cosh(L)^5*k[0]*k[1]^4+32
+*sinh(L)*cosh(L)^5*k[0]^2*k[1]+96*sinh(L)*cosh(L)^5*k[0]*k[1]^2+32*sin
+h(L)*cosh(L)^5*k[1]^3+16*sinh(L)*cosh(L)^5*k[0]+32*sinh(L)*cosh(L)^5*k
+[1]+16*sinh(L)*cosh(L)*k[0]*k[1]^4)/(-cosh(L)^2*k[0]^2*k[1]+cosh(L)*k[
+0]^2*sinh(L)+2*k[1]*k[0]*sinh(L)*cosh(L)-2*cosh(L)^2*k[0]-cosh(L)^2*k[
+1]+k[0]^2*k[1]+cosh(L)*sinh(L)+k[0]):" }}{PARA 11 "" 1 "" {XPPMATH 20 
+"\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 79 "imc[2,1]:=E+E01*(
+D)(k)(0)*(D)(k)(s[1])+EE1*(D@D)(k)(s[1])+E11*((D)(k)(s[1]))^2\n" }
+{MPLTEXT 1 0 35 "+E00*((D)(k)(0))^2+EE0*(D@D)(k)(0);" }}{PARA 11 "" 1 
+"" {XPPMATH 20 ",,*(#\"\"\"\"\")F%,`^m*(\"#LF%)-I%coshG6$%*protectedGI
+(_syslibG6\"6#I\"LGF0\"\"%F%)&I\"kGF06#F%\"\"#F%!\"\"*(\"\"(F%)F+F8F%F
+4F%F%*(F3F%F<F%)&F66#\"\"!F8F%F%*(\"\"*F%F*F%)F?F3F%F%*(\"\"'F%F*F%F>F
+%F9*(\"\"$F%F<F%FDF%F9*(F8F%F?F%F5F%F9*(\"#9F%F<F%)F5FHF%F9*&F+F%-I%si
+nhGF-F1F%F%*(FKF%F>F%FLF%F%*(\"#kF%)F+FFF%)F?FHF%F9*(\"$A#F%FSF%FLF%F9
+*(FFF%F<F%F?F%F9*(\"#8F%F<F%F5F%F9*(\"#;F%F*F%FTF%F%*(\"##*F%F*F%FLF%F
+%*(FFF%F?F%F4F%F%*(\"#wF%FSF%F?F%F9*(\"$1\"F%FSF%F5F%F9*(FKF%FNF%)F+\"
+\"&F%F%*(\"#MF%F*F%F?F%F%*(\"#aF%F*F%F5F%F%*(FFF%FNF%)F+FHF%F9*(FKF%FT
+F%FLF%F9*(F;F%F>F%F4F%F9*,\"#'*F%FNF%FeoF%F?F%F4F%F%*,FKF%F+F%F?F%F4F%
+FNF%F9**FcoF%F*F%FTF%F5F%F9*,FcoF%FNF%FeoF%F>F%F5F%F%*,\"#6F%FNF%F+F%F
+>F%F5F%F9*,\"$S#F%FNF%F^oF%FDF%F4F%F%*,\"%_6F%FNF%F^oF%FTF%FLF%F%*,\"$
+)GF%FNF%F^oF%FTF%F5F%F%*,\"%)4\"F%FNF%F^oF%F>F%F4F%F%*,\"$K(F%FNF%F^oF
+%F?F%FLF%F%*,\"#!)F%FNF%FeoF%FDF%F4F%F9*,\"$7&F%FNF%FeoF%FTF%FLF%F9*,F
+RF%FNF%FeoF%FTF%F5F%F9*,\"$s$F%FNF%FeoF%F>F%F4F%F9*,\"$[#F%FNF%FeoF%F?
+F%FLF%F9*,FRF%F+F%FTF%FLF%FNF%F%*,\"#GF%F+F%F?F%FLF%FNF%F%*,\"#UF%F+F%
+F>F%F4F%FNF%F%*,\"#7F%F5F%F?F%FNF%F+F%F%*,\"$w#F%FNF%F^oF%F?F%F5F%F%*,
+FioF%FNF%FeoF%F?F%F5F%F9*,\"$#>F%FNF%FeoF%FTF%F4F%F%*,\"$;$F%FNF%FeoF%
+F>F%FLF%F%*,FfqF%F+F%F>F%FLF%FNF%F9*,\"#CF%F+F%FTF%F4F%FNF%F9**\"$G#F%
+F*F%F?F%FLF%F9**FKF%FNF%FeoF%FLF%F%**\"#mF%F*F%F?F%F5F%F9**FfqF%F<F%F?
+F%FLF%F%**FFF%FNF%FeoF%F?F%F%**FCF%FNF%FeoF%F5F%F%**\"#AF%F<F%F?F%F5F%
+F%**F8F%FNF%F+F%F5F%F9F5F%*&FHF%F*F%F9*$F<F%F%*$F>F%F9**F8F%FNF%F+F%F?
+F%F9**F3F%FNF%FeoF%FTF%F9**FFF%F<F%FTF%F5F%F%**\"#[F%FNF%FeoF%F4F%F9**
+F&F%FNF%F^oF%FDF%F%**\"$?$F%F*F%FDF%FLF%F%**\"#SF%F*F%FDF%F5F%F%**\"$3
+'F%F*F%FTF%F4F%F%**FfpF%F*F%F>F%FLF%F%**FjpF%F<F%FDF%FLF%F9**\"$![F%FS
+F%FDF%FLF%F9**\"$?\"F%FSF%FDF%F5F%F9**\"%[7F%FSF%FTF%F4F%F9**\"%I?F%FS
+F%F>F%FLF%F9**\"$m'F%FSF%F>F%F5F%F9**\"$!)*F%FSF%F?F%F4F%F9**FioF%F<F%
+FTF%F4F%F9**\"$M#F%F<F%F>F%FLF%F9**FfqF%F<F%F>F%F5F%F9**FioF%F<F%F?F%F
+4F%F9**FjqF%F*F%F>F%F5F%F%**\"$i%F%F*F%F?F%F4F%F%**FFF%FNF%F+F%F4F%F%*
+*\"#iF%FNF%F^oF%F>F%F%**\"$Q\"F%FNF%F^oF%F4F%F%**FKF%FNF%FeoF%F>F%F9**
+\"$E(F%F*F%FTF%FLF%F9**\"$/#F%F<F%FTF%FLF%F%**\"#(*F%F<F%F>F%F4F%F%**F
+_qF%F*F%F>F%F4F%F9*(\"#:F%FDF%)F5F3F%F9*(FHF%FDF%F4F%F%**\"#gF%)F+F&F%
+FTF%)F5F_oF%F9**\"$!=F%FSF%FTF%FgvF%F%**FevF%FSF%F?F%FgvF%F%**\"$0%F%F
+*F%FDF%FbvF%F9**FivF%F*F%FTF%FgvF%F9**FjsF%FfvF%FDF%FgvF%F%**FhsF%FfvF
+%FDF%FLF%F%**\"$c'F%FfvF%FTF%FbvF%F%**F]rF%FfvF%F>F%FgvF%F%**FbtF%FfvF
+%FDF%F5F%F%**\"%c5F%FfvF%FTF%F4F%F%**\"%K;F%FfvF%F>F%FLF%F%**\"$G&F%Ff
+vF%F?F%FbvF%F%**\"$s'F%FfvF%F>F%F5F%F%**\"$G*F%FfvF%F?F%F4F%F%**\"$C'F
+%FSF%F?F%FbvF%F9**\"#yF%FSF%F?F%F5F%F%**FjpF%FSF%FDF%FgvF%F9**\"%C5F%F
+SF%FTF%FbvF%F9**FdpF%FSF%F>F%FgvF%F9**FjpF%F*F%FDF%FgvF%F%**\"$O(F%F*F
+%FTF%FbvF%F%**F]rF%F*F%F>F%FgvF%F%**\"$r\"F%F*F%FDF%F4F%F9**\"$?%F%F*F
+%F>F%FbvF%F9**\"#IF%F*F%F?F%FgvF%F9**\"$/$F%F*F%F?F%FbvF%F%**FesF%F<F%
+F>F%FgvF%F9**FesF%F<F%F?F%FbvF%F9**FjsF%F<F%FDF%FgvF%F9**\"$l\"F%F<F%F
+DF%FbvF%F%**FevF%F<F%FTF%FgvF%F%**\"$C#F%F<F%FTF%FbvF%F9**\"#!*F%F<F%F
+>F%FbvF%F%*(F&F%FDF%FgvF%F%*(FenF%FTF%FbvF%F%*(FavF%F*F%FbvF%F9*(FbrF%
+FSF%FgvF%F9*(FFF%FSF%FDF%F9*(\"#RF%FSF%FbvF%F%*(F&F%F*F%FgvF%F%*(FbrF%
+FfvF%FgvF%F%*(FiyF%FfvF%FLF%F%*(\"$/\"F%FfvF%F5F%F%**FevF%FfvF%FTF%F5F
+%F9**F`pF%FfvF%F>F%F4F%F9**FivF%FfvF%F?F%FLF%F9**\"$n#F%FSF%FDF%F4F%F%
+**\"$'*)F%FSF%FTF%FLF%F%**\"$q&F%FSF%F>F%FbvF%F%**F_yF%FfvF%F?F%F5F%F9
+**\"$3\"F%FSF%FTF%F5F%F%**\"$A&F%FSF%F>F%F4F%F%**\"$m$F%FSF%F?F%FLF%F%
+**FbtF%FfvF%FDF%F4F%F9**\"$g$F%FfvF%FTF%FLF%F9**F`pF%FfvF%F>F%FbvF%F9*
+*F_yF%FfvF%F?F%FgvF%F9**\"$v$F%FSF%FDF%FbvF%F%**FbtF%FfvF%FDF%FbvF%F9*
+(FbrF%FfvF%FbvF%F9*(FbrF%FfvF%F4F%F9*(F3F%FSF%F>F%F%*(\"#^F%FSF%F4F%F%
+*(F8F%)F?F_oF%FLF%F%*(FFF%Ff\\lF%FgvF%F9*&F8F%FSF%F%*,FevF%FNF%FeoF%F?
+F%FbvF%F%*,FFF%FNF%F+F%Ff\\lF%F4F%F%*,FbzF%FNF%F+F%FDF%FLF%F9*,FevF%FN
+F%F+F%FTF%FbvF%F9*,FesF%FNF%F+F%F>F%FbvF%F%*,FFF%FNF%F+F%FDF%F5F%F%*,F
+jsF%FNF%)F+FCF%FDF%FbvF%F%*,\"#KF%FNF%F`]lF%FTF%FgvF%F%*,FbrF%FNF%)F+F
+;F%Ff\\lF%FbvF%F%*,F_yF%FNF%Fd]lF%FDF%FgvF%F%*,FjpF%FNF%F`]lF%FDF%F4F%
+F%*,FhsF%FNF%F`]lF%FTF%FLF%F%*,F`pF%FNF%F`]lF%F>F%FbvF%F%*,Fb]lF%FNF%F
+`]lF%F?F%FgvF%F%*,\"$g\"F%FNF%Fd]lF%FDF%FbvF%F9*,\"$G\"F%FNF%Fd]lF%FTF
+%FgvF%F9*,FbrF%FNF%Fd]lF%Ff\\lF%F4F%F%*,FivF%FNF%Fd]lF%FDF%FLF%F%*,F`p
+F%FNF%Fd]lF%FTF%FbvF%F%*,FevF%FNF%Fd]lF%F>F%FgvF%F%*,\"#sF%FNF%F^oF%Ff
+\\lF%FbvF%F9*,F[zF%FNF%F^oF%FDF%FgvF%F9*,F[^lF%FNF%F`]lF%FTF%F5F%F%*,F
+`tF%FNF%F`]lF%F>F%F4F%F%*,FhsF%FNF%F`]lF%F?F%FLF%F%*,F`pF%FNF%Fd]lF%FD
+F%F4F%F9*,FdxF%FNF%Fd]lF%FTF%FLF%F9*,\"$o(F%FNF%Fd]lF%F>F%FbvF%F9*,Fio
+F%FNF%Fd]lF%F?F%FgvF%F9*,F`pF%FNF%F^oF%FDF%FbvF%F%*,F]rF%FNF%F^oF%FTF%
+FgvF%F%*,F_yF%FNF%Fd]lF%FDF%F5F%F%*,F`pF%FNF%Fd]lF%FTF%F4F%F%*,Fj[lF%F
+NF%Fd]lF%F>F%FLF%F%*,FbtF%FNF%Fd]lF%F?F%FbvF%F%*,FfqF%FNF%F^oF%Ff\\lF%
+F4F%F9*,\"$*RF%FNF%F^oF%FDF%FLF%F9*,\"$S&F%FNF%F^oF%FTF%FbvF%F9*,FbtF%
+FNF%F^oF%F>F%FgvF%F9*,Fc^lF%FNF%FeoF%Ff\\lF%FbvF%F%*,F[zF%FNF%FeoF%FDF
+%FgvF%F%*,F[^lF%FNF%F`]lF%F?F%F5F%F%*,\"$%QF%FNF%Fd]lF%FTF%F5F%F9*,Fdt
+F%FNF%Fd]lF%F>F%F4F%F9*,\"$K)F%FNF%Fd]lF%F?F%FLF%F9*,\"$k)F%FNF%F^oF%F
+>F%FbvF%F%*,FioF%FNF%F^oF%F?F%FgvF%F%*,F[^lF%FNF%FeoF%FDF%FbvF%F9*,F]^
+lF%FNF%FeoF%FTF%FgvF%F9*,FevF%FNF%Fd]lF%F>F%F5F%F%*,FbtF%FNF%Fd]lF%F?F
+%F4F%F%*,\"#FF%FNF%F^oF%FDF%F5F%F9*,\"$3%F%FNF%F^oF%FTF%F4F%F9*,\"$M'F
+%FNF%F^oF%F>F%FLF%F9*,FivF%FNF%F^oF%F?F%FbvF%F9*,FhqF%FNF%FeoF%Ff\\lF%
+F4F%F%*,\"$e#F%FNF%FeoF%FDF%FLF%F%*,Fj[lF%FNF%FeoF%FTF%FbvF%F%*,FevF%F
+NF%FeoF%F>F%FgvF%F%*,FbrF%FNF%F+F%Ff\\lF%FbvF%F9*,F_yF%FNF%F+F%FDF%Fgv
+F%F9*,\"$_$F%FNF%Fd]lF%F?F%F5F%F9*,F]`lF%FNF%FeoF%F>F%FbvF%F9*,Fb]lF%F
+NF%FeoF%F?F%FgvF%F9*,FjsF%FNF%F+F%FDF%FbvF%F%*,Fb]lF%FNF%F+F%FTF%FgvF%
+F%*,\"$-\"F%FNF%F^oF%F>F%F5F%F9*,\"$)>F%FNF%F^oF%F?F%F4F%F9*,FCF%FNF%F
+eoF%FDF%F5F%F9*(F&F%)F+\"#5F%FgvF%F9*(Fb]lF%FbblF%FTF%F9*(FjpF%FbblF%F
+LF%F9*(Fb]lF%FbblF%F?F%F9*(FjsF%FbblF%F5F%F9*(FjpF%FfvF%FTF%F%*(F&F%FN
+F%F`]lF%F%*(FjpF%FfvF%F?F%F%*(FenF%FNF%Fd]lF%F9**F\\oF%FSF%Ff\\lF%FLF%
+F%**\"#OF%F*F%Ff\\lF%FgvF%F9**F`pF%FbblF%F>F%F5F%F9**FhsF%FbblF%F?F%F4
+F%F9**FFF%FNF%Fd]lF%FgvF%F%**FesF%FNF%F`]lF%F>F%F%**FjpF%FNF%F`]lF%F4F
+%F%**FenF%FNF%Fd]lF%FDF%F9**FioF%FNF%Fd]lF%FbvF%F9**FFF%FSF%Ff\\lF%F5F
+%F%**F]blF%F*F%Ff\\lF%FLF%F9**FbrF%F<F%Ff\\lF%FgvF%F%**F^clF%FNF%Fd]lF
+%FLF%F%**F8F%FNF%F^oF%Ff\\lF%F%**FFF%FNF%F^oF%FgvF%F9**F&F%FbblF%FDF%F
+gvF%F9**F_yF%F<F%Ff\\lF%FLF%F%**FFF%FNF%Fd]lF%F5F%F%**F3F%FNF%F^oF%FTF
+%F%**\"#ZF%FNF%F^oF%FLF%F9**F8F%FNF%FeoF%Ff\\lF%F9**FenF%FNF%FeoF%FbvF
+%F9**FFF%F<F%Ff\\lF%F5F%F9**\"#@F%F<F%FDF%F4F%F%**FFF%FNF%F^oF%F?F%F9*
+*FavF%FNF%F^oF%F5F%F9**FFF%FfvF%Ff\\lF%FgvF%F9**FjpF%FbblF%FDF%FLF%F9*
+*F[^lF%FbblF%FTF%FbvF%F9**FesF%FbblF%F>F%FgvF%F9**F^clF%FfvF%Ff\\lF%FL
+F%F9**FbrF%FSF%Ff\\lF%FgvF%F%**FjsF%FbblF%FDF%F5F%F9**FhsF%FbblF%FTF%F
+4F%F9**F`tF%FbblF%F>F%FLF%F9**F[^lF%FbblF%F?F%FbvF%F9**F&F%FNF%F`]lF%F
+DF%F%**FjsF%FNF%F`]lF%FbvF%F%**FFF%FfvF%Ff\\lF%F5F%F9**FioF%FNF%Fd]lF%
+F>F%F9**\"$w\"F%FNF%Fd]lF%F4F%F9**Fc^lF%FNF%F^oF%FbvF%F%**FFF%F*F%Ff
+\\lF%F5F%F%F%,2*(F<F%F>F%F5F%F9*(F+F%F>F%FNF%F%*,F8F%F5F%F?F%FNF%F+F%F
+%*(F8F%F<F%F?F%F9*&F<F%F5F%F9*&F>F%F5F%F%FMF%F?F%F9F9*.#F%F3F%)FNF8F%,
+.**F8F%F<F%F?F%F5F%F9FasF%F]sF%*&F8F%F<F%F9FIF%F%F9F%,**(F5F%F?F%FNF%F
+%*&F5F%F+F%F9FNF%*&F?F%F+F%F9F9--I\"DGF-6#F6F@F%-F]gl6#&I\"sGF0F7F%F%*
+*F$F%,(*&F<F%F?F%F9FMF%F?F%F%,2*(F<F%F?F%F4F%F9F^flF%*(FNF%F+F%F4F%F%F
+fglF9*(F8F%F<F%F5F%F9*&F?F%F4F%F%FMF%F5F%F9---I#@@GF-6$F^glF8F_glFaglF
+%F9*,F$F%FdflF%,fp*(Fc^lF%F*F%F4F%F%*(Fi`lF%F<F%F4F%F9*(F&F%F?F%FLF%F%
+*(F&F%F*F%F>F%F%*,FbtF%FNF%FeoF%F?F%F4F%F9*,FbrF%F+F%F?F%F4F%FNF%F%*,F
+b]lF%FNF%FeoF%F>F%F5F%F9*,FRF%FNF%FeoF%F>F%FLF%F9*,Fb]lF%F+F%F>F%FLF%F
+NF%F%**\"$O\"F%F*F%F?F%FLF%F%**FjsF%FNF%FeoF%FLF%F9**\"#))F%F*F%F?F%F5
+F%F%**FjpF%F<F%F?F%FLF%F9**F&F%FNF%FeoF%F?F%F9**FbrF%FNF%FeoF%F5F%F9**
+F&F%F+F%FLF%FNF%F%**FbrF%F<F%F?F%F5F%F9**FFF%FNF%F+F%F5F%F%*&F&F%F*F%F
+%*&FHF%F4F%F%*&FHF%F<F%F9**FesF%F<F%F>F%F4F%F9**FioF%F*F%F>F%F4F%F%*(F
+&F%F>F%FbvF%F%**FRF%FSF%F?F%F5F%F9**FbrF%F*F%F>F%FbvF%F%**FbrF%F<F%F>F
+%FbvF%F9*(FenF%F*F%FbvF%F%*(F&F%FSF%FbvF%F9**F&F%FSF%F>F%FbvF%F9**FesF
+%FSF%F>F%F4F%F9**FRF%FSF%F?F%FLF%F9*(F&F%FSF%F>F%F9*(FesF%FSF%F4F%F9*&
+F&F%FSF%F9*(F&F%F<F%FbvF%F9*,Fb]lF%FNF%FeoF%F?F%FbvF%F9*,Fb]lF%FNF%F^o
+F%F>F%FLF%F%*,FenF%FNF%F^oF%F?F%FbvF%F%*,Fb]lF%FNF%F^oF%F>F%F5F%F%*,Fi
+oF%FNF%F^oF%F?F%F4F%F%**Fb]lF%FNF%F^oF%FLF%F%**FenF%FNF%F^oF%F?F%F%**F
+b]lF%FNF%F^oF%F5F%F%*,FenF%FNF%F+F%F?F%FbvF%F%F%F[flF9)F\\glF8F%F9*,F$
+F%FNF%,&*&F5F%FNF%F%F+F9F%F[flF9-F]hlF@F%F%" }}}{EXCHG {PARA 0 "> " 0 
+"" {MPLTEXT 1 0 542 "eqimc21:=Im(c[2,1])=-1/8*(r[0]+r[1])/(r[0]*r[1])+
+(1/2*(L-r[0])*(L-r[1])*L^2/(r[0]^2*r[1]^2*(L-r[0]-r[1]))+1/4*L^2/(r[1]
+*r[0]*(L-r[0]-r[1])))*D(r)(0)*D(r)(s[1])-1/8*L*(L-r[0])*`@@`(D,2)(r)(s
+[1])/((L-r[0]-r[1])*(L-r[1]))+1/4*L*(L-r[0])*D(r)(s[1])^2/(r[1]*(L-r[0
+]-r[1])*(L-r[1]))+(1/4*L*(L-r[1])/(r[0]*(L-r[0])*(L-r[0]-r[1]))+1/4*L^
+2*(L-r[1])^2*((L-r[0])*(L-r[1])+L*(L-r[0]-r[1]))^2/(r[0]^4*r[1]^3*(L-r
+[0])*(L-r[0]-r[1]))+1/8*L^2*(L-r[1])^2/(r[0]^2*r[1]*(L-r[0])*(L-r[0]-r
+[1])))*D(r)(0)^2-1/8*L*(L-r[1])*`@@`(D,2)(r)(0)/((L-r[0]-r[1])*(L-r[0]
+));" }}{PARA 0 "" 1 "" {XPPMATH 20 "6#>%(eqimc21G/-%#ImG6#&%\"cG6$\"\"
+#\"\"\",.*(#\"\"\"\"\")\"\"\",&&%\"rG6#\"\"\"\"\"\"&%\"rG6#\"\"!\"\"\"
+\"\"\"*&&%\"rG6#\"\"!\"\"\"&%\"rG6#\"\"\"\"\"\"!\"\"!\"\"*(,&*(#\"\"\"
+\"\"#\"\"\"*(,&%\"LG\"\"\"&%\"rG6#\"\"!!\"\"\"\"\",&%\"LG\"\"\"&%\"rG6
+#\"\"\"!\"\"\"\"\")%\"LG\"\"#\"\"\"\"\"\"*()&%\"rG6#\"\"!\"\"#\"\"\")&
+%\"rG6#\"\"\"\"\"#\"\"\",(%\"LG\"\"\"&%\"rG6#\"\"!!\"\"&%\"rG6#\"\"\"!
+\"\"\"\"\"!\"\"\"\"\"*&*&#\"\"\"\"\"%\"\"\")%\"LG\"\"#\"\"\"\"\"\"*(&%
+\"rG6#\"\"\"\"\"\"&%\"rG6#\"\"!\"\"\",(%\"LG\"\"\"&%\"rG6#\"\"!!\"\"&%
+\"rG6#\"\"\"!\"\"\"\"\"!\"\"\"\"\"\"\"\"--%\"DG6#%\"rG6#\"\"!\"\"\"--%
+\"DG6#%\"rG6#&%\"sG6#\"\"\"\"\"\"\"\"\"*&#\"\"\"\"\")\"\"\"*&*(%\"LG\"
+\"\",&%\"LG\"\"\"&%\"rG6#\"\"!!\"\"\"\"\"---%#@@G6$%\"DG\"\"#6#%\"rG6#
+&%\"sG6#\"\"\"\"\"\"\"\"\"*&,(%\"LG\"\"\"&%\"rG6#\"\"!!\"\"&%\"rG6#\"
+\"\"!\"\"\"\"\",&%\"LG\"\"\"&%\"rG6#\"\"\"!\"\"\"\"\"!\"\"\"\"\"!\"\"*
+&**#\"\"\"\"\"%\"\"\"%\"LG\"\"\",&%\"LG\"\"\"&%\"rG6#\"\"!!\"\"\"\"\")
+--%\"DG6#%\"rG6#&%\"sG6#\"\"\"\"\"#\"\"\"\"\"\"*(&%\"rG6#\"\"\"\"\"\",
+(%\"LG\"\"\"&%\"rG6#\"\"!!\"\"&%\"rG6#\"\"\"!\"\"\"\"\",&%\"LG\"\"\"&%
+\"rG6#\"\"\"!\"\"\"\"\"!\"\"\"\"\"*&,(*(#\"\"\"\"\"%\"\"\"*&%\"LG\"\"
+\",&%\"LG\"\"\"&%\"rG6#\"\"\"!\"\"\"\"\"\"\"\"*(&%\"rG6#\"\"!\"\"\",&%
+\"LG\"\"\"&%\"rG6#\"\"!!\"\"\"\"\",(%\"LG\"\"\"&%\"rG6#\"\"!!\"\"&%\"r
+G6#\"\"\"!\"\"\"\"\"!\"\"\"\"\"*&**#\"\"\"\"\"%\"\"\")%\"LG\"\"#\"\"\"
+),&%\"LG\"\"\"&%\"rG6#\"\"\"!\"\"\"\"#\"\"\"),&*&,&%\"LG\"\"\"&%\"rG6#
+\"\"!!\"\"\"\"\",&%\"LG\"\"\"&%\"rG6#\"\"\"!\"\"\"\"\"\"\"\"*&%\"LG\"
+\"\",(%\"LG\"\"\"&%\"rG6#\"\"!!\"\"&%\"rG6#\"\"\"!\"\"\"\"\"\"\"\"\"\"
+#\"\"\"\"\"\"**)&%\"rG6#\"\"!\"\"%\"\"\")&%\"rG6#\"\"\"\"\"$\"\"\",&%
+\"LG\"\"\"&%\"rG6#\"\"!!\"\"\"\"\",(%\"LG\"\"\"&%\"rG6#\"\"!!\"\"&%\"r
+G6#\"\"\"!\"\"\"\"\"!\"\"\"\"\"*&*(#\"\"\"\"\")\"\"\")%\"LG\"\"#\"\"\"
+),&%\"LG\"\"\"&%\"rG6#\"\"\"!\"\"\"\"#\"\"\"\"\"\"**)&%\"rG6#\"\"!\"\"
+#\"\"\"&%\"rG6#\"\"\"\"\"\",&%\"LG\"\"\"&%\"rG6#\"\"!!\"\"\"\"\",(%\"L
+G\"\"\"&%\"rG6#\"\"!!\"\"&%\"rG6#\"\"\"!\"\"\"\"\"!\"\"\"\"\"\"\"\")--
+%\"DG6#%\"rG6#\"\"!\"\"#\"\"\"\"\"\"*&#\"\"\"\"\")\"\"\"*&*(%\"LG\"\"
+\",&%\"LG\"\"\"&%\"rG6#\"\"\"!\"\"\"\"\"---%#@@G6$%\"DG\"\"#6#%\"rG6#
+\"\"!\"\"\"\"\"\"*&,(%\"LG\"\"\"&%\"rG6#\"\"!!\"\"&%\"rG6#\"\"\"!\"\"
+\"\"\",&%\"LG\"\"\"&%\"rG6#\"\"!!\"\"\"\"\"!\"\"\"\"\"!\"\"" }}}{PARA 
+0 "" 0 "" {TEXT 210 0 "" }}}{PARA 3 "" 0 "" {TEXT 210 19 "Real part of
+ c[2,1]" }}{PARA 0 "" 0 "" {TEXT 210 186 "The independent term and the
+ terms in the second derivatives r[0]\264\264 and  r[1]\264\264 should
+ be zero and the terms in the first derivatives r[0]\264 and r[1]\264 \+
+ should cancel their matches in the " }{XPPEDIT 18 0 "Typesetting:-mro
+w(Typesetting:-mi(\"\"), Typesetting:-mrow(Typesetting:-msup(Typesetti
+ng:-mfenced(Typesetting:-msub(Typesetting:-mi(\"c\", italic = \"true\"
+, mathvariant = \"italic\"), Typesetting:-mrow(Typesetting:-mn(\"2\", \+
+mathvariant = \"normal\"), Typesetting:-mo(\",\", mathvariant = \"norm
+al\", fence = \"false\", separator = \"true\", stretchy = \"false\", s
+ymmetric = \"false\", largeop = \"false\", movablelimits = \"false\", \+
+accent = \"false\", lspace = \"0.0em\", rspace = \"0.3333333em\"), Typ
+esetting:-mn(\"0\", mathvariant = \"normal\")), subscriptshift = \"0\"
+), mathvariant = \"normal\", Typesetting:-msemantics = \"abs\", open =
+ \"&verbar;\", close = \"&verbar;\", Typesetting:-msemantics = \"abs\"
+), Typesetting:-mn(\"2\", mathvariant = \"normal\"), superscriptshift \+
+= \"0\")), Typesetting:-mi(\"\"));" "-I%mrowG6#/I+modulenameG6\"I,Type
+settingGI(_syslibGF'6%-I#miGF$6#Q!F'-F#6#-I%msupGF$6%-I(mfencedGF$6(-I
+%msubGF$6%-F,6%Q\"cF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'-F#6%-
+I#mnGF$6$Q\"2F'/FAQ'normalF'-I#moGF$6-Q\",F'FI/%&fenceGQ&falseF'/%*sep
+aratorGF?/%)stretchyGFQ/%*symmetricGFQ/%(largeopGFQ/%.movablelimitsGFQ
+/%'accentGFQ/%'lspaceGQ&0.0emF'/%'rspaceGQ,0.3333333emF'-FF6$Q\"0F'FI/
+%/subscriptshiftGF`oFI/I+msemanticsGF$Q$absF'/%%openGQ)&verbar;F'/%&cl
+oseGFhoFcoFE/%1superscriptshiftGF`oF+" }{TEXT 210 5 " and " }{XPPEDIT 
+18 0 "Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetting:-mrow(Types
+etting:-msup(Typesetting:-mfenced(Typesetting:-msub(Typesetting:-mi(\"
+c\", italic = \"true\", mathvariant = \"italic\"), Typesetting:-mrow(T
+ypesetting:-mn(\"0\", mathvariant = \"normal\"), Typesetting:-mo(\",\"
+, mathvariant = \"normal\", fence = \"false\", separator = \"true\", s
+tretchy = \"false\", symmetric = \"false\", largeop = \"false\", movab
+lelimits = \"false\", accent = \"false\", lspace = \"0.0em\", rspace =
+ \"0.3333333em\"), Typesetting:-mn(\"2\", mathvariant = \"normal\")), \+
+subscriptshift = \"0\"), mathvariant = \"normal\", Typesetting:-mseman
+tics = \"abs\", open = \"&verbar;\", close = \"&verbar;\", Typesetting
+:-msemantics = \"abs\"), Typesetting:-mn(\"2\", mathvariant = \"normal
+\"), superscriptshift = \"0\")), Typesetting:-mi(\"\"));" "-I%mrowG6#/
+I+modulenameG6\"I,TypesettingGI(_syslibGF'6%-I#miGF$6#Q!F'-F#6#-I%msup
+GF$6%-I(mfencedGF$6(-I%msubGF$6%-F,6%Q\"cF'/%'italicGQ%trueF'/%,mathva
+riantGQ'italicF'-F#6%-I#mnGF$6$Q\"0F'/FAQ'normalF'-I#moGF$6-Q\",F'FI/%
+&fenceGQ&falseF'/%*separatorGF?/%)stretchyGFQ/%*symmetricGFQ/%(largeop
+GFQ/%.movablelimitsGFQ/%'accentGFQ/%'lspaceGQ&0.0emF'/%'rspaceGQ,0.333
+3333emF'-FF6$Q\"2F'FI/%/subscriptshiftGFHFI/I+msemanticsGF$Q$absF'/%%o
+penGQ)&verbar;F'/%&closeGFhoFcoF^o/%1superscriptshiftGFHF+" }{TEXT 
+210 10 " terms of " }{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-mi(
+\"&tau;\", italic = \"false\", mathvariant = \"normal\"));" "-I%mrowG6
+#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6#-I#miGF$6%Q&&tau;F'/%'it
+alicGQ&falseF'/%,mathvariantGQ'normalF'" }{TEXT 210 2 ". " }}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 21 "rec[2,1]:=rhs(Real);\n" }{MPLTEXT 
+1 0 40 "rec[2,1]:=subs(define_omega,rec[2,1]); \n" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 ",&**#\"\"\"\"\")F%&I\"aG6\"6$F%\"\"!F%,**&)I'omega|irGF)
+\"\"$F%&F(6$F%\"\"#F%!\"\"*(F0F%F.F%&I\"bGF)6$F+F0F%F4*(F0F%F/F%&F(6$F
+0F+F%F4*&F/F%&F76$F3F%F%F4F%)F/F3F4F4**F$F%&F7F*F%,**(F0F%)F/\"\"%F%&F
+(F8F%F%*&F?F%&F(F>F%F%*&F?F%&F7F2F%F4*&F0F%&F7F;F%F4F%F.F4F4" }}{PARA 
+11 "" 1 "" {XPPMATH 20 ",&*,#\"\"\"\"\")F%&I\"aG6\"6$F%\"\"!F%,**&),$*
+&&I\"bGF)F*F%&F(6$F+F%!\"\"F5#\"\"$\"\"#F%&F(6$F%F8F%F5*(F7F%F.F%&F26$
+F+F7F%F5*(F7F%)F/#F%F8F%&F(6$F7F+F%F5*&F?F%&F26$F8F%F%F5F%F1F5F3F%F%**
+F$F%F1F%,***F7F%)F1F8F%)F3F8F5&F(F=F%F%*(F1F%F3F5&F(FEF%F5*(F1F%F3F5&F
+2F:F%F%*&F7F%&F2FBF%F5F%F.F5F5" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 137 "#c[2,1]:=(a[1,0]*(omega^2*a[1,2]+3*a[3,0]+b[2,1]+3*b[0,3]*ome
+ga^2)+b[1,0]*(-3*omega^2*a[0,3]-a[2,1]+3*b[3,0]/omega^2+b[1,2]))/(8*om
+ega);\n" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 40 "E  :=simplify(su
+bs(eq00,eq1,rec[2,1]));\n" }{MPLTEXT 1 0 41 "EE0:=simplify(subs(eqd20,
+eq1,rec[2,1]));\n" }{MPLTEXT 1 0 41 "EE1:=simplify(subs(eqd21,eq1,rec[
+2,1]));\n" }{MPLTEXT 1 0 42 "E11:=simplify(subs(eqd1d1,eq1,rec[2,1]));
+\n" }{MPLTEXT 1 0 42 "E01:=simplify(subs(eqd0d1,eq1,rec[2,1]));\n" }
+{MPLTEXT 1 0 42 "E00:=simplify(subs(eqd0d0,eq1,rec[2,1]));\n" }}{PARA 
+11 "" 1 "" {XPPMATH 20 ",$*4#\"\"\"\"\"%F%,f\\p*(\"#=F%)-I%coshG6$%*pr
+otectedGI(_syslibG6\"6#I\"LGF0F&F%)&I\"kGF06#F%\"\"#F%!\"\"*&)F+F7F%F3
+F%F%*&F:F%)&F56#\"\"!F7F%F%*(\"#:F%F*F%)F=F&F%F8*(F)F%F*F%F<F%F8*(\"#@
+F%)F+\"\"'F%)F=\"\"$F%F8*(\"#XF%FFF%)F4FIF%F8*&F:F%FHF%F8*(\"\"*F%F*F%
+FHF%F%*(FGF%F*F%FLF%F%*(FGF%FBF%FLF%F%*&FHF%F3F%F%*(FOF%FFF%F=F%F8*(\"
+#5F%FFF%F4F%F8*&-I%sinhGF-F1F%)F+\"\"&F%F%*(FIF%F*F%F=F%F%*(F7F%F*F%F4
+F%F%*(FGF%FHF%FLF%F8*&F<F%F3F%F8*,\"#aF%FWF%)F+FIF%F=F%F3F%F%*,F7F%F+F
+%F=F%F3F%FWF%F8**\"$e#F%F*F%FHF%F4F%F8*,FjnF%FWF%F[oF%F<F%F4F%F%*,F7F%
+FWF%F+F%F<F%F4F%F8*,\"%S6F%FWF%FYF%FBF%F3F%F%*,\"%?CF%FWF%FYF%FHF%FLF%
+F%*,\"$)>F%FWF%FYF%FHF%F4F%F%*,\"$'\\F%FWF%FYF%F<F%F3F%F%*,\"$G#F%FWF%
+FYF%F=F%FLF%F%*,\"$D#F%FWF%F[oF%FBF%F3F%F8*,\"$![F%FWF%F[oF%FHF%FLF%F8
+*,\"#UF%FWF%F[oF%FHF%F4F%F8*,\"#*)F%FWF%F[oF%F<F%F3F%F8*,\"#CF%FWF%F[o
+F%F=F%FLF%F8*,F7F%F+F%FHF%F4F%FWF%F%*,FdpF%F+F%FHF%FLF%FWF%F%*,\"#7F%F
++F%FBF%F3F%FWF%F%*,FIF%F+F%F<F%F3F%FWF%F%*,F`pF%FWF%FYF%F=F%F4F%F%*,FG
+F%FWF%F[oF%F=F%F4F%F8*,\"$y$F%FWF%F[oF%FHF%F3F%F%*,F]qF%FWF%F[oF%F<F%F
+LF%F%*,F)F%F+F%F<F%FLF%FWF%F8*,F)F%F+F%FHF%F3F%FWF%F8**F^oF%F*F%F=F%FL
+F%F8**FGF%FWF%F[oF%FLF%F%**FjnF%F*F%F=F%F4F%F8**F)F%F:F%F=F%FLF%F%**F7
+F%FWF%F[oF%F=F%F%**F7F%FWF%F[oF%F4F%F%**F&F%F:F%F=F%F4F%F%*$F*F%F8**FG
+F%FWF%F[oF%FHF%F%**F)F%F:F%FHF%F4F%F%*(FWF%F[oF%F3F%F8**\"%N>F%F*F%FBF
+%FLF%F%**\"#vF%F*F%FBF%F4F%F%**\"$S&F%F*F%FHF%F3F%F%**\"$&\\F%F*F%F<F%
+FLF%F%**\"$J#F%F:F%FBF%FLF%F8**\"%5fF%FFF%FBF%FLF%F8**\"$&GF%FFF%FBF%F
+4F%F8**\"%I<F%FFF%FHF%F3F%F8**\"%y=F%FFF%F<F%FLF%F8**\"$:#F%FFF%F<F%F4
+F%F8**\"$Y#F%FFF%F=F%F3F%F8**FGF%F:F%FBF%F4F%F8**\"#eF%F:F%FHF%F3F%F8*
+*\"#OF%F:F%F<F%FLF%F8**FGF%F:F%F<F%F4F%F8**FIF%F:F%F=F%F3F%F8**\"#qF%F
+*F%F<F%F4F%F%**\"#gF%F*F%F=F%F3F%F%**\"#9F%FWF%FYF%F<F%F%**F^tF%FWF%FY
+F%F3F%F%**FIF%FWF%F[oF%F<F%F8**\"%'[#F%F*F%FHF%FLF%F8**\"$_#F%F:F%FHF%
+FLF%F%**\"#bF%F:F%F<F%F3F%F%**\"$%fF%F*F%F<F%F3F%F8*(FAF%FBF%)F4F&F%F8
+**\"&gS\"F%)F+\"\")F%FHF%)F4FZF%F8**\"%!e)F%FFF%FHF%F_uF%F%**\"$/(F%FF
+F%F=F%F_uF%F%**\"%&p%F%F*F%FBF%FjtF%F8**\"%!G#F%F*F%FHF%F_uF%F8**\"%+%
+)F%F]uF%FBF%F_uF%F%**\"%]tF%F]uF%FBF%FLF%F%**\"%IwF%F]uF%FHF%FjtF%F%**
+\"%MDF%F]uF%F<F%F_uF%F%**\"$?%F%F]uF%FBF%F4F%F%**\"%SAF%F]uF%FHF%F3F%F
+%**\"%gEF%F]uF%F<F%FLF%F%**\"$q)F%F]uF%F=F%FjtF%F%**\"$Q#F%F]uF%F<F%F4
+F%F%**\"$O$F%F]uF%F=F%F3F%F%**\"$x%F%FFF%F=F%FjtF%F8**\"$S#F%FFF%F=F%F
+4F%F%**\"%NwF%FFF%FBF%F_uF%F8**\"%DeF%FFF%FHF%FjtF%F8**\"%f:F%FFF%F<F%
+F_uF%F8**\"%qEF%F*F%FBF%F_uF%F%**\"%0<F%F*F%FHF%FjtF%F%**FirF%F*F%F<F%
+F_uF%F%**\"%!=\"F%F*F%FBF%F3F%F8**F\\xF%F*F%F<F%FjtF%F8**\"$+\"F%F*F%F
+=F%F_uF%F8**F_rF%F*F%F=F%FjtF%F%**FirF%F:F%FBF%F_uF%F8**\"$X&F%F:F%FBF
+%FjtF%F%**\"$+#F%F:F%FHF%F_uF%F%**\"$]\"F%F:F%FHF%FjtF%F8**\"#!*F%F:F%
+F<F%FjtF%F%*(F&F%)F=\"\"(F%)F4F\\yF%F8*(F^tF%)F=FGF%)F4FGF%F8*(FAF%F*F
+%FjtF%F8*(\"#>F%FFF%F_uF%F8*(\"$:\"F%FFF%FBF%F%*(FeyF%FFF%FjtF%F%*(\"#
+hF%F]uF%F_uF%F%*(\"#&)F%F]uF%FLF%F%*(\"#6F%F]uF%F4F%F%*(\"$S\"F%)F+Fhp
+F%FjtF%F8*(FjsF%)F+FUF%F`yF%F%**\"%!o#F%F]uF%FHF%F4F%F8**\"%]^F%F]uF%F
+<F%F3F%F8**FczF%F]uF%F=F%FLF%F8**\"%S_F%FFF%FBF%F3F%F%**\"%S)*F%FFF%FH
+F%FLF%F%**FhzF%FFF%F<F%FjtF%F%**\"$+&F%F]uF%F=F%F4F%F8**\"%S7F%FFF%FHF
+%F4F%F%**\"%SDF%FFF%F<F%F3F%F%**F_[lF%FFF%F=F%FLF%F%**\"&S-\"F%F]uF%FB
+F%F3F%F8**\"&+\"=F%F]uF%FHF%FLF%F8**Fd[lF%F]uF%F<F%FjtF%F8**\"%'p\"F%F
+]uF%F=F%F_uF%F8**\"&le\"F%FFF%FBF%FjtF%F%**\"&]Y#F%F]uF%FBF%FjtF%F8*(
+\"$5$F%F]uF%FjtF%F8*(FexF%F]uF%F3F%F8*(FixF%FFF%F<F%F%*(FixF%FFF%F3F%F
+%*&FUF%F]uF%F8*&FUF%FazF%F%*(\"#?F%)F=FZF%F_uF%F8*&FZF%FFF%F%*,F)F%FWF
+%)F+FOF%)F=F^uF%F`yF%F%*,FdpF%FWF%Fj\\lF%F[yF%F]yF%F%*,F\\tF%FWF%Fj\\l
+F%F[]lF%FjtF%F%*,\"$g$F%FWF%Fj\\lF%F[yF%F_uF%F%*,\"$/&F%FWF%Fj\\lF%F_y
+F%F`yF%F%*,\"$o\"F%FWF%Fj\\lF%Fg\\lF%F]yF%F%*,\"#sF%FWF%)F+F\\yF%F[]lF
+%F`yF%F8*,\"#'*F%FWF%Ff]lF%F[yF%F]yF%F8*,F)F%FWF%Fj\\lF%F[]lF%F3F%F%*,
+F_]lF%FWF%Fj\\lF%F[yF%FLF%F%*,F\\tF%FWF%F[oF%F=F%FjtF%F%*,F\\tF%FWF%F+
+F%FBF%FLF%F8*,F\\tF%FWF%F+F%FHF%FjtF%F8*,\"%+UF%FWF%Fj\\lF%FBF%FjtF%F%
+*,\"%?DF%FWF%Fj\\lF%FHF%F_uF%F%*,\"&+F\"F%FWF%Ff]lF%Fg\\lF%FjtF%F%*,Fc
+^lF%FWF%Ff]lF%FBF%F_uF%F%*,\"%g7F%FWF%Fj\\lF%FBF%F3F%F%*,Fa^lF%FWF%Fj
+\\lF%FHF%FLF%F%*,\"%!o\"F%FWF%Fj\\lF%F<F%FjtF%F%*,F_]lF%FWF%Fj\\lF%F=F
+%F_uF%F%*,FiuF%FWF%Ff]lF%FBF%FjtF%F8*,\"%MYF%FWF%Ff]lF%FHF%F_uF%F8*,\"
+%%[%F%FWF%Ff]lF%Fg\\lF%F3F%F%*,\"&+V\"F%FWF%Ff]lF%FBF%FLF%F%*,Fa_lF%FW
+F%Ff]lF%FHF%FjtF%F%*,F__lF%FWF%Ff]lF%F<F%F_uF%F%*,\"%?qF%FWF%FYF%Fg\\l
+F%FjtF%F8*,Fe_lF%FWF%FYF%FBF%F_uF%F8*,Fc]lF%FWF%Fj\\lF%FHF%F4F%F%*,Fa]
+lF%FWF%Fj\\lF%F<F%F3F%F%*,F_]lF%FWF%Fj\\lF%F=F%FLF%F%*,\"%+@F%FWF%Ff]l
+F%FBF%F3F%F8*,\"%SVF%FWF%Ff]lF%FHF%FLF%F8*,\"%!f#F%FWF%Ff]lF%F<F%FjtF%
+F8*,\"$E%F%FWF%Ff]lF%F=F%F_uF%F8*,\"%S`F%FWF%FYF%FBF%FjtF%F%*,\"%%\\#F
+%FWF%FYF%FHF%F_uF%F%*,\"%g<F%FWF%Ff]lF%FBF%F4F%F%*,\"%+iF%FWF%Ff]lF%FH
+F%F3F%F%*,Fi`lF%FWF%Ff]lF%F<F%FLF%F%*,Fg`lF%FWF%Ff]lF%F=F%FjtF%F%*,\"%
+g;F%FWF%FYF%Fg\\lF%F3F%F8*,\"%giF%FWF%FYF%FBF%FLF%F8*,F_alF%FWF%FYF%FH
+F%FjtF%F8*,F]alF%FWF%FYF%F<F%F_uF%F8*,\"%g:F%FWF%F[oF%Fg\\lF%FjtF%F%*,
+FcalF%FWF%F[oF%FBF%F_uF%F%*,FdpF%FWF%Fj\\lF%F=F%F4F%F%*,\"$A$F%FWF%Ff]
+lF%FHF%F4F%F8*,\"$'*)F%FWF%Ff]lF%F<F%F3F%F8*,FarF%FWF%Ff]lF%F=F%FLF%F8
+*,\"%#=\"F%FWF%FYF%F<F%FjtF%F%*,\"$9\"F%FWF%FYF%F=F%F_uF%F%*,\"%:7F%FW
+F%F[oF%FBF%FjtF%F8*,\"$!QF%FWF%F[oF%FHF%F_uF%F8*,\"%+5F%FWF%Ff]lF%F<F%
+F4F%F%*,FdblF%FWF%Ff]lF%F=F%F3F%F%*,\"$g&F%FWF%FYF%FBF%F4F%F8*,\"%gBF%
+FWF%FYF%FHF%F3F%F8*,FiblF%FWF%FYF%F<F%FLF%F8*,FgblF%FWF%FYF%F=F%FjtF%F
+8*,FexF%FWF%F[oF%Fg\\lF%F3F%F%*,\"%?6F%FWF%F[oF%FBF%FLF%F%*,F^clF%FWF%
+F[oF%FHF%FjtF%F%*,FexF%FWF%F[oF%F<F%F_uF%F%*,F_xF%FWF%F+F%Fg\\lF%FjtF%
+F8*,F_xF%FWF%F+F%FBF%F_uF%F8*,\"#mF%FWF%Ff]lF%F=F%F4F%F8*,FgxF%FWF%F[o
+F%F<F%FjtF%F8*,F_rF%FWF%F+F%FBF%FjtF%F%*,F_]lF%FWF%FYF%F<F%F4F%F8*,F_]
+lF%FWF%FYF%F=F%F3F%F8*,F\\tF%FWF%F[oF%FBF%F4F%F%*(FKF%FazF%F_uF%F8*(FK
+F%FazF%FLF%F8*(FIF%FazF%F4F%F8*(F^tF%F]uF%FHF%F%*(FGF%F]uF%F=F%F%*&FWF
+%Ff]lF%F8**FauF%FFF%Fg\\lF%FLF%F%**\"%+RF%F*F%Fg\\lF%F_uF%F8**\"#%)F%F
+azF%F<F%F4F%F8**\"$W\"F%FazF%F=F%F3F%F8**\"$/\"F%FWF%Ff]lF%F_uF%F%**F)
+F%FWF%Fj\\lF%F3F%F%**\"#lF%FWF%Ff]lF%FjtF%F8**FcuF%FFF%Fg\\lF%F4F%F%**
+FguF%F*F%Fg\\lF%FLF%F8**\"$%eF%F:F%Fg\\lF%F_uF%F%**FexF%FWF%Ff]lF%FLF%
+F%**Ff\\lF%FWF%FYF%Fg\\lF%F8**Ff\\lF%FWF%FYF%F_uF%F8**\"%]JF%FazF%FBF%
+F_uF%F8**FexF%F:F%Fg\\lF%FLF%F%**\"#WF%FWF%Ff]lF%F4F%F%**F\\tF%FWF%FYF
+%FHF%F8**F\\tF%FWF%FYF%FLF%F8**FixF%F:F%FBF%F3F%F%**\"#;F%FWF%FYF%F=F%
+F8**F\\flF%FWF%FYF%F4F%F8**\"&?E\"F%F]uF%Fg\\lF%F_uF%F8**FdelF%FazF%FB
+F%FLF%F8**\"%gLF%FazF%FHF%FjtF%F8**Ff^lF%FazF%F<F%F_uF%F8**F\\uF%F]uF%
+Fg\\lF%FLF%F8**\"&g,\"F%FFF%Fg\\lF%F_uF%F%**\"$5#F%FazF%FBF%F4F%F8**\"
+%35F%FazF%FHF%F3F%F8**Ff^lF%FazF%F<F%FLF%F8**F^pF%FazF%F=F%FjtF%F8**F
+\\tF%FWF%Fj\\lF%FjtF%F%**Fi[lF%F]uF%Fg\\lF%F4F%F8**F^tF%FWF%Ff]lF%F<F%
+F8**\"#MF%FWF%Ff]lF%F3F%F8**FAF%FWF%FYF%FjtF%F%**F_xF%F*F%Fg\\lF%F4F%F
+8*(FIF%FazF%F]yF%F8*(FIF%F]uF%F]yF%F%*(FhflF%FazF%F<F%F%*(FhflF%FazF%F
+3F%F%*(FddlF%F_zF%F<F%F8*(FddlF%F_zF%F3F%F8*(FOF%FFF%F[yF%F%*(F^tF%FFF
+%F_yF%F%*(F^tF%FFF%F`yF%F%*(FEF%FFF%Fg\\lF%F%*(FGF%F]uF%F[yF%F8*(\"#cF
+%F]uF%F`yF%F8*(F^tF%F]uF%Fg\\lF%F8*(FexF%F]uF%F<F%F8*(FIF%F[]lF%F]yF%F
+%*&F[]lF%F_uF%F8*(FhpF%F[yF%F`yF%F%*(FIF%F[yF%FjtF%F8*(FcyF%F_yF%F_uF%
+F%*(FIF%F_yF%FLF%F8*(FAF%Fg\\lF%FjtF%F%*&Fg\\lF%F3F%F8*(FIF%F*F%F[yF%F
+8*(FOF%F*F%Fg\\lF%F8*&F:F%Fg\\lF%F%*,\"$O'F%FWF%F[oF%Fg\\lF%FLF%F8*,Fh
+pF%FWF%F+F%F[yF%FLF%F8*,\"#iF%FWF%F+F%F_yF%FjtF%F%*,F^blF%FWF%F+F%Fg
+\\lF%F_uF%F%*,FhpF%FWF%F[oF%Fg\\lF%F4F%F%*,FOF%FWF%F+F%F_yF%F3F%F8*,Ff
+sF%FWF%F+F%Fg\\lF%FLF%F%*,F7F%FWF%F+F%Fg\\lF%F4F%F8*,\"$C*F%FWF%F[oF%F
+_yF%F_uF%F%*,FiilF%FWF%F[oF%Fg\\lF%F`yF%F%*,F^zF%FWF%F[oF%FBF%F]yF%F%*
+,\"#GF%FWF%F+F%F[yF%F`yF%F8*,F]jlF%FWF%F+F%F_yF%F]yF%F8*,\"$#=F%FWF%Ff
+]lF%Fg\\lF%F4F%F8*,\"#IF%FWF%FYF%F[yF%F4F%F8*,\"$s#F%FWF%FYF%F_yF%F3F%
+F%*,\"%!)HF%FWF%FYF%Fg\\lF%FLF%F%*,FdtF%FWF%FYF%F<F%F`yF%F%*,FUF%FWF%F
+[oF%F[]lF%F3F%F%*,FfsF%FWF%F[oF%F[yF%FLF%F8*,\"$%*)F%FWF%F[oF%F_yF%Fjt
+F%F8*,\"%u9F%FWF%F[oF%Fg\\lF%F_uF%F8*,FavF%FWF%F[oF%FBF%F`yF%F8*,FZF%F
+WF%F+F%F[]lF%FjtF%F8*,FjnF%FWF%F+F%F[yF%F_uF%F%*,FddlF%FWF%F+F%F_yF%F`
+yF%F%*,FddlF%FWF%FYF%F=F%F`yF%F8*,\"$!GF%FWF%F[oF%F_yF%FLF%F%*,Fd[mF%F
+WF%F[oF%FHF%F`yF%F%*,FddlF%FWF%F+F%F_yF%F_uF%F8*,FddlF%FWF%F+F%Fg\\lF%
+F`yF%F8*,FbjlF%FWF%FYF%Fg\\lF%F4F%F%*,FhpF%FWF%F[oF%F[yF%F4F%F%*,\"#<F
+%FWF%F[oF%F_yF%F3F%F%*,FdtF%FWF%Ff]lF%F<F%F]yF%F%*,FgblF%FWF%FYF%FBF%F
+]yF%F8*,F^zF%FWF%F[oF%F[yF%F`yF%F%*,F^zF%FWF%F[oF%F_yF%F]yF%F%*,Fc]lF%
+FWF%Fj\\lF%Fg\\lF%F4F%F%*,FGF%FWF%Ff]lF%F[yF%F4F%F8*,\"$%yF%FWF%Ff]lF%
+F_yF%F3F%F8*,\"%+\\F%FWF%Ff]lF%Fg\\lF%FLF%F8*,\"$c(F%FWF%Ff]lF%F<F%F`y
+F%F8*,FdpF%FWF%Ff]lF%F=F%F]yF%F8*,F7F%FWF%FYF%F[]lF%F3F%F8*,\"$o%F%FWF
+%FYF%F[yF%FLF%F%*,\"%#G$F%FWF%FYF%F_yF%FjtF%F%*,\"%E^F%FWF%FYF%Fg\\lF%
+F_uF%F%*,F[`lF%FWF%FYF%FBF%F`yF%F%*,Fc]lF%FWF%FYF%FHF%F]yF%F%*,FKF%FWF
+%F[oF%F[]lF%FjtF%F8*,\"$A&F%FWF%F[oF%F[yF%F_uF%F8*,Fg\\mF%FWF%F[oF%F_y
+F%F`yF%F8*,Fc]lF%FWF%F[oF%Fg\\lF%F]yF%F8*,F)F%FWF%F+F%F[]lF%F`yF%F%*,F
+dpF%FWF%F+F%F[yF%F]yF%F%*,\"$k$F%FWF%Ff]lF%F=F%F`yF%F%*,\"%?=F%FWF%FYF
+%FHF%F`yF%F8*,FddlF%FWF%FYF%F<F%F]yF%F8*,F^zF%FWF%F[oF%F[yF%FjtF%F%*,F
+i^lF%FWF%Fj\\lF%F_yF%FjtF%F%*,Fa^lF%FWF%Fj\\lF%Fg\\lF%F_uF%F%*,Ff^lF%F
+WF%Fj\\lF%FBF%F`yF%F%*,Fc]lF%FWF%Fj\\lF%FHF%F]yF%F%*,\"$v\"F%FWF%Ff]lF
+%F[]lF%FjtF%F8*,\"%M6F%FWF%Ff]lF%F[yF%F_uF%F8*,\"%'f\"F%FWF%Ff]lF%F_yF
+%F`yF%F8*,Fa]lF%FWF%Ff]lF%Fg\\lF%F]yF%F8*,\"$3\"F%FWF%FYF%F[]lF%F`yF%F
+%*,FfdlF%FWF%FYF%F[yF%F]yF%F%*,FdpF%FWF%Fj\\lF%F[yF%F4F%F%*,Fa]lF%FWF%
+Fj\\lF%F_yF%F3F%F%*,Fa^lF%FWF%Fj\\lF%Fg\\lF%FLF%F%*,Fa]lF%FWF%Fj\\lF%F
+<F%F`yF%F%*,FdpF%FWF%Fj\\lF%F=F%F]yF%F%*,\"#EF%FWF%Ff]lF%F[]lF%F3F%F8*
+,\"$!yF%FWF%Ff]lF%F[yF%FLF%F8*,\"%ITF%FWF%Ff]lF%F_yF%FjtF%F8*,\"%'G'F%
+FWF%Ff]lF%Fg\\lF%F_uF%F8*,\"%SHF%FWF%Ff]lF%FBF%F`yF%F8*,F[wF%FWF%Ff]lF
+%FHF%F]yF%F8*,\"$l\"F%FWF%FYF%F[]lF%FjtF%F%*,\"%U7F%FWF%FYF%F[yF%F_uF%
+F%*,\"%k<F%FWF%FYF%F_yF%F`yF%F%*,Fa]lF%FWF%FYF%Fg\\lF%F]yF%F%*,Fe]lF%F
+WF%F[oF%F[]lF%F`yF%F8*,Fh]lF%FWF%F[oF%F[yF%F]yF%F8**F]jlF%FWF%)F+F\\zF
+%F=F%F%**F]jlF%FWF%Fg`mF%F4F%F%**F^tF%FWF%FYF%F_yF%F8**F`hlF%FWF%Fj\\l
+F%F=F%F8**F`hlF%FWF%Fj\\lF%F4F%F8**FIF%FWF%F[oF%F_yF%F%**FgelF%FWF%Ff]
+lF%F=F%F%**FddlF%FazF%F=F%F]yF%F%**\"$S)F%F]uF%FHF%F]yF%F8**F`amF%FFF%
+Fg\\lF%F]yF%F%**F\\tF%F*F%F[yF%F]yF%F8**F&F%F_zF%F[yF%F]yF%F8**FddlF%F
+_zF%Fg\\lF%F]yF%F8**FdpF%FazF%F[yF%F]yF%F%**F^zF%F_zF%FHF%F]yF%F8**Fav
+F%FazF%Fg\\lF%F]yF%F%**F\\tF%F]uF%F[yF%F]yF%F8**Fd[mF%FWF%Fj\\lF%FHF%F
+8**Fd[mF%FWF%Fj\\lF%FLF%F8**FhdlF%FWF%Ff]lF%Fg\\lF%F%**FexF%FWF%Ff]lF%
+FHF%F%**F^zF%FWF%Fg`mF%FHF%F%**F^zF%FWF%Fg`mF%FLF%F%**Fc]lF%FWF%Fj\\lF
+%Fg\\lF%F8**Fc]lF%FWF%Fj\\lF%F_uF%F8**F&F%FWF%Ff]lF%F[yF%F%**FevF%FazF
+%FHF%F4F%F%**\"%9\\F%FazF%F<F%F3F%F%**FevF%FazF%F=F%FLF%F%**\"%=7F%FFF
+%F_yF%F3F%F%**FddlF%FWF%Fg`mF%Fg\\lF%F%**FddlF%FWF%Fg`mF%F_uF%F%**F^uF
+%FWF%Fj\\lF%F[yF%F8**\"$!)*F%F_zF%FHF%F4F%F8**Fb`mF%F_zF%F<F%F3F%F8**F
+\\cmF%F_zF%F=F%FLF%F8**Fi^lF%FazF%Fg\\lF%F4F%F%**\"%I!*F%FazF%FBF%F3F%
+F%**\"&+a\"F%FazF%FHF%FLF%F%**FacmF%FazF%F<F%FjtF%F%**Fi^lF%FazF%F=F%F
+_uF%F%**FddlF%F]uF%F[yF%F4F%F8**\"%%R#F%F]uF%F_yF%F3F%F8**FgblF%FFF%F[
+yF%FLF%F%**\"%!=&F%FFF%F_yF%FjtF%F%**\"$)eF%F_zF%Fg\\lF%F4F%F8**F[`mF%
+F_zF%FBF%F3F%F8**Fe\\mF%F_zF%FHF%FLF%F8**F[`mF%F_zF%F<F%FjtF%F8**F]dmF
+%F_zF%F=F%F_uF%F8**FddlF%FazF%F[yF%F4F%F%**\"%u>F%FazF%F_yF%F3F%F%**\"
+&+0\"F%FazF%Fg\\lF%FLF%F%**\"&]y\"F%FazF%FBF%FjtF%F%**FfdmF%FazF%FHF%F
+_uF%F%**FddmF%FazF%F<F%F`yF%F%**F`amF%F]uF%F[yF%FLF%F8**\"%?nF%F]uF%F_
+yF%FjtF%F8**F]emF%F]uF%FBF%F`yF%F8**F`amF%FFF%F[yF%F_uF%F%**F[`lF%FFF%
+F_yF%F`yF%F%**F&F%FWF%Fg`mF%F[yF%F%**F&F%FWF%Fg`mF%F]yF%F%**FhcmF%F]uF
+%F<F%F`yF%F8**FddlF%F]uF%F=F%F]yF%F8**F[dmF%FFF%FBF%F`yF%F%**FgblF%FFF
+%FHF%F]yF%F%**FavF%F*F%F[yF%F_uF%F8**F^clF%F*F%F_yF%F`yF%F8**FavF%F*F%
+Fg\\lF%F]yF%F8**FdpF%F:F%F[yF%F]yF%F%**FgblF%FazF%FHF%F]yF%F%**F`amF%F
+]uF%Fg\\lF%F]yF%F8**\"#!)F%FFF%F[yF%F]yF%F%*(F]jlF%F_zF%F_yF%F8*(F]jlF
+%F_zF%F`yF%F8*(F^zF%F_zF%FBF%F8*(FjsF%FazF%F_yF%F%*(\"$]$F%FazF%FBF%F%
+*(FdfmF%FazF%FjtF%F%*(F`hlF%F]uF%F_yF%F8*(F_\\lF%F]uF%FBF%F8*&F&F%F_zF
+%F8**\"$'>F%F_zF%F=F%F4F%F8**F]jlF%F_zF%F[yF%F4F%F8**F]dmF%F_zF%F_yF%F
+3F%F8**F[`mF%F_zF%Fg\\lF%FLF%F8**Fe\\mF%F_zF%FBF%FjtF%F8**F[`mF%F_zF%F
+HF%F_uF%F8**F]dmF%F_zF%F<F%F`yF%F8**F]jlF%F_zF%F=F%F]yF%F8**FgblF%FazF
+%F[yF%FLF%F%**Fg_mF%FazF%F_yF%FjtF%F%**\"%gvF%FazF%Fg\\lF%F_uF%F%**Fg_
+mF%FazF%FBF%F`yF%F%**F`amF%F]uF%F[yF%F_uF%F8**\"%I?F%F]uF%F_yF%F`yF%F8
+**F^zF%F_zF%F[yF%FLF%F8**F\\cmF%F_zF%F_yF%FjtF%F8**Fb`mF%F_zF%Fg\\lF%F
+_uF%F8**F\\cmF%F_zF%FBF%F`yF%F8**FavF%FazF%F[yF%F_uF%F%**\"$%**F%FazF%
+F_yF%F`yF%F%**FddlF%F_zF%F[yF%F_uF%F8**FjfmF%F_zF%F_yF%F`yF%F8**F^uF%F
+WF%Fj\\lF%F]yF%F8**F)F%FWF%Fj\\lF%F`yF%F%*(FWF%Ff]lF%F[]lF%F%**F&F%FWF
+%Ff]lF%F]yF%F%**F^tF%FWF%Ff]lF%F_yF%F%**FhpF%FWF%Ff]lF%F`yF%F8*(FWF%FY
+F%F[]lF%F8**Fa]lF%FazF%F=F%F4F%F%**FIF%FazF%F[]lF%F]yF%F8**FKF%FazF%F[
+]lF%F_uF%F8**FfdlF%FazF%F[yF%F`yF%F8**FddlF%FazF%F_yF%F]yF%F8**FKF%Faz
+F%F[]lF%FLF%F8**F^pF%FazF%F[yF%FjtF%F8**Ff^lF%FazF%F_yF%F_uF%F8**FjflF
+%FazF%Fg\\lF%F`yF%F8**FhflF%FazF%FBF%F]yF%F8**FIF%FazF%F[]lF%F4F%F8**F
+fdlF%FazF%F[yF%F3F%F8**Ff^lF%FazF%F_yF%FLF%F8**FbflF%FazF%Fg\\lF%FjtF%
+F8**FjflF%FazF%FHF%F`yF%F8**FddlF%FazF%F<F%F]yF%F8**FddlF%FazF%F_yF%F4
+F%F8**FjflF%FazF%Fg\\lF%F3F%F8**FfdlF%FazF%F=F%F`yF%F8**Fc]lF%F]uF%F<F
+%F]yF%F%**\"#)*F%F]uF%F_yF%F4F%F%**\"%G@F%F]uF%Fg\\lF%F3F%F%**FjoF%F]u
+F%F=F%F`yF%F%**FddlF%FFF%F<F%F]yF%F8**FddlF%FFF%F=F%F`yF%F8**FAF%F]uF%
+F[]lF%F]yF%F%**\"$z\"F%F]uF%F[]lF%F_uF%F%**F]dmF%F]uF%F[yF%F`yF%F%**F[
+wF%F]uF%F_yF%F]yF%F%**\"$D\"F%F]uF%F[]lF%FLF%F%**\"%I:F%F]uF%F[yF%FjtF
+%F%**\"%'=%F%F]uF%F_yF%F_uF%F%**\"%wKF%F]uF%Fg\\lF%F`yF%F%**\"$I'F%F]u
+F%FBF%F]yF%F%*(F]uF%F[]lF%F4F%F%**\"$)GF%F]uF%F[yF%F3F%F%**\"%?KF%F]uF
+%F_yF%FLF%F%**\"%q\"*F%F]uF%Fg\\lF%FjtF%F%**\"%OCF%F]uF%FHF%F`yF%F%**
+\"%=FF%FFF%F_yF%FLF%F8**\"%&p)F%FFF%Fg\\lF%FjtF%F8**\"%[=F%FFF%FHF%F`y
+F%F8**FhflF%F*F%FBF%F]yF%F%**F]jlF%FFF%F[yF%F4F%F%**FgbmF%FFF%F<F%F`yF
+%F%**F]jlF%FFF%F=F%F]yF%F%**\"#BF%FFF%F_yF%F4F%F%**\"%]9F%FFF%Fg\\lF%F
+3F%F8**FavF%F*F%FHF%F`yF%F%**FbjlF%FFF%F[]lF%F]yF%F8**\"$m#F%FFF%F[]lF
+%F_uF%F8**\"$7*F%FFF%F[yF%F`yF%F8**Fa]lF%FFF%F_yF%F]yF%F8**\"$0\"F%FFF
+%F[]lF%FLF%F8**\"%2<F%FFF%F[yF%FjtF%F8**\"%<]F%FFF%F_yF%F_uF%F8**\"%!y
+$F%FFF%Fg\\lF%F`yF%F8**Fc[nF%FFF%FBF%F]yF%F8**F\\yF%FFF%F[]lF%F4F%F%**
+\"$E\"F%FFF%F[yF%F3F%F8**FbjlF%F*F%F[]lF%F]yF%F%**\"$u\"F%F*F%F[]lF%F_
+uF%F%**\"$['F%F*F%F[yF%F`yF%F%**F[wF%F*F%F_yF%F]yF%F%**FAF%F*F%F[]lF%F
+LF%F%**\"$T(F%F*F%F[yF%FjtF%F%**\"%NDF%F*F%F_yF%F_uF%F%**Fb`mF%F*F%Fg
+\\lF%F`yF%F%**FddlF%F:F%F_yF%F]yF%F8**F^zF%F*F%F[yF%FLF%F8**F\\^mF%F*F
+%F_yF%FjtF%F8**F\\^mF%F*F%FBF%F`yF%F8**F^zF%F*F%FHF%F]yF%F8**FZF%F*F%F
+[]lF%F4F%F8**FfsF%F*F%F[yF%F3F%F8**\"$8)F%F*F%F_yF%FLF%F%**\"%NLF%F*F%
+Fg\\lF%FjtF%F%**FdtF%F:F%Fg\\lF%F`yF%F8**FhflF%F*F%F_yF%F3F%F8**FhflF%
+F*F%F<F%F`yF%F8**\"#YF%F*F%F_yF%F4F%F8**\"$[$F%F*F%Fg\\lF%F3F%F%**FAF%
+F:F%F[]lF%F]yF%F8**\"#TF%F:F%F[]lF%F_uF%F8**\"$#>F%F:F%F[yF%F`yF%F8**F
+ddlF%F:F%F[yF%F_uF%F%**F^]nF%F:F%F_yF%F`yF%F%**FddlF%F:F%Fg\\lF%F]yF%F
+%**FUF%F:F%F[]lF%FLF%F%**\"#\")F%F:F%F[yF%FjtF%F8**\"$j%F%F:F%F_yF%F_u
+F%F8**FhflF%F:F%F_yF%FjtF%F%**FhflF%F:F%FBF%F`yF%F%**F)F%F:F%F[yF%F3F%
+F%**\"#_F%F:F%F_yF%FLF%F8**\"$l%F%F:F%Fg\\lF%FjtF%F8**FOF%F:F%F_yF%F4F
+%F%**F[\\mF%F:F%Fg\\lF%F3F%F8*,Ff^lF%FWF%Fj\\lF%F<F%F4F%F8*,Ff^lF%FWF%
+Fj\\lF%F=F%F3F%F8*,FddlF%FWF%FYF%F_yF%F4F%F8*,F]dmF%FWF%Fg`mF%F<F%F4F%
+F%*,F]dmF%FWF%Fg`mF%F=F%F3F%F%*,FcvF%FWF%Fj\\lF%FBF%F4F%F8*,\"%SrF%FWF
+%Fj\\lF%FHF%F3F%F8*,FianF%FWF%Fj\\lF%F<F%FLF%F8*,FcvF%FWF%Fj\\lF%F=F%F
+jtF%F8*,Fj]mF%FWF%Ff]lF%F_yF%F4F%F%*,FddlF%FWF%FYF%F[yF%F3F%F8*,F\\^mF
+%FWF%FYF%F_yF%FLF%F8*,F\\cmF%FWF%Fg`mF%FBF%F4F%F%*,F[`mF%FWF%Fg`mF%FHF
+%F3F%F%*,F[`mF%FWF%Fg`mF%F<F%FLF%F%*,F\\cmF%FWF%Fg`mF%F=F%FjtF%F%*,\"$
+w%F%FWF%Fj\\lF%F_yF%F4F%F8*,\"%)y%F%FWF%Fj\\lF%Fg\\lF%F3F%F8*,\"&+S\"F
+%FWF%Fj\\lF%FBF%FLF%F8*,FhbnF%FWF%Fj\\lF%FHF%FjtF%F8*,FfbnF%FWF%Fj\\lF
+%F<F%F_uF%F8*,FdbnF%FWF%Fj\\lF%F=F%F`yF%F8*,FdtF%FWF%Ff]lF%F[yF%F3F%F%
+*,Fi]nF%FWF%Ff]lF%F_yF%FLF%F%*,Fi]nF%FWF%Ff]lF%FHF%F`yF%F%*,FgblF%FWF%
+FYF%F[yF%FjtF%F8*,\"%cGF%FWF%FYF%F_yF%F_uF%F8*,FacnF%FWF%FYF%Fg\\lF%F`
+yF%F8*,FjfmF%FWF%Fg`mF%F_yF%F4F%F%*,Fb`mF%FWF%Fg`mF%Fg\\lF%F3F%F%*,Fe
+\\mF%FWF%Fg`mF%FBF%FLF%F%*,Fe\\mF%FWF%Fg`mF%FHF%FjtF%F%*,Fb`mF%FWF%Fg`
+mF%F<F%F_uF%F%*,FjfmF%FWF%Fg`mF%F=F%F`yF%F%*,FdtF%FWF%Fj\\lF%F[yF%F3F%
+F8*,Fh[nF%FWF%Fj\\lF%F_yF%FLF%F8*,\"&!35F%FWF%Fj\\lF%Fg\\lF%FjtF%F8*,F
+\\dnF%FWF%Fj\\lF%FBF%F_uF%F8*,Fh[nF%FWF%Fj\\lF%FHF%F`yF%F8*,FdtF%FWF%F
+j\\lF%F<F%F]yF%F8*,F`amF%FWF%Ff]lF%F[yF%FjtF%F%*,\"%kQF%FWF%Ff]lF%F_yF
+%F_uF%F%*,FbdnF%FWF%Ff]lF%Fg\\lF%F`yF%F%*,F`amF%FWF%Ff]lF%FBF%F]yF%F%*
+,Fd[mF%FWF%FYF%F[yF%F`yF%F8*,Fd[mF%FWF%FYF%F_yF%F]yF%F8*,FddlF%FWF%Fg`
+mF%F[yF%F3F%F%*,F\\cmF%FWF%Fg`mF%F_yF%FLF%F%*,F[`mF%FWF%Fg`mF%Fg\\lF%F
+jtF%F%*,F[`mF%FWF%Fg`mF%FBF%F_uF%F%*,F\\cmF%FWF%Fg`mF%FHF%F`yF%F%*,Fdd
+lF%FWF%Fg`mF%F<F%F]yF%F%*,FgblF%FWF%Fj\\lF%F[yF%FjtF%F8*,F\\\\nF%FWF%F
+j\\lF%F_yF%F_uF%F8*,F\\\\nF%FWF%Fj\\lF%Fg\\lF%F`yF%F8*,FgblF%FWF%Fj\\l
+F%FBF%F]yF%F8*,Fd[mF%FWF%Ff]lF%F[yF%F`yF%F%*,Fd[mF%FWF%Ff]lF%F_yF%F]yF
+%F%*,F^zF%FWF%Fg`mF%F[yF%FjtF%F%*,F]dmF%FWF%Fg`mF%F_yF%F_uF%F%*,F]dmF%
+FWF%Fg`mF%Fg\\lF%F`yF%F%*,F^zF%FWF%Fg`mF%FBF%F]yF%F%*,F^zF%FWF%Fj\\lF%
+F[yF%F`yF%F8*,F^zF%FWF%Fj\\lF%F_yF%F]yF%F8*,F]jlF%FWF%Fg`mF%F[yF%F`yF%
+F%*,F]jlF%FWF%Fg`mF%F_yF%F]yF%F%F%FWF%,&*&F4F%FWF%F%F+F8F%,&*&F=F%FWF%
+F%F+F8F8,**(F4F%F=F%FWF%F%*&F4F%F+F%F8FWF%*&F=F%F+F%F8F8,*F9F8**F7F%FW
+F%F+F%F4F%F%*$F:F%F8*$F3F%F%F8,2*(F:F%F<F%F4F%F8*(F+F%F<F%FWF%F%*,F7F%
+F4F%F=F%FWF%F+F%F%*(F7F%F:F%F=F%F8*&F:F%F4F%F8*&F<F%F4F%F%*&F+F%FWF%F%
+F=F%F8)*(FgfnF%FWF8F[fnF8#F%F7F8F%" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"
+\"!" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "\"\"!" }}{PARA 11 "" 1 "" {XPPMATH 20 ",$*0#\"\"\"\"\"#F%
+)-I%sinhG6$%*protectedGI(_syslibG6\"6#I\"LGF-F&F%,^p*&F(F%)&I\"kGF-6#
+\"\"!\"\"$F%F%*(\"#7F%)-I%coshGF*F.F7F%)F3F&F%F%*(F7F%F;F%F=F%!\"\"*(
+\"#5F%)F;\"\"&F%F=F%F?*&FBF%)&F46#F%F&F%F?**\"\")F%F(F%)F;F&F%F2F%F?*,
+F9F%F(F%FJF%F=F%FFF%F?*,\"#?F%F(F%)F;\"\"%F%F=F%FFF%F%*,FCF%F(F%FNF%F3
+F%FEF%F%*$F:F%F%*$FBF%F?**F7F%F(F%FJF%F3F%F?**FIF%F:F%F3F%FFF%F%**FCF%
+F(F%FNF%F3F%F%**F&F%F(F%FNF%FFF%F%**FAF%F:F%F=F%FEF%F%**FAF%FBF%F=F%FE
+F%F?**FAF%FBF%F3F%FFF%F?**F&F%FBF%)F3FCF%FFF%F?**FCF%FBF%)F3FOF%FEF%F?
+*(F&F%F;F%FgnF%F?*(FCF%FBF%FgnF%F?*(\"\"(F%F:F%FgnF%F%*,F9F%F(F%FJF%Fg
+nF%FFF%F?*,FAF%F(F%FJF%F2F%FEF%F?**F(F%FNF%FenF%FEF%F%*,FAF%F(F%FNF%Fg
+nF%FFF%F%*,FAF%F(F%FNF%F2F%FEF%F%*,F&F%F(F%FJF%FenF%FEF%F?*(F(F%FNF%Fe
+nF%F%**FMF%FBF%F2F%FFF%F?**FOF%F:F%FenF%FFF%F%**FAF%F:F%FgnF%FEF%F%**F
+AF%F(F%FNF%F2F%F%*(F(F%FJF%FenF%F?**\"#GF%F:F%F2F%FFF%F%**F&F%F;F%FenF
+%FFF%F?**FCF%F;F%FgnF%FEF%F?**FIF%F;F%F2F%FFF%F?*(F(F%FenF%FEF%F%**F&F
+%F(F%FgnF%FFF%F%F%,&*&F3F%F(F%F%F;F?F?,**(FFF%F3F%F(F%F%*&FFF%F;F%F?F(
+F%*&F3F%F;F%F?F?,2*(FJF%F=F%FFF%F?*(F;F%F=F%F(F%F%*,F&F%FFF%F3F%F(F%F;
+F%F%*(F&F%FJF%F3F%F?*&FJF%FFF%F?*&F=F%FFF%F%*&F;F%F(F%F%F3F%F?)*(FepF%
+F(F?,&*&FFF%F(F%F%F;F?F?F$F?F%" }}{PARA 11 "" 1 "" {XPPMATH 20 ",$*0#
+\"\"\"\"\"#F%)-I%sinhG6$%*protectedGI(_syslibG6\"6#I\"LGF-F&F%,b[l*(\"
+#7F%)-I%coshGF*F.\"\"%F%)&I\"kGF-6#F%F&F%!\"\"*&)F4F&F%F7F%F%*&F=F%)&F
+96#\"\"!F&F%F%*(\"\"&F%F3F%)F@F6F%F;*(F2F%F3F%F?F%F;*(F6F%)F@\"\"$F%)F
+8FIF%F;*&F?F%F7F%F;*,\"#OF%F(F%)F4FIF%F@F%F7F%F%*,F&F%F4F%F@F%F7F%F(F%
+F;**\"##*F%F3F%FHF%F8F%F;*,FMF%F(F%FNF%F?F%F8F%F%*,F&F%F(F%F4F%F?F%F8F
+%F;*,\"$K\"F%F(F%FNF%FHF%F7F%F%*,FUF%F(F%FNF%F?F%FJF%F%*,F2F%F4F%F?F%F
+JF%F(F%F;*,F2F%F4F%FHF%F7F%F(F%F;**FQF%F3F%F@F%FJF%F;**F6F%F(F%FNF%FJF
+%F%**FMF%F3F%F@F%F8F%F;**F2F%F=F%F@F%FJF%F%**F&F%F(F%FNF%F@F%F%**F&F%F
+(F%FNF%F8F%F%**F6F%F=F%F@F%F8F%F%*$F3F%F;**F6F%F(F%FNF%FHF%F%**F2F%F=F
+%FHF%F8F%F%**\"$k$F%F3F%FHF%FJF%F;**\"#))F%F=F%FHF%FJF%F%**\"#PF%F=F%F
+?F%F7F%F%**\"$;#F%F3F%F?F%F7F%F;*(FDF%FEF%)F8F6F%F;**\"#?F%)F4\"\")F%F
+HF%)F8FDF%F;**\"#gF%)F4\"\"'F%FHF%F[pF%F%**FhoF%F^pF%F@F%F[pF%F%**\"$l
+\"F%F3F%FEF%FfoF%F;**F]pF%F3F%FHF%F[pF%F;**\"#!)F%F^pF%F@F%F8F%F%**\"$
+g\"F%F3F%FEF%F7F%F;**FgpF%F3F%F?F%FfoF%F;**\"#5F%F3F%F@F%F[pF%F;**\"#l
+F%F=F%FEF%FfoF%F%**FhoF%F=F%FHF%F[pF%F%**\"#IF%F=F%F?F%FfoF%F%*(FDF%F3
+F%FfoF%F;*(\"#:F%F^pF%FEF%F%*(FbqF%F^pF%FfoF%F%**\"$+\"F%FioF%FHF%F8F%
+F;**\"$+#F%FioF%F?F%F7F%F;**FeqF%FioF%F@F%FJF%F;**\"$I#F%F^pF%FEF%F7F%
+F%**\"$![F%F^pF%FHF%FJF%F%**FjqF%F^pF%F?F%FfoF%F%**\"#]F%FioF%F@F%F8F%
+F;**\"$!=F%F^pF%FHF%F8F%F%**\"$!QF%F^pF%F?F%F7F%F%**FarF%F^pF%F@F%FJF%
+F%**FeqF%FioF%FEF%F7F%F;**FgqF%FioF%FHF%FJF%F;**FeqF%FioF%F?F%FfoF%F;*
+*FjpF%FioF%F@F%F[pF%F;**\"$b\"F%F^pF%FEF%FfoF%F%**F_rF%FioF%FEF%FfoF%F
+;*(FjpF%FioF%FfoF%F;*(FhoF%FioF%F7F%F;*(F_qF%F^pF%F?F%F%*(F_qF%F^pF%F7
+F%F%*&F&F%FioF%F;*(F&F%)F@FDF%F[pF%F;*&FIF%F^pF%F%*,FhoF%F(F%FNF%F@F%F
+foF%F%*,FhoF%F(F%F4F%FEF%FJF%F;*,FhoF%F(F%F4F%FHF%FfoF%F;*,FjpF%F(F%)F
+4\"\"(F%FbsF%FfoF%F%*,FjpF%F(F%FhsF%FEF%F[pF%F%*,FhoF%F(F%FhsF%FbsF%F7
+F%F%*,FeqF%F(F%FhsF%FEF%FJF%F%*,FeqF%F(F%FhsF%FHF%FfoF%F%*,FhoF%F(F%Fh
+sF%F?F%F[pF%F%*,F_qF%F(F%)F4FDF%FbsF%FfoF%F;*,F_qF%F(F%F`tF%FEF%F[pF%F
+;*,F_rF%F(F%FhsF%FEF%F8F%F%*,FgqF%F(F%FhsF%FHF%F7F%F%*,FgqF%F(F%FhsF%F
+?F%FJF%F%*,F_rF%F(F%FhsF%F@F%FfoF%F%*,\"#SF%F(F%F`tF%FbsF%F7F%F;*,\"$?
+#F%F(F%F`tF%FEF%FJF%F;*,FitF%F(F%F`tF%FHF%FfoF%F;*,FgtF%F(F%F`tF%F?F%F
+[pF%F;*,F_qF%F(F%FNF%FbsF%FfoF%F%*,F_qF%F(F%FNF%FEF%F[pF%F%*,FeqF%F(F%
+FhsF%F?F%F8F%F%*,FeqF%F(F%FhsF%F@F%F7F%F%*,\"#qF%F(F%F`tF%FEF%F8F%F;*,
+\"$?$F%F(F%F`tF%FHF%F7F%F;*,FcuF%F(F%F`tF%F?F%FJF%F;*,FauF%F(F%F`tF%F@
+F%FfoF%F;*,FhoF%F(F%FNF%FbsF%F7F%F%*,\"$S\"F%F(F%FNF%FEF%FJF%F%*,FhuF%
+F(F%FNF%FHF%FfoF%F%*,FhoF%F(F%FNF%F?F%F[pF%F%*,FjpF%F(F%F4F%FbsF%FfoF%
+F;*,FjpF%F(F%F4F%FEF%F[pF%F;*,\"$?\"F%F(F%F`tF%F?F%F8F%F;*,F^vF%F(F%F`
+tF%F@F%F7F%F;*,FhoF%F(F%FNF%FEF%F8F%F%**F]pF%F^pF%FbsF%FJF%F%**F2F%F3F
+%FbsF%F[pF%F;**F&F%F(F%FhsF%F[pF%F%**FhoF%F^pF%FbsF%F8F%F%**F]pF%F3F%F
+bsF%FJF%F;**FjoF%F=F%FbsF%F[pF%F%**FhoF%F(F%FhsF%FJF%F%**F&F%F(F%F`tF%
+FbsF%F;**F&F%F(F%F`tF%F[pF%F;**FhoF%F=F%FbsF%FJF%F%**FjpF%F(F%FhsF%F8F
+%F%**FhoF%F(F%F`tF%FHF%F;**FhoF%F(F%F`tF%FJF%F;**F_qF%F=F%FEF%F7F%F%**
+FjpF%F(F%F`tF%F@F%F;**FjpF%F(F%F`tF%F8F%F;**F&F%FioF%FbsF%F[pF%F;**Fho
+F%FioF%FbsF%FJF%F;**FjoF%F^pF%FbsF%F[pF%F%**FjpF%FioF%FbsF%F8F%F;**Fjp
+F%F3F%FbsF%F8F%F;*(FhoF%FioF%F?F%F;**FjpF%F(F%FhsF%F@F%F%**F&F%F(F%Fhs
+F%FbsF%F%**FhoF%F(F%FhsF%FHF%F%*(FjpF%FioF%FEF%F;F%,2*(F=F%F?F%F8F%F;*
+(F4F%F?F%F(F%F%*,F&F%F8F%F@F%F(F%F4F%F%*(F&F%F=F%F@F%F;*&F=F%F8F%F;*&F
+?F%F8F%F%*&F4F%F(F%F%F@F%F;)*(F[xF%F(F;,&*&F8F%F(F%F%F4F;F;F$F;,**(F8F
+%F@F%F(F%F%*&F8F%F4F%F;F(F%*&F@F%F4F%F;F;,&*&F@F%F(F%F%F4F;F;F;" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 79 "rec[2,1]:=E+E01*(D)(r)(0)*(D
+)(r)(s[1])+EE1*(D@D)(r)(s[1])+E11*((D)(r)(s[1]))^2\n" }{MPLTEXT 1 0 
+35 "+E00*((D)(r)(0))^2+EE0*(D@D)(r)(0);" }}{PARA 11 "" 1 "" {XPPMATH 
+20 ",(*4#\"\"\"\"\"%F%,f\\p*(\"#=F%)-I%coshG6$%*protectedGI(_syslibG6
+\"6#I\"LGF0F&F%)&I\"kGF06#F%\"\"#F%!\"\"*&)F+F7F%F3F%F%*&F:F%)&F56#\"
+\"!F7F%F%*(\"#:F%F*F%)F=F&F%F8*(F)F%F*F%F<F%F8*(\"#@F%)F+\"\"'F%)F=\"
+\"$F%F8*(\"#XF%FFF%)F4FIF%F8*&F:F%FHF%F8*(\"\"*F%F*F%FHF%F%*(FGF%F*F%F
+LF%F%*(FGF%FBF%FLF%F%*&FHF%F3F%F%*(FOF%FFF%F=F%F8*(\"#5F%FFF%F4F%F8*&-
+I%sinhGF-F1F%)F+\"\"&F%F%*(FIF%F*F%F=F%F%*(F7F%F*F%F4F%F%*(FGF%FHF%FLF
+%F8*&F<F%F3F%F8*,\"#aF%FWF%)F+FIF%F=F%F3F%F%*,F7F%F+F%F=F%F3F%FWF%F8**
+\"$e#F%F*F%FHF%F4F%F8*,FjnF%FWF%F[oF%F<F%F4F%F%*,F7F%FWF%F+F%F<F%F4F%F
+8*,\"%S6F%FWF%FYF%FBF%F3F%F%*,\"%?CF%FWF%FYF%FHF%FLF%F%*,\"$)>F%FWF%FY
+F%FHF%F4F%F%*,\"$'\\F%FWF%FYF%F<F%F3F%F%*,\"$G#F%FWF%FYF%F=F%FLF%F%*,
+\"$D#F%FWF%F[oF%FBF%F3F%F8*,\"$![F%FWF%F[oF%FHF%FLF%F8*,\"#UF%FWF%F[oF
+%FHF%F4F%F8*,\"#*)F%FWF%F[oF%F<F%F3F%F8*,\"#CF%FWF%F[oF%F=F%FLF%F8*,F7
+F%F+F%FHF%F4F%FWF%F%*,FdpF%F+F%FHF%FLF%FWF%F%*,\"#7F%F+F%FBF%F3F%FWF%F
+%*,FIF%F+F%F<F%F3F%FWF%F%*,F`pF%FWF%FYF%F=F%F4F%F%*,FGF%FWF%F[oF%F=F%F
+4F%F8*,\"$y$F%FWF%F[oF%FHF%F3F%F%*,F]qF%FWF%F[oF%F<F%FLF%F%*,F)F%F+F%F
+<F%FLF%FWF%F8*,F)F%F+F%FHF%F3F%FWF%F8**F^oF%F*F%F=F%FLF%F8**FGF%FWF%F[
+oF%FLF%F%**FjnF%F*F%F=F%F4F%F8**F)F%F:F%F=F%FLF%F%**F7F%FWF%F[oF%F=F%F
+%**F7F%FWF%F[oF%F4F%F%**F&F%F:F%F=F%F4F%F%*$F*F%F8**FGF%FWF%F[oF%FHF%F
+%**F)F%F:F%FHF%F4F%F%*(FWF%F[oF%F3F%F8**\"%N>F%F*F%FBF%FLF%F%**\"#vF%F
+*F%FBF%F4F%F%**\"$S&F%F*F%FHF%F3F%F%**\"$&\\F%F*F%F<F%FLF%F%**\"$J#F%F
+:F%FBF%FLF%F8**\"%5fF%FFF%FBF%FLF%F8**\"$&GF%FFF%FBF%F4F%F8**\"%I<F%FF
+F%FHF%F3F%F8**\"%y=F%FFF%F<F%FLF%F8**\"$:#F%FFF%F<F%F4F%F8**\"$Y#F%FFF
+%F=F%F3F%F8**FGF%F:F%FBF%F4F%F8**\"#eF%F:F%FHF%F3F%F8**\"#OF%F:F%F<F%F
+LF%F8**FGF%F:F%F<F%F4F%F8**FIF%F:F%F=F%F3F%F8**\"#qF%F*F%F<F%F4F%F%**
+\"#gF%F*F%F=F%F3F%F%**\"#9F%FWF%FYF%F<F%F%**F^tF%FWF%FYF%F3F%F%**FIF%F
+WF%F[oF%F<F%F8**\"%'[#F%F*F%FHF%FLF%F8**\"$_#F%F:F%FHF%FLF%F%**\"#bF%F
+:F%F<F%F3F%F%**\"$%fF%F*F%F<F%F3F%F8*(FAF%FBF%)F4F&F%F8**\"&gS\"F%)F+
+\"\")F%FHF%)F4FZF%F8**\"%!e)F%FFF%FHF%F_uF%F%**\"$/(F%FFF%F=F%F_uF%F%*
+*\"%&p%F%F*F%FBF%FjtF%F8**\"%!G#F%F*F%FHF%F_uF%F8**\"%+%)F%F]uF%FBF%F_
+uF%F%**\"%]tF%F]uF%FBF%FLF%F%**\"%IwF%F]uF%FHF%FjtF%F%**\"%MDF%F]uF%F<
+F%F_uF%F%**\"$?%F%F]uF%FBF%F4F%F%**\"%SAF%F]uF%FHF%F3F%F%**\"%gEF%F]uF
+%F<F%FLF%F%**\"$q)F%F]uF%F=F%FjtF%F%**\"$Q#F%F]uF%F<F%F4F%F%**\"$O$F%F
+]uF%F=F%F3F%F%**\"$x%F%FFF%F=F%FjtF%F8**\"$S#F%FFF%F=F%F4F%F%**\"%NwF%
+FFF%FBF%F_uF%F8**\"%DeF%FFF%FHF%FjtF%F8**\"%f:F%FFF%F<F%F_uF%F8**\"%qE
+F%F*F%FBF%F_uF%F%**\"%0<F%F*F%FHF%FjtF%F%**FirF%F*F%F<F%F_uF%F%**\"%!=
+\"F%F*F%FBF%F3F%F8**F\\xF%F*F%F<F%FjtF%F8**\"$+\"F%F*F%F=F%F_uF%F8**F_
+rF%F*F%F=F%FjtF%F%**FirF%F:F%FBF%F_uF%F8**\"$X&F%F:F%FBF%FjtF%F%**\"$+
+#F%F:F%FHF%F_uF%F%**\"$]\"F%F:F%FHF%FjtF%F8**\"#!*F%F:F%F<F%FjtF%F%*(F
+&F%)F=\"\"(F%)F4F\\yF%F8*(F^tF%)F=FGF%)F4FGF%F8*(FAF%F*F%FjtF%F8*(\"#>
+F%FFF%F_uF%F8*(\"$:\"F%FFF%FBF%F%*(FeyF%FFF%FjtF%F%*(\"#hF%F]uF%F_uF%F
+%*(\"#&)F%F]uF%FLF%F%*(\"#6F%F]uF%F4F%F%*(\"$S\"F%)F+FhpF%FjtF%F8*(Fjs
+F%)F+FUF%F`yF%F%**\"%!o#F%F]uF%FHF%F4F%F8**\"%]^F%F]uF%F<F%F3F%F8**Fcz
+F%F]uF%F=F%FLF%F8**\"%S_F%FFF%FBF%F3F%F%**\"%S)*F%FFF%FHF%FLF%F%**FhzF
+%FFF%F<F%FjtF%F%**\"$+&F%F]uF%F=F%F4F%F8**\"%S7F%FFF%FHF%F4F%F%**\"%SD
+F%FFF%F<F%F3F%F%**F_[lF%FFF%F=F%FLF%F%**\"&S-\"F%F]uF%FBF%F3F%F8**\"&+
+\"=F%F]uF%FHF%FLF%F8**Fd[lF%F]uF%F<F%FjtF%F8**\"%'p\"F%F]uF%F=F%F_uF%F
+8**\"&le\"F%FFF%FBF%FjtF%F%**\"&]Y#F%F]uF%FBF%FjtF%F8*(\"$5$F%F]uF%Fjt
+F%F8*(FexF%F]uF%F3F%F8*(FixF%FFF%F<F%F%*(FixF%FFF%F3F%F%*&FUF%F]uF%F8*
+&FUF%FazF%F%*(\"#?F%)F=FZF%F_uF%F8*&FZF%FFF%F%*,F)F%FWF%)F+FOF%)F=F^uF
+%F`yF%F%*,FdpF%FWF%Fj\\lF%F[yF%F]yF%F%*,F\\tF%FWF%Fj\\lF%F[]lF%FjtF%F%
+*,\"$g$F%FWF%Fj\\lF%F[yF%F_uF%F%*,\"$/&F%FWF%Fj\\lF%F_yF%F`yF%F%*,\"$o
+\"F%FWF%Fj\\lF%Fg\\lF%F]yF%F%*,\"#sF%FWF%)F+F\\yF%F[]lF%F`yF%F8*,\"#'*
+F%FWF%Ff]lF%F[yF%F]yF%F8*,F)F%FWF%Fj\\lF%F[]lF%F3F%F%*,F_]lF%FWF%Fj\\l
+F%F[yF%FLF%F%*,F\\tF%FWF%F[oF%F=F%FjtF%F%*,F\\tF%FWF%F+F%FBF%FLF%F8*,F
+\\tF%FWF%F+F%FHF%FjtF%F8*,\"%+UF%FWF%Fj\\lF%FBF%FjtF%F%*,\"%?DF%FWF%Fj
+\\lF%FHF%F_uF%F%*,\"&+F\"F%FWF%Ff]lF%Fg\\lF%FjtF%F%*,Fc^lF%FWF%Ff]lF%F
+BF%F_uF%F%*,\"%g7F%FWF%Fj\\lF%FBF%F3F%F%*,Fa^lF%FWF%Fj\\lF%FHF%FLF%F%*
+,\"%!o\"F%FWF%Fj\\lF%F<F%FjtF%F%*,F_]lF%FWF%Fj\\lF%F=F%F_uF%F%*,FiuF%F
+WF%Ff]lF%FBF%FjtF%F8*,\"%MYF%FWF%Ff]lF%FHF%F_uF%F8*,\"%%[%F%FWF%Ff]lF%
+Fg\\lF%F3F%F%*,\"&+V\"F%FWF%Ff]lF%FBF%FLF%F%*,Fa_lF%FWF%Ff]lF%FHF%FjtF
+%F%*,F__lF%FWF%Ff]lF%F<F%F_uF%F%*,\"%?qF%FWF%FYF%Fg\\lF%FjtF%F8*,Fe_lF
+%FWF%FYF%FBF%F_uF%F8*,Fc]lF%FWF%Fj\\lF%FHF%F4F%F%*,Fa]lF%FWF%Fj\\lF%F<
+F%F3F%F%*,F_]lF%FWF%Fj\\lF%F=F%FLF%F%*,\"%+@F%FWF%Ff]lF%FBF%F3F%F8*,\"
+%SVF%FWF%Ff]lF%FHF%FLF%F8*,\"%!f#F%FWF%Ff]lF%F<F%FjtF%F8*,\"$E%F%FWF%F
+f]lF%F=F%F_uF%F8*,\"%S`F%FWF%FYF%FBF%FjtF%F%*,\"%%\\#F%FWF%FYF%FHF%F_u
+F%F%*,\"%g<F%FWF%Ff]lF%FBF%F4F%F%*,\"%+iF%FWF%Ff]lF%FHF%F3F%F%*,Fi`lF%
+FWF%Ff]lF%F<F%FLF%F%*,Fg`lF%FWF%Ff]lF%F=F%FjtF%F%*,\"%g;F%FWF%FYF%Fg
+\\lF%F3F%F8*,\"%giF%FWF%FYF%FBF%FLF%F8*,F_alF%FWF%FYF%FHF%FjtF%F8*,F]a
+lF%FWF%FYF%F<F%F_uF%F8*,\"%g:F%FWF%F[oF%Fg\\lF%FjtF%F%*,FcalF%FWF%F[oF
+%FBF%F_uF%F%*,FdpF%FWF%Fj\\lF%F=F%F4F%F%*,\"$A$F%FWF%Ff]lF%FHF%F4F%F8*
+,\"$'*)F%FWF%Ff]lF%F<F%F3F%F8*,FarF%FWF%Ff]lF%F=F%FLF%F8*,\"%#=\"F%FWF
+%FYF%F<F%FjtF%F%*,\"$9\"F%FWF%FYF%F=F%F_uF%F%*,\"%:7F%FWF%F[oF%FBF%Fjt
+F%F8*,\"$!QF%FWF%F[oF%FHF%F_uF%F8*,\"%+5F%FWF%Ff]lF%F<F%F4F%F%*,FdblF%
+FWF%Ff]lF%F=F%F3F%F%*,\"$g&F%FWF%FYF%FBF%F4F%F8*,\"%gBF%FWF%FYF%FHF%F3
+F%F8*,FiblF%FWF%FYF%F<F%FLF%F8*,FgblF%FWF%FYF%F=F%FjtF%F8*,FexF%FWF%F[
+oF%Fg\\lF%F3F%F%*,\"%?6F%FWF%F[oF%FBF%FLF%F%*,F^clF%FWF%F[oF%FHF%FjtF%
+F%*,FexF%FWF%F[oF%F<F%F_uF%F%*,F_xF%FWF%F+F%Fg\\lF%FjtF%F8*,F_xF%FWF%F
++F%FBF%F_uF%F8*,\"#mF%FWF%Ff]lF%F=F%F4F%F8*,FgxF%FWF%F[oF%F<F%FjtF%F8*
+,F_rF%FWF%F+F%FBF%FjtF%F%*,F_]lF%FWF%FYF%F<F%F4F%F8*,F_]lF%FWF%FYF%F=F
+%F3F%F8*,F\\tF%FWF%F[oF%FBF%F4F%F%*(FKF%FazF%F_uF%F8*(FKF%FazF%FLF%F8*
+(FIF%FazF%F4F%F8*(F^tF%F]uF%FHF%F%*(FGF%F]uF%F=F%F%*&FWF%Ff]lF%F8**Fau
+F%FFF%Fg\\lF%FLF%F%**\"%+RF%F*F%Fg\\lF%F_uF%F8**\"#%)F%FazF%F<F%F4F%F8
+**\"$W\"F%FazF%F=F%F3F%F8**\"$/\"F%FWF%Ff]lF%F_uF%F%**F)F%FWF%Fj\\lF%F
+3F%F%**\"#lF%FWF%Ff]lF%FjtF%F8**FcuF%FFF%Fg\\lF%F4F%F%**FguF%F*F%Fg\\l
+F%FLF%F8**\"$%eF%F:F%Fg\\lF%F_uF%F%**FexF%FWF%Ff]lF%FLF%F%**Ff\\lF%FWF
+%FYF%Fg\\lF%F8**Ff\\lF%FWF%FYF%F_uF%F8**\"%]JF%FazF%FBF%F_uF%F8**FexF%
+F:F%Fg\\lF%FLF%F%**\"#WF%FWF%Ff]lF%F4F%F%**F\\tF%FWF%FYF%FHF%F8**F\\tF
+%FWF%FYF%FLF%F8**FixF%F:F%FBF%F3F%F%**\"#;F%FWF%FYF%F=F%F8**F\\flF%FWF
+%FYF%F4F%F8**\"&?E\"F%F]uF%Fg\\lF%F_uF%F8**FdelF%FazF%FBF%FLF%F8**\"%g
+LF%FazF%FHF%FjtF%F8**Ff^lF%FazF%F<F%F_uF%F8**F\\uF%F]uF%Fg\\lF%FLF%F8*
+*\"&g,\"F%FFF%Fg\\lF%F_uF%F%**\"$5#F%FazF%FBF%F4F%F8**\"%35F%FazF%FHF%
+F3F%F8**Ff^lF%FazF%F<F%FLF%F8**F^pF%FazF%F=F%FjtF%F8**F\\tF%FWF%Fj\\lF
+%FjtF%F%**Fi[lF%F]uF%Fg\\lF%F4F%F8**F^tF%FWF%Ff]lF%F<F%F8**\"#MF%FWF%F
+f]lF%F3F%F8**FAF%FWF%FYF%FjtF%F%**F_xF%F*F%Fg\\lF%F4F%F8*(FIF%FazF%F]y
+F%F8*(FIF%F]uF%F]yF%F%*(FhflF%FazF%F<F%F%*(FhflF%FazF%F3F%F%*(FddlF%F_
+zF%F<F%F8*(FddlF%F_zF%F3F%F8*(FOF%FFF%F[yF%F%*(F^tF%FFF%F_yF%F%*(F^tF%
+FFF%F`yF%F%*(FEF%FFF%Fg\\lF%F%*(FGF%F]uF%F[yF%F8*(\"#cF%F]uF%F`yF%F8*(
+F^tF%F]uF%Fg\\lF%F8*(FexF%F]uF%F<F%F8*(FIF%F[]lF%F]yF%F%*&F[]lF%F_uF%F
+8*(FhpF%F[yF%F`yF%F%*(FIF%F[yF%FjtF%F8*(FcyF%F_yF%F_uF%F%*(FIF%F_yF%FL
+F%F8*(FAF%Fg\\lF%FjtF%F%*&Fg\\lF%F3F%F8*(FIF%F*F%F[yF%F8*(FOF%F*F%Fg
+\\lF%F8*&F:F%Fg\\lF%F%*,\"$O'F%FWF%F[oF%Fg\\lF%FLF%F8*,FhpF%FWF%F+F%F[
+yF%FLF%F8*,\"#iF%FWF%F+F%F_yF%FjtF%F%*,F^blF%FWF%F+F%Fg\\lF%F_uF%F%*,F
+hpF%FWF%F[oF%Fg\\lF%F4F%F%*,FOF%FWF%F+F%F_yF%F3F%F8*,FfsF%FWF%F+F%Fg
+\\lF%FLF%F%*,F7F%FWF%F+F%Fg\\lF%F4F%F8*,\"$C*F%FWF%F[oF%F_yF%F_uF%F%*,
+FiilF%FWF%F[oF%Fg\\lF%F`yF%F%*,F^zF%FWF%F[oF%FBF%F]yF%F%*,\"#GF%FWF%F+
+F%F[yF%F`yF%F8*,F]jlF%FWF%F+F%F_yF%F]yF%F8*,\"$#=F%FWF%Ff]lF%Fg\\lF%F4
+F%F8*,\"#IF%FWF%FYF%F[yF%F4F%F8*,\"$s#F%FWF%FYF%F_yF%F3F%F%*,\"%!)HF%F
+WF%FYF%Fg\\lF%FLF%F%*,FdtF%FWF%FYF%F<F%F`yF%F%*,FUF%FWF%F[oF%F[]lF%F3F
+%F%*,FfsF%FWF%F[oF%F[yF%FLF%F8*,\"$%*)F%FWF%F[oF%F_yF%FjtF%F8*,\"%u9F%
+FWF%F[oF%Fg\\lF%F_uF%F8*,FavF%FWF%F[oF%FBF%F`yF%F8*,FZF%FWF%F+F%F[]lF%
+FjtF%F8*,FjnF%FWF%F+F%F[yF%F_uF%F%*,FddlF%FWF%F+F%F_yF%F`yF%F%*,FddlF%
+FWF%FYF%F=F%F`yF%F8*,\"$!GF%FWF%F[oF%F_yF%FLF%F%*,Fd[mF%FWF%F[oF%FHF%F
+`yF%F%*,FddlF%FWF%F+F%F_yF%F_uF%F8*,FddlF%FWF%F+F%Fg\\lF%F`yF%F8*,Fbjl
+F%FWF%FYF%Fg\\lF%F4F%F%*,FhpF%FWF%F[oF%F[yF%F4F%F%*,\"#<F%FWF%F[oF%F_y
+F%F3F%F%*,FdtF%FWF%Ff]lF%F<F%F]yF%F%*,FgblF%FWF%FYF%FBF%F]yF%F8*,F^zF%
+FWF%F[oF%F[yF%F`yF%F%*,F^zF%FWF%F[oF%F_yF%F]yF%F%*,Fc]lF%FWF%Fj\\lF%Fg
+\\lF%F4F%F%*,FGF%FWF%Ff]lF%F[yF%F4F%F8*,\"$%yF%FWF%Ff]lF%F_yF%F3F%F8*,
+\"%+\\F%FWF%Ff]lF%Fg\\lF%FLF%F8*,\"$c(F%FWF%Ff]lF%F<F%F`yF%F8*,FdpF%FW
+F%Ff]lF%F=F%F]yF%F8*,F7F%FWF%FYF%F[]lF%F3F%F8*,\"$o%F%FWF%FYF%F[yF%FLF
+%F%*,\"%#G$F%FWF%FYF%F_yF%FjtF%F%*,\"%E^F%FWF%FYF%Fg\\lF%F_uF%F%*,F[`l
+F%FWF%FYF%FBF%F`yF%F%*,Fc]lF%FWF%FYF%FHF%F]yF%F%*,FKF%FWF%F[oF%F[]lF%F
+jtF%F8*,\"$A&F%FWF%F[oF%F[yF%F_uF%F8*,Fg\\mF%FWF%F[oF%F_yF%F`yF%F8*,Fc
+]lF%FWF%F[oF%Fg\\lF%F]yF%F8*,F)F%FWF%F+F%F[]lF%F`yF%F%*,FdpF%FWF%F+F%F
+[yF%F]yF%F%*,\"$k$F%FWF%Ff]lF%F=F%F`yF%F%*,\"%?=F%FWF%FYF%FHF%F`yF%F8*
+,FddlF%FWF%FYF%F<F%F]yF%F8*,F^zF%FWF%F[oF%F[yF%FjtF%F%*,Fi^lF%FWF%Fj
+\\lF%F_yF%FjtF%F%*,Fa^lF%FWF%Fj\\lF%Fg\\lF%F_uF%F%*,Ff^lF%FWF%Fj\\lF%F
+BF%F`yF%F%*,Fc]lF%FWF%Fj\\lF%FHF%F]yF%F%*,\"$v\"F%FWF%Ff]lF%F[]lF%FjtF
+%F8*,\"%M6F%FWF%Ff]lF%F[yF%F_uF%F8*,\"%'f\"F%FWF%Ff]lF%F_yF%F`yF%F8*,F
+a]lF%FWF%Ff]lF%Fg\\lF%F]yF%F8*,\"$3\"F%FWF%FYF%F[]lF%F`yF%F%*,FfdlF%FW
+F%FYF%F[yF%F]yF%F%*,FdpF%FWF%Fj\\lF%F[yF%F4F%F%*,Fa]lF%FWF%Fj\\lF%F_yF
+%F3F%F%*,Fa^lF%FWF%Fj\\lF%Fg\\lF%FLF%F%*,Fa]lF%FWF%Fj\\lF%F<F%F`yF%F%*
+,FdpF%FWF%Fj\\lF%F=F%F]yF%F%*,\"#EF%FWF%Ff]lF%F[]lF%F3F%F8*,\"$!yF%FWF
+%Ff]lF%F[yF%FLF%F8*,\"%ITF%FWF%Ff]lF%F_yF%FjtF%F8*,\"%'G'F%FWF%Ff]lF%F
+g\\lF%F_uF%F8*,\"%SHF%FWF%Ff]lF%FBF%F`yF%F8*,F[wF%FWF%Ff]lF%FHF%F]yF%F
+8*,\"$l\"F%FWF%FYF%F[]lF%FjtF%F%*,\"%U7F%FWF%FYF%F[yF%F_uF%F%*,\"%k<F%
+FWF%FYF%F_yF%F`yF%F%*,Fa]lF%FWF%FYF%Fg\\lF%F]yF%F%*,Fe]lF%FWF%F[oF%F[]
+lF%F`yF%F8*,Fh]lF%FWF%F[oF%F[yF%F]yF%F8**F]jlF%FWF%)F+F\\zF%F=F%F%**F]
+jlF%FWF%Fg`mF%F4F%F%**F^tF%FWF%FYF%F_yF%F8**F`hlF%FWF%Fj\\lF%F=F%F8**F
+`hlF%FWF%Fj\\lF%F4F%F8**FIF%FWF%F[oF%F_yF%F%**FgelF%FWF%Ff]lF%F=F%F%**
+FddlF%FazF%F=F%F]yF%F%**\"$S)F%F]uF%FHF%F]yF%F8**F`amF%FFF%Fg\\lF%F]yF
+%F%**F\\tF%F*F%F[yF%F]yF%F8**F&F%F_zF%F[yF%F]yF%F8**FddlF%F_zF%Fg\\lF%
+F]yF%F8**FdpF%FazF%F[yF%F]yF%F%**F^zF%F_zF%FHF%F]yF%F8**FavF%FazF%Fg
+\\lF%F]yF%F%**F\\tF%F]uF%F[yF%F]yF%F8**Fd[mF%FWF%Fj\\lF%FHF%F8**Fd[mF%
+FWF%Fj\\lF%FLF%F8**FhdlF%FWF%Ff]lF%Fg\\lF%F%**FexF%FWF%Ff]lF%FHF%F%**F
+^zF%FWF%Fg`mF%FHF%F%**F^zF%FWF%Fg`mF%FLF%F%**Fc]lF%FWF%Fj\\lF%Fg\\lF%F
+8**Fc]lF%FWF%Fj\\lF%F_uF%F8**F&F%FWF%Ff]lF%F[yF%F%**FevF%FazF%FHF%F4F%
+F%**\"%9\\F%FazF%F<F%F3F%F%**FevF%FazF%F=F%FLF%F%**\"%=7F%FFF%F_yF%F3F
+%F%**FddlF%FWF%Fg`mF%Fg\\lF%F%**FddlF%FWF%Fg`mF%F_uF%F%**F^uF%FWF%Fj
+\\lF%F[yF%F8**\"$!)*F%F_zF%FHF%F4F%F8**Fb`mF%F_zF%F<F%F3F%F8**F\\cmF%F
+_zF%F=F%FLF%F8**Fi^lF%FazF%Fg\\lF%F4F%F%**\"%I!*F%FazF%FBF%F3F%F%**\"&
++a\"F%FazF%FHF%FLF%F%**FacmF%FazF%F<F%FjtF%F%**Fi^lF%FazF%F=F%F_uF%F%*
+*FddlF%F]uF%F[yF%F4F%F8**\"%%R#F%F]uF%F_yF%F3F%F8**FgblF%FFF%F[yF%FLF%
+F%**\"%!=&F%FFF%F_yF%FjtF%F%**\"$)eF%F_zF%Fg\\lF%F4F%F8**F[`mF%F_zF%FB
+F%F3F%F8**Fe\\mF%F_zF%FHF%FLF%F8**F[`mF%F_zF%F<F%FjtF%F8**F]dmF%F_zF%F
+=F%F_uF%F8**FddlF%FazF%F[yF%F4F%F%**\"%u>F%FazF%F_yF%F3F%F%**\"&+0\"F%
+FazF%Fg\\lF%FLF%F%**\"&]y\"F%FazF%FBF%FjtF%F%**FfdmF%FazF%FHF%F_uF%F%*
+*FddmF%FazF%F<F%F`yF%F%**F`amF%F]uF%F[yF%FLF%F8**\"%?nF%F]uF%F_yF%FjtF
+%F8**F]emF%F]uF%FBF%F`yF%F8**F`amF%FFF%F[yF%F_uF%F%**F[`lF%FFF%F_yF%F`
+yF%F%**F&F%FWF%Fg`mF%F[yF%F%**F&F%FWF%Fg`mF%F]yF%F%**FhcmF%F]uF%F<F%F`
+yF%F8**FddlF%F]uF%F=F%F]yF%F8**F[dmF%FFF%FBF%F`yF%F%**FgblF%FFF%FHF%F]
+yF%F%**FavF%F*F%F[yF%F_uF%F8**F^clF%F*F%F_yF%F`yF%F8**FavF%F*F%Fg\\lF%
+F]yF%F8**FdpF%F:F%F[yF%F]yF%F%**FgblF%FazF%FHF%F]yF%F%**F`amF%F]uF%Fg
+\\lF%F]yF%F8**\"#!)F%FFF%F[yF%F]yF%F%*(F]jlF%F_zF%F_yF%F8*(F]jlF%F_zF%
+F`yF%F8*(F^zF%F_zF%FBF%F8*(FjsF%FazF%F_yF%F%*(\"$]$F%FazF%FBF%F%*(Fdfm
+F%FazF%FjtF%F%*(F`hlF%F]uF%F_yF%F8*(F_\\lF%F]uF%FBF%F8*&F&F%F_zF%F8**
+\"$'>F%F_zF%F=F%F4F%F8**F]jlF%F_zF%F[yF%F4F%F8**F]dmF%F_zF%F_yF%F3F%F8
+**F[`mF%F_zF%Fg\\lF%FLF%F8**Fe\\mF%F_zF%FBF%FjtF%F8**F[`mF%F_zF%FHF%F_
+uF%F8**F]dmF%F_zF%F<F%F`yF%F8**F]jlF%F_zF%F=F%F]yF%F8**FgblF%FazF%F[yF
+%FLF%F%**Fg_mF%FazF%F_yF%FjtF%F%**\"%gvF%FazF%Fg\\lF%F_uF%F%**Fg_mF%Fa
+zF%FBF%F`yF%F%**F`amF%F]uF%F[yF%F_uF%F8**\"%I?F%F]uF%F_yF%F`yF%F8**F^z
+F%F_zF%F[yF%FLF%F8**F\\cmF%F_zF%F_yF%FjtF%F8**Fb`mF%F_zF%Fg\\lF%F_uF%F
+8**F\\cmF%F_zF%FBF%F`yF%F8**FavF%FazF%F[yF%F_uF%F%**\"$%**F%FazF%F_yF%
+F`yF%F%**FddlF%F_zF%F[yF%F_uF%F8**FjfmF%F_zF%F_yF%F`yF%F8**F^uF%FWF%Fj
+\\lF%F]yF%F8**F)F%FWF%Fj\\lF%F`yF%F%*(FWF%Ff]lF%F[]lF%F%**F&F%FWF%Ff]l
+F%F]yF%F%**F^tF%FWF%Ff]lF%F_yF%F%**FhpF%FWF%Ff]lF%F`yF%F8*(FWF%FYF%F[]
+lF%F8**Fa]lF%FazF%F=F%F4F%F%**FIF%FazF%F[]lF%F]yF%F8**FKF%FazF%F[]lF%F
+_uF%F8**FfdlF%FazF%F[yF%F`yF%F8**FddlF%FazF%F_yF%F]yF%F8**FKF%FazF%F[]
+lF%FLF%F8**F^pF%FazF%F[yF%FjtF%F8**Ff^lF%FazF%F_yF%F_uF%F8**FjflF%FazF
+%Fg\\lF%F`yF%F8**FhflF%FazF%FBF%F]yF%F8**FIF%FazF%F[]lF%F4F%F8**FfdlF%
+FazF%F[yF%F3F%F8**Ff^lF%FazF%F_yF%FLF%F8**FbflF%FazF%Fg\\lF%FjtF%F8**F
+jflF%FazF%FHF%F`yF%F8**FddlF%FazF%F<F%F]yF%F8**FddlF%FazF%F_yF%F4F%F8*
+*FjflF%FazF%Fg\\lF%F3F%F8**FfdlF%FazF%F=F%F`yF%F8**Fc]lF%F]uF%F<F%F]yF
+%F%**\"#)*F%F]uF%F_yF%F4F%F%**\"%G@F%F]uF%Fg\\lF%F3F%F%**FjoF%F]uF%F=F
+%F`yF%F%**FddlF%FFF%F<F%F]yF%F8**FddlF%FFF%F=F%F`yF%F8**FAF%F]uF%F[]lF
+%F]yF%F%**\"$z\"F%F]uF%F[]lF%F_uF%F%**F]dmF%F]uF%F[yF%F`yF%F%**F[wF%F]
+uF%F_yF%F]yF%F%**\"$D\"F%F]uF%F[]lF%FLF%F%**\"%I:F%F]uF%F[yF%FjtF%F%**
+\"%'=%F%F]uF%F_yF%F_uF%F%**\"%wKF%F]uF%Fg\\lF%F`yF%F%**\"$I'F%F]uF%FBF
+%F]yF%F%*(F]uF%F[]lF%F4F%F%**\"$)GF%F]uF%F[yF%F3F%F%**\"%?KF%F]uF%F_yF
+%FLF%F%**\"%q\"*F%F]uF%Fg\\lF%FjtF%F%**\"%OCF%F]uF%FHF%F`yF%F%**\"%=FF
+%FFF%F_yF%FLF%F8**\"%&p)F%FFF%Fg\\lF%FjtF%F8**\"%[=F%FFF%FHF%F`yF%F8**
+FhflF%F*F%FBF%F]yF%F%**F]jlF%FFF%F[yF%F4F%F%**FgbmF%FFF%F<F%F`yF%F%**F
+]jlF%FFF%F=F%F]yF%F%**\"#BF%FFF%F_yF%F4F%F%**\"%]9F%FFF%Fg\\lF%F3F%F8*
+*FavF%F*F%FHF%F`yF%F%**FbjlF%FFF%F[]lF%F]yF%F8**\"$m#F%FFF%F[]lF%F_uF%
+F8**\"$7*F%FFF%F[yF%F`yF%F8**Fa]lF%FFF%F_yF%F]yF%F8**\"$0\"F%FFF%F[]lF
+%FLF%F8**\"%2<F%FFF%F[yF%FjtF%F8**\"%<]F%FFF%F_yF%F_uF%F8**\"%!y$F%FFF
+%Fg\\lF%F`yF%F8**Fc[nF%FFF%FBF%F]yF%F8**F\\yF%FFF%F[]lF%F4F%F%**\"$E\"
+F%FFF%F[yF%F3F%F8**FbjlF%F*F%F[]lF%F]yF%F%**\"$u\"F%F*F%F[]lF%F_uF%F%*
+*\"$['F%F*F%F[yF%F`yF%F%**F[wF%F*F%F_yF%F]yF%F%**FAF%F*F%F[]lF%FLF%F%*
+*\"$T(F%F*F%F[yF%FjtF%F%**\"%NDF%F*F%F_yF%F_uF%F%**Fb`mF%F*F%Fg\\lF%F`
+yF%F%**FddlF%F:F%F_yF%F]yF%F8**F^zF%F*F%F[yF%FLF%F8**F\\^mF%F*F%F_yF%F
+jtF%F8**F\\^mF%F*F%FBF%F`yF%F8**F^zF%F*F%FHF%F]yF%F8**FZF%F*F%F[]lF%F4
+F%F8**FfsF%F*F%F[yF%F3F%F8**\"$8)F%F*F%F_yF%FLF%F%**\"%NLF%F*F%Fg\\lF%
+FjtF%F%**FdtF%F:F%Fg\\lF%F`yF%F8**FhflF%F*F%F_yF%F3F%F8**FhflF%F*F%F<F
+%F`yF%F8**\"#YF%F*F%F_yF%F4F%F8**\"$[$F%F*F%Fg\\lF%F3F%F%**FAF%F:F%F[]
+lF%F]yF%F8**\"#TF%F:F%F[]lF%F_uF%F8**\"$#>F%F:F%F[yF%F`yF%F8**FddlF%F:
+F%F[yF%F_uF%F%**F^]nF%F:F%F_yF%F`yF%F%**FddlF%F:F%Fg\\lF%F]yF%F%**FUF%
+F:F%F[]lF%FLF%F%**\"#\")F%F:F%F[yF%FjtF%F8**\"$j%F%F:F%F_yF%F_uF%F8**F
+hflF%F:F%F_yF%FjtF%F%**FhflF%F:F%FBF%F`yF%F%**F)F%F:F%F[yF%F3F%F%**\"#
+_F%F:F%F_yF%FLF%F8**\"$l%F%F:F%Fg\\lF%FjtF%F8**FOF%F:F%F_yF%F4F%F%**F[
+\\mF%F:F%Fg\\lF%F3F%F8*,Ff^lF%FWF%Fj\\lF%F<F%F4F%F8*,Ff^lF%FWF%Fj\\lF%
+F=F%F3F%F8*,FddlF%FWF%FYF%F_yF%F4F%F8*,F]dmF%FWF%Fg`mF%F<F%F4F%F%*,F]d
+mF%FWF%Fg`mF%F=F%F3F%F%*,FcvF%FWF%Fj\\lF%FBF%F4F%F8*,\"%SrF%FWF%Fj\\lF
+%FHF%F3F%F8*,FianF%FWF%Fj\\lF%F<F%FLF%F8*,FcvF%FWF%Fj\\lF%F=F%FjtF%F8*
+,Fj]mF%FWF%Ff]lF%F_yF%F4F%F%*,FddlF%FWF%FYF%F[yF%F3F%F8*,F\\^mF%FWF%FY
+F%F_yF%FLF%F8*,F\\cmF%FWF%Fg`mF%FBF%F4F%F%*,F[`mF%FWF%Fg`mF%FHF%F3F%F%
+*,F[`mF%FWF%Fg`mF%F<F%FLF%F%*,F\\cmF%FWF%Fg`mF%F=F%FjtF%F%*,\"$w%F%FWF
+%Fj\\lF%F_yF%F4F%F8*,\"%)y%F%FWF%Fj\\lF%Fg\\lF%F3F%F8*,\"&+S\"F%FWF%Fj
+\\lF%FBF%FLF%F8*,FhbnF%FWF%Fj\\lF%FHF%FjtF%F8*,FfbnF%FWF%Fj\\lF%F<F%F_
+uF%F8*,FdbnF%FWF%Fj\\lF%F=F%F`yF%F8*,FdtF%FWF%Ff]lF%F[yF%F3F%F%*,Fi]nF
+%FWF%Ff]lF%F_yF%FLF%F%*,Fi]nF%FWF%Ff]lF%FHF%F`yF%F%*,FgblF%FWF%FYF%F[y
+F%FjtF%F8*,\"%cGF%FWF%FYF%F_yF%F_uF%F8*,FacnF%FWF%FYF%Fg\\lF%F`yF%F8*,
+FjfmF%FWF%Fg`mF%F_yF%F4F%F%*,Fb`mF%FWF%Fg`mF%Fg\\lF%F3F%F%*,Fe\\mF%FWF
+%Fg`mF%FBF%FLF%F%*,Fe\\mF%FWF%Fg`mF%FHF%FjtF%F%*,Fb`mF%FWF%Fg`mF%F<F%F
+_uF%F%*,FjfmF%FWF%Fg`mF%F=F%F`yF%F%*,FdtF%FWF%Fj\\lF%F[yF%F3F%F8*,Fh[n
+F%FWF%Fj\\lF%F_yF%FLF%F8*,\"&!35F%FWF%Fj\\lF%Fg\\lF%FjtF%F8*,F\\dnF%FW
+F%Fj\\lF%FBF%F_uF%F8*,Fh[nF%FWF%Fj\\lF%FHF%F`yF%F8*,FdtF%FWF%Fj\\lF%F<
+F%F]yF%F8*,F`amF%FWF%Ff]lF%F[yF%FjtF%F%*,\"%kQF%FWF%Ff]lF%F_yF%F_uF%F%
+*,FbdnF%FWF%Ff]lF%Fg\\lF%F`yF%F%*,F`amF%FWF%Ff]lF%FBF%F]yF%F%*,Fd[mF%F
+WF%FYF%F[yF%F`yF%F8*,Fd[mF%FWF%FYF%F_yF%F]yF%F8*,FddlF%FWF%Fg`mF%F[yF%
+F3F%F%*,F\\cmF%FWF%Fg`mF%F_yF%FLF%F%*,F[`mF%FWF%Fg`mF%Fg\\lF%FjtF%F%*,
+F[`mF%FWF%Fg`mF%FBF%F_uF%F%*,F\\cmF%FWF%Fg`mF%FHF%F`yF%F%*,FddlF%FWF%F
+g`mF%F<F%F]yF%F%*,FgblF%FWF%Fj\\lF%F[yF%FjtF%F8*,F\\\\nF%FWF%Fj\\lF%F_
+yF%F_uF%F8*,F\\\\nF%FWF%Fj\\lF%Fg\\lF%F`yF%F8*,FgblF%FWF%Fj\\lF%FBF%F]
+yF%F8*,Fd[mF%FWF%Ff]lF%F[yF%F`yF%F%*,Fd[mF%FWF%Ff]lF%F_yF%F]yF%F%*,F^z
+F%FWF%Fg`mF%F[yF%FjtF%F%*,F]dmF%FWF%Fg`mF%F_yF%F_uF%F%*,F]dmF%FWF%Fg`m
+F%Fg\\lF%F`yF%F%*,F^zF%FWF%Fg`mF%FBF%F]yF%F%*,F^zF%FWF%Fj\\lF%F[yF%F`y
+F%F8*,F^zF%FWF%Fj\\lF%F_yF%F]yF%F8*,F]jlF%FWF%Fg`mF%F[yF%F`yF%F%*,F]jl
+F%FWF%Fg`mF%F_yF%F]yF%F%F%FWF%,&*&F4F%FWF%F%F+F8F%,&*&F=F%FWF%F%F+F8F8
+,**(F4F%F=F%FWF%F%*&F4F%F+F%F8FWF%*&F=F%F+F%F8F8,*F9F8**F7F%FWF%F+F%F4
+F%F%*$F:F%F8*$F3F%F%F8,2*(F:F%F<F%F4F%F8*(F+F%F<F%FWF%F%*,F7F%F4F%F=F%
+FWF%F+F%F%*(F7F%F:F%F=F%F8*&F:F%F4F%F8*&F<F%F4F%F%*&F+F%FWF%F%F=F%F8)*
+(FgfnF%FWF8F[fnF8#F%F7F8F%*4FagnF%)FWF7F%,^p*&FWF%FHF%F%*(FhpF%F[oF%F<
+F%F%*(FIF%F+F%F<F%F8*(FUF%FYF%F<F%F8*&FYF%F3F%F8**F^uF%FWF%F:F%FHF%F8*
+,FhpF%FWF%F:F%F<F%F4F%F8*,Ff\\lF%FWF%F*F%F<F%F4F%F%*,FZF%FWF%F*F%F=F%F
+3F%F%*$F[oF%F%*$FYF%F8**FIF%FWF%F:F%F=F%F8**F^uF%F[oF%F=F%F4F%F%**FZF%
+FWF%F*F%F=F%F%**F7F%FWF%F*F%F4F%F%**FUF%F[oF%F<F%F3F%F%**FUF%FYF%F<F%F
+3F%F8**FUF%FYF%F=F%F4F%F8**F7F%FYF%Fg\\lF%F4F%F8**FZF%FYF%FBF%F3F%F8*(
+F7F%F+F%FBF%F8*(FZF%FYF%FBF%F8*(F\\yF%F[oF%FBF%F%*,FhpF%FWF%F:F%FBF%F4
+F%F8*,FUF%FWF%F:F%FHF%F3F%F8**FWF%F*F%Fg\\lF%F3F%F%*,FUF%FWF%F*F%FBF%F
+4F%F%*,FUF%FWF%F*F%FHF%F3F%F%*,F7F%FWF%F:F%Fg\\lF%F3F%F8*(FWF%F*F%Fg
+\\lF%F%**Ff\\lF%FYF%FHF%F4F%F8**F&F%F[oF%Fg\\lF%F4F%F%**FUF%F[oF%FBF%F
+3F%F%**FUF%FWF%F*F%FHF%F%*(FWF%F:F%Fg\\lF%F8**F]jlF%F[oF%FHF%F4F%F%**F
+7F%F+F%Fg\\lF%F4F%F8**FZF%F+F%FBF%F3F%F8**F^uF%F+F%FHF%F4F%F8*(FWF%Fg
+\\lF%F3F%F%**F7F%FWF%FBF%F4F%F%F%F]fnF8F_fnF8FgfnF8F_gnF8--I\"DGF-6#I
+\"rGF0F>F%-F_jn6#&I\"sGF0F6F%F%*2FagnF%FcgnF%,b[l*(FhpF%F*F%F3F%F8F9F%
+F;F%*(FZF%F*F%FBF%F8*(FhpF%F*F%F<F%F8*(F&F%FHF%FLF%F8FhnF8*,FfsF%FWF%F
+[oF%F=F%F3F%F%F\\oF8**\"##*F%F*F%FHF%F4F%F8*,FfsF%FWF%F[oF%F<F%F4F%F%F
+`oF8*,\"$K\"F%FWF%F[oF%FHF%F3F%F%*,Fb[oF%FWF%F[oF%F<F%FLF%F%*,FhpF%F+F
+%F<F%FLF%FWF%F8*,FhpF%F+F%FHF%F3F%FWF%F8**F_[oF%F*F%F=F%FLF%F8**F&F%FW
+F%F[oF%FLF%F%**FfsF%F*F%F=F%F4F%F8**FhpF%F:F%F=F%FLF%F%FeqF%FfqF%FgqF%
+FhqF8**F&F%FWF%F[oF%FHF%F%**FhpF%F:F%FHF%F4F%F%**Fj]mF%F*F%FHF%FLF%F8*
+*\"#))F%F:F%FHF%FLF%F%**\"#PF%F:F%F<F%F3F%F%**\"$;#F%F*F%F<F%F3F%F8*(F
+ZF%FBF%FjtF%F8**Ff\\lF%F]uF%FHF%F_uF%F8**F\\tF%FFF%FHF%F_uF%F%**Ff\\lF
+%FFF%F=F%F_uF%F%**F^`mF%F*F%FBF%FjtF%F8**F\\tF%F*F%FHF%F_uF%F8**F^fmF%
+FFF%F=F%F4F%F%**\"$g\"F%F*F%FBF%F3F%F8**F[]oF%F*F%F<F%FjtF%F8**FUF%F*F
+%F=F%F_uF%F8**F[elF%F:F%FBF%FjtF%F%**Ff\\lF%F:F%FHF%F_uF%F%**FbjlF%F:F
+%F<F%FjtF%F%*(FZF%F*F%FjtF%F8*(FAF%FFF%FBF%F%*(FAF%FFF%FjtF%F%**F_xF%F
+]uF%FHF%F4F%F8**FexF%F]uF%F<F%F3F%F8**F_xF%F]uF%F=F%FLF%F8**\"$I#F%FFF
+%FBF%F3F%F%**F^pF%FFF%FHF%FLF%F%**Fh]oF%FFF%F<F%FjtF%F%**\"#]F%F]uF%F=
+F%F4F%F8**\"$!=F%FFF%FHF%F4F%F%**FbblF%FFF%F<F%F3F%F%**F^^oF%FFF%F=F%F
+LF%F%**F_xF%F]uF%FBF%F3F%F8**FexF%F]uF%FHF%FLF%F8**F_xF%F]uF%F<F%FjtF%
+F8**FUF%F]uF%F=F%F_uF%F8**\"$b\"F%FFF%FBF%FjtF%F%**F\\^oF%F]uF%FBF%Fjt
+F%F8*(FUF%F]uF%FjtF%F8*(Ff\\lF%F]uF%F3F%F8*(FbjlF%FFF%F<F%F%*(FbjlF%FF
+F%F3F%F%*&F7F%F]uF%F8*(F7F%Fg\\lF%F_uF%F8*&FIF%FFF%F%*,Ff\\lF%FWF%F[oF
+%F=F%FjtF%F%*,Ff\\lF%FWF%F+F%FBF%FLF%F8*,Ff\\lF%FWF%F+F%FHF%FjtF%F8*,F
+UF%FWF%Ff]lF%Fg\\lF%FjtF%F%*,FUF%FWF%Ff]lF%FBF%F_uF%F%*,Ff\\lF%FWF%Ff]
+lF%Fg\\lF%F3F%F%*,F_xF%FWF%Ff]lF%FBF%FLF%F%*,F_xF%FWF%Ff]lF%FHF%FjtF%F
+%*,Ff\\lF%FWF%Ff]lF%F<F%F_uF%F%*,FbjlF%FWF%FYF%Fg\\lF%FjtF%F8*,FbjlF%F
+WF%FYF%FBF%F_uF%F8*,F\\^oF%FWF%Ff]lF%FBF%F4F%F%*,FexF%FWF%Ff]lF%FHF%F3
+F%F%*,FexF%FWF%Ff]lF%F<F%FLF%F%*,F\\^oF%FWF%Ff]lF%F=F%FjtF%F%*,\"#SF%F
+WF%FYF%Fg\\lF%F3F%F8*,\"$?#F%FWF%FYF%FBF%FLF%F8*,Fa`oF%FWF%FYF%FHF%Fjt
+F%F8*,F_`oF%FWF%FYF%F<F%F_uF%F8*,FbjlF%FWF%F[oF%Fg\\lF%FjtF%F%*,FbjlF%
+FWF%F[oF%FBF%F_uF%F%*,F_xF%FWF%Ff]lF%F<F%F4F%F%*,F_xF%FWF%Ff]lF%F=F%F3
+F%F%*,FjsF%FWF%FYF%FBF%F4F%F8*,\"$?$F%FWF%FYF%FHF%F3F%F8*,Fj`oF%FWF%FY
+F%F<F%FLF%F8*,FjsF%FWF%FYF%F=F%FjtF%F8*,Ff\\lF%FWF%F[oF%Fg\\lF%F3F%F%*
+,F^zF%FWF%F[oF%FBF%FLF%F%*,F^zF%FWF%F[oF%FHF%FjtF%F%*,Ff\\lF%FWF%F[oF%
+F<F%F_uF%F%*,FUF%FWF%F+F%Fg\\lF%FjtF%F8*,FUF%FWF%F+F%FBF%F_uF%F8*,\"$?
+\"F%FWF%FYF%F<F%F4F%F8*,FdaoF%FWF%FYF%F=F%F3F%F8*,Ff\\lF%FWF%F[oF%FBF%
+F4F%F%**F\\tF%FFF%Fg\\lF%FLF%F%**FhpF%F*F%Fg\\lF%F_uF%F8**F7F%FWF%Ff]l
+F%F_uF%F%**Ff\\lF%FFF%Fg\\lF%F4F%F%**F\\tF%F*F%Fg\\lF%FLF%F8**F^uF%F:F
+%Fg\\lF%F_uF%F%**Ff\\lF%FWF%Ff]lF%FLF%F%**F7F%FWF%FYF%Fg\\lF%F8**F7F%F
+WF%FYF%F_uF%F8**Ff\\lF%F:F%Fg\\lF%FLF%F%**FUF%FWF%Ff]lF%F4F%F%**Ff\\lF
+%FWF%FYF%FHF%F8**Ff\\lF%FWF%FYF%FLF%F8**FbjlF%F:F%FBF%F3F%F%**FUF%FWF%
+FYF%F=F%F8**FUF%FWF%FYF%F4F%F8**F7F%F]uF%Fg\\lF%F_uF%F8**Ff\\lF%F]uF%F
+g\\lF%FLF%F8**F^uF%FFF%Fg\\lF%F_uF%F%**FUF%F]uF%Fg\\lF%F4F%F8**FUF%F*F
+%Fg\\lF%F4F%F8*(Ff\\lF%F]uF%F<F%F8**FUF%FWF%Ff]lF%F=F%F%**F7F%FWF%Ff]l
+F%Fg\\lF%F%**Ff\\lF%FWF%Ff]lF%FHF%F%*(FUF%F]uF%FBF%F8F%FgfnF8F_gnF8F_f
+nF8F]fnF8)F^jnF7F%F8" }}}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }
+}}}
+{MARK "0 0 0" 0 }{VIEWOPTS 1 1 0 1 1 1803 1 1 1 1 }{PAGENUMBERS 0 1 2
+ 33 1 1 }

@@ -1,0 +1,2075 @@
+{VERSION 4 0 "Windows 8" "4.0" }
+{USTYLETAB {PSTYLE "Ordered List 1" -1 200 1 {CSTYLE "" -1 -1 "Times"
+ 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Ordered List 2" -1 201 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 
+1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 36 2 0 2 2 -1 1 }{PSTYLE "Ordered
+ List 3" -1 202 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 
+0 0 1 }1 1 0 0 3 3 2 72 2 0 2 2 -1 1 }{PSTYLE "Ordered List 4" -1 203 
+1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3
+ 3 2 108 2 0 2 2 -1 1 }{PSTYLE "Ordered List 5" -1 204 1 {CSTYLE "" -1
+ -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 144 2 0 2 
+2 -1 1 }{PSTYLE "Author" -1 19 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1
+ 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 8 8 2 0 2 0 2 2 -1 1 }{PSTYLE "Warning" 
+-1 7 1 {CSTYLE "" -1 -1 "Courier" 1 10 0 0 255 1 2 2 2 2 2 1 1 0 0 1 }
+1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Annotation Title" -1 205 1 
+{CSTYLE "" -1 -1 "Times" 1 18 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }3 1 0 0 12 
+12 2 0 2 0 2 2 -1 1 }{PSTYLE "Fixed Width" -1 17 1 {CSTYLE "" -1 -1 "C
+ourier" 1 10 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1
+ }{PSTYLE "Maple Plot" -1 13 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2
+ 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Line Printe
+d Output" -1 6 1 {CSTYLE "" -1 -1 "Courier" 1 10 0 0 255 1 2 2 2 2 2 1
+ 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Help" -1 10 1 {CSTYLE
+ "" -1 -1 "Courier" 1 9 0 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0
+ 2 0 2 2 -1 1 }{PSTYLE "Text Output" -1 2 1 {CSTYLE "" -1 -1 "Courier"
+ 1 10 0 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Diagnostic" -1 9 1 {CSTYLE "" -1 -1 "Courier" 1 10 64 128 64 
+1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Normal" 
+-1 0 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 
+0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Maple Output" -1 11 1 {CSTYLE "" -1
+ -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 
+-1 1 }{PSTYLE "Dash Item" -1 16 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 
+1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }{PSTYLE "Hyperlin
+kError" -1 206 1 {CSTYLE "" -1 -1 "Courier New" 1 12 255 0 255 1 2 2 1
+ 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Error" -1 8 1 
+{CSTYLE "" -1 -1 "Courier" 1 10 255 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0
+ 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Title" -1 18 1 {CSTYLE "" -1 -1 "Tim
+es" 1 18 0 0 0 1 2 1 1 2 2 2 1 0 0 1 }3 1 0 0 12 12 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Heading 1" -1 3 1 {CSTYLE "" -1 -1 "Times" 1 18 0 0 0 1 2 1 2
+ 2 2 2 1 0 0 1 }1 1 0 0 8 4 2 0 2 0 2 2 -1 1 }{PSTYLE "Bullet Item" -1
+ 15 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0
+ 0 3 3 2 0 2 0 2 2 -1 1 }{PSTYLE "Heading 4" -1 20 1 {CSTYLE "" -1 -1 
+"Times" 1 10 0 0 0 1 1 1 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1
+ }{PSTYLE "Heading 3" -1 5 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 1 1
+ 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Heading 2" -1
+ 4 1 {CSTYLE "" -1 -1 "Times" 1 14 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 
+0 8 2 2 0 2 0 2 2 -1 1 }{PSTYLE "HyperlinkWarning" -1 207 1 {CSTYLE ""
+ -1 -1 "Courier New" 1 12 0 0 255 1 2 2 1 2 2 1 1 0 0 1 }1 1 0 0 0 0 2
+ 0 2 0 2 2 -1 1 }{PSTYLE "Left Justified Maple Output" -1 12 1 {CSTYLE
+ "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 
+0 2 2 -1 1 }{PSTYLE "List Item" -1 14 1 {CSTYLE "" -1 -1 "Times" 1 12 
+0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }{CSTYLE "An
+notation Text" -1 200 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "Help Maple Name" -1 35 "Times" 1 12 104 64 92 1 2 1 2 2 2 2 0
+ 0 0 1 }{CSTYLE "2D Math Bold" -1 5 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0
+ 0 0 1 }{CSTYLE "Help Menus" -1 36 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 
+0 0 1 }{CSTYLE "2D Math Italic" -1 3 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 
+0 0 0 1 }{CSTYLE "Help Normal" -1 30 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 
+0 0 0 1 }{CSTYLE "Plot Text" -1 28 "Times" 1 8 0 0 0 1 2 2 2 2 2 2 0 0
+ 0 1 }{CSTYLE "Help Nonterminal" -1 24 "Courier" 1 12 0 0 0 1 2 1 2 2 
+2 2 0 0 0 1 }{CSTYLE "Help Heading" -1 26 "Times" 1 14 0 0 0 1 2 1 2 2
+ 2 2 0 0 0 1 }{CSTYLE "Help Italic" -1 42 "Times" 1 12 0 0 0 1 1 2 2 2
+ 2 2 0 0 0 1 }{CSTYLE "Help Variable" -1 25 "Courier" 1 12 0 0 0 1 2 2
+ 2 2 2 2 0 0 0 1 }{CSTYLE "Help Italic Bold" -1 40 "Times" 1 12 0 0 0 
+1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Default" -1 38 "Times" 1 12 0 0 0 1 2 
+2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Underlined Italic" -1 43 "Times" 1 12
+ 0 0 0 1 1 2 1 2 2 2 0 0 0 1 }{CSTYLE "Maple Input" -1 0 "Courier" 1 
+12 255 0 0 1 2 1 2 2 1 2 0 0 0 1 }{CSTYLE "2D Output" -1 20 "Times" 1 
+12 0 0 255 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Bold Small" -1 10 "
+Times" 1 1 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Small" -1 7 "
+Times" 1 1 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Page Number" -1 33 "T
+imes" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Output Labels" -1 29 
+"Times" 1 8 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Plot Title" -1 27 "T
+imes" 1 10 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Emphasized" -1 
+22 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Symbol 2
+" -1 16 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Ita
+lic Small207" -1 201 "Times" 1 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE 
+"Maple Comment" -1 21 "Courier" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "2D Math Italic Small202" -1 202 "Times" 1 1 0 0 0 1 1 2 2 2 2
+ 2 0 0 0 1 }{CSTYLE "Caption Reference" -1 203 "Times" 1 12 0 0 0 1 2 
+1 2 2 2 2 0 0 0 1 }{CSTYLE "Maple Input Placeholder" -1 204 "Courier N
+ew" 1 12 200 0 200 1 2 1 2 2 1 2 0 0 0 1 }{CSTYLE "Code" -1 205 "Couri
+er New" 1 12 255 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Italic Sm
+all205" -1 206 "Times" 1 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D In
+ert Output" -1 207 "Times" 1 12 144 144 144 1 2 2 2 2 1 2 0 0 0 1 }
+{CSTYLE "2D Math Italic Small" -1 208 "Times" 1 1 0 0 0 1 1 2 2 2 2 2 
+0 0 0 1 }{CSTYLE "2D Comment" -1 18 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0
+ 0 0 1 }{CSTYLE "Help Underlined Bold" -1 41 "Times" 1 12 0 0 0 1 1 1 
+2 2 2 2 0 0 0 1 }{CSTYLE "Copyright" -1 34 "Times" 1 10 0 0 0 1 2 2 2 
+2 2 2 0 0 0 1 }{CSTYLE "Hyperlink" -1 17 "Times" 1 12 0 128 128 1 2 2 
+1 2 2 2 0 0 0 1 }{CSTYLE "Help Underlined" -1 44 "Times" 1 12 0 0 0 1 
+2 2 1 2 2 2 0 0 0 1 }{CSTYLE "Prompt" -1 1 "Courier" 1 12 0 0 0 1 2 1 
+2 2 2 2 0 0 0 1 }{CSTYLE "2D Math" -1 2 "Times" 1 12 0 0 0 1 2 2 2 2 2
+ 2 0 0 0 1 }{CSTYLE "2D Input" -1 19 "Times" 1 12 255 0 0 1 2 2 2 2 1 
+2 0 0 0 1 }{CSTYLE "Header and Footer" -1 209 "Times" 1 10 0 0 0 1 2 2
+ 2 2 2 2 0 0 0 1 }{CSTYLE "Text" -1 210 "Times" 1 12 0 0 0 1 2 2 2 2 2
+ 2 0 0 0 1 }{CSTYLE "Help Notes" -1 37 "Times" 1 12 0 0 0 1 2 1 2 2 2 
+2 0 0 0 1 }{CSTYLE "Help Bold" -1 39 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 
+0 0 0 1 }{CSTYLE "Equation Label" -1 211 "Times" 1 12 0 0 0 1 2 1 2 2 
+2 2 0 0 0 1 }{CSTYLE "LaTeX" -1 32 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 
+0 0 1 }{CSTYLE "Popup" -1 31 "Times" 1 12 0 128 128 1 1 2 1 2 2 2 0 0 
+0 1 }{CSTYLE "Atomic Variable" -1 212 "Times" 1 12 175 0 175 1 1 2 2 2
+ 2 2 0 0 0 1 }{CSTYLE "Dictionary Hyperlink" -1 45 "Times" 1 12 147 0 
+15 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "Caption Text" -1 213 "Times" 1 12 0
+ 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Fixed" -1 23 "Courier" 1 10 
+0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 208 1 {CSTYLE "" -1 -1 "Tim
+es" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 8 4 2 0 2 0 2 2 -1 1 }
+{PSTYLE "" -1 209 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 
+1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 210 1 {CSTYLE "" 
+-1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 
+2 -1 1 }}
+{SECT 0 {PARA 208 "" 0 "" {TEXT 210 14 "Taylor  Coeffs" }}{EXCHG 
+{PARA 0 "" 0 "" {TEXT 214 147 "In this worksheet we study the Taylor c
+oefficients ( a[i,j] and b[i,j] )in the 3-jet of the billiard map with
+ elliptical period 2 orbit at (0,0) = " }{XPPEDIT 18 0 "Typesetting:-m
+row(Typesetting:-mi(\"\"), Typesetting:-mrow(Typesetting:-msup(Typeset
+ting:-mi(\"T\", italic = \"true\", mathvariant = \"italic\"), Typesett
+ing:-mn(\"2\", mathvariant = \"normal\"), superscriptshift = \"0\")), \+
+Typesetting:-mi(\"\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_
+syslibGF'6%-I#miGF$6#Q!F'-F#6#-I%msupGF$6%-F,6%Q\"TF'/%'italicGQ%trueF
+'/%,mathvariantGQ'italicF'-I#mnGF$6$Q\"2F'/F;Q'normalF'/%1superscripts
+hiftGQ\"0F'F+" }{TEXT 214 6 "(0,0)." }}{PARA 0 "" 0 "" {TEXT 214 10 "W
+e define " }{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-mi(\"\"), Ty
+pesetting:-mrow(Typesetting:-mfenced(Typesetting:-mrow(Typesetting:-mi
+(\"S\", italic = \"true\", mathvariant = \"italic\"), Typesetting:-mo(
+\",\", mathvariant = \"normal\", fence = \"false\", separator = \"true
+\", stretchy = \"false\", symmetric = \"false\", largeop = \"false\", \+
+movablelimits = \"false\", accent = \"false\", lspace = \"0.0em\", rsp
+ace = \"0.3333333em\"), Typesetting:-mi(\"P\", italic = \"true\", math
+variant = \"italic\")), mathvariant = \"normal\"), Typesetting:-mo(\"=
+\", mathvariant = \"normal\", fence = \"false\", separator = \"false\"
+, stretchy = \"false\", symmetric = \"false\", largeop = \"false\", mo
+vablelimits = \"false\", accent = \"false\", lspace = \"0.2777778em\",
+ rspace = \"0.2777778em\"), Typesetting:-mrow(Typesetting:-mfenced(Typ
+esetting:-mrow(Typesetting:-msup(Typesetting:-mi(\"T\", italic = \"tru
+e\", mathvariant = \"italic\"), Typesetting:-mn(\"2\", mathvariant = \+
+\"normal\"), superscriptshift = \"0\")), mathvariant = \"normal\"), Ty
+pesetting:-mo(\"&ApplyFunction;\", mathvariant = \"normal\", fence = \+
+\"false\", separator = \"false\", stretchy = \"false\", symmetric = \"
+false\", largeop = \"false\", movablelimits = \"false\", accent = \"fa
+lse\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mfenced(T
+ypesetting:-mrow(Typesetting:-mi(\"s\", italic = \"true\", mathvariant
+ = \"italic\"), Typesetting:-mo(\",\", mathvariant = \"normal\", fence
+ = \"false\", separator = \"true\", stretchy = \"false\", symmetric = \+
+\"false\", largeop = \"false\", movablelimits = \"false\", accent = \"
+false\", lspace = \"0.0em\", rspace = \"0.3333333em\"), Typesetting:-m
+i(\"p\", italic = \"true\", mathvariant = \"italic\")), mathvariant = \+
+\"normal\")), Typesetting:-mi(\"\")), Typesetting:-mi(\"\"));" "-I%mro
+wG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6%-I#miGF$6#Q!F'-F#6&-I
+(mfencedGF$6$-F#6%-F,6%Q\"SF'/%'italicGQ%trueF'/%,mathvariantGQ'italic
+F'-I#moGF$6-Q\",F'/F=Q'normalF'/%&fenceGQ&falseF'/%*separatorGF;/%)str
+etchyGFG/%*symmetricGFG/%(largeopGFG/%.movablelimitsGFG/%'accentGFG/%'
+lspaceGQ&0.0emF'/%'rspaceGQ,0.3333333emF'-F,6%Q\"PF'F9F<FC-F@6-Q\"=F'F
+CFE/FIFGFJFLFNFPFR/FUQ,0.2777778emF'/FXF\\o-F#6%-F26$-F#6#-I%msupGF$6%
+-F,6%Q\"TF'F9F<-I#mnGF$6$Q\"2F'FC/%1superscriptshiftGQ\"0F'FC-F@6-Q0&A
+pplyFunction;F'FCFEFjnFJFLFNFPFRFT/FXFV-F26$-F#6%-F,6%Q\"sF'F9F<F?-F,6
+%Q\"pF'F9F<FCF+F+" }{TEXT 214 29 "  and the 3 -jet is given by:" }}
+{PARA 0 "" 0 "" {TEXT 214 0 "" }{XPPEDIT 18 0 "Typesetting:-mrow(Types
+etting:-mi(\"\"), Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetting
+:-mrow(Typesetting:-mi(\"S\", italic = \"true\", mathvariant = \"itali
+c\"), Typesetting:-mo(\"&ApplyFunction;\", mathvariant = \"normal\", f
+ence = \"false\", separator = \"false\", stretchy = \"false\", symmetr
+ic = \"false\", largeop = \"false\", movablelimits = \"false\", accent
+ = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mf
+enced(Typesetting:-mrow(Typesetting:-mi(\"s\", italic = \"true\", math
+variant = \"italic\"), Typesetting:-mo(\",\", mathvariant = \"normal\"
+, fence = \"false\", separator = \"true\", stretchy = \"false\", symme
+tric = \"false\", largeop = \"false\", movablelimits = \"false\", acce
+nt = \"false\", lspace = \"0.0em\", rspace = \"0.3333333em\"), Typeset
+ting:-mi(\"p\", italic = \"true\", mathvariant = \"italic\")), mathvar
+iant = \"normal\")), Typesetting:-mo(\"=\", mathvariant = \"normal\", \+
+fence = \"false\", separator = \"false\", stretchy = \"false\", symmet
+ric = \"false\", largeop = \"false\", movablelimits = \"false\", accen
+t = \"false\", lspace = \"0.2777778em\", rspace = \"0.2777778em\"), Ty
+pesetting:-mrow(Typesetting:-mi(\"\"), Typesetting:-mrow(Typesetting:-
+msub(Typesetting:-mi(\"a\", italic = \"true\", mathvariant = \"italic
+\"), Typesetting:-mrow(Typesetting:-mn(\"1\", mathvariant = \"normal\"
+), Typesetting:-mo(\",\", mathvariant = \"normal\", fence = \"false\",
+ separator = \"true\", stretchy = \"false\", symmetric = \"false\", la
+rgeop = \"false\", movablelimits = \"false\", accent = \"false\", lspa
+ce = \"0.0em\", rspace = \"0.3333333em\"), Typesetting:-mn(\"0\", math
+variant = \"normal\")), subscriptshift = \"0\"), Typesetting:-mo(\"&In
+visibleTimes;\", mathvariant = \"normal\", fence = \"false\", separato
+r = \"false\", stretchy = \"false\", symmetric = \"false\", largeop = \+
+\"false\", movablelimits = \"false\", accent = \"false\", lspace = \"0
+.0em\", rspace = \"0.0em\"), Typesetting:-mi(\"s\", italic = \"true\",
+ mathvariant = \"italic\")), Typesetting:-mo(\"+\", mathvariant = \"no
+rmal\", fence = \"false\", separator = \"false\", stretchy = \"false\"
+, symmetric = \"false\", largeop = \"false\", movablelimits = \"false
+\", accent = \"false\", lspace = \"0.2222222em\", rspace = \"0.2222222
+em\"), Typesetting:-mrow(Typesetting:-msub(Typesetting:-mi(\"a\", ital
+ic = \"true\", mathvariant = \"italic\"), Typesetting:-mrow(Typesettin
+g:-mn(\"0\", mathvariant = \"normal\"), Typesetting:-mo(\",\", mathvar
+iant = \"normal\", fence = \"false\", separator = \"true\", stretchy =
+ \"false\", symmetric = \"false\", largeop = \"false\", movablelimits \+
+= \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.3333
+333em\"), Typesetting:-mn(\"1\", mathvariant = \"normal\")), subscript
+shift = \"0\"), Typesetting:-mo(\"&InvisibleTimes;\", mathvariant = \"
+normal\", fence = \"false\", separator = \"false\", stretchy = \"false
+\", symmetric = \"false\", largeop = \"false\", movablelimits = \"fals
+e\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Type
+setting:-mi(\"p\", italic = \"true\", mathvariant = \"italic\")), Type
+setting:-mo(\"+\", mathvariant = \"normal\", fence = \"false\", separa
+tor = \"false\", stretchy = \"false\", symmetric = \"false\", largeop \+
+= \"false\", movablelimits = \"false\", accent = \"false\", lspace = \+
+\"0.2222222em\", rspace = \"0.2222222em\"), Typesetting:-mrow(Typesett
+ing:-msub(Typesetting:-mi(\"a\", italic = \"true\", mathvariant = \"it
+alic\"), Typesetting:-mrow(Typesetting:-mn(\"2\", mathvariant = \"norm
+al\"), Typesetting:-mo(\",\", mathvariant = \"normal\", fence = \"fals
+e\", separator = \"true\", stretchy = \"false\", symmetric = \"false\"
+, largeop = \"false\", movablelimits = \"false\", accent = \"false\", \+
+lspace = \"0.0em\", rspace = \"0.3333333em\"), Typesetting:-mn(\"0\", \+
+mathvariant = \"normal\")), subscriptshift = \"0\"), Typesetting:-mo(
+\"&InvisibleTimes;\", mathvariant = \"normal\", fence = \"false\", sep
+arator = \"false\", stretchy = \"false\", symmetric = \"false\", large
+op = \"false\", movablelimits = \"false\", accent = \"false\", lspace \+
+= \"0.0em\", rspace = \"0.0em\"), Typesetting:-mrow(Typesetting:-msup(
+Typesetting:-mi(\"s\", italic = \"true\", mathvariant = \"italic\"), T
+ypesetting:-mn(\"2\", mathvariant = \"normal\"), superscriptshift = \"
+0\")), Typesetting:-mi(\"\")), Typesetting:-mo(\"+\", mathvariant = \"
+normal\", fence = \"false\", separator = \"false\", stretchy = \"false
+\", symmetric = \"false\", largeop = \"false\", movablelimits = \"fals
+e\", accent = \"false\", lspace = \"0.2222222em\", rspace = \"0.222222
+2em\"), Typesetting:-mrow(Typesetting:-msub(Typesetting:-mi(\"a\", ita
+lic = \"true\", mathvariant = \"italic\"), Typesetting:-mrow(Typesetti
+ng:-mn(\"1\", mathvariant = \"normal\"), Typesetting:-mo(\",\", mathva
+riant = \"normal\", fence = \"false\", separator = \"true\", stretchy \+
+= \"false\", symmetric = \"false\", largeop = \"false\", movablelimits
+ = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.333
+3333em\"), Typesetting:-mn(\"1\", mathvariant = \"normal\")), subscrip
+tshift = \"0\"), Typesetting:-mo(\"&InvisibleTimes;\", mathvariant = \+
+\"normal\", fence = \"false\", separator = \"false\", stretchy = \"fal
+se\", symmetric = \"false\", largeop = \"false\", movablelimits = \"fa
+lse\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Ty
+pesetting:-mi(\"s\", italic = \"true\", mathvariant = \"italic\"), Typ
+esetting:-mo(\"&InvisibleTimes;\", mathvariant = \"normal\", fence = \+
+\"false\", separator = \"false\", stretchy = \"false\", symmetric = \"
+false\", largeop = \"false\", movablelimits = \"false\", accent = \"fa
+lse\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mi(\"p\",
+ italic = \"true\", mathvariant = \"italic\")), Typesetting:-mo(\"+\",
+ mathvariant = \"normal\", fence = \"false\", separator = \"false\", s
+tretchy = \"false\", symmetric = \"false\", largeop = \"false\", movab
+lelimits = \"false\", accent = \"false\", lspace = \"0.2222222em\", rs
+pace = \"0.2222222em\"), Typesetting:-mrow(Typesetting:-msub(Typesetti
+ng:-mi(\"a\", italic = \"true\", mathvariant = \"italic\"), Typesettin
+g:-mrow(Typesetting:-mn(\"0\", mathvariant = \"normal\"), Typesetting:
+-mo(\",\", mathvariant = \"normal\", fence = \"false\", separator = \"
+true\", stretchy = \"false\", symmetric = \"false\", largeop = \"false
+\", movablelimits = \"false\", accent = \"false\", lspace = \"0.0em\",
+ rspace = \"0.3333333em\"), Typesetting:-mn(\"2\", mathvariant = \"nor
+mal\")), subscriptshift = \"0\"), Typesetting:-mo(\"&InvisibleTimes;\"
+, mathvariant = \"normal\", fence = \"false\", separator = \"false\", \+
+stretchy = \"false\", symmetric = \"false\", largeop = \"false\", mova
+blelimits = \"false\", accent = \"false\", lspace = \"0.0em\", rspace \+
+= \"0.0em\"), Typesetting:-mrow(Typesetting:-msup(Typesetting:-mi(\"p
+\", italic = \"true\", mathvariant = \"italic\"), Typesetting:-mn(\"2
+\", mathvariant = \"normal\"), superscriptshift = \"0\")), Typesetting
+:-mi(\"\")), Typesetting:-mo(\"+\", mathvariant = \"normal\", fence = \+
+\"false\", separator = \"false\", stretchy = \"false\", symmetric = \"
+false\", largeop = \"false\", movablelimits = \"false\", accent = \"fa
+lse\", lspace = \"0.2222222em\", rspace = \"0.2222222em\"), Typesettin
+g:-mrow(Typesetting:-msub(Typesetting:-mi(\"a\", italic = \"true\", ma
+thvariant = \"italic\"), Typesetting:-mrow(Typesetting:-mn(\"3\", math
+variant = \"normal\"), Typesetting:-mo(\",\", mathvariant = \"normal\"
+, fence = \"false\", separator = \"true\", stretchy = \"false\", symme
+tric = \"false\", largeop = \"false\", movablelimits = \"false\", acce
+nt = \"false\", lspace = \"0.0em\", rspace = \"0.3333333em\"), Typeset
+ting:-mn(\"0\", mathvariant = \"normal\")), subscriptshift = \"0\"), T
+ypesetting:-mo(\"&InvisibleTimes;\", mathvariant = \"normal\", fence =
+ \"false\", separator = \"false\", stretchy = \"false\", symmetric = \+
+\"false\", largeop = \"false\", movablelimits = \"false\", accent = \"
+false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mrow(Ty
+pesetting:-msup(Typesetting:-mi(\"s\", italic = \"true\", mathvariant \+
+= \"italic\"), Typesetting:-mn(\"3\", mathvariant = \"normal\"), super
+scriptshift = \"0\")), Typesetting:-mi(\"\")), Typesetting:-mo(\"+\", \+
+mathvariant = \"normal\", fence = \"false\", separator = \"false\", st
+retchy = \"false\", symmetric = \"false\", largeop = \"false\", movabl
+elimits = \"false\", accent = \"false\", lspace = \"0.2222222em\", rsp
+ace = \"0.2222222em\"), Typesetting:-mrow(Typesetting:-msub(Typesettin
+g:-mi(\"a\", italic = \"true\", mathvariant = \"italic\"), Typesetting
+:-mrow(Typesetting:-mn(\"2\", mathvariant = \"normal\"), Typesetting:-
+mo(\",\", mathvariant = \"normal\", fence = \"false\", separator = \"t
+rue\", stretchy = \"false\", symmetric = \"false\", largeop = \"false
+\", movablelimits = \"false\", accent = \"false\", lspace = \"0.0em\",
+ rspace = \"0.3333333em\"), Typesetting:-mn(\"1\", mathvariant = \"nor
+mal\")), subscriptshift = \"0\"), Typesetting:-mo(\"&InvisibleTimes;\"
+, mathvariant = \"normal\", fence = \"false\", separator = \"false\", \+
+stretchy = \"false\", symmetric = \"false\", largeop = \"false\", mova
+blelimits = \"false\", accent = \"false\", lspace = \"0.0em\", rspace \+
+= \"0.0em\"), Typesetting:-mrow(Typesetting:-msup(Typesetting:-mi(\"s
+\", italic = \"true\", mathvariant = \"italic\"), Typesetting:-mn(\"2
+\", mathvariant = \"normal\"), superscriptshift = \"0\")), Typesetting
+:-mo(\"&InvisibleTimes;\", mathvariant = \"normal\", fence = \"false\"
+, separator = \"false\", stretchy = \"false\", symmetric = \"false\", \+
+largeop = \"false\", movablelimits = \"false\", accent = \"false\", ls
+pace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mi(\"p\", italic =
+ \"true\", mathvariant = \"italic\")), Typesetting:-mo(\"+\", mathvari
+ant = \"normal\", fence = \"false\", separator = \"false\", stretchy =
+ \"false\", symmetric = \"false\", largeop = \"false\", movablelimits \+
+= \"false\", accent = \"false\", lspace = \"0.2222222em\", rspace = \"
+0.2222222em\"), Typesetting:-mrow(Typesetting:-msub(Typesetting:-mi(\"
+a\", italic = \"true\", mathvariant = \"italic\"), Typesetting:-mrow(T
+ypesetting:-mn(\"1\", mathvariant = \"normal\"), Typesetting:-mo(\",\"
+, mathvariant = \"normal\", fence = \"false\", separator = \"true\", s
+tretchy = \"false\", symmetric = \"false\", largeop = \"false\", movab
+lelimits = \"false\", accent = \"false\", lspace = \"0.0em\", rspace =
+ \"0.3333333em\"), Typesetting:-mn(\"2\", mathvariant = \"normal\")), \+
+subscriptshift = \"0\"), Typesetting:-mo(\"&InvisibleTimes;\", mathvar
+iant = \"normal\", fence = \"false\", separator = \"false\", stretchy \+
+= \"false\", symmetric = \"false\", largeop = \"false\", movablelimits
+ = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em
+\"), Typesetting:-mi(\"s\", italic = \"true\", mathvariant = \"italic
+\"), Typesetting:-mo(\"&InvisibleTimes;\", mathvariant = \"normal\", f
+ence = \"false\", separator = \"false\", stretchy = \"false\", symmetr
+ic = \"false\", largeop = \"false\", movablelimits = \"false\", accent
+ = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-ms
+up(Typesetting:-mi(\"p\", italic = \"true\", mathvariant = \"italic\")
+, Typesetting:-mn(\"2\", mathvariant = \"normal\"), superscriptshift =
+ \"0\")), Typesetting:-mo(\"+\", mathvariant = \"normal\", fence = \"f
+alse\", separator = \"false\", stretchy = \"false\", symmetric = \"fal
+se\", largeop = \"false\", movablelimits = \"false\", accent = \"false
+\", lspace = \"0.2222222em\", rspace = \"0.2222222em\"), Typesetting:-
+mrow(Typesetting:-msub(Typesetting:-mi(\"a\", italic = \"true\", mathv
+ariant = \"italic\"), Typesetting:-mrow(Typesetting:-mn(\"0\", mathvar
+iant = \"normal\"), Typesetting:-mo(\",\", mathvariant = \"normal\", f
+ence = \"false\", separator = \"true\", stretchy = \"false\", symmetri
+c = \"false\", largeop = \"false\", movablelimits = \"false\", accent \+
+= \"false\", lspace = \"0.0em\", rspace = \"0.3333333em\"), Typesettin
+g:-mn(\"3\", mathvariant = \"normal\")), subscriptshift = \"0\"), Type
+setting:-mo(\"&InvisibleTimes;\", mathvariant = \"normal\", fence = \"
+false\", separator = \"false\", stretchy = \"false\", symmetric = \"fa
+lse\", largeop = \"false\", movablelimits = \"false\", accent = \"fals
+e\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mrow(Typese
+tting:-msup(Typesetting:-mi(\"p\", italic = \"true\", mathvariant = \"
+italic\"), Typesetting:-mn(\"3\", mathvariant = \"normal\"), superscri
+ptshift = \"0\")), Typesetting:-mi(\"\")), Typesetting:-mi(\"\")), Typ
+esetting:-mi(\"\")), Typesetting:-mi(\"\"));" "-I%mrowG6#/I+modulename
+G6\"I,TypesettingGI(_syslibGF'6%-I#miGF$6#Q!F'-F#6'F+-F#6%-F,6%Q\"SF'/
+%'italicGQ%trueF'/%,mathvariantGQ'italicF'-I#moGF$6-Q0&ApplyFunction;F
+'/F:Q'normalF'/%&fenceGQ&falseF'/%*separatorGFD/%)stretchyGFD/%*symmet
+ricGFD/%(largeopGFD/%.movablelimitsGFD/%'accentGFD/%'lspaceGQ&0.0emF'/
+%'rspaceGFS-I(mfencedGF$6$-F#6%-F,6%Q\"sF'F6F9-F=6-Q\",F'F@FB/FFF8FGFI
+FKFMFOFQ/FUQ,0.3333333emF'-F,6%Q\"pF'F6F9F@-F=6-Q\"=F'F@FBFEFGFIFKFMFO
+/FRQ,0.2777778emF'/FUFeo-F#65F+-F#6%-I%msubGF$6%-F,6%Q\"aF'F6F9-F#6%-I
+#mnGF$6$Q\"1F'F@Fhn-Fdp6$Q\"0F'F@/%/subscriptshiftGFip-F=6-Q1&Invisibl
+eTimes;F'F@FBFEFGFIFKFMFOFQFTFen-F=6-Q\"+F'F@FBFEFGFIFKFMFO/FRQ,0.2222
+222emF'/FUFcq-F#6%-F\\p6%F^p-F#6%FgpFhnFcpFjpF\\qF^oF_q-F#6&-F\\p6%F^p
+-F#6%-Fdp6$Q\"2F'F@FhnFgpFjpF\\q-F#6#-I%msupGF$6%FenFar/%1superscripts
+hiftGFipF+F_q-F#6'-F\\p6%F^p-F#6%FcpFhnFcpFjpF\\qFenF\\qF^oF_q-F#6&-F
+\\p6%F^p-F#6%FgpFhnFarFjpF\\q-F#6#-Fgr6%F^oFarFirF+F_q-F#6&-F\\p6%F^p-
+F#6%-Fdp6$Q\"3F'F@FhnFgpFjpF\\q-F#6#-Fgr6%FenFatFirF+F_q-F#6'-F\\p6%F^
+p-F#6%FarFhnFcpFjpF\\qFdrF\\qF^oF_q-F#6'-F\\p6%F^p-F#6%FcpFhnFarFjpF
+\\qFenF\\qFisF_q-F#6&-F\\p6%F^p-F#6%FgpFhnFatFjpF\\q-F#6#-Fgr6%F^oFatF
+irF+F+F+F+" }}{PARA 0 "" 0 "" {TEXT 214 0 "" }{XPPEDIT 18 0 "Typesetti
+ng:-mrow(Typesetting:-mi(\"\"), Typesetting:-mrow(Typesetting:-mi(\"\"
+), Typesetting:-mrow(Typesetting:-mi(\"P\", italic = \"true\", mathvar
+iant = \"italic\"), Typesetting:-mo(\"&ApplyFunction;\", mathvariant =
+ \"normal\", fence = \"false\", separator = \"false\", stretchy = \"fa
+lse\", symmetric = \"false\", largeop = \"false\", movablelimits = \"f
+alse\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), T
+ypesetting:-mfenced(Typesetting:-mrow(Typesetting:-mi(\"s\", italic = \+
+\"true\", mathvariant = \"italic\"), Typesetting:-mo(\",\", mathvarian
+t = \"normal\", fence = \"false\", separator = \"true\", stretchy = \"
+false\", symmetric = \"false\", largeop = \"false\", movablelimits = \+
+\"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.333333
+3em\"), Typesetting:-mi(\"p\", italic = \"true\", mathvariant = \"ital
+ic\")), mathvariant = \"normal\")), Typesetting:-mo(\"=\", mathvariant
+ = \"normal\", fence = \"false\", separator = \"false\", stretchy = \"
+false\", symmetric = \"false\", largeop = \"false\", movablelimits = \+
+\"false\", accent = \"false\", lspace = \"0.2777778em\", rspace = \"0.
+2777778em\"), Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetting:-mr
+ow(Typesetting:-msub(Typesetting:-mi(\"b\", italic = \"true\", mathvar
+iant = \"italic\"), Typesetting:-mrow(Typesetting:-mn(\"1\", mathvaria
+nt = \"normal\"), Typesetting:-mo(\",\", mathvariant = \"normal\", fen
+ce = \"false\", separator = \"true\", stretchy = \"false\", symmetric \+
+= \"false\", largeop = \"false\", movablelimits = \"false\", accent = \+
+\"false\", lspace = \"0.0em\", rspace = \"0.3333333em\"), Typesetting:
+-mn(\"0\", mathvariant = \"normal\")), subscriptshift = \"0\"), Typese
+tting:-mo(\"&InvisibleTimes;\", mathvariant = \"normal\", fence = \"fa
+lse\", separator = \"false\", stretchy = \"false\", symmetric = \"fals
+e\", largeop = \"false\", movablelimits = \"false\", accent = \"false
+\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mi(\"s\", it
+alic = \"true\", mathvariant = \"italic\")), Typesetting:-mo(\"+\", ma
+thvariant = \"normal\", fence = \"false\", separator = \"false\", stre
+tchy = \"false\", symmetric = \"false\", largeop = \"false\", movablel
+imits = \"false\", accent = \"false\", lspace = \"0.2222222em\", rspac
+e = \"0.2222222em\"), Typesetting:-mrow(Typesetting:-msub(Typesetting:
+-mi(\"b\", italic = \"true\", mathvariant = \"italic\"), Typesetting:-
+mrow(Typesetting:-mn(\"0\", mathvariant = \"normal\"), Typesetting:-mo
+(\",\", mathvariant = \"normal\", fence = \"false\", separator = \"tru
+e\", stretchy = \"false\", symmetric = \"false\", largeop = \"false\",
+ movablelimits = \"false\", accent = \"false\", lspace = \"0.0em\", rs
+pace = \"0.3333333em\"), Typesetting:-mn(\"1\", mathvariant = \"normal
+\")), subscriptshift = \"0\"), Typesetting:-mo(\"&InvisibleTimes;\", m
+athvariant = \"normal\", fence = \"false\", separator = \"false\", str
+etchy = \"false\", symmetric = \"false\", largeop = \"false\", movable
+limits = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \+
+\"0.0em\"), Typesetting:-mi(\"p\", italic = \"true\", mathvariant = \"
+italic\")), Typesetting:-mo(\"+\", mathvariant = \"normal\", fence = \+
+\"false\", separator = \"false\", stretchy = \"false\", symmetric = \"
+false\", largeop = \"false\", movablelimits = \"false\", accent = \"fa
+lse\", lspace = \"0.2222222em\", rspace = \"0.2222222em\"), Typesettin
+g:-mrow(Typesetting:-msub(Typesetting:-mi(\"b\", italic = \"true\", ma
+thvariant = \"italic\"), Typesetting:-mrow(Typesetting:-mn(\"2\", math
+variant = \"normal\"), Typesetting:-mo(\",\", mathvariant = \"normal\"
+, fence = \"false\", separator = \"true\", stretchy = \"false\", symme
+tric = \"false\", largeop = \"false\", movablelimits = \"false\", acce
+nt = \"false\", lspace = \"0.0em\", rspace = \"0.3333333em\"), Typeset
+ting:-mn(\"0\", mathvariant = \"normal\")), subscriptshift = \"0\"), T
+ypesetting:-mo(\"&InvisibleTimes;\", mathvariant = \"normal\", fence =
+ \"false\", separator = \"false\", stretchy = \"false\", symmetric = \+
+\"false\", largeop = \"false\", movablelimits = \"false\", accent = \"
+false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mrow(Ty
+pesetting:-msup(Typesetting:-mi(\"s\", italic = \"true\", mathvariant \+
+= \"italic\"), Typesetting:-mn(\"2\", mathvariant = \"normal\"), super
+scriptshift = \"0\")), Typesetting:-mi(\"\")), Typesetting:-mo(\"+\", \+
+mathvariant = \"normal\", fence = \"false\", separator = \"false\", st
+retchy = \"false\", symmetric = \"false\", largeop = \"false\", movabl
+elimits = \"false\", accent = \"false\", lspace = \"0.2222222em\", rsp
+ace = \"0.2222222em\"), Typesetting:-mrow(Typesetting:-msub(Typesettin
+g:-mi(\"b\", italic = \"true\", mathvariant = \"italic\"), Typesetting
+:-mrow(Typesetting:-mn(\"1\", mathvariant = \"normal\"), Typesetting:-
+mo(\",\", mathvariant = \"normal\", fence = \"false\", separator = \"t
+rue\", stretchy = \"false\", symmetric = \"false\", largeop = \"false
+\", movablelimits = \"false\", accent = \"false\", lspace = \"0.0em\",
+ rspace = \"0.3333333em\"), Typesetting:-mn(\"1\", mathvariant = \"nor
+mal\")), subscriptshift = \"0\"), Typesetting:-mo(\"&InvisibleTimes;\"
+, mathvariant = \"normal\", fence = \"false\", separator = \"false\", \+
+stretchy = \"false\", symmetric = \"false\", largeop = \"false\", mova
+blelimits = \"false\", accent = \"false\", lspace = \"0.0em\", rspace \+
+= \"0.0em\"), Typesetting:-mi(\"s\", italic = \"true\", mathvariant = \+
+\"italic\"), Typesetting:-mo(\"&InvisibleTimes;\", mathvariant = \"nor
+mal\", fence = \"false\", separator = \"false\", stretchy = \"false\",
+ symmetric = \"false\", largeop = \"false\", movablelimits = \"false\"
+, accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typeset
+ting:-mi(\"p\", italic = \"true\", mathvariant = \"italic\")), Typeset
+ting:-mo(\"+\", mathvariant = \"normal\", fence = \"false\", separator
+ = \"false\", stretchy = \"false\", symmetric = \"false\", largeop = \+
+\"false\", movablelimits = \"false\", accent = \"false\", lspace = \"0
+.2222222em\", rspace = \"0.2222222em\"), Typesetting:-mrow(Typesetting
+:-msub(Typesetting:-mi(\"b\", italic = \"true\", mathvariant = \"itali
+c\"), Typesetting:-mrow(Typesetting:-mn(\"0\", mathvariant = \"normal
+\"), Typesetting:-mo(\",\", mathvariant = \"normal\", fence = \"false
+\", separator = \"true\", stretchy = \"false\", symmetric = \"false\",
+ largeop = \"false\", movablelimits = \"false\", accent = \"false\", l
+space = \"0.0em\", rspace = \"0.3333333em\"), Typesetting:-mn(\"2\", m
+athvariant = \"normal\")), subscriptshift = \"0\"), Typesetting:-mo(\"
+&InvisibleTimes;\", mathvariant = \"normal\", fence = \"false\", separ
+ator = \"false\", stretchy = \"false\", symmetric = \"false\", largeop
+ = \"false\", movablelimits = \"false\", accent = \"false\", lspace = \+
+\"0.0em\", rspace = \"0.0em\"), Typesetting:-mrow(Typesetting:-msup(Ty
+pesetting:-mi(\"p\", italic = \"true\", mathvariant = \"italic\"), Typ
+esetting:-mn(\"2\", mathvariant = \"normal\"), superscriptshift = \"0
+\")), Typesetting:-mi(\"\")), Typesetting:-mo(\"+\", mathvariant = \"n
+ormal\", fence = \"false\", separator = \"false\", stretchy = \"false
+\", symmetric = \"false\", largeop = \"false\", movablelimits = \"fals
+e\", accent = \"false\", lspace = \"0.2222222em\", rspace = \"0.222222
+2em\"), Typesetting:-mrow(Typesetting:-msub(Typesetting:-mi(\"b\", ita
+lic = \"true\", mathvariant = \"italic\"), Typesetting:-mrow(Typesetti
+ng:-mn(\"3\", mathvariant = \"normal\"), Typesetting:-mo(\",\", mathva
+riant = \"normal\", fence = \"false\", separator = \"true\", stretchy \+
+= \"false\", symmetric = \"false\", largeop = \"false\", movablelimits
+ = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.333
+3333em\"), Typesetting:-mn(\"0\", mathvariant = \"normal\")), subscrip
+tshift = \"0\"), Typesetting:-mo(\"&InvisibleTimes;\", mathvariant = \+
+\"normal\", fence = \"false\", separator = \"false\", stretchy = \"fal
+se\", symmetric = \"false\", largeop = \"false\", movablelimits = \"fa
+lse\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Ty
+pesetting:-mrow(Typesetting:-msup(Typesetting:-mi(\"s\", italic = \"tr
+ue\", mathvariant = \"italic\"), Typesetting:-mn(\"3\", mathvariant = \+
+\"normal\"), superscriptshift = \"0\")), Typesetting:-mi(\"\")), Types
+etting:-mo(\"+\", mathvariant = \"normal\", fence = \"false\", separat
+or = \"false\", stretchy = \"false\", symmetric = \"false\", largeop =
+ \"false\", movablelimits = \"false\", accent = \"false\", lspace = \"
+0.2222222em\", rspace = \"0.2222222em\"), Typesetting:-mrow(Typesettin
+g:-msub(Typesetting:-mi(\"b\", italic = \"true\", mathvariant = \"ital
+ic\"), Typesetting:-mrow(Typesetting:-mn(\"2\", mathvariant = \"normal
+\"), Typesetting:-mo(\",\", mathvariant = \"normal\", fence = \"false
+\", separator = \"true\", stretchy = \"false\", symmetric = \"false\",
+ largeop = \"false\", movablelimits = \"false\", accent = \"false\", l
+space = \"0.0em\", rspace = \"0.3333333em\"), Typesetting:-mn(\"1\", m
+athvariant = \"normal\")), subscriptshift = \"0\"), Typesetting:-mo(\"
+&InvisibleTimes;\", mathvariant = \"normal\", fence = \"false\", separ
+ator = \"false\", stretchy = \"false\", symmetric = \"false\", largeop
+ = \"false\", movablelimits = \"false\", accent = \"false\", lspace = \+
+\"0.0em\", rspace = \"0.0em\"), Typesetting:-mrow(Typesetting:-msup(Ty
+pesetting:-mi(\"s\", italic = \"true\", mathvariant = \"italic\"), Typ
+esetting:-mn(\"2\", mathvariant = \"normal\"), superscriptshift = \"0
+\")), Typesetting:-mo(\"&InvisibleTimes;\", mathvariant = \"normal\", \+
+fence = \"false\", separator = \"false\", stretchy = \"false\", symmet
+ric = \"false\", largeop = \"false\", movablelimits = \"false\", accen
+t = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-m
+i(\"p\", italic = \"true\", mathvariant = \"italic\")), Typesetting:-m
+o(\"+\", mathvariant = \"normal\", fence = \"false\", separator = \"fa
+lse\", stretchy = \"false\", symmetric = \"false\", largeop = \"false
+\", movablelimits = \"false\", accent = \"false\", lspace = \"0.222222
+2em\", rspace = \"0.2222222em\"), Typesetting:-mrow(Typesetting:-msub(
+Typesetting:-mi(\"b\", italic = \"true\", mathvariant = \"italic\"), T
+ypesetting:-mrow(Typesetting:-mn(\"1\", mathvariant = \"normal\"), Typ
+esetting:-mo(\",\", mathvariant = \"normal\", fence = \"false\", separ
+ator = \"true\", stretchy = \"false\", symmetric = \"false\", largeop \+
+= \"false\", movablelimits = \"false\", accent = \"false\", lspace = \+
+\"0.0em\", rspace = \"0.3333333em\"), Typesetting:-mn(\"2\", mathvaria
+nt = \"normal\")), subscriptshift = \"0\"), Typesetting:-mo(\"&Invisib
+leTimes;\", mathvariant = \"normal\", fence = \"false\", separator = \+
+\"false\", stretchy = \"false\", symmetric = \"false\", largeop = \"fa
+lse\", movablelimits = \"false\", accent = \"false\", lspace = \"0.0em
+\", rspace = \"0.0em\"), Typesetting:-mi(\"s\", italic = \"true\", mat
+hvariant = \"italic\"), Typesetting:-mo(\"&InvisibleTimes;\", mathvari
+ant = \"normal\", fence = \"false\", separator = \"false\", stretchy =
+ \"false\", symmetric = \"false\", largeop = \"false\", movablelimits \+
+= \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em
+\"), Typesetting:-msup(Typesetting:-mi(\"p\", italic = \"true\", mathv
+ariant = \"italic\"), Typesetting:-mn(\"2\", mathvariant = \"normal\")
+, superscriptshift = \"0\")), Typesetting:-mo(\"+\", mathvariant = \"n
+ormal\", fence = \"false\", separator = \"false\", stretchy = \"false
+\", symmetric = \"false\", largeop = \"false\", movablelimits = \"fals
+e\", accent = \"false\", lspace = \"0.2222222em\", rspace = \"0.222222
+2em\"), Typesetting:-mrow(Typesetting:-msub(Typesetting:-mi(\"b\", ita
+lic = \"true\", mathvariant = \"italic\"), Typesetting:-mrow(Typesetti
+ng:-mn(\"0\", mathvariant = \"normal\"), Typesetting:-mo(\",\", mathva
+riant = \"normal\", fence = \"false\", separator = \"true\", stretchy \+
+= \"false\", symmetric = \"false\", largeop = \"false\", movablelimits
+ = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.333
+3333em\"), Typesetting:-mn(\"3\", mathvariant = \"normal\")), subscrip
+tshift = \"0\"), Typesetting:-mo(\"&InvisibleTimes;\", mathvariant = \+
+\"normal\", fence = \"false\", separator = \"false\", stretchy = \"fal
+se\", symmetric = \"false\", largeop = \"false\", movablelimits = \"fa
+lse\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Ty
+pesetting:-mrow(Typesetting:-msup(Typesetting:-mi(\"p\", italic = \"tr
+ue\", mathvariant = \"italic\"), Typesetting:-mn(\"3\", mathvariant = \+
+\"normal\"), superscriptshift = \"0\")), Typesetting:-mi(\"\")), Types
+etting:-mi(\"\")), Typesetting:-mi(\"\")), Typesetting:-mi(\"\"));" "-
+I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6%-I#miGF$6#Q!F'-F
+#6'F+-F#6%-F,6%Q\"PF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'-I#moG
+F$6-Q0&ApplyFunction;F'/F:Q'normalF'/%&fenceGQ&falseF'/%*separatorGFD/
+%)stretchyGFD/%*symmetricGFD/%(largeopGFD/%.movablelimitsGFD/%'accentG
+FD/%'lspaceGQ&0.0emF'/%'rspaceGFS-I(mfencedGF$6$-F#6%-F,6%Q\"sF'F6F9-F
+=6-Q\",F'F@FB/FFF8FGFIFKFMFOFQ/FUQ,0.3333333emF'-F,6%Q\"pF'F6F9F@-F=6-
+Q\"=F'F@FBFEFGFIFKFMFO/FRQ,0.2777778emF'/FUFeo-F#65F+-F#6%-I%msubGF$6%
+-F,6%Q\"bF'F6F9-F#6%-I#mnGF$6$Q\"1F'F@Fhn-Fdp6$Q\"0F'F@/%/subscriptshi
+ftGFip-F=6-Q1&InvisibleTimes;F'F@FBFEFGFIFKFMFOFQFTFen-F=6-Q\"+F'F@FBF
+EFGFIFKFMFO/FRQ,0.2222222emF'/FUFcq-F#6%-F\\p6%F^p-F#6%FgpFhnFcpFjpF
+\\qF^oF_q-F#6&-F\\p6%F^p-F#6%-Fdp6$Q\"2F'F@FhnFgpFjpF\\q-F#6#-I%msupGF
+$6%FenFar/%1superscriptshiftGFipF+F_q-F#6'-F\\p6%F^p-F#6%FcpFhnFcpFjpF
+\\qFenF\\qF^oF_q-F#6&-F\\p6%F^p-F#6%FgpFhnFarFjpF\\q-F#6#-Fgr6%F^oFarF
+irF+F_q-F#6&-F\\p6%F^p-F#6%-Fdp6$Q\"3F'F@FhnFgpFjpF\\q-F#6#-Fgr6%FenFa
+tFirF+F_q-F#6'-F\\p6%F^p-F#6%FarFhnFcpFjpF\\qFdrF\\qF^oF_q-F#6'-F\\p6%
+F^p-F#6%FcpFhnFarFjpF\\qFenF\\qFisF_q-F#6&-F\\p6%F^p-F#6%FgpFhnFatFjpF
+\\q-F#6#-Fgr6%F^oFatFirF+F+F+F+" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 214 
+53 "These coefficients where calculated in the woksheet  " }{HYPERLNK 
+17 "0Derivadas3" 1 "0Derivadas3.mws" "" }{TEXT 214 311 " . They depend
+end on L (the distance between the two points of impact of the period \+
+2 orbit) and on k[0] and k[1] (and its derivatives),  the curvature ra
+dius at these points. In this worksheet we simplify the expressions al
+ready obtained and indentify the dependence on the curvature radius an
+d is derivatives." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "restart
+:" }}}{PARA 0 "" 0 "" {TEXT 214 0 "" }}{SECT 0 {PARA 3 "" 0 "" {TEXT 
+215 11 "First order" }}{PARA 0 "" 0 "" {TEXT 214 59 "The first order (
+linear) coefficients are the entries of   " }{XPPEDIT 18 0 "Typesettin
+g:-mrow(Typesetting:-mi(\"\"), Typesetting:-mrow(Typesetting:-msup(Typ
+esetting:-mi(\"DT\", italic = \"true\", mathvariant = \"italic\"), Typ
+esetting:-mn(\"2\", mathvariant = \"normal\"), superscriptshift = \"0
+\")), Typesetting:-mi(\"\"));" "-I%mrowG6#/I+modulenameG6\"I,Typesetti
+ngGI(_syslibGF'6%-I#miGF$6#Q!F'-F#6#-I%msupGF$6%-F,6%Q#DTF'/%'italicGQ
+%trueF'/%,mathvariantGQ'italicF'-I#mnGF$6$Q\"2F'/F;Q'normalF'/%1supers
+criptshiftGQ\"0F'F+" }{TEXT 214 46 "at (0,0)  and depend only on L, k[
+0] and k[1]." }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 110 "a[1,0] := (
+k[1]*sin(L)-cos(L))*(k[0]*sin(L)-cos(L))+sin(L)*(k[1]*k[0]*sin(L)-k[1]
+*cos(L)-sin(L)-k[0]*cos(L));\n" }{MPLTEXT 1 0 41 "a[0,1] := 2*sin(L)*(
+k[1]*sin(L)-cos(L));\n" }{MPLTEXT 1 0 86 "b[1,0] := (2*(k[0]*sin(L)-co
+s(L)))*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L));\n" }{MPLTEXT
+ 1 0 109 "b[0,1] := (k[1]*sin(L)-cos(L))*(k[0]*sin(L)-cos(L))+sin(L)*(
+k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L));" }}}{PARA 0 "" 0 "" 
+{TEXT 214 0 "" }}{PARA 0 "" 0 "" {TEXT 214 0 "" }}}{SECT 1 {PARA 3 "" 
+0 "" {TEXT 215 12 "Second order" }}{PARA 209 "" 0 "" {TEXT 210 119 "Th
+e second order coefficients depend on L, k[0] , k[1] and linearly on D
+(k)(0) and D(k)(s[1]) , they can be written as\n" }}{PARA 210 "" 0 "" 
+{TEXT 210 27 "A0*D(k)(0) + A1*D(k)(s[1]) " }}{PARA 0 "" 0 "" {TEXT 
+214 42 "where A0 and Ai1depend on L,k[0] and k[1]." }}{SECT 0 {PARA 4 
+"" 0 "" {TEXT 216 6 "a[2,0]" }}{PARA 0 "" 0 "" {TEXT 214 0 "" }}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 9 "restart:\n" }{MPLTEXT 1 0 
+244 "a[2,0] := (1/2)*(D(k))(s[1])*sin(L)*(k[0]*sin(L)-cos(L))^2+(1/2)*
+(D(k))(0)*sin(L)*(k[1]*sin(L)-cos(L))+(1/2*((D(k))(s[1])*(k[0]*sin(L)-
+cos(L))*k[0]*sin(L)+k[1]*(D(k))(0)*sin(L)-(D(k))(s[1])*(k[0]*sin(L)-co
+s(L))*cos(L)-(D(k))(0)*cos(L)))*sin(L):" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 27 "X:=coeff(a[2,0],(D)(k)(0));" }}{PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 47 "A0:=sin(L)*(k[1]*sin(L)-cos(L));simplify(A0-X);" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "*&-I$sinG6$%*protectedGI(_syslibG6\"6#I
+\"LGF(\"\"\",&*&&I\"kGF(6#F+F+F#F+F+-I$cosGF%F)!\"\"F+" }}{PARA 11 "" 
+1 "" {XPPMATH 20 "*&-I$sinG6$%*protectedGI(_syslibG6\"6#I\"LGF(\"\"\",
+&*&&I\"kGF(6#F+F+F#F+F+-I$cosGF%F)!\"\"F+" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 30 "X:=co
+eff(a[2,0],(D)(k)(s[1]));" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 5 "A1 :=" 
+}{MPLTEXT 1 0 56 "-sin(L)*(cos(L)^2*k[0]^2+sin(2*L)*k[0]-cos(L)^2-k[0]
+^2);" }{MPLTEXT 1 0 16 " simplify(A1-X);" }}{PARA 11 "" 1 "" {XPPMATH 
+20 ",&*&-I$sinG6$%*protectedGI(_syslibG6\"6#I\"LGF)\"\"\",&*&&I\"kGF)6
+#\"\"!F,F$F,F,-I$cosGF&F*!\"\"\"\"##F,F6*&,&*(F-F,F/F,F$F,F,*&F-F,F3F,
+F5F,F$F,F7" }}{PARA 11 "" 1 "" {XPPMATH 20 ",$*&-I$sinG6$%*protectedGI
+(_syslibG6\"6#I\"LGF)\"\"\",**&-I$cosGF&F*\"\"#&I\"kGF)6#\"\"!F1F,*&-F
+%6#,$F+F1F,F2F,F,*$F/F1!\"\"*$F2F1F;F,F;" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 46 "simplify(A1*(D
+)(k)(s[1])+A0*(D)(k)(0)-a[2,0]);" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 39 
+"a[2,0]:= A1*(D)(k)(s[1])+A0*(D)(k)(0);\n" }{MPLTEXT 1 0 116 "a[2,0]:=
+-sin(L)*(cos(L)^2*k[0]^2+sin(2*L)*k[0]-cos(L)^2-k[0]^2)*(D(k))(s[1])+(
+D(k))(0)*sin(L)*(k[1]*sin(L)-cos(L)):\n" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "\"\"!" }}{PARA 11 "" 1 "" {XPPMATH 20 ",&*(-I$sinG6$%*protectedGI(
+_syslibG6\"6#I\"LGF)\"\"\",**&-I$cosGF&F*\"\"#&I\"kGF)6#\"\"!F1F,*&-F%
+6#,$F+F1F,F2F,F,*$F/F1!\"\"*$F2F1F;F,--I\"DGF&6#F36#&I\"sGF)6#F,F,F;*(
+-F>F4F,F$F,,&*&&F3FDF,F$F,F,F/F;F,F," }}}{PARA 0 "" 0 "" {TEXT 214 0 "
+" }}}{SECT 0 {PARA 4 "" 0 "" {TEXT 216 6 "a[1,1]" }}{EXCHG {PARA 0 "> 
+" 0 "" {MPLTEXT 1 0 8 "restart:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 0 "" }{TEXT 214 0 "" }{MPLTEXT 1 0 116 "a[1,1] := (D(k))(s[1])*sin
+(L)^2*(k[0]*sin(L)-cos(L))+((D(k))(s[1])*sin(L)^2*k[0]-(D(k))(s[1])*si
+n(L)*cos(L))*sin(L):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 28 "A0:
+=coeff(a[1,1],(D)(k)(0));" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 31 "X:=coeff(a[1,1],(D)(k)(s[1])
+);\n" }{MPLTEXT 1 0 51 "A1:=2*sin(L)^2*(k[0]*sin(L)-cos(L));simplify(A
+1-X);" }}{PARA 11 "" 1 "" {XPPMATH 20 ",&*&-I$sinG6$%*protectedGI(_sys
+libG6\"6#I\"LGF)\"\"#,&*&&I\"kGF)6#\"\"!\"\"\"F$F3F3-I$cosGF&F*!\"\"F3
+F3*&,&*&F$F,F/F3F3*&F$F3F4F3F6F3F$F3F3" }}{PARA 11 "" 1 "" {XPPMATH 20
+ ",$*&-I$sinG6$%*protectedGI(_syslibG6\"6#I\"LGF)\"\"#,&*&&I\"kGF)6#\"
+\"!\"\"\"F$F3F3-I$cosGF&F*!\"\"F3F," }}{PARA 11 "" 1 "" {XPPMATH 20 "
+\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 33 "simplify(A1*(D)(k)
+(s[1])-a[1,1]);" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 27 "a[1,1]:= A1*(D)(
+k)(s[1]) ;\n" }{MPLTEXT 1 0 54 "a[1,1]:= 2*(D(k))(s[1])*sin(L)^2*(k[0]
+*sin(L)-cos(L)):" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}{PARA 11 ""
+ 1 "" {XPPMATH 20 ",$*(--I\"DG6$%*protectedGI(_syslibG6\"6#I\"kGF*6#&I
+\"sGF*6#\"\"\"F1-I$sinGF'6#I\"LGF*\"\"#,&*&&F,6#\"\"!F1F2F1F1-I$cosGF'
+F4!\"\"F1F6" }}}}{SECT 0 {PARA 4 "" 0 "" {TEXT 216 6 "a[0,2]" }}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }{TEXT 214 0 "" }{MPLTEXT 
+1 0 9 "restart:\n" }{MPLTEXT 1 0 32 "a[0,2] := (D(k))(s[1])*sin(L)^3:"
+ }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 28 "A0:=coeff(a[0,2],(D)(k)(
+0));" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}{EXCHG {PARA 0 "> " 0 
+"" {MPLTEXT 1 0 30 "X:=coeff(a[0,2],(D)(k)(s[1])):" }}{PARA 0 "> " 0 "
+" {MPLTEXT 1 0 13 "A1:=sin(L)^3;" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 15 
+"simplify(A1-X);" }}{PARA 11 "" 1 "" {XPPMATH 20 "*$-I$sinG6$%*protect
+edGI(_syslibG6\"6#I\"LGF(\"\"$" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!"
+ }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 33 "simplify(A1*(D)(k)(s[1])
+-a[0,2]);" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 25 "a[0,2]:= A1*(D)(k)(s[1
+]);" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 30 "a[0,2] := sin(L)^3*D(k)(s[1]
+):" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "*&--I\"DG6$%*protectedGI(_syslibG6\"6#I\"kGF)6#&I\"sGF)6#
+\"\"\"F0-I$sinGF&6#I\"LGF)\"\"$" }}}}{SECT 0 {PARA 4 "" 0 "" {TEXT 
+216 6 "b[2,0]" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "restart:" }}
+}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 593 "b[2,0] := (1/2)*(D(k))(0)*
+sin(L)^2*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))^2+(1/2*((D(
+k))(0)*(k[1]*sin(L)-cos(L))*k[1]*sin(L)+k[0]*(D(k))(s[1])*sin(L)-(D(k)
+)(0)*(k[1]*sin(L)-cos(L))*cos(L)-(D(k))(s[1])*cos(L)))*(k[0]*sin(L)-co
+s(L))^2+((D(k))(0)*sin(L)^2*k[1]-(D(k))(0)*sin(L)*cos(L))*(k[0]*sin(L)
+-cos(L))*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))+(1/2*((D(k)
+)(s[1])*(k[0]*sin(L)-cos(L))*k[0]*sin(L)+k[1]*(D(k))(0)*sin(L)-(D(k))(
+s[1])*(k[0]*sin(L)-cos(L))*cos(L)-(D(k))(0)*cos(L)))*(k[0]*sin(L)-cos(
+L))+(1/2)*(D(k))(0)*sin(L)*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*c
+os(L)):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 41 "A1:=simplify(coe
+ff(b[2,0],(D)(k)(s[1])));" }}{PARA 11 "" 1 "" {XPPMATH 20 ",.*(-I$sinG
+6$%*protectedGI(_syslibG6\"6#I\"LGF)\"\"\"-I$cosGF&F*\"\"#&I\"kGF)6#\"
+\"!\"\"$!\"\"*&F-F4F0F/F4*(F-F/F0F,F$F,F4*&F$F,F0F4F,*$F-F4F5*&F-F,F0F
+/!\"$" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 27 "X:=coeff(b[2,0],(D
+)(k)(0));" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 429 "A0:=2*cos(L)^4*k[0]^2
+*k[1]^2+4*sin(L)*cos(L)^3*k[0]^2*k[1]+4*sin(L)*cos(L)^3*k[0]*k[1]^2-2*
+cos(L)^4*k[0]^2-8*cos(L)^4*k[0]*k[1]-2*cos(L)^4*k[1]^2-4*cos(L)^2*k[0]
+^2*k[1]^2-4*sin(L)*cos(L)^3*k[0]-4*sin(L)*cos(L)^3*k[1]-4*cos(L)*k[0]^
+2*k[1]*sin(L)-4*cos(L)*k[0]*k[1]^2*sin(L)+2*cos(L)^4+2*cos(L)^2*k[0]^2
++9*cos(L)^2*k[0]*k[1]+2*cos(L)^2*k[1]^2+2*k[0]^2*k[1]^2+sin(L)*cos(L)*
+k[0]+sin(L)*cos(L)*k[1]-cos(L)^2-k[0]*k[1];simplify(A0-X);" }}{PARA 11
+ "" 1 "" {XPPMATH 20 ",,*&-I$sinG6$%*protectedGI(_syslibG6\"6#I\"LGF)
+\"\"#,**(&I\"kGF)6#\"\"\"F2&F06#\"\"!F2F$F2F2*&F/F2-I$cosGF&F*F2!\"\"F
+$F9*&F3F2F7F2F9F,#F2F,*&,&*(,&*&F/F2F$F2F2F7F9F2F/F2F$F2F2*&F?F2F7F2F9
+F2,&*&F3F2F$F2F2F7F9F,F;*(,&*&F$F,F/F2F2*&F$F2F7F2F9F2FBF2F-F2F2*&F?F2
+FBF2F;*&F$F2F-F2F;" }}{PARA 11 "" 1 "" {XPPMATH 20 ",J*(-I$cosG6$%*pro
+tectedGI(_syslibG6\"6#I\"LGF)\"\"%&I\"kGF)6#\"\"!\"\"#&F.6#\"\"\"F1F1*
+*-I$sinGF&F*F4F$\"\"$F-F1F2F4F,**F6F4F$F8F-F4F2F1F,*&F$F,F-F1!\"#*(F$F
+,F-F4F2F4!\")*&F$F,F2F1F;*(F$F1F-F1F2F1!\"%*(F6F4F$F8F-F4F@*(F6F4F$F8F
+2F4F@**F$F4F-F1F2F4F6F4F@**F$F4F-F4F2F1F6F4F@*$F$F,F1*&F$F1F-F1F1*(F$F
+1F-F4F2F4\"\"**&F$F1F2F1F1*&F-F1F2F1F1*(F6F4F$F4F-F4F4*(F6F4F$F4F2F4F4
+*$F$F1!\"\"*&F-F4F2F4FN" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 50 "simplify(b[2,0]-A0*((D)(k)(0
+))-A1*((D)(k)(s[1])));" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 42 "b[2,0]:= \+
+A0*((D)(k)(0))+A1*((D)(k)(s[1]));" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 
+551 "b[2,0] := (2*cos(L)^4*k[0]^2*k[1]^2+4*sin(L)*cos(L)^3*k[0]^2*k[1]
++4*sin(L)*cos(L)^3*k[0]*k[1]^2-2*cos(L)^4*k[0]^2-8*cos(L)^4*k[0]*k[1]-
+2*cos(L)^4*k[1]^2-4*cos(L)^2*k[0]^2*k[1]^2-4*sin(L)*cos(L)^3*k[0]-4*si
+n(L)*cos(L)^3*k[1]-4*cos(L)*k[0]^2*k[1]*sin(L)-4*cos(L)*k[0]*k[1]^2*si
+n(L)+2*cos(L)^4+2*cos(L)^2*k[0]^2+9*cos(L)^2*k[0]*k[1]+2*cos(L)^2*k[1]
+^2+2*k[0]^2*k[1]^2+sin(L)*cos(L)*k[0]+sin(L)*cos(L)*k[1]-cos(L)^2-k[0]
+*k[1])*(D(k))(0)+(-sin(L)*cos(L)^2*k[0]^3+3*cos(L)^3*k[0]^2+3*cos(L)^2
+*k[0]*sin(L)+sin(L)*k[0]^3-cos(L)^3-3*cos(L)*k[0]^2)*(D(k))(s[1]):" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}{PARA 11 "" 1 "" {XPPMATH 20 ",
+&*&,J*(-I$cosG6$%*protectedGI(_syslibG6\"6#I\"LGF+\"\"%&I\"kGF+6#\"\"!
+\"\"#&F06#\"\"\"F3F3**-I$sinGF(F,F6F&\"\"$F/F3F4F6F.**F8F6F&F:F/F6F4F3
+F.*&F&F.F/F3!\"#*(F&F.F/F6F4F6!\")*&F&F.F4F3F=*(F&F3F/F3F4F3!\"%*(F8F6
+F&F:F/F6FB*(F8F6F&F:F4F6FB**F&F6F/F3F4F6F8F6FB**F&F6F/F6F4F3F8F6FB*$F&
+F.F3*&F&F3F/F3F3*(F&F3F/F6F4F6\"\"**&F&F3F4F3F3*&F/F3F4F3F3*(F8F6F&F6F
+/F6F6*(F8F6F&F6F4F6F6*$F&F3!\"\"*&F/F6F4F6FPF6--I\"DGF(6#F0F1F6F6*&,.*
+(F8F6F&F3F/F:FP*&F&F:F/F3F:*(F&F3F/F6F8F6F:*&F8F6F/F:F6*$F&F:FP*&F&F6F
+/F3!\"$F6-FS6#&I\"sGF+F5F6F6" }}}}{SECT 1 {PARA 4 "" 0 "" {TEXT 216 6 
+"b[1,1]" }}{PARA 0 "" 0 "" {TEXT 214 0 "" }}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 9 "restart:\n" }{MPLTEXT 1 0 532 "b[1,1] := (D(k))(0)*sin
+(L)^2*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))*(k[1]*sin(L)-c
+os(L))+((D(k))(0)*(k[1]*sin(L)-cos(L))*k[1]*sin(L)+k[0]*(D(k))(s[1])*s
+in(L)-(D(k))(0)*(k[1]*sin(L)-cos(L))*cos(L)-(D(k))(s[1])*cos(L))*(k[0]
+*sin(L)-cos(L))*sin(L)+((D(k))(0)*sin(L)^2*k[1]-(D(k))(0)*sin(L)*cos(L
+))*(k[0]*sin(L)-cos(L))*(k[1]*sin(L)-cos(L))+((D(k))(0)*sin(L)^2*k[1]-
+(D(k))(0)*sin(L)*cos(L))*sin(L)*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k
+[0]*cos(L))+((D(k))(s[1])*sin(L)^2*k[0]-(D(k))(s[1])*sin(L)*cos(L))*(k
+[0]*sin(L)-cos(L)):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 27 "X:=c
+oeff(b[1,1],(D)(k)(0)):" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 219 "A0:= -2
+*sin(L)*(2*sin(L)*cos(L)^2*k[0]*k[1]^2-4*cos(L)^3*k[0]*k[1]-2*cos(L)^3
+*k[1]^2-2*sin(L)*cos(L)^2*k[0]-4*sin(L)*cos(L)^2*k[1]-2*k[0]*k[1]^2*si
+n(L)+2*cos(L)^3+4*cos(L)*k[0]*k[1]+2*cos(L)*k[1]^2+k[1]*sin(L)-cos(L))
+;\n" }{MPLTEXT 1 0 15 "simplify(X-A0);" }}{PARA 11 "" 1 "" {XPPMATH 20
+ ",$*&-I$sinG6$%*protectedGI(_syslibG6\"6#I\"LGF)\"\"\",8**F$F,-I$cosG
+F&F*\"\"#&I\"kGF)6#\"\"!F,&F36#F,F1F1*(F/\"\"$F2F,F6F,!\"%*&F/F9F6F1!
+\"#*(F$F,F/F1F2F,F<*(F$F,F/F1F6F,F:*(F2F,F6F1F$F,F<*$F/F9F1*(F/F,F2F,F
+6F,\"\"%*&F/F,F6F1F1*&F6F,F$F,F,F/!\"\"F,F<" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 41 "A1:=s
+implify(coeff(b[1,1],(D)(k)(s[1])));" }}{PARA 11 "" 1 "" {XPPMATH 20 "
+,$*&-I$sinG6$%*protectedGI(_syslibG6\"6#I\"LGF)\"\"\",**&-I$cosGF&F*\"
+\"#&I\"kGF)6#\"\"!F1F,*(F$F,F/F,F2F,F1*$F/F1!\"\"*$F2F1F8F,!\"#" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 46 "simplify(A0*(D)(k)(0)+A1*(D)
+(k)(s[1])-b[1,1]);" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 37 "b[1,1]:=A0*(D
+)(k)(0)+A1*(D)(k)(s[1]);" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 310 "b[1,1]
+ := -2*sin(L)*(2*sin(L)*cos(L)^2*k[0]*k[1]^2-4*cos(L)^3*k[0]*k[1]-2*co
+s(L)^3*k[1]^2-2*sin(L)*cos(L)^2*k[0]-4*sin(L)*cos(L)^2*k[1]-2*k[0]*k[1
+]^2*sin(L)+2*cos(L)^3+4*cos(L)*k[0]*k[1]+2*cos(L)*k[1]^2+k[1]*sin(L)-c
+os(L))*(D(k))(0)-2*sin(L)*(cos(L)^2*k[0]^2+2*sin(L)*cos(L)*k[0]-cos(L)
+^2-k[0]^2)*(D(k))(s[1]):" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}
+{PARA 11 "" 1 "" {XPPMATH 20 ",&*(-I$sinG6$%*protectedGI(_syslibG6\"6#
+I\"LGF)\"\"\",8**F$F,-I$cosGF&F*\"\"#&I\"kGF)6#\"\"!F,&F36#F,F1F1*(F/
+\"\"$F2F,F6F,!\"%*&F/F9F6F1!\"#*(F$F,F/F1F2F,F<*(F$F,F/F1F6F,F:*(F2F,F
+6F1F$F,F<*$F/F9F1*(F/F,F2F,F6F,\"\"%*&F/F,F6F1F1*&F6F,F$F,F,F/!\"\"F,-
+-I\"DGF&6#F3F4F,F<*(F$F,,**&F/F1F2F1F,*(F$F,F/F,F2F,F1*$F/F1FE*$F2F1FE
+F,-FG6#&I\"sGF)F7F,F<" }}}}{SECT 1 {PARA 4 "" 0 "" {TEXT 216 6 "b[0,2]
+" }}{PARA 0 "" 0 "" {TEXT 214 0 "" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT
+ 1 0 9 "restart:\n" }{MPLTEXT 1 0 328 "b[0,2] := (1/2)*(D(k))(0)*sin(L
+)^2*(k[1]*sin(L)-cos(L))^2+(1/2*((D(k))(0)*(k[1]*sin(L)-cos(L))*k[1]*s
+in(L)+k[0]*(D(k))(s[1])*sin(L)-(D(k))(0)*(k[1]*sin(L)-cos(L))*cos(L)-(
+D(k))(s[1])*cos(L)))*sin(L)^2+((D(k))(0)*sin(L)^2*k[1]-(D(k))(0)*sin(L
+)*cos(L))*sin(L)*(k[1]*sin(L)-cos(L))+(1/2)*(D(k))(s[1])*sin(L)^2*(k[0
+]*sin(L)-cos(L)):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 38 "A0:=si
+mplify(coeff(b[0,2],(D)(k)(0)));" }}{PARA 11 "" 1 "" {XPPMATH 20 ",$*&
+-I$sinG6$%*protectedGI(_syslibG6\"6#I\"LGF)\"\"#,**&-I$cosGF&F*F,&I\"k
+GF)6#\"\"\"F,F4*(F$F4F/F4F1F4F,*$F/F,!\"\"*$F1F,F7F4!\"#" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 41 "A1:=simplify(coeff(b[0,2],(D)(k)(s[
+1])));" }}{PARA 11 "" 1 "" {XPPMATH 20 "*&,&*&&I\"kG6\"6#\"\"!\"\"\"-I
+$sinG6$%*protectedGI(_syslibGF'6#I\"LGF'F*F*-I$cosGF-F0!\"\"F*F+\"\"#"
+ }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 46 "simplify(A0*(D)(k)(0)+A1
+*(D)(k)(s[1])-b[0,2]);" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 37 "b[0,2]:=A
+0*(D)(k)(0)+A1*(D)(k)(s[1]);" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 130 "b[
+0,2] := -2*sin(L)^2*(cos(L)^2*k[1]^2+2*sin(L)*cos(L)*k[1]-cos(L)^2-k[1
+]^2)*(D(k))(0)+(D(k))(s[1])*sin(L)^2*(k[0]*sin(L)-cos(L)):" }}{PARA 11
+ "" 1 "" {XPPMATH 20 "\"\"!" }}{PARA 11 "" 1 "" {XPPMATH 20 ",&*(-I$si
+nG6$%*protectedGI(_syslibG6\"6#I\"LGF)\"\"#,**&-I$cosGF&F*F,&I\"kGF)6#
+\"\"\"F,F4*(F$F4F/F4F1F4F,*$F/F,!\"\"*$F1F,F7F4--I\"DGF&6#F26#\"\"!F4!
+\"#*(-F:6#&I\"sGF)F3F4F$F,,&*&&F2F=F4F$F4F4F/F7F4F4" }}}}}{SECT 0 
+{PARA 3 "" 0 "" {TEXT 215 11 "Third order" }}{PARA 0 "" 0 "" {TEXT 
+214 0 "" }}{PARA 0 "" 0 "" {TEXT 214 13 "Depend on L, " }{XPPEDIT 18 0
+ "Typesetting:-mrow(Typesetting:-msub(Typesetting:-mi(\"k\", italic = \+
+\"true\", mathvariant = \"italic\"), Typesetting:-mrow(Typesetting:-mn
+(\"0\", mathvariant = \"normal\")), subscriptshift = \"0\"));" "-I%mro
+wG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6#-I%msubGF$6%-I#miGF$6
+%Q\"kF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'-F#6#-I#mnGF$6$Q\"0F
+'/F6Q'normalF'/%/subscriptshiftGF=" }{TEXT 214 2 ", " }{XPPEDIT 18 0 "
+Typesetting:-mrow(Typesetting:-msub(Typesetting:-mi(\"k\", italic = \"
+true\", mathvariant = \"italic\"), Typesetting:-mrow(Typesetting:-mn(
+\"1\", mathvariant = \"normal\")), subscriptshift = \"0\"));" "-I%mrow
+G6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6#-I%msubGF$6%-I#miGF$6%
+Q\"kF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'-F#6#-I#mnGF$6$Q\"1F'
+/F6Q'normalF'/%/subscriptshiftGQ\"0F'" }{TEXT 214 45 ", with quadratic
+ dependence on  k'(0) and k'(" }{XPPEDIT 18 0 "Typesetting:-mrow(Types
+etting:-msub(Typesetting:-mi(\"s\", italic = \"true\", mathvariant = \+
+\"italic\"), Typesetting:-mrow(Typesetting:-mn(\"1\", mathvariant = \"
+normal\")), subscriptshift = \"0\"));" "-I%mrowG6#/I+modulenameG6\"I,T
+ypesettingGI(_syslibGF'6#-I%msubGF$6%-I#miGF$6%Q\"sF'/%'italicGQ%trueF
+'/%,mathvariantGQ'italicF'-F#6#-I#mnGF$6$Q\"1F'/F6Q'normalF'/%/subscri
+ptshiftGQ\"0F'" }{TEXT 214 42 ") and linear dependence on k''(0) and k
+''(" }{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-msub(Typesetting:-
+mi(\"s\", italic = \"true\", mathvariant = \"italic\"), Typesetting:-m
+row(Typesetting:-mn(\"1\", mathvariant = \"normal\")), subscriptshift \+
+= \"0\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6#-I
+%msubGF$6%-I#miGF$6%Q\"sF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'-
+F#6#-I#mnGF$6$Q\"1F'/F6Q'normalF'/%/subscriptshiftGQ\"0F'" }{TEXT 214 
+28 ") . They can be written as  " }}{PARA 0 "" 0 "" {TEXT 214 0 "" }
+{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetting:-m
+row(Typesetting:-mi(\"X0\", italic = \"true\", mathvariant = \"italic
+\"), Typesetting:-mo(\"+\", mathvariant = \"normal\", fence = \"false
+\", separator = \"false\", stretchy = \"false\", symmetric = \"false\"
+, largeop = \"false\", movablelimits = \"false\", accent = \"false\", \+
+lspace = \"0.2222222em\", rspace = \"0.2222222em\"), Typesetting:-mrow
+(Typesetting:-mi(\"A00\", italic = \"true\", mathvariant = \"italic\")
+, Typesetting:-mo(\"&ApplyFunction;\", mathvariant = \"normal\", fence
+ = \"false\", separator = \"false\", stretchy = \"false\", symmetric =
+ \"false\", largeop = \"false\", movablelimits = \"false\", accent = \+
+\"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-msup(
+Typesetting:-mfenced(Typesetting:-mrow(Typesetting:-mi(\"\"), Typesett
+ing:-mrow(Typesetting:-mi(\"\"), Typesetting:-mrow(Typesetting:-mi(\"D
+\", italic = \"false\", mathvariant = \"normal\"), Typesetting:-mo(\"&
+ApplyFunction;\", mathvariant = \"normal\", fence = \"false\", separat
+or = \"false\", stretchy = \"false\", symmetric = \"false\", largeop =
+ \"false\", movablelimits = \"false\", accent = \"false\", lspace = \"
+0.0em\", rspace = \"0.0em\"), Typesetting:-mfenced(Typesetting:-mrow(T
+ypesetting:-mi(\"k\", italic = \"true\", mathvariant = \"italic\")), m
+athvariant = \"normal\")), Typesetting:-mo(\"&ApplyFunction;\", mathva
+riant = \"normal\", fence = \"false\", separator = \"false\", stretchy
+ = \"false\", symmetric = \"false\", largeop = \"false\", movablelimit
+s = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0e
+m\"), Typesetting:-mfenced(Typesetting:-mrow(Typesetting:-mn(\"0\", ma
+thvariant = \"normal\")), mathvariant = \"normal\")), Typesetting:-mi(
+\"\")), mathvariant = \"normal\"), Typesetting:-mn(\"2\", mathvariant \+
+= \"normal\"), superscriptshift = \"0\")), Typesetting:-mo(\"+\", math
+variant = \"normal\", fence = \"false\", separator = \"false\", stretc
+hy = \"false\", symmetric = \"false\", largeop = \"false\", movablelim
+its = \"false\", accent = \"false\", lspace = \"0.2222222em\", rspace \+
+= \"0.2222222em\"), Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetti
+ng:-mrow(Typesetting:-mi(\"A01\", italic = \"true\", mathvariant = \"i
+talic\"), Typesetting:-mo(\"&ApplyFunction;\", mathvariant = \"normal
+\", fence = \"false\", separator = \"false\", stretchy = \"false\", sy
+mmetric = \"false\", largeop = \"false\", movablelimits = \"false\", a
+ccent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesettin
+g:-mfenced(Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetting:-mrow(
+Typesetting:-mi(\"\"), Typesetting:-mrow(Typesetting:-mi(\"D\", italic
+ = \"false\", mathvariant = \"normal\"), Typesetting:-mo(\"&ApplyFunct
+ion;\", mathvariant = \"normal\", fence = \"false\", separator = \"fal
+se\", stretchy = \"false\", symmetric = \"false\", largeop = \"false\"
+, movablelimits = \"false\", accent = \"false\", lspace = \"0.0em\", r
+space = \"0.0em\"), Typesetting:-mfenced(Typesetting:-mrow(Typesetting
+:-mi(\"k\", italic = \"true\", mathvariant = \"italic\")), mathvariant
+ = \"normal\")), Typesetting:-mo(\"&ApplyFunction;\", mathvariant = \"
+normal\", fence = \"false\", separator = \"false\", stretchy = \"false
+\", symmetric = \"false\", largeop = \"false\", movablelimits = \"fals
+e\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Type
+setting:-mfenced(Typesetting:-mrow(Typesetting:-mn(\"0\", mathvariant \+
+= \"normal\")), mathvariant = \"normal\")), Typesetting:-mi(\"\")), ma
+thvariant = \"normal\")), Typesetting:-mo(\"&ApplyFunction;\", mathvar
+iant = \"normal\", fence = \"false\", separator = \"false\", stretchy \+
+= \"false\", symmetric = \"false\", largeop = \"false\", movablelimits
+ = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em
+\"), Typesetting:-mfenced(Typesetting:-mrow(Typesetting:-mi(\"\"), Typ
+esetting:-mrow(Typesetting:-mi(\"\"), Typesetting:-mrow(Typesetting:-m
+i(\"D\", italic = \"false\", mathvariant = \"normal\"), Typesetting:-m
+o(\"&ApplyFunction;\", mathvariant = \"normal\", fence = \"false\", se
+parator = \"false\", stretchy = \"false\", symmetric = \"false\", larg
+eop = \"false\", movablelimits = \"false\", accent = \"false\", lspace
+ = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mfenced(Typesetting:-m
+row(Typesetting:-mi(\"k\", italic = \"true\", mathvariant = \"italic\"
+)), mathvariant = \"normal\")), Typesetting:-mo(\"&ApplyFunction;\", m
+athvariant = \"normal\", fence = \"false\", separator = \"false\", str
+etchy = \"false\", symmetric = \"false\", largeop = \"false\", movable
+limits = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \+
+\"0.0em\"), Typesetting:-mfenced(Typesetting:-mrow(Typesetting:-msub(T
+ypesetting:-mi(\"s\", italic = \"true\", mathvariant = \"italic\"), Ty
+pesetting:-mrow(Typesetting:-mn(\"1\", mathvariant = \"normal\")), sub
+scriptshift = \"0\")), mathvariant = \"normal\")), Typesetting:-mi(\"
+\")), mathvariant = \"normal\")), Typesetting:-mo(\"+\", mathvariant =
+ \"normal\", fence = \"false\", separator = \"false\", stretchy = \"fa
+lse\", symmetric = \"false\", largeop = \"false\", movablelimits = \"f
+alse\", accent = \"false\", lspace = \"0.2222222em\", rspace = \"0.222
+2222em\"), Typesetting:-mrow(Typesetting:-mi(\"A11\", italic = \"true
+\", mathvariant = \"italic\"), Typesetting:-mo(\"&ApplyFunction;\", ma
+thvariant = \"normal\", fence = \"false\", separator = \"false\", stre
+tchy = \"false\", symmetric = \"false\", largeop = \"false\", movablel
+imits = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"
+0.0em\"), Typesetting:-msup(Typesetting:-mfenced(Typesetting:-mrow(Typ
+esetting:-mi(\"\"), Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetti
+ng:-mrow(Typesetting:-mi(\"D\", italic = \"false\", mathvariant = \"no
+rmal\"), Typesetting:-mo(\"&ApplyFunction;\", mathvariant = \"normal\"
+, fence = \"false\", separator = \"false\", stretchy = \"false\", symm
+etric = \"false\", largeop = \"false\", movablelimits = \"false\", acc
+ent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:
+-mfenced(Typesetting:-mrow(Typesetting:-mi(\"k\", italic = \"true\", m
+athvariant = \"italic\")), mathvariant = \"normal\")), Typesetting:-mo
+(\"&ApplyFunction;\", mathvariant = \"normal\", fence = \"false\", sep
+arator = \"false\", stretchy = \"false\", symmetric = \"false\", large
+op = \"false\", movablelimits = \"false\", accent = \"false\", lspace \+
+= \"0.0em\", rspace = \"0.0em\"), Typesetting:-mfenced(Typesetting:-mr
+ow(Typesetting:-msub(Typesetting:-mi(\"s\", italic = \"true\", mathvar
+iant = \"italic\"), Typesetting:-mrow(Typesetting:-mn(\"1\", mathvaria
+nt = \"normal\")), subscriptshift = \"0\")), mathvariant = \"normal\")
+), Typesetting:-mi(\"\")), mathvariant = \"normal\"), Typesetting:-mn(
+\"2\", mathvariant = \"normal\"), superscriptshift = \"0\")), Typesett
+ing:-mo(\"+\", mathvariant = \"normal\", fence = \"false\", separator \+
+= \"false\", stretchy = \"false\", symmetric = \"false\", largeop = \"
+false\", movablelimits = \"false\", accent = \"false\", lspace = \"0.2
+222222em\", rspace = \"0.2222222em\"), Typesetting:-mrow(Typesetting:-
+mi(\"\"), Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetting:-mrow(T
+ypesetting:-mi(\"AA0\", italic = \"true\", mathvariant = \"italic\"), \+
+Typesetting:-mo(\"&ApplyFunction;\", mathvariant = \"normal\", fence =
+ \"false\", separator = \"false\", stretchy = \"false\", symmetric = \+
+\"false\", largeop = \"false\", movablelimits = \"false\", accent = \"
+false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mfenced
+(Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetting:-mrow(Typesettin
+g:-msup(Typesetting:-mi(\"D\", italic = \"false\", mathvariant = \"nor
+mal\"), Typesetting:-mn(\"2\", mathvariant = \"normal\"), superscripts
+hift = \"0\")), Typesetting:-mi(\"\")), mathvariant = \"normal\")), Ty
+pesetting:-mo(\"&ApplyFunction;\", mathvariant = \"normal\", fence = \+
+\"false\", separator = \"false\", stretchy = \"false\", symmetric = \"
+false\", largeop = \"false\", movablelimits = \"false\", accent = \"fa
+lse\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mfenced(T
+ypesetting:-mrow(Typesetting:-mi(\"k\", italic = \"true\", mathvariant
+ = \"italic\")), mathvariant = \"normal\")), Typesetting:-mo(\"&ApplyF
+unction;\", mathvariant = \"normal\", fence = \"false\", separator = \+
+\"false\", stretchy = \"false\", symmetric = \"false\", largeop = \"fa
+lse\", movablelimits = \"false\", accent = \"false\", lspace = \"0.0em
+\", rspace = \"0.0em\"), Typesetting:-mfenced(Typesetting:-mrow(Typese
+tting:-mn(\"0\", mathvariant = \"normal\")), mathvariant = \"normal\")
+), Typesetting:-mo(\"+\", mathvariant = \"normal\", fence = \"false\",
+ separator = \"false\", stretchy = \"false\", symmetric = \"false\", l
+argeop = \"false\", movablelimits = \"false\", accent = \"false\", lsp
+ace = \"0.2222222em\", rspace = \"0.2222222em\"), Typesetting:-mrow(Ty
+pesetting:-mi(\"\"), Typesetting:-mrow(Typesetting:-mi(\"\"), Typesett
+ing:-mrow(Typesetting:-mi(\"AA1\", italic = \"true\", mathvariant = \"
+italic\"), Typesetting:-mo(\"&ApplyFunction;\", mathvariant = \"normal
+\", fence = \"false\", separator = \"false\", stretchy = \"false\", sy
+mmetric = \"false\", largeop = \"false\", movablelimits = \"false\", a
+ccent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesettin
+g:-mfenced(Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetting:-mrow(
+Typesetting:-msup(Typesetting:-mi(\"D\", italic = \"false\", mathvaria
+nt = \"normal\"), Typesetting:-mn(\"2\", mathvariant = \"normal\"), su
+perscriptshift = \"0\")), Typesetting:-mi(\"\")), mathvariant = \"norm
+al\")), Typesetting:-mo(\"&ApplyFunction;\", mathvariant = \"normal\",
+ fence = \"false\", separator = \"false\", stretchy = \"false\", symme
+tric = \"false\", largeop = \"false\", movablelimits = \"false\", acce
+nt = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-
+mfenced(Typesetting:-mrow(Typesetting:-mi(\"k\", italic = \"true\", ma
+thvariant = \"italic\")), mathvariant = \"normal\")), Typesetting:-mo(
+\"&ApplyFunction;\", mathvariant = \"normal\", fence = \"false\", sepa
+rator = \"false\", stretchy = \"false\", symmetric = \"false\", largeo
+p = \"false\", movablelimits = \"false\", accent = \"false\", lspace =
+ \"0.0em\", rspace = \"0.0em\"), Typesetting:-mfenced(Typesetting:-mro
+w(Typesetting:-msub(Typesetting:-mi(\"s\", italic = \"true\", mathvari
+ant = \"italic\"), Typesetting:-mrow(Typesetting:-mn(\"1\", mathvarian
+t = \"normal\")), subscriptshift = \"0\")), mathvariant = \"normal\"))
+, Typesetting:-mi(\"\")), Typesetting:-mi(\"\"));" "-I%mrowG6#/I+modul
+enameG6\"I,TypesettingGI(_syslibGF'6%-I#miGF$6#Q!F'-F#6.-F,6%Q#X0F'/%'
+italicGQ%trueF'/%,mathvariantGQ'italicF'-I#moGF$6-Q\"+F'/F8Q'normalF'/
+%&fenceGQ&falseF'/%*separatorGFB/%)stretchyGFB/%*symmetricGFB/%(largeo
+pGFB/%.movablelimitsGFB/%'accentGFB/%'lspaceGQ,0.2222222emF'/%'rspaceG
+FQ-F#6%-F,6%Q$A00F'F4F7-F;6-Q0&ApplyFunction;F'F>F@FCFEFGFIFKFM/FPQ&0.
+0emF'/FSFgn-I%msupGF$6%-I(mfencedGF$6$-F#6%F+-F#6&F+-F#6%-F,6%Q\"DF'/F
+5FBF>FY-F]o6$-F#6#-F,6%Q\"kF'F4F7F>FY-F]o6$-F#6#-I#mnGF$6$Q\"0F'F>F>F+
+F>-Fep6$Q\"2F'F>/%1superscriptshiftGFgpF:-F#6&F+-F#6%-F,6%Q$A01F'F4F7F
+YF\\oFY-F]o6$-F#6%F+-F#6&F+FcoFY-F]o6$-F#6#-I%msubGF$6%-F,6%Q\"sF'F4F7
+-F#6#-Fep6$Q\"1F'F>/%/subscriptshiftGFgpF>F+F>F:-F#6%-F,6%Q$A11F'F4F7F
+Y-Fjn6%FdqFhpF[qF:-F#6&F+-F#6&F+-F#6%-F,6%Q$AA0F'F4F7FY-F]o6$-F#6%F+-F
+#6#-Fjn6%FeoFhpF[qF+F>FYFioFYF`pF:-F#6&F+-F#6&F+-F#6%-F,6%Q$AA1F'F4F7F
+YF[tFYFioFYFjqF+F+" }{TEXT 214 2 " ." }}{SECT 1 {PARA 4 "" 0 "" {TEXT 
+216 6 "a[3,0]" }}{PARA 0 "" 0 "" {TEXT 214 0 "" }}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 9 "restart:\n" }{MPLTEXT 1 0 2028 "a[3,0]:=(1/2*(-k[
+1]*sin(L)*(k[0]*sin(L)-cos(L))*cos(L)-sin(L)^2*(k[0]*sin(L)-cos(L))+co
+s(L)+(k[1]*sin(L)-cos(L))*(k[0]*sin(L)-cos(L))^2))*(k[0]*sin(L)-cos(L)
+)*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))^2+(1/2*(-k[1]*sin(
+L)*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))*cos(L)-sin(L)^2*(
+k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))+(k[0]*sin(L)-cos(L))*
+(k[1]*sin(L)-cos(L))*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))
+))*(k[0]*sin(L)-cos(L))^2*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*co
+s(L))+(1/2)*(D(k))(s[1])*sin(L)^2*(D(k))(0)*(k[0]*sin(L)-cos(L))+(1/6*
+(-sin(L)*(k[0]*sin(L)-cos(L))*cos(L)+sin(L)+sin(L)*(k[0]*sin(L)-cos(L)
+)^2))*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))^3+(1/6*(((D@@2
+)(k))(s[1])*sin(L)-k[1]*(k[1]*sin(L)-cos(L))*(k[1]*k[0]*sin(L)-k[1]*co
+s(L)-sin(L)-k[0]*cos(L))*cos(L)-sin(L)*(k[1]*sin(L)-cos(L))*(k[1]*k[0]
+*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))+(k[1]*sin(L)-cos(L))*(k[1]*k[0
+]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))^2))*(k[0]*sin(L)-cos(L))^3+(1
+/6*(((D@@2)(k))(0)*sin(L)-k[0]*(k[0]*sin(L)-cos(L))*(k[1]*k[0]*sin(L)-
+k[1]*cos(L)-sin(L)-k[0]*cos(L))*cos(L)-(k[0]*sin(L)-cos(L))*(k[1]*k[0]
+*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))*sin(L)+(k[0]*sin(L)-cos(L))*(k
+[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))^2))*(k[1]*sin(L)-cos(L
+))+(1/6*(-(D(k))(s[1])*(D(k))(0)*sin(L)*cos(L)+(D(k))(s[1])*(D(k))(0)*
+sin(L)^2*k[0]+k[0]*cos(L)*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*co
+s(L))^2-k[1]*(k[0]*sin(L)-cos(L))*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)
+-k[0]*cos(L))*sin(L)-k[1]*k[0]*(k[0]*sin(L)-cos(L))*(k[1]*k[0]*sin(L)-
+k[1]*cos(L)-sin(L)-k[0]*cos(L))*cos(L)-k[0]*(k[0]*sin(L)-cos(L))*(k[1]
+*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))*sin(L)+2*(D(k))(s[1])*(k[
+0]*sin(L)-cos(L))*(D(k))(0)*sin(L)-((D@@2)(k))(s[1])*(k[0]*sin(L)-cos(
+L))^2*cos(L)+((D@@2)(k))(s[1])*(k[0]*sin(L)-cos(L))^2*k[0]*sin(L)+sin(
+L)*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))^2+(k[0]*sin(L)-co
+s(L))*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))*cos(L)+k[1]*((
+D@@2)(k))(0)*sin(L)-((D@@2)(k))(0)*cos(L)))*sin(L):" }}}{EXCHG {PARA 0
+ "> " 0 "" {MPLTEXT 1 0 59 "A01:=simplify(coeff(coeff(a[3,0],(D)(k)(0)
+),(D)(k)(s[1])));" }}{PARA 11 "" 1 "" {XPPMATH 20 "*&-I$sinG6$%*protec
+tedGI(_syslibG6\"6#I\"LGF(\"\"#,&*&&I\"kGF(6#\"\"!\"\"\"F#F2F2-I$cosGF
+%F)!\"\"F2" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 42 "AA0 :=simplif
+y(coeff(a[3,0],(D@D)(k)(0)));" }}{PARA 11 "" 1 "" {XPPMATH 20 ",$*&-I$
+sinG6$%*protectedGI(_syslibG6\"6#I\"LGF)\"\"\",&*&&I\"kGF)6#F,F,F$F,F,
+-I$cosGF&F*!\"\"F,#F,\"\"$" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+44 "AA1:=simplify(coeff(a[3,0],(D@D)(k)(s[1])));" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 ",$*&-I$sinG6$%*protectedGI(_syslibG6\"6#I\"LGF)\"\"\",.*(
+F$F,-I$cosGF&F*\"\"#&I\"kGF)6#\"\"!\"\"$F,*&F/F6F2F1!\"$*(F$F,F/F1F2F,
+F8*&F$F,F2F6!\"\"*$F/F6F,*&F/F,F2F1F6F,#F;F6" }}}{EXCHG {PARA 0 "> " 0
+ "" {MPLTEXT 1 0 41 "A00:=simplify(coeff(a[3,0],(D)(k)(0),2));" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 44 "A11:=simplify(coeff(a[3,0],(D)(k)(s[1]),2));" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 74 "X:=subs((D@D)(k)(s[1])=0,(D)(k)(s[1])=0,(D@D)(k)(0)=0
+,(D)(k)(0)=0,a[3,0]):" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 1941 "X0:=(7/3
+)*cos(L)*k[0]*sin(L)-(2/3)*sin(L)*cos(L)*k[1]-64*sin(L)*cos(L)^5*k[0]^
+2*k[1]-36*sin(L)*cos(L)^5*k[0]*k[1]^2+63*sin(L)*cos(L)^3*k[0]^2*k[1]-k
+[0]^2-(4/3)*cos(L)^2-4*k[0]^4*k[1]^2+(11/3)*k[0]^3*k[1]-(56/3)*sin(L)*
+cos(L)^5*k[0]^3-(8/3)*sin(L)*cos(L)^5*k[1]^3+36*cos(L)^6*k[0]*k[1]+12*
+sin(L)*cos(L)^5*k[0]+8*sin(L)*cos(L)^5*k[1]+(56/3)*sin(L)*cos(L)^3*k[0
+]^3-(1/3)*sin(L)*cos(L)^3*k[1]^3-47*cos(L)^4*k[0]*k[1]-12*sin(L)*cos(L
+)^3*k[0]-5*sin(L)*cos(L)^3*k[1]+(64/3)*cos(L)^6*k[0]^2+8*cos(L)^6*k[1]
+^2-32*cos(L)^4*k[0]^2-6*cos(L)^4*k[1]^2+4*cos(L)^4+(1/3)*k[0]^3*k[1]^3
+-k[0]^2*k[1]^2-(35/3)*cos(L)*k[0]^2*k[1]*sin(L)+2*sin(L)*cos(L)*k[0]*k
+[1]^2+18*cos(L)*k[0]^3*k[1]^2*sin(L)-cos(L)*k[0]^2*k[1]^3*sin(L)+(2/3)
+*k[0]*k[1]-(8/3)*cos(L)^6+4*cos(L)^2*k[0]^5*k[1]+32*cos(L)^2*k[0]^4*k[
+1]^2+18*cos(L)^2*k[0]^3*k[1]^3-(122/3)*cos(L)^2*k[0]^3*k[1]-29*cos(L)^
+2*k[0]^2*k[1]^2+(37/3)*cos(L)^2*k[0]*k[1]+93*cos(L)^4*k[0]^3*k[1]+94*c
+os(L)^4*k[0]^2*k[1]^2+11*cos(L)^4*k[0]*k[1]^3+cos(L)^2*k[0]*k[1]^3+(4/
+3)*k[0]^5*k[1]^3-(11/3)*cos(L)*k[0]^3*sin(L)+16*sin(L)*cos(L)^3*k[0]^4
+*k[1]^3-32*sin(L)*cos(L)^3*k[0]^4*k[1]-74*sin(L)*cos(L)^3*k[0]^3*k[1]^
+2-(61/3)*sin(L)*cos(L)^3*k[0]^2*k[1]^3-4*sin(L)*cos(L)*k[0]^5*k[1]^2-8
+*sin(L)*cos(L)*k[0]^4*k[1]^3+8*sin(L)*cos(L)*k[0]^4*k[1]-4*sin(L)*cos(
+L)^5*k[0]^5*k[1]^2-8*sin(L)*cos(L)^5*k[0]^4*k[1]^3+24*sin(L)*cos(L)^5*
+k[0]^4*k[1]+56*sin(L)*cos(L)^5*k[0]^3*k[1]^2+(64/3)*sin(L)*cos(L)^5*k[
+0]^2*k[1]^3+8*sin(L)*cos(L)^3*k[0]^5*k[1]^2+22*sin(L)*cos(L)^3*k[0]*k[
+1]^2+(4/3)*sin(L)*cos(L)^5*k[0]^5-(4/3)*sin(L)*cos(L)^3*k[0]^5+4*cos(L
+)^4*k[0]^5*k[1]^3-8*cos(L)^4*k[0]^5*k[1]-52*cos(L)^4*k[0]^4*k[1]^2-37*
+cos(L)^4*k[0]^3*k[1]^3-4*cos(L)^2*k[0]^5*k[1]^3-(4/3)*cos(L)^6*k[0]^5*
+k[1]^3+4*cos(L)^6*k[0]^5*k[1]+24*cos(L)^6*k[0]^4*k[1]^2+(56/3)*cos(L)^
+6*k[0]^3*k[1]^3-56*cos(L)^6*k[0]^3*k[1]-64*cos(L)^6*k[0]^2*k[1]^2-12*c
+os(L)^6*k[0]*k[1]^3-8*cos(L)^6*k[0]^4-4*cos(L)^2*k[0]^4+(38/3)*cos(L)^
+2*k[0]^2+12*cos(L)^4*k[0]^4-cos(L)^2*k[1]^2" }{MPLTEXT 1 0 2 ":\n" }
+{MPLTEXT 1 0 15 "simplify(X0-X);" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"
+!" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 121 "simplify(X0+A01*(D)(k
+)(0)*(D)(k)(s[1])+A00*((D)(k)(0))^2+A11*((D)(k)(s[1]))^2+AA0*(D@D)(k)(
+0)+AA1*(D@D)(k)(s[1])-a[3,0]);" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 112 "
+a[3,0]:=X0+A01*(D)(k)(0)*(D)(k)(s[1])+A00*((D)(k)(0))^2+A11*((D)(k)(s[
+1]))^2+AA0*(D@D)(k)(0)+AA1*(D@D)(k)(s[1]);" }}{PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 2186 "a[3,0] := (D(k))(s[1])*sin(L)^2*(D(k))(0)*(k[0]*sin
+(L)-cos(L))-cos(L)*k[0]^2*k[1]^3*sin(L)+cos(L)^2*k[0]*k[1]^3-64*sin(L)
+*cos(L)^5*k[0]^2*k[1]-36*sin(L)*cos(L)^5*k[0]*k[1]^2+63*sin(L)*cos(L)^
+3*k[0]^2*k[1]-(35/3)*cos(L)*k[0]^2*k[1]*sin(L)+2*sin(L)*cos(L)*k[0]*k[
+1]^2+18*cos(L)*k[0]^3*k[1]^2*sin(L)+16*sin(L)*cos(L)^3*k[0]^4*k[1]^3-3
+2*sin(L)*cos(L)^3*k[0]^4*k[1]-74*sin(L)*cos(L)^3*k[0]^3*k[1]^2-(61/3)*
+sin(L)*cos(L)^3*k[0]^2*k[1]^3-4*sin(L)*cos(L)*k[0]^5*k[1]^2-8*sin(L)*c
+os(L)*k[0]^4*k[1]^3+8*sin(L)*cos(L)*k[0]^4*k[1]-4*sin(L)*cos(L)^5*k[0]
+^5*k[1]^2-8*sin(L)*cos(L)^5*k[0]^4*k[1]^3+24*sin(L)*cos(L)^5*k[0]^4*k[
+1]+56*sin(L)*cos(L)^5*k[0]^3*k[1]^2+(64/3)*sin(L)*cos(L)^5*k[0]^2*k[1]
+^3+8*sin(L)*cos(L)^3*k[0]^5*k[1]^2+22*sin(L)*cos(L)^3*k[0]*k[1]^2-k[0]
+^2-k[0]^2*k[1]^2-cos(L)^2*k[1]^2-4*k[0]^4*k[1]^2+(11/3)*k[0]^3*k[1]+(6
+4/3)*cos(L)^6*k[0]^2+8*cos(L)^6*k[1]^2-32*cos(L)^4*k[0]^2-6*cos(L)^4*k
+[1]^2+(1/3)*k[0]^3*k[1]^3+(2/3)*k[0]*k[1]+(4/3)*k[0]^5*k[1]^3-8*cos(L)
+^6*k[0]^4-4*cos(L)^2*k[0]^4+(38/3)*cos(L)^2*k[0]^2+12*cos(L)^4*k[0]^4-
+(4/3)*cos(L)^2+(7/3)*cos(L)*k[0]*sin(L)-(2/3)*sin(L)*cos(L)*k[1]-(56/3
+)*sin(L)*cos(L)^5*k[0]^3-(8/3)*sin(L)*cos(L)^5*k[1]^3+36*cos(L)^6*k[0]
+*k[1]+12*sin(L)*cos(L)^5*k[0]+8*sin(L)*cos(L)^5*k[1]+(56/3)*sin(L)*cos
+(L)^3*k[0]^3-(1/3)*sin(L)*cos(L)^3*k[1]^3-47*cos(L)^4*k[0]*k[1]-12*sin
+(L)*cos(L)^3*k[0]-5*sin(L)*cos(L)^3*k[1]+4*cos(L)^2*k[0]^5*k[1]+32*cos
+(L)^2*k[0]^4*k[1]^2+18*cos(L)^2*k[0]^3*k[1]^3-(122/3)*cos(L)^2*k[0]^3*
+k[1]-29*cos(L)^2*k[0]^2*k[1]^2+(37/3)*cos(L)^2*k[0]*k[1]+93*cos(L)^4*k
+[0]^3*k[1]+94*cos(L)^4*k[0]^2*k[1]^2+11*cos(L)^4*k[0]*k[1]^3-(11/3)*co
+s(L)*k[0]^3*sin(L)+(4/3)*sin(L)*cos(L)^5*k[0]^5-(4/3)*sin(L)*cos(L)^3*
+k[0]^5+4*cos(L)^4*k[0]^5*k[1]^3-8*cos(L)^4*k[0]^5*k[1]-52*cos(L)^4*k[0
+]^4*k[1]^2-37*cos(L)^4*k[0]^3*k[1]^3-4*cos(L)^2*k[0]^5*k[1]^3-(4/3)*co
+s(L)^6*k[0]^5*k[1]^3+4*cos(L)^6*k[0]^5*k[1]+24*cos(L)^6*k[0]^4*k[1]^2+
+(56/3)*cos(L)^6*k[0]^3*k[1]^3-56*cos(L)^6*k[0]^3*k[1]-64*cos(L)^6*k[0]
+^2*k[1]^2-12*cos(L)^6*k[0]*k[1]^3-(8/3)*cos(L)^6+4*cos(L)^4+(1/3)*sin(
+L)*(k[1]*sin(L)-cos(L))*((D@@2)(k))(0)-(1/3)*sin(L)*(sin(L)*cos(L)^2*k
+[0]^3-3*cos(L)^3*k[0]^2-3*sin(L)*cos(L)^2*k[0]-sin(L)*k[0]^3+cos(L)^3+
+3*cos(L)*k[0]^2)*((D@@2)(k))(s[1]):" }}{PARA 11 "" 1 "" {XPPMATH 20 "
+\"\"!" }}{PARA 11 "" 1 "" {XPPMATH 20 ",\\u**--I\"DG6$%*protectedGI(_s
+yslibG6\"6#I\"kGF*6#&I\"sGF*6#\"\"\"F1-I$sinGF'6#I\"LGF*\"\"#-F%6#\"\"
+!F1,&*&&F,F8F1F2F1F1-I$cosGF'F4!\"\"F1F1**F=F1F<F6&F,F0\"\"$F2F1F?*(F=
+F6F<F1FAFBF1**F2F1F=\"\"&F<F6FAF1!#k**F2F1F=FEF<F1FAF6!#O**F2F1F=FBF<F
+6FAF1\"#j**F=F1F<F6FAF1F2F1#!#NFB**F2F1F=F1F<F1FAF6F6**F=F1F<FBFAF6F2F
+1\"#=**F2F1F=FBF<\"\"%FAFB\"#;**F2F1F=FBF<FRFAF1!#K**F2F1F=FBF<FBFAF6!
+#u**F2F1F=FBF<F6FAFB#!#hFB**F2F1F=F1F<FEFAF6!\"%**F2F1F=F1F<FRFAFB!\")
+**F2F1F=F1F<FRFAF1\"\")**F2F1F=FEF<FEFAF6Ffn**F2F1F=FEF<FRFAFBFhn**F2F
+1F=FEF<FRFAF1\"#C**F2F1F=FEF<FBFAF6\"#c**F2F1F=FEF<F6FAFB#\"#kFB**F2F1
+F=FBF<FEFAF6Fjn**F2F1F=FBF<F1FAF6\"#A*$F<F6F?*&F<F6FAF6F?*&F=F6FAF6F?*
+&F<FRFAF6Ffn*&F<FBFAF1#\"#6FB*&F=\"\"'F<F6Fbo*&F=F_pFAF6Fjn*&F=FRF<F6F
+U*&F=FRFAF6!\"'*&F<FBFAFB#F1FB*&F<F1FAF1#F6FB*&F<FEFAFB#FRFB*&F=F_pF<F
+RFhn*&F=F6F<FRFfn*&F=F6F<F6#\"#QFB*&F=FRF<FR\"#7*$F=F6#FfnFB*(F=F1F<F1
+F2F1#\"\"(FB*(F2F1F=F1FAF1#!\"#FB*(F2F1F=FEF<FB#!#cFB*(F2F1F=FEFAFB#Fh
+nFB*(F=F_pF<F1FAF1\"#O*(F2F1F=FEF<F1F`q*(F2F1F=FEFAF1Fjn*(F2F1F=FBF<FB
+#F`oFB*(F2F1F=FBFAFB#F?FB*(F=FRF<F1FAF1!#Z*(F2F1F=FBF<F1!#7*(F2F1F=FBF
+AF1!\"&*(F=F6F<FEFAF1FR*(F=F6F<FRFAF6\"#K*(F=F6F<FBFAFBFP*(F=F6F<FBFAF
+1#!$A\"FB*(F=F6F<F6FAF6!#H*(F=F6F<F1FAF1#\"#PFB*(F=FRF<FBFAF1\"#$**(F=
+FRF<F6FAF6\"#%**(F=FRF<F1FAFBF]p*(F=F1F<FBF2F1#!#6FB*(F2F1F=FEF<FEFip*
+(F2F1F=FBF<FEFbq*(F=FRF<FEFAFBFR*(F=FRF<FEFAF1Fhn*(F=FRF<FRFAF6!#_*(F=
+FRF<FBFAFB!#P*(F=F6F<FEFAFBFfn*(F=F_pF<FEFAFBFbq*(F=F_pF<FEFAF1FR*(F=F
+_pF<FRFAF6F^o*(F=F_pF<FBFAFBFcr*(F=F_pF<FBFAF1F[r*(F=F_pF<F6FAF6FF*(F=
+F_pF<F1FAFBFir*$F=F_pF]r*$F=FRFR*(F2F1,&*&FAF1F2F1F1F=F?F1---I#@@GF'6$
+F&F6F+F8F1Fep*(F2F1,.*(F2F1F=F6F<FBF1*&F=FBF<F6!\"$*(F2F1F=F6F<F1F^v*&
+F2F1F<FBF?*$F=FBF1*&F=F1F<F6FBF1-FfuF-F1Fer" }}}{EXCHG {PARA 0 "> " 0 
+"" {MPLTEXT 1 0 0 "" }}}}{SECT 1 {PARA 4 "" 0 "" {TEXT 216 6 "a[2,1]" 
+}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 9 "restart:\n" }{MPLTEXT 1 0 
+2308 "a[2,1] := (1/2*(k[0]*cos(L)*(k[1]*sin(L)-cos(L))*(k[1]*k[0]*sin(
+L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))+((D@@2)(k))(s[1])*(k[0]*sin(L)-cos(
+L))*sin(L)^2*k[0]-((D@@2)(k))(s[1])*(k[0]*sin(L)-cos(L))*sin(L)*cos(L)
++sin(L)*(k[1]*sin(L)-cos(L))*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]
+*cos(L))-k[1]*k[0]*sin(L)*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*co
+s(L))*cos(L)+sin(L)*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))*
+cos(L)+(D(k))(s[1])*sin(L)^2*(D(k))(0)-k[1]*sin(L)^2*(k[1]*k[0]*sin(L)
+-k[1]*cos(L)-sin(L)-k[0]*cos(L))-k[0]*sin(L)^2*(k[1]*k[0]*sin(L)-k[1]*
+cos(L)-sin(L)-k[0]*cos(L))))*sin(L)+(1/2*(-k[0]*sin(L)*(k[1]*k[0]*sin(
+L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))*cos(L)-sin(L)^2*(k[1]*k[0]*sin(L)-k
+[1]*cos(L)-sin(L)-k[0]*cos(L))+(k[0]*sin(L)-cos(L))*(k[1]*sin(L)-cos(L
+))*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))))*(k[1]*sin(L)-co
+s(L))+(1/2*(-sin(L)*(k[0]*sin(L)-cos(L))*cos(L)+sin(L)+sin(L)*(k[0]*si
+n(L)-cos(L))^2))*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))^2*(
+k[1]*sin(L)-cos(L))+(1/2*(((D@@2)(k))(s[1])*sin(L)-k[1]*(k[1]*sin(L)-c
+os(L))*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))*cos(L)-sin(L)
+*(k[1]*sin(L)-cos(L))*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L)
+)+(k[1]*sin(L)-cos(L))*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L
+))^2))*(k[0]*sin(L)-cos(L))^2*sin(L)+(1/2*(-k[1]*sin(L)*(k[1]*k[0]*sin
+(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))*cos(L)-sin(L)^2*(k[1]*k[0]*sin(L)-
+k[1]*cos(L)-sin(L)-k[0]*cos(L))+(k[0]*sin(L)-cos(L))*(k[1]*sin(L)-cos(
+L))*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))))*(k[0]*sin(L)-c
+os(L))^2*(k[1]*sin(L)-cos(L))+(1/2)*(D(k))(s[1])*sin(L)^3*(D(k))(0)+(1
+/2*(-k[1]*sin(L)*(k[0]*sin(L)-cos(L))*cos(L)-sin(L)^2*(k[0]*sin(L)-cos
+(L))+cos(L)+(k[1]*sin(L)-cos(L))*(k[0]*sin(L)-cos(L))^2))*sin(L)*(k[1]
+*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))^2+(-k[1]*sin(L)*(k[0]*sin
+(L)-cos(L))*cos(L)-sin(L)^2*(k[0]*sin(L)-cos(L))+cos(L)+(k[1]*sin(L)-c
+os(L))*(k[0]*sin(L)-cos(L))^2)*(k[0]*sin(L)-cos(L))*(k[1]*k[0]*sin(L)-
+k[1]*cos(L)-sin(L)-k[0]*cos(L))*(k[1]*sin(L)-cos(L))+(-k[1]*sin(L)*(k[
+1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))*cos(L)-sin(L)^2*(k[1]*k
+[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))+(k[0]*sin(L)-cos(L))*(k[1]*
+sin(L)-cos(L))*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L)))*(k[0
+]*sin(L)-cos(L))*sin(L)*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(
+L)):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 59 "A01:=simplify(coeff
+(coeff(a[2,1],(D)(k)(0)),(D)(k)(s[1])));" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "*$-I$sinG6$%*protectedGI(_syslibG6\"6#I\"LGF(\"\"$" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 31 "A00:=coeff(a[2,1],(D)(k)(0),2);" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 31 "AA0:=coeff(a[2,1],(D@D)(k)(0));" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 44 "AA1:=
+simplify(coeff(a[2,1],(D@D)(k)(s[1])));" }}{PARA 11 "" 1 "" {XPPMATH 
+20 ",$*&-I$sinG6$%*protectedGI(_syslibG6\"6#I\"LGF)\"\"#,**&-I$cosGF&F
+*F,&I\"kGF)6#\"\"!F,\"\"\"*(F$F5F/F5F1F5F,*$F/F,!\"\"*$F1F,F8F5F8" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 44 "A11:=simplify(coeff(a[2,1],(
+D)(k)(s[1]),2));" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 48 "X:=subs((D)(k)(s[1])=0,(D@D)(k)(s[1
+])=0,a[2,1]);" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 1563 "X0 :=-k[0]+k[1]+
+sin(L)*cos(L)-84*sin(L)*cos(L)^5*k[0]*k[1]+82*sin(L)*cos(L)^3*k[0]*k[1
+]+k[0]^2*k[1]^3-2*k[0]*k[1]^2+4*k[0]^4*k[1]^3-10*k[0]^3*k[1]^2+7*k[0]^
+2*k[1]-10*cos(L)^2*k[0]^3+16*cos(L)^2*k[0]+7*cos(L)^2*k[1]+30*cos(L)^4
+*k[0]^3+7*cos(L)^4*k[1]^3+cos(L)^2*k[1]^3+28*cos(L)^6*k[0]+24*cos(L)^6
+*k[1]+8*sin(L)*cos(L)^5-42*cos(L)^4*k[0]-31*cos(L)^4*k[1]-8*sin(L)*cos
+(L)^3-36*sin(L)*cos(L)^5*k[0]^2-24*sin(L)*cos(L)^5*k[1]^2+36*sin(L)*co
+s(L)^3*k[0]^2+12*cos(L)^2*k[0]^4*k[1]+80*cos(L)^2*k[0]^3*k[1]^2+34*cos
+(L)^2*k[0]^2*k[1]^3-78*cos(L)^2*k[0]^2*k[1]-36*cos(L)^2*k[0]*k[1]^2+17
+9*cos(L)^4*k[0]^2*k[1]+122*cos(L)^4*k[0]*k[1]^2-20*cos(L)^6*k[0]^3-8*c
+os(L)^6*k[1]^3-7*cos(L)*k[0]^2*sin(L)+2*sin(L)*cos(L)*k[1]^2+4*sin(L)*
+cos(L)^5*k[0]^4-4*sin(L)*cos(L)^3*k[0]^4+14*sin(L)*cos(L)^3*k[1]^2+12*
+cos(L)^4*k[0]^4*k[1]^3-24*cos(L)^4*k[0]^4*k[1]-130*cos(L)^4*k[0]^3*k[1
+]^2-71*cos(L)^4*k[0]^2*k[1]^3-12*cos(L)^2*k[0]^4*k[1]^3-4*cos(L)^6*k[0
+]^4*k[1]^3+12*cos(L)^6*k[0]^4*k[1]+60*cos(L)^6*k[0]^3*k[1]^2+36*cos(L)
+^6*k[0]^2*k[1]^3-108*cos(L)^6*k[0]^2*k[1]-84*cos(L)^6*k[0]*k[1]^2-26*s
+in(L)*cos(L)^3*k[0]*k[1]^3-12*sin(L)*cos(L)*k[0]^4*k[1]^2-20*sin(L)*co
+s(L)*k[0]^3*k[1]^3+20*sin(L)*cos(L)*k[0]^3*k[1]+34*sin(L)*cos(L)*k[0]^
+2*k[1]^2-2*sin(L)*cos(L)*k[0]*k[1]^3-14*k[1]*k[0]*sin(L)*cos(L)-12*sin
+(L)*cos(L)^5*k[0]^4*k[1]^2-20*sin(L)*cos(L)^5*k[0]^3*k[1]^3+60*sin(L)*
+cos(L)^5*k[0]^3*k[1]+108*sin(L)*cos(L)^5*k[0]^2*k[1]^2+28*sin(L)*cos(L
+)^5*k[0]*k[1]^3+24*sin(L)*cos(L)^3*k[0]^4*k[1]^2+40*sin(L)*cos(L)^3*k[
+0]^3*k[1]^3-80*sin(L)*cos(L)^3*k[0]^3*k[1]-142*sin(L)*cos(L)^3*k[0]^2*
+k[1]^2;" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 15 "simplify(X-X0);" }}
+{PARA 11 "" 1 "" {XPPMATH 20 ",2*&,.**&I\"kG6\"6#\"\"!\"\"\"-I$cosG6$%
+*protectedGI(_syslibGF(6#I\"LGF(F+,&*&&F'6#F+F+-I$sinGF.F1F+F+F,!\"\"F
++,**(F5F+F&F+F7F+F+*&F5F+F,F+F9F7F9*&F&F+F,F+F9F+F+*(F7F+F3F+F:F+F+*,F
+5F+F&F+F7F+F:F+F,F+F9*(F7F+F:F+F,F+F+*(F5F+F7\"\"#F:F+F9*(F&F+F7FBF:F+
+F9F+F7F+#F+FB*&,(**F&F+F7F+F:F+F,F+F9*&F7FBF:F+F9*(,&*&F&F+F7F+F+F,F9F
++F3F+F:F+F+F+F3F+FD*(,(*(F7F+FJF+F,F+F9F7F+*&F7F+FJFBF+F+F:FBF3F+FD*(,
+(**F5F+F3F+F:F+F,F+F9F>F9*&F3F+F:FBF+F+FJFBF7F+FD*(,(**F5F+F7F+F:F+F,F
++F9FHF9FIF+F+FJFBF3F+FD*(,***F5F+F7F+FJF+F,F+F9*&F7FBFJF+F9F,F+*&F3F+F
+JFBF+F+F7F+F:FBFD**FXF+FJF+F:F+F3F+F+**FUF+FJF+F7F+F:F+F+" }}{PARA 11 
+"" 1 "" {XPPMATH 20 ",`s&I\"kG6\"6#\"\"!!\"\"&F$6#\"\"\"F+*&-I$sinG6$%
+*protectedGI(_syslibGF%6#I\"LGF%F+-I$cosGF/F2F+F+**F-F+F4\"\"&F#F+F)F+
+!#%)**F-F+F4\"\"$F#F+F)F+\"##)**F-F+F4F:F#F+F)F:!#E**F-F+F4F+F#\"\"%F)
+\"\"#!#7**F-F+F4F+F#F:F)F:!#?**F-F+F4F+F#F:F)F+\"#?**F-F+F4F+F#F@F)F@
+\"#M**F-F+F4F+F#F+F)F:!\"#**F)F+F#F+F-F+F4F+!#9**F-F+F4F7F#F?F)F@FA**F
+-F+F4F7F#F:F)F:FC**F-F+F4F7F#F:F)F+\"#g**F-F+F4F7F#F@F)F@\"$3\"**F-F+F
+4F7F#F+F)F:\"#G**F-F+F4F:F#F?F)F@\"#C**F-F+F4F:F#F:F)F:\"#S**F-F+F4F:F
+#F:F)F+!#!)**F-F+F4F:F#F@F)F@!$U\"*(F-F+F4F:F)F@\"#9*(F-F+F4F+F)F@F@*(
+F-F+F4F7F)F@!#C*(F4\"\"'F#F@F)F+!$3\"*(F-F+F4F:F#F?!\"%*(F-F+F4F:F#F@
+\"#O*(F4F\\oF#F?F)F:F_o*(F4F\\oF#F+F)F@F8*(F4F?F#F?F)F:\"#7*(F4F+F#F@F
+-F+!\"(*(F4F@F#F@F)F+!#y*(F4F@F#F?F)F+Feo*(F4F\\oF#F@F)F:Fao*(F4F@F#F@
+F)F:FG*(F4F@F#F:F)F@\"#!)*(F-F+F4F7F#F@!#O*(F4F?F#F?F)F+Fjn*(F4F?F#F:F
+)F@!$I\"*(F4F\\oF#F?F)F+Feo*(F4F?F#F@F)F:!#r*(F4F@F#F?F)F:FA*(F4F?F#F+
+F)F@\"$A\"*(F4F?F#F@F)F+\"$z\"*(F4F@F#F+F)F@F`p*(F4F\\oF#F:F)F@FO*(F-F
++F4F7F#F?F?*&F#F@F)F:F+*&F4F@F)F:F+*&F#F+F)F@FI*&F#F?F)F:F?*&F#F:F)F@!
+#5*&F#F@F)F+\"\"(*&F4F@F#F:Fdq*&F4F@F#F+\"#;*&F4F@F)F+Ffq*&F4F?F#F:\"#
+I*&F4F?F)F:Ffq*&F4F\\oF#F+FS*&F4F\\oF)F+FU*&F-F+F4F7\"\")*&F4F?F#F+!#U
+*&F4F?F)F+!#J*&F-F+F4F:!\")*&F4F\\oF#F:FC*&F4F\\oF)F:Fgr" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+87 "simplify(X0+A01*(D)(k)(0)*(D)(k)(s[1])+AA1*(D@D)(k)(s[1])+A11*((D)
+(k)(s[1]))^2-a[2,1]);" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 78 "a[2,1]:=X0
++A01*(D)(k)(0)*(D)(k)(s[1])+AA1*(D@D)(k)(s[1])+A11*((D)(k)(s[1]))^2;" 
+}}{PARA 0 "> " 0 "" {MPLTEXT 1 0 1681 "a[2,1] := (D(k))(s[1])*sin(L)^3
+*(D(k))(0)-k[0]+k[1]+sin(L)*cos(L)-84*sin(L)*cos(L)^5*k[0]*k[1]+82*sin
+(L)*cos(L)^3*k[0]*k[1]-26*sin(L)*cos(L)^3*k[0]*k[1]^3-12*sin(L)*cos(L)
+*k[0]^4*k[1]^2-20*sin(L)*cos(L)*k[0]^3*k[1]^3+20*sin(L)*cos(L)*k[0]^3*
+k[1]+34*sin(L)*cos(L)*k[0]^2*k[1]^2-2*sin(L)*cos(L)*k[0]*k[1]^3-14*k[1
+]*k[0]*sin(L)*cos(L)-12*sin(L)*cos(L)^5*k[0]^4*k[1]^2-20*sin(L)*cos(L)
+^5*k[0]^3*k[1]^3+60*sin(L)*cos(L)^5*k[0]^3*k[1]+108*sin(L)*cos(L)^5*k[
+0]^2*k[1]^2+28*sin(L)*cos(L)^5*k[0]*k[1]^3+24*sin(L)*cos(L)^3*k[0]^4*k
+[1]^2+40*sin(L)*cos(L)^3*k[0]^3*k[1]^3-80*sin(L)*cos(L)^3*k[0]^3*k[1]-
+142*sin(L)*cos(L)^3*k[0]^2*k[1]^2+14*sin(L)*cos(L)^3*k[1]^2+2*sin(L)*c
+os(L)*k[1]^2-24*sin(L)*cos(L)^5*k[1]^2-108*cos(L)^6*k[0]^2*k[1]-4*sin(
+L)*cos(L)^3*k[0]^4+36*sin(L)*cos(L)^3*k[0]^2-4*cos(L)^6*k[0]^4*k[1]^3-
+84*cos(L)^6*k[0]*k[1]^2+12*cos(L)^4*k[0]^4*k[1]^3-7*cos(L)*k[0]^2*sin(
+L)-78*cos(L)^2*k[0]^2*k[1]+12*cos(L)^2*k[0]^4*k[1]+36*cos(L)^6*k[0]^2*
+k[1]^3+34*cos(L)^2*k[0]^2*k[1]^3+80*cos(L)^2*k[0]^3*k[1]^2-36*sin(L)*c
+os(L)^5*k[0]^2-24*cos(L)^4*k[0]^4*k[1]-130*cos(L)^4*k[0]^3*k[1]^2+12*c
+os(L)^6*k[0]^4*k[1]-71*cos(L)^4*k[0]^2*k[1]^3-12*cos(L)^2*k[0]^4*k[1]^
+3+122*cos(L)^4*k[0]*k[1]^2+179*cos(L)^4*k[0]^2*k[1]-36*cos(L)^2*k[0]*k
+[1]^2+60*cos(L)^6*k[0]^3*k[1]^2+4*sin(L)*cos(L)^5*k[0]^4+k[0]^2*k[1]^3
++cos(L)^2*k[1]^3-2*k[0]*k[1]^2+4*k[0]^4*k[1]^3-10*k[0]^3*k[1]^2+7*k[0]
+^2*k[1]-10*cos(L)^2*k[0]^3+16*cos(L)^2*k[0]+7*cos(L)^2*k[1]+30*cos(L)^
+4*k[0]^3+7*cos(L)^4*k[1]^3+28*cos(L)^6*k[0]+24*cos(L)^6*k[1]+8*sin(L)*
+cos(L)^5-42*cos(L)^4*k[0]-31*cos(L)^4*k[1]-8*sin(L)*cos(L)^3-20*cos(L)
+^6*k[0]^3-8*cos(L)^6*k[1]^3-sin(L)^2*(cos(L)^2*k[0]^2+2*sin(L)*cos(L)*
+k[0]-cos(L)^2-k[0]^2)*((D@@2)(k))(s[1]):" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "\"\"!" }}{PARA 11 "" 1 "" {XPPMATH 20 ",ds*(--I\"DG6$%*protectedGI
+(_syslibG6\"6#I\"kGF*6#&I\"sGF*6#\"\"\"F1-I$sinGF'6#I\"LGF*\"\"$-F%6#
+\"\"!F1F1&F,F8!\"\"&F,F0F1*&F2F1-I$cosGF'F4F1F1**F2F1F>\"\"&F:F1F<F1!#
+%)**F2F1F>F6F:F1F<F1\"##)**F2F1F>F6F:F1F<F6!#E**F2F1F>F1F:\"\"%F<\"\"#
+!#7**F2F1F>F1F:F6F<F6!#?**F2F1F>F1F:F6F<F1\"#?**F2F1F>F1F:FIF<FI\"#M**
+F2F1F>F1F:F1F<F6!\"#**F<F1F:F1F2F1F>F1!#9**F2F1F>FAF:FHF<FIFJ**F2F1F>F
+AF:F6F<F6FL**F2F1F>FAF:F6F<F1\"#g**F2F1F>FAF:FIF<FI\"$3\"**F2F1F>FAF:F
+1F<F6\"#G**F2F1F>F6F:FHF<FI\"#C**F2F1F>F6F:F6F<F6\"#S**F2F1F>F6F:F6F<F
+1!#!)**F2F1F>F6F:FIF<FI!$U\"*(F2F1F>F6F<FI\"#9*(F2F1F>F1F<FIFI*(F2F1F>
+FAF<FI!#C*(F>\"\"'F:FIF<F1!$3\"*(F2F1F>F6F:FH!\"%*(F2F1F>F6F:FI\"#O*(F
+>FeoF:FHF<F6Fho*(F>FeoF:F1F<FIFB*(F>FHF:FHF<F6\"#7*(F>F1F:FIF2F1!\"(*(
+F>FIF:FIF<F1!#y*(F>FIF:FHF<F1F^p*(F>FeoF:FIF<F6Fjo*(F>FIF:FIF<F6FP*(F>
+FIF:F6F<FI\"#!)*(F2F1F>FAF:FI!#O*(F>FHF:FHF<F1Fco*(F>FHF:F6F<FI!$I\"*(
+F>FeoF:FHF<F1F^p*(F>FHF:FIF<F6!#r*(F>FIF:FHF<F6FJ*(F>FHF:F1F<FI\"$A\"*
+(F>FHF:FIF<F1\"$z\"*(F>FIF:F1F<FIFip*(F>FeoF:F6F<FIFX*(F2F1F>FAF:FHFH*
+&F:FIF<F6F1*&F>FIF<F6F1*&F:F1F<FIFR*&F:FHF<F6FH*&F:F6F<FI!#5*&F:FIF<F1
+\"\"(*&F>FIF:F6F]r*&F>FIF:F1\"#;*&F>FIF<F1F_r*&F>FHF:F6\"#I*&F>FHF<F6F
+_r*&F>FeoF:F1Ffn*&F>FeoF<F1Fhn*&F2F1F>FA\"\")*&F>FHF:F1!#U*&F>FHF<F1!#
+J*&F2F1F>F6!\")*&F>FeoF:F6FL*&F>FeoF<F6F`s*(F2FI,**&F>FIF:FIF1*(F2F1F>
+F1F:F1FI*$F>FIF;*$F:FIF;F1---I#@@GF'6$F&FIF+F-F1F;" }}}{EXCHG {PARA 0 
+"> " 0 "" {MPLTEXT 1 0 0 "" }}}}{SECT 1 {PARA 4 "" 0 "" {TEXT 216 6 "a
+[1,2]" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "restart:" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 1863 "a[1,2] := (1/2*(-k[0]*sin(L)*(k[1
+]*sin(L)-cos(L))*cos(L)-sin(L)^2*(k[1]*sin(L)-cos(L))+cos(L)+(k[0]*sin
+(L)-cos(L))*(k[1]*sin(L)-cos(L))^2))*(k[1]*sin(L)-cos(L))+(1/2*(sin(L)
++k[0]*cos(L)*(k[1]*sin(L)-cos(L))^2-k[1]*k[0]*sin(L)*(k[1]*sin(L)-cos(
+L))*cos(L)+k[1]*cos(L)-((D@@2)(k))(s[1])*sin(L)^2*cos(L)+((D@@2)(k))(s
+[1])*sin(L)^3*k[0]+sin(L)*(k[1]*sin(L)-cos(L))^2+sin(L)*(k[1]*sin(L)-c
+os(L))*cos(L)-k[1]*sin(L)^2*(k[1]*sin(L)-cos(L))-k[0]*sin(L)^2*(k[1]*s
+in(L)-cos(L))))*sin(L)+(1/2*(-sin(L)*(k[0]*sin(L)-cos(L))*cos(L)+sin(L
+)+sin(L)*(k[0]*sin(L)-cos(L))^2))*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)
+-k[0]*cos(L))*(k[1]*sin(L)-cos(L))^2+(1/2*(((D@@2)(k))(s[1])*sin(L)-k[
+1]*(k[1]*sin(L)-cos(L))*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(
+L))*cos(L)-sin(L)*(k[1]*sin(L)-cos(L))*(k[1]*k[0]*sin(L)-k[1]*cos(L)-s
+in(L)-k[0]*cos(L))+(k[1]*sin(L)-cos(L))*(k[1]*k[0]*sin(L)-k[1]*cos(L)-
+sin(L)-k[0]*cos(L))^2))*(k[0]*sin(L)-cos(L))*sin(L)^2+(1/2*(-k[1]*sin(
+L)*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))*cos(L)-sin(L)^2*(
+k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))+(k[0]*sin(L)-cos(L))*
+(k[1]*sin(L)-cos(L))*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))
+))*sin(L)^2*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))+(1/2*(-k
+[1]*sin(L)*(k[0]*sin(L)-cos(L))*cos(L)-sin(L)^2*(k[0]*sin(L)-cos(L))+c
+os(L)+(k[1]*sin(L)-cos(L))*(k[0]*sin(L)-cos(L))^2))*(k[0]*sin(L)-cos(L
+))*(k[1]*sin(L)-cos(L))^2+(-k[1]*sin(L)*(k[0]*sin(L)-cos(L))*cos(L)-si
+n(L)^2*(k[0]*sin(L)-cos(L))+cos(L)+(k[1]*sin(L)-cos(L))*(k[0]*sin(L)-c
+os(L))^2)*sin(L)*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))*(k[
+1]*sin(L)-cos(L))+(-k[1]*sin(L)*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k
+[0]*cos(L))*cos(L)-sin(L)^2*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*
+cos(L))+(k[0]*sin(L)-cos(L))*(k[1]*sin(L)-cos(L))*(k[1]*k[0]*sin(L)-k[
+1]*cos(L)-sin(L)-k[0]*cos(L)))*(k[0]*sin(L)-cos(L))*sin(L)*(k[1]*sin(L
+)-cos(L)):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 50 "A01:=coeff(co
+eff(a[1,2],(D)(k)(0)),(D)(k)(s[1]));\n" }{MPLTEXT 1 0 32 "A00:=coeff(a
+[1,2],(D)(k)(0),2);\n" }{MPLTEXT 1 0 31 "AA0:=coeff(a[1,2],(D@D)(k)(0)
+);" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "\"\"!" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 45 "A11:=simplify(coeff(a[1,2],(D)(k)(s
+[1]),2));\n" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}{EXCHG {PARA 0 
+"> " 0 "" {MPLTEXT 1 0 45 "AA1:=simplify(coeff(a[1,2],(D@D)(k)(s[1])))
+;\n" }}{PARA 11 "" 1 "" {XPPMATH 20 "*&-I$sinG6$%*protectedGI(_syslibG
+6\"6#I\"LGF(\"\"$,&*&&I\"kGF(6#\"\"!\"\"\"F#F2F2-I$cosGF%F)!\"\"F2" }}
+}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 49 "X:=subs((D@D)(k)(s[1])=0,(D
+)(k)(s[1])=0,a[1,2]):\n" }{MPLTEXT 1 0 1039 "X0:= sin(L)*(-12*cos(L)*k
+[0]^3*k[1]^2-16*cos(L)*k[0]^2*k[1]^3+16*cos(L)*k[0]^2*k[1]+18*cos(L)*k
+[0]*k[1]^2-64*cos(L)^3*k[0]^2*k[1]-78*cos(L)^3*k[0]*k[1]^2-3*k[1]*cos(
+L)-4*k[0]*cos(L)+4*cos(L)^5*k[0]^3+8*cos(L)^5*k[1]^3+4*k[1]*k[0]*sin(L
+)-8*sin(L)*cos(L)^4+4*sin(L)*cos(L)^2-sin(L)*k[1]^2-12*cos(L)^5*k[0]^3
+*k[1]^2-16*cos(L)^5*k[0]^2*k[1]^3+48*cos(L)^5*k[0]^2*k[1]+60*cos(L)^5*
+k[0]*k[1]^2+24*cos(L)^3*k[0]^3*k[1]^2+32*cos(L)^3*k[0]^2*k[1]^3+16*sin
+(L)*cos(L)^4*k[0]^2+24*sin(L)*cos(L)^4*k[1]^2+4*sin(L)*k[0]^3*k[1]^3-8
+*sin(L)*cos(L)^2*k[0]^2-10*sin(L)*cos(L)^2*k[1]^2-8*sin(L)*k[0]^2*k[1]
+^2+sin(L)*k[0]*k[1]^3+4*sin(L)*cos(L)^4*k[0]^3*k[1]^3-12*sin(L)*cos(L)
+^4*k[0]^3*k[1]-48*sin(L)*cos(L)^4*k[0]^2*k[1]^2-20*sin(L)*cos(L)^4*k[0
+]*k[1]^3-8*sin(L)*cos(L)^2*k[0]^3*k[1]^3+60*sin(L)*cos(L)^4*k[0]*k[1]+
+12*sin(L)*cos(L)^2*k[0]^3*k[1]+56*sin(L)*cos(L)^2*k[0]^2*k[1]^2+19*sin
+(L)*cos(L)^2*k[0]*k[1]^3-39*sin(L)*cos(L)^2*k[0]*k[1]-4*cos(L)^3*k[0]^
+3-7*cos(L)^3*k[1]^3+20*cos(L)^3*k[0]+23*cos(L)^3*k[1]-cos(L)*k[1]^3-20
+*cos(L)^5*k[0]-24*cos(L)^5*k[1]);\n" }{MPLTEXT 1 0 16 "simplify(X-X0);
+\n" }{MPLTEXT 1 0 1 "\n" }}{PARA 11 "" 1 "" {XPPMATH 20 "*&-I$sinG6$%*
+protectedGI(_syslibG6\"6#I\"LGF(\"\"\",dp*&&I\"kGF(6#F+F+-I$cosGF%F)F+
+!\"$*&&F/6#\"\"!F+F1F+!\"%*(F.F+F5F+F#F+\"\"%*(F#F+F5F+F.\"\"$F+**F#F+
+F1F:F5F<F.F<F:**F#F+F1F:F5F<F.F+!#7**F#F+F1F:F5\"\"#F.FA!#[**F#F+F1F:F
+5F+F.F<!#?**F#F+F1FAF5F<F.F<!\")**F#F+F1F:F5F+F.F+\"#g**F#F+F1FAF5F<F.
+F+\"#7**F#F+F1FAF5FAF.FA\"#c**F#F+F1FAF5F+F.F<\"#>**F#F+F1FAF5F+F.F+!#
+R*(F1F+F5F<F.FAF?*(F1F+F5FAF.F<!#;*(F1F+F5FAF.F+\"#;*(F1F+F5F+F.FA\"#=
+*(F1F<F5FAF.F+!#k*(F1F<F5F+F.FA!#y*(F1\"\"&F5F<F.FAF?*(F1FgnF5FAF.F<FS
+*(F1FgnF5FAF.F+\"#[*(F1FgnF5F+F.FAFH*(F1F<F5F<F.FA\"#C*(F1F<F5FAF.F<\"
+#K*(F#F+F1F:F5FAFU*(F#F+F1F:F.FAF]o*(F#F+F5F<F.F<F:*(F#F+F1FAF5FAFF*(F
+#F+F1FAF.FA!#5*(F#F+F5FAF.FAFF*&F#F+F.FA!\"\"*&F1F+F.F<Fho*&F1FgnF5F<F
+:*&F1FgnF.F<\"\")*&F#F+F1F:FF*&F#F+F1FAF:*&F1F<F5F<F8*&F1F<F.F<!\"(*&F
+1F<F5F+\"#?*&F1F<F.F+\"#B*&F1FgnF5F+FD*&F1FgnF.F+!#CF+" }}{PARA 11 "" 
+1 "" {XPPMATH 20 "\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 61 "
+simplify(X0+AA1*(D@D)(k)(s[1])+A11*((D)(k)(s[1]))^2-a[1,2]);\n" }}
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 52 "a[1,2]:= X0+AA1*(D@D)(k)(s[1])+A11*
+((D)(k)(s[1]))^2;" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 1043 "a[1,2] := si
+n(L)*(-12*cos(L)*k[0]^3*k[1]^2-16*cos(L)*k[0]^2*k[1]^3+16*cos(L)*k[0]^
+2*k[1]+18*cos(L)*k[0]*k[1]^2-64*cos(L)^3*k[0]^2*k[1]-78*cos(L)^3*k[0]*
+k[1]^2-3*k[1]*cos(L)-4*k[0]*cos(L)+4*cos(L)^5*k[0]^3+8*cos(L)^5*k[1]^3
++4*k[1]*k[0]*sin(L)-8*sin(L)*cos(L)^4+4*sin(L)*cos(L)^2-sin(L)*k[1]^2-
+12*cos(L)^5*k[0]^3*k[1]^2-16*cos(L)^5*k[0]^2*k[1]^3+48*cos(L)^5*k[0]^2
+*k[1]+60*cos(L)^5*k[0]*k[1]^2+24*cos(L)^3*k[0]^3*k[1]^2+32*cos(L)^3*k[
+0]^2*k[1]^3+16*sin(L)*cos(L)^4*k[0]^2+24*sin(L)*cos(L)^4*k[1]^2+4*sin(
+L)*k[0]^3*k[1]^3-8*sin(L)*cos(L)^2*k[0]^2-10*sin(L)*cos(L)^2*k[1]^2-8*
+sin(L)*k[0]^2*k[1]^2+sin(L)*k[0]*k[1]^3+4*sin(L)*cos(L)^4*k[0]^3*k[1]^
+3-12*sin(L)*cos(L)^4*k[0]^3*k[1]-48*sin(L)*cos(L)^4*k[0]^2*k[1]^2-20*s
+in(L)*cos(L)^4*k[0]*k[1]^3-8*sin(L)*cos(L)^2*k[0]^3*k[1]^3+60*sin(L)*c
+os(L)^4*k[0]*k[1]+12*sin(L)*cos(L)^2*k[0]^3*k[1]+56*sin(L)*cos(L)^2*k[
+0]^2*k[1]^2+19*sin(L)*cos(L)^2*k[0]*k[1]^3-39*sin(L)*cos(L)^2*k[0]*k[1
+]-4*cos(L)^3*k[0]^3-7*cos(L)^3*k[1]^3+20*cos(L)^3*k[0]+23*cos(L)^3*k[1
+]-cos(L)*k[1]^3-20*cos(L)^5*k[0]-24*cos(L)^5*k[1]):" }}{PARA 11 "" 1 "
+" {XPPMATH 20 "\"\"!" }}{PARA 11 "" 1 "" {XPPMATH 20 ",&*&-I$sinG6$%*p
+rotectedGI(_syslibG6\"6#I\"LGF)\"\"\",dp*&&I\"kGF)6#F,F,-I$cosGF&F*F,!
+\"$*&&F06#\"\"!F,F2F,!\"%*(F/F,F6F,F$F,\"\"%*(F$F,F6F,F/\"\"$F,**F$F,F
+2F;F6F=F/F=F;**F$F,F2F;F6F=F/F,!#7**F$F,F2F;F6\"\"#F/FB!#[**F$F,F2F;F6
+F,F/F=!#?**F$F,F2FBF6F=F/F=!\")**F$F,F2F;F6F,F/F,\"#g**F$F,F2FBF6F=F/F
+,\"#7**F$F,F2FBF6FBF/FB\"#c**F$F,F2FBF6F,F/F=\"#>**F$F,F2FBF6F,F/F,!#R
+*(F2F,F6F=F/FBF@*(F2F,F6FBF/F=!#;*(F2F,F6FBF/F,\"#;*(F2F,F6F,F/FB\"#=*
+(F2F=F6FBF/F,!#k*(F2F=F6F,F/FB!#y*(F2\"\"&F6F=F/FBF@*(F2FhnF6FBF/F=FT*
+(F2FhnF6FBF/F,\"#[*(F2FhnF6F,F/FBFI*(F2F=F6F=F/FB\"#C*(F2F=F6FBF/F=\"#
+K*(F$F,F2F;F6FBFV*(F$F,F2F;F/FBF^o*(F$F,F6F=F/F=F;*(F$F,F2FBF6FBFG*(F$
+F,F2FBF/FB!#5*(F$F,F6FBF/FBFG*&F$F,F/FB!\"\"*&F2F,F/F=Fio*&F2FhnF6F=F;
+*&F2FhnF/F=\"\")*&F$F,F2F;FG*&F$F,F2FBF;*&F2F=F6F=F9*&F2F=F/F=!\"(*&F2
+F=F6F,\"#?*&F2F=F/F,\"#B*&F2FhnF6F,FE*&F2FhnF/F,!#CF,F,*(F$F=,&*&F6F,F
+$F,F,F2FioF,---I#@@GF&6$I\"DGF&FB6#F06#&I\"sGF)F1F,F," }}}{PARA 0 "" 0
+ "" {TEXT 214 0 "" }}}{SECT 1 {PARA 4 "" 0 "" {TEXT 216 6 "a[0,3]" }}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "restart:" }}}{EXCHG {PARA 0 "
+> " 0 "" {MPLTEXT 1 0 1070 "a[0,3]:=(1/2*(-k[1]*sin(L)*(k[0]*sin(L)-co
+s(L))*cos(L)-sin(L)^2*(k[0]*sin(L)-cos(L))+cos(L)+(k[1]*sin(L)-cos(L))
+*(k[0]*sin(L)-cos(L))^2))*sin(L)*(k[1]*sin(L)-cos(L))^2+(1/2*(-k[1]*si
+n(L)*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))*cos(L)-sin(L)^2
+*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))+(k[0]*sin(L)-cos(L)
+)*(k[1]*sin(L)-cos(L))*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L
+))))*sin(L)^2*(k[1]*sin(L)-cos(L))+(1/6*(-sin(L)*(k[0]*sin(L)-cos(L))*
+cos(L)+sin(L)+sin(L)*(k[0]*sin(L)-cos(L))^2))*(k[1]*sin(L)-cos(L))^3+(
+1/6*(((D@@2)(k))(s[1])*sin(L)-k[1]*(k[1]*sin(L)-cos(L))*(k[1]*k[0]*sin
+(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))*cos(L)-sin(L)*(k[1]*sin(L)-cos(L))
+*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))+(k[1]*sin(L)-cos(L)
+)*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))^2))*sin(L)^3+(1/6*
+(-sin(L)*(k[1]*sin(L)-cos(L))*cos(L)+sin(L)+sin(L)*(k[1]*sin(L)-cos(L)
+)^2))*(k[1]*sin(L)-cos(L))+(1/6*(((D@@2)(k))(s[1])*sin(L)^3-k[1]*sin(L
+)*(k[1]*sin(L)-cos(L))*cos(L)-sin(L)^2*(k[1]*sin(L)-cos(L))+cos(L)*(k[
+1]*sin(L)-cos(L))^2+k[1]*sin(L)-cos(L)))*sin(L):" }}}{EXCHG {PARA 0 ">
+ " 0 "" {MPLTEXT 1 0 49 "A01:=coeff(coeff(a[0,3],(D)(k)(0)),(D)(k)(s[1
+]));" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}{EXCHG {PARA 0 "> " 0 
+"" {MPLTEXT 1 0 31 "A00:=coeff(a[0,3],(D)(k)(0),2);" }}{PARA 11 "" 1 "
+" {XPPMATH 20 "\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 44 "A11
+:=simplify(coeff(a[0,3],(D)(k)(s[1]),2));" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 31 "AA0:=
+coeff(a[0,3],(D@D)(k)(0));" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 44 "AA1:=simplify(coeff(a[0,3],(
+D@D)(k)(s[1])));" }}{PARA 11 "" 1 "" {XPPMATH 20 ",$*$-I$sinG6$%*prote
+ctedGI(_syslibG6\"6#I\"LGF)\"\"%#\"\"\"\"\"$" }}}{EXCHG {PARA 0 "> " 0
+ "" {MPLTEXT 1 0 48 "X:=subs((D@D)(k)(s[1])=0,(D)(k)(s[1])=0,a[0,3]):"
+ }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 754 "X0:=(1/3)*sin(L)*(3*k[1]*sin(L)
+-3*cos(L)-12*cos(L)^5*k[0]^2*k[1]^2-12*cos(L)^5*k[0]*k[1]^3+36*cos(L)^
+5*k[0]*k[1]+24*cos(L)^3*k[0]^2*k[1]^2+24*cos(L)^3*k[0]*k[1]^3-8*sin(L)
+*cos(L)^4*k[1]^3+7*sin(L)*cos(L)^2*k[1]^3+4*sin(L)*k[0]^2*k[1]^3-6*sin
+(L)*cos(L)^2*k[0]-6*sin(L)*k[0]*k[1]^2+12*sin(L)*cos(L)^4*k[0]+24*sin(
+L)*cos(L)^4*k[1]-15*sin(L)*cos(L)^2*k[1]-8*cos(L)^5+8*cos(L)^3+4*cos(L
+)^5*k[0]^2+24*cos(L)^5*k[1]^2+sin(L)*k[1]^3+6*cos(L)*k[1]^2-4*cos(L)^3
+*k[0]^2-30*cos(L)^3*k[1]^2+4*sin(L)*cos(L)^4*k[0]^2*k[1]^3-12*sin(L)*c
+os(L)^4*k[0]^2*k[1]-36*sin(L)*cos(L)^4*k[0]*k[1]^2-8*sin(L)*cos(L)^2*k
+[0]^2*k[1]^3+12*sin(L)*cos(L)^2*k[0]^2*k[1]+42*sin(L)*cos(L)^2*k[0]*k[
+1]^2-12*cos(L)*k[0]^2*k[1]^2-12*cos(L)*k[0]*k[1]^3+12*cos(L)*k[0]*k[1]
+-48*cos(L)^3*k[0]*k[1])" }{MPLTEXT 1 0 2 ";\n" }{MPLTEXT 1 0 15 "simpl
+ify(X-X0);" }}{PARA 11 "" 1 "" {XPPMATH 20 ",$*&-I$sinG6$%*protectedGI
+(_syslibG6\"6#I\"LGF)\"\"\",^o*&&I\"kGF)6#F,F,F$F,\"\"$*&F$F,F/F2F,*&-
+I$cosGF&F*\"\"&&F06#\"\"!\"\"#\"\"%*&F5F7F/F;\"#C*&F5F,F/F;\"\"'*&F5F2
+F8F;!\"%*&F5F2F/F;!#IF5!\"$**F$F,F5F<F8F;F/F2F<**F$F,F5F<F8F;F/F,!#7**
+F$F,F5F<F8F,F/F;!#O**F$F,F5F;F8F;F/F2!\")**F$F,F5F;F8F;F/F,\"#7**F$F,F
+5F;F8F,F/F;\"#U*(F5F7F8F;F/F;FH*(F5F7F8F,F/F2FH*(F5F7F8F,F/F,\"#O*(F5F
+2F8F;F/F;F>*(F5F2F8F,F/F2F>*(F$F,F5F<F/F2FL*(F$F,F5F;F/F2\"\"(*(F$F,F8
+F;F/F2F<*(F$F,F5F;F8F,!\"'*(F$F,F8F,F/F;Ffn*(F$F,F5F<F8F,FN*(F$F,F5F<F
+/F,F>*(F$F,F5F;F/F,!#:*(F5F,F8F;F/F;FH*(F5F,F8F,F/F2FH*(F5F,F8F,F/F,FN
+*(F5F2F8F,F/F,!#[*$F5F7FL*$F5F2\"\")F,#F,F2" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 79 "simpl
+ify(X0+A01*(D)(k)(0)*(D)(k)(s[1])+A00*((D)(k)(0))^2+A11*((D)(k)(s[1]))
+^2+\n" }{MPLTEXT 1 0 43 "AA0*(D@D)(k)(0)+AA1*(D@D)(k)(s[1])-a[0,3]);" 
+}}{PARA 0 "> " 0 "" {MPLTEXT 1 0 78 "a[0,3]:=X0+A01*(D)(k)(0)*(D)(k)(s
+[1])+A00*((D)(k)(0))^2+A11*((D)(k)(s[1]))^2+\n" }{MPLTEXT 1 0 35 "AA0*
+(D@D)(k)(0)+AA1*(D@D)(k)(s[1]);" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 794 
+"a[0,3] := (1/3)*sin(L)*(3*k[1]*sin(L)+sin(L)*k[1]^3+4*cos(L)^5*k[0]^2
++24*cos(L)^5*k[1]^2+6*cos(L)*k[1]^2-4*cos(L)^3*k[0]^2-30*cos(L)^3*k[1]
+^2-3*cos(L)+4*sin(L)*cos(L)^4*k[0]^2*k[1]^3-12*sin(L)*cos(L)^4*k[0]^2*
+k[1]-36*sin(L)*cos(L)^4*k[0]*k[1]^2-8*sin(L)*cos(L)^2*k[0]^2*k[1]^3+12
+*sin(L)*cos(L)^2*k[0]^2*k[1]+42*sin(L)*cos(L)^2*k[0]*k[1]^2-12*cos(L)^
+5*k[0]^2*k[1]^2-12*cos(L)^5*k[0]*k[1]^3+36*cos(L)^5*k[0]*k[1]+24*cos(L
+)^3*k[0]^2*k[1]^2+24*cos(L)^3*k[0]*k[1]^3-8*sin(L)*cos(L)^4*k[1]^3+7*s
+in(L)*cos(L)^2*k[1]^3+4*sin(L)*k[0]^2*k[1]^3-6*sin(L)*cos(L)^2*k[0]-6*
+sin(L)*k[0]*k[1]^2+12*sin(L)*cos(L)^4*k[0]+24*sin(L)*cos(L)^4*k[1]-15*
+sin(L)*cos(L)^2*k[1]-12*cos(L)*k[0]^2*k[1]^2-12*cos(L)*k[0]*k[1]^3+12*
+cos(L)*k[0]*k[1]-48*cos(L)^3*k[0]*k[1]-8*cos(L)^5+8*cos(L)^3)+(1/3)*si
+n(L)^4*((D@@2)(k))(s[1]):" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}
+{PARA 11 "" 1 "" {XPPMATH 20 ",&*&-I$sinG6$%*protectedGI(_syslibG6\"6#
+I\"LGF)\"\"\",^o*&&I\"kGF)6#F,F,F$F,\"\"$*&F$F,F/F2F,*&-I$cosGF&F*\"\"
+&&F06#\"\"!\"\"#\"\"%*&F5F7F/F;\"#C*&F5F,F/F;\"\"'*&F5F2F8F;!\"%*&F5F2
+F/F;!#IF5!\"$**F$F,F5F<F8F;F/F2F<**F$F,F5F<F8F;F/F,!#7**F$F,F5F<F8F,F/
+F;!#O**F$F,F5F;F8F;F/F2!\")**F$F,F5F;F8F;F/F,\"#7**F$F,F5F;F8F,F/F;\"#
+U*(F5F7F8F;F/F;FH*(F5F7F8F,F/F2FH*(F5F7F8F,F/F,\"#O*(F5F2F8F;F/F;F>*(F
+5F2F8F,F/F2F>*(F$F,F5F<F/F2FL*(F$F,F5F;F/F2\"\"(*(F$F,F8F;F/F2F<*(F$F,
+F5F;F8F,!\"'*(F$F,F8F,F/F;Ffn*(F$F,F5F<F8F,FN*(F$F,F5F<F/F,F>*(F$F,F5F
+;F/F,!#:*(F5F,F8F;F/F;FH*(F5F,F8F,F/F2FH*(F5F,F8F,F/F,FN*(F5F2F8F,F/F,
+!#[*$F5F7FL*$F5F2\"\")F,#F,F2*&F$F<---I#@@GF&6$I\"DGF&F;6#F06#&I\"sGF)
+F1F,Fdo" }}}{PARA 0 "" 0 "" {TEXT 214 0 "" }}}{SECT 1 {PARA 4 "" 0 "" 
+{TEXT 216 6 "b[3,0]" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 9 "restar
+t:\n" }{MPLTEXT 1 0 3769 "b[3,0] :=(1/6*(((D@@2)(k))(0)*sin(L)-k[0]*(k
+[0]*sin(L)-cos(L))*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))*c
+os(L)-(k[0]*sin(L)-cos(L))*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*c
+os(L))*sin(L)+(k[0]*sin(L)-cos(L))*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L
+)-k[0]*cos(L))^2))*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))+(
+1/2*(((D@@2)(k))(0)*(k[1]*sin(L)-cos(L))*sin(L)^2*k[1]-((D@@2)(k))(0)*
+(k[1]*sin(L)-cos(L))*sin(L)*cos(L)+(k[0]*sin(L)-cos(L))*(k[1]*k[0]*sin
+(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))*sin(L)-k[1]*sin(L)^2*(k[1]*k[0]*si
+n(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))-k[1]*k[0]*sin(L)*(k[1]*k[0]*sin(L
+)-k[1]*cos(L)-sin(L)-k[0]*cos(L))*cos(L)-k[0]*sin(L)^2*(k[1]*k[0]*sin(
+L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))+sin(L)*(k[1]*k[0]*sin(L)-k[1]*cos(L
+)-sin(L)-k[0]*cos(L))*cos(L)+k[1]*cos(L)*(k[0]*sin(L)-cos(L))*(k[1]*k[
+0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))+(D(k))(s[1])*sin(L)^2*(D(k))
+(0)))*(k[0]*sin(L)-cos(L))^2*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]
+*cos(L))+(1/2*(k[1]*cos(L)*(k[0]*sin(L)-cos(L))^2-k[1]*sin(L)^2*(k[0]*
+sin(L)-cos(L))-k[0]*k[1]*sin(L)*(k[0]*sin(L)-cos(L))*cos(L)-k[0]*sin(L
+)^2*(k[0]*sin(L)-cos(L))+k[0]*cos(L)+((D@@2)(k))(0)*sin(L)^3*k[1]-((D@
+@2)(k))(0)*sin(L)^2*cos(L)+sin(L)*(k[0]*sin(L)-cos(L))^2+sin(L)*(k[0]*
+sin(L)-cos(L))*cos(L)+sin(L)))*(k[0]*sin(L)-cos(L))*(k[1]*k[0]*sin(L)-
+k[1]*cos(L)-sin(L)-k[0]*cos(L))^2+(1/2)*(D(k))(0)*sin(L)^2*((D(k))(s[1
+])*(k[0]*sin(L)-cos(L))*k[0]*sin(L)+k[1]*(D(k))(0)*sin(L)-(D(k))(s[1])
+*(k[0]*sin(L)-cos(L))*cos(L)-(D(k))(0)*cos(L))*(k[1]*k[0]*sin(L)-k[1]*
+cos(L)-sin(L)-k[0]*cos(L))+(1/2*((D(k))(s[1])*(k[0]*sin(L)-cos(L))*k[0
+]*sin(L)+k[1]*(D(k))(0)*sin(L)-(D(k))(s[1])*(k[0]*sin(L)-cos(L))*cos(L
+)-(D(k))(0)*cos(L)))*((D(k))(0)*sin(L)^2*k[1]-(D(k))(0)*sin(L)*cos(L))
+*(k[0]*sin(L)-cos(L))+(1/2*((D(k))(0)*(k[1]*sin(L)-cos(L))*k[1]*sin(L)
++k[0]*(D(k))(s[1])*sin(L)-(D(k))(0)*(k[1]*sin(L)-cos(L))*cos(L)-(D(k))
+(s[1])*cos(L)))*(D(k))(0)*sin(L)*(k[0]*sin(L)-cos(L))+(1/2*((D(k))(0)*
+sin(L)^2*k[1]-(D(k))(0)*sin(L)*cos(L)))*(D(k))(0)*sin(L)*(k[1]*k[0]*si
+n(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))+(1/6*(((D@@2)(k))(0)*sin(L)^3-k[0
+]*sin(L)*(k[0]*sin(L)-cos(L))*cos(L)-sin(L)^2*(k[0]*sin(L)-cos(L))+cos
+(L)*(k[0]*sin(L)-cos(L))^2+k[0]*sin(L)-cos(L)))*(k[1]*k[0]*sin(L)-k[1]
+*cos(L)-sin(L)-k[0]*cos(L))^3+(1/6*(((D@@2)(k))(0)*(k[1]*sin(L)-cos(L)
+)^2*k[1]*sin(L)-((D@@2)(k))(0)*(k[1]*sin(L)-cos(L))^2*cos(L)-k[1]*(k[1
+]*sin(L)-cos(L))*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))*sin
+(L)-k[0]*k[1]*(k[1]*sin(L)-cos(L))*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L
+)-k[0]*cos(L))*cos(L)-k[0]*(k[1]*sin(L)-cos(L))*(k[1]*k[0]*sin(L)-k[1]
+*cos(L)-sin(L)-k[0]*cos(L))*sin(L)+2*(D(k))(0)*(k[1]*sin(L)-cos(L))*(D
+(k))(s[1])*sin(L)+(k[1]*sin(L)-cos(L))*(k[1]*k[0]*sin(L)-k[1]*cos(L)-s
+in(L)-k[0]*cos(L))*cos(L)-((D@@2)(k))(s[1])*cos(L)+k[0]*((D@@2)(k))(s[
+1])*sin(L)+(D(k))(0)*(D(k))(s[1])*sin(L)^2*k[1]+k[1]*cos(L)*(k[1]*k[0]
+*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))^2-(D(k))(s[1])*(D(k))(0)*sin(L
+)*cos(L)+sin(L)*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))^2))*
+(k[0]*sin(L)-cos(L))^3+(1/6*(-(D(k))(s[1])*(D(k))(0)*sin(L)*cos(L)+(D(
+k))(s[1])*(D(k))(0)*sin(L)^2*k[0]+k[0]*cos(L)*(k[1]*k[0]*sin(L)-k[1]*c
+os(L)-sin(L)-k[0]*cos(L))^2-k[1]*(k[0]*sin(L)-cos(L))*(k[1]*k[0]*sin(L
+)-k[1]*cos(L)-sin(L)-k[0]*cos(L))*sin(L)-k[1]*k[0]*(k[0]*sin(L)-cos(L)
+)*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))*cos(L)-k[0]*(k[0]*
+sin(L)-cos(L))*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))*sin(L
+)+2*(D(k))(s[1])*(k[0]*sin(L)-cos(L))*(D(k))(0)*sin(L)-((D@@2)(k))(s[1
+])*(k[0]*sin(L)-cos(L))^2*cos(L)+((D@@2)(k))(s[1])*(k[0]*sin(L)-cos(L)
+)^2*k[0]*sin(L)+sin(L)*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L
+))^2+(k[0]*sin(L)-cos(L))*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*co
+s(L))*cos(L)+k[1]*((D@@2)(k))(0)*sin(L)-((D@@2)(k))(0)*cos(L)))*(k[0]*
+sin(L)-cos(L)):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 48 "X:=coeff
+(coeff(b[3,0],(D)(k)(0)),(D)(k)(s[1])):\n" }{MPLTEXT 1 0 308 "A01 := 2
+*sin(L)*(cos(L)^4*k[0]^3*k[1]+sin(L)*cos(L)^3*k[0]^3+3*sin(L)*cos(L)^3
+*k[0]^2*k[1]-3*cos(L)^4*k[0]^2-3*cos(L)^4*k[0]*k[1]-2*cos(L)^2*k[0]^3*
+k[1]-3*sin(L)*cos(L)^3*k[0]-sin(L)*cos(L)^3*k[1]-cos(L)*k[0]^3*sin(L)-
+3*cos(L)*k[0]^2*k[1]*sin(L)+cos(L)^4+3*cos(L)^2*k[0]^2+3*cos(L)^2*k[0]
+*k[1]+k[0]^3*k[1]);\n" }{MPLTEXT 1 0 16 "simplify(X-A01);" }}{PARA 11 
+"" 1 "" {XPPMATH 20 ",$*&-I$sinG6$%*protectedGI(_syslibG6\"6#I\"LGF)\"
+\"\",>*(-I$cosGF&F*\"\"%&I\"kGF)6#\"\"!\"\"$&F36#F,F,F,*(F$F,F/F6F2F6F
+,**F$F,F/F6F2\"\"#F7F,F6*&F/F1F2F;!\"$*(F/F1F2F,F7F,F=*(F/F;F2F6F7F,!
+\"#*(F$F,F/F6F2F,F=*(F$F,F/F6F7F,!\"\"*(F/F,F2F6F$F,FC**F/F,F2F;F7F,F$
+F,F=*$F/F1F,*&F/F;F2F;F6*(F/F;F2F,F7F,F6*&F2F6F7F,F,F,F;" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+29 "X:=coeff(b[3,0],(D)(k)(0),2):" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 
+219 "A00 := -sin(L)*(2*sin(L)*cos(L)^2*k[0]*k[1]^2-4*cos(L)^3*k[0]*k[1
+]-2*cos(L)^3*k[1]^2-2*sin(L)*cos(L)^2*k[0]-4*sin(L)*cos(L)^2*k[1]-2*k[
+0]*k[1]^2*sin(L)+2*cos(L)^3+4*cos(L)*k[0]*k[1]+2*cos(L)*k[1]^2+k[1]*si
+n(L)-cos(L));\n" }{MPLTEXT 1 0 16 "simplify(X-A00);" }}{PARA 11 "" 1 "
+" {XPPMATH 20 ",$*&-I$sinG6$%*protectedGI(_syslibG6\"6#I\"LGF)\"\"\",8
+**F$F,-I$cosGF&F*\"\"#&I\"kGF)6#\"\"!F,&F36#F,F1F1*(F/\"\"$F2F,F6F,!\"
+%*&F/F9F6F1!\"#*(F$F,F/F1F2F,F<*(F$F,F/F1F6F,F:*(F2F,F6F1F$F,F<*$F/F9F
+1*(F/F,F2F,F6F,\"\"%*&F/F,F6F1F1*&F6F,F$F,F,F/!\"\"F,FE" }}{PARA 11 ""
+ 1 "" {XPPMATH 20 "\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 44 
+"A11:=simplify(coeff(b[3,0],(D)(k)(s[1]),2));" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 44 "AA1:=
+simplify(coeff(b[3,0],(D@D)(k)(s[1])));" }{TEXT 214 0 "" }}{PARA 11 ""
+ 1 "" {XPPMATH 20 ",4*&-I$cosG6$%*protectedGI(_syslibG6\"6#I\"LGF)\"\"
+%&I\"kGF)6#\"\"!F,#\"\"\"\"\"$*(-I$sinGF&F*F2F$F3F-F3#F,F3*&F$F,F-\"\"
+#!\"#*&F$F9F-F,#F:F3*(F5F2F$F3F-F2#!\"%F3*(F$F2F-F3F5F2F>*$F$F,F1*&F$F
+9F-F9F9*$F-F,F1" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 30 "X:=coeff
+(b[3,0],(D@D)(k)(0)):\n" }{MPLTEXT 1 0 1202 "AA0:=4*cos(L)*k[0]^2*k[1]
+*sin(L)+(4/3)*k[0]*k[1]-16*sin(L)*cos(L)^3*k[0]^2*k[1]+4*sin(L)*cos(L)
+^3*k[0]+4*sin(L)*cos(L)^3*k[1]-(4/3)*sin(L)*cos(L)*k[0]-(4/3)*k[1]*sin
+(L)*cos(L)-2*cos(L)^4+(4/3)*cos(L)^2-2*cos(L)^2*k[0]^2-(28/3)*cos(L)^2
+*k[0]*k[1]-8*cos(L)^4*k[0]^3*k[1]+20*cos(L)^4*k[0]*k[1]+4*cos(L)^2*k[0
+]^3*k[1]-(4/3)*sin(L)*cos(L)^3*k[0]^3+8*sin(L)*cos(L)^3*k[0]^2*k[1]^3-
+16*sin(L)*cos(L)^3*k[0]*k[1]^2-4*sin(L)*cos(L)^5*k[0]^3*k[1]^2-4*sin(L
+)*cos(L)^5*k[0]^2*k[1]^3+12*sin(L)*cos(L)^5*k[0]^2*k[1]+12*sin(L)*cos(
+L)^5*k[0]*k[1]^2+8*sin(L)*cos(L)^3*k[0]^3*k[1]^2-(4/3)*sin(L)*cos(L)^3
+*k[1]^3+(4/3)*sin(L)*cos(L)^5*k[0]^3+(4/3)*sin(L)*cos(L)^5*k[1]^3+4*co
+s(L)^4*k[0]^3*k[1]^3-26*cos(L)^4*k[0]^2*k[1]^2-8*cos(L)^4*k[0]*k[1]^3-
+4*cos(L)^2*k[0]^3*k[1]^3-(4/3)*cos(L)^6*k[0]^3*k[1]^3+4*cos(L)^6*k[0]^
+3*k[1]+12*cos(L)^6*k[0]^2*k[1]^2+4*cos(L)^6*k[0]*k[1]^3-12*cos(L)^6*k[
+0]*k[1]+16*cos(L)^2*k[0]^2*k[1]^2+4*cos(L)^2*k[0]*k[1]^3+4*cos(L)*k[0]
+*k[1]^2*sin(L)-4*cos(L)^6*k[0]^2-4*cos(L)^6*k[1]^2-2*cos(L)^2*k[1]^2+6
+*cos(L)^4*k[1]^2+(4/3)*cos(L)^6+(4/3)*k[0]^3*k[1]^3-2*k[0]^2*k[1]^2-4*
+sin(L)*cos(L)^5*k[0]-4*sin(L)*cos(L)^5*k[1]-1/3-4*cos(L)*k[0]^3*k[1]^2
+*sin(L)-4*cos(L)*k[0]^2*k[1]^3*sin(L)+6*cos(L)^4*k[0]^2;\n" }{MPLTEXT 
+1 0 16 "simplify(X-AA0);" }}{PARA 11 "" 1 "" {XPPMATH 20 ",`q*&-I$cosG
+6$%*protectedGI(_syslibG6\"6#I\"LGF)\"\"%&I\"kGF)6#\"\"!\"\"#\"\"'*&F$
+F1F-F1!\"#*$F$F2#F,\"\"$*(F$F,F-F7&F.6#\"\"\"F;!\")*(-I$sinGF&F*F;F$F7
+F-F7#!\"%F7*(F>F;F$F7F9F;F,**F>F;F$F7F-F1F9F;!#;**F$F;F-F1F9F;F>F;F,*(
+F$F,F-F;F9F;\"#?*(F$F1F-F7F9F;F,*(F>F;F$F7F-F;F,*(F$F1F-F;F9F;#!#GF7*$
+F$F,F4*$F$F1F6**F>F;F$F7F-F1F9F7\"\")**F>F;F$F7F-F;F9F1FD**F>F;F$\"\"&
+F-F7F9F1FA**F>F;F$FSF-F1F9F7FA**F>F;F$FSF-F1F9F;\"#7**F>F;F$FSF-F;F9F1
+FV**F>F;F$F7F-F7F9F1FP**F$F;F-F;F9F1F>F;F,**F$F;F-F7F9F1F>F;FA**F$F;F-
+F1F9F7F>F;FA*&F-F;F9F;F6*&F$F2F-F1FA*&F$F2F9F1FA*&F$F1F9F1F4*&F$F,F9F1
+F2*&F-F7F9F7F6*&F-F1F9F1F4*(F>F;F$F;F-F;F@*(F9F;F>F;F$F;F@*(F>F;F$F7F9
+F7F@*(F>F;F$FSF-F7F6*(F>F;F$FSF9F7F6*(F$F,F-F7F9F7F,*(F$F,F-F1F9F1!#E*
+(F$F,F-F;F9F7F<*(F$F1F-F7F9F7FA*(F$F2F-F7F9F7F@*(F$F2F-F7F9F;F,*(F$F2F
+-F1F9F1FV*(F$F2F-F;F9F7F,*(F$F2F-F;F9F;!#7*(F$F1F-F1F9F1\"#;*(F$F1F-F;
+F9F7F,*(F>F;F$FSF-F;FA*(F>F;F$FSF9F;FA#!\"\"F7F;" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 75 "X:=su
+bs((D@D)(k)(s[1])=0,(D)(k)(s[1])=0,(D@D)(k)(0)=0,(D)(k)(0)=0,b[3,0]):
+\n" }{MPLTEXT 1 0 886 "X0:=-(4/3)*k[0]^2*k[1]-(1/3)*sin(L)*cos(L)+(1/3
+)*k[0]+2*k[0]^3*k[1]^2+(1/3)*k[0]^3-cos(L)^4*k[0]^4*k[1]^3-(2/3)*cos(L
+)^2*k[0]^3-(2/3)*cos(L)^2*k[0]-(4/3)*cos(L)^2*k[1]-2*sin(L)*cos(L)^3*k
+[0]^4*k[1]^2-4*sin(L)*cos(L)^3*k[0]^3*k[1]^3+2*cos(L)^2*k[0]^4*k[1]^3-
+(2/3)*cos(L)^2*k[0]^4*k[1]-10*cos(L)^2*k[0]^3*k[1]^2-6*cos(L)^2*k[0]^2
+*k[1]^3+6*cos(L)^2*k[0]^2*k[1]+6*cos(L)^2*k[0]*k[1]^2+cos(L)^4*k[0]^4*
+k[1]+8*cos(L)^4*k[0]^3*k[1]^2+6*cos(L)^4*k[0]^2*k[1]^3-6*cos(L)*k[0]^2
+*k[1]^2*sin(L)-(4/3)*cos(L)*k[0]^3*k[1]*sin(L)+2*cos(L)*k[0]^4*k[1]^2*
+sin(L)+4*cos(L)*k[0]^3*k[1]^3*sin(L)+(8/3)*k[1]*k[0]*sin(L)*cos(L)+(1/
+3)*cos(L)*k[0]^4*sin(L)-6*cos(L)^4*k[0]^2*k[1]-8*cos(L)^4*k[0]*k[1]^2-
+2*sin(L)*cos(L)^3*k[1]^2-cos(L)^4*k[1]^3+cos(L)^4*k[1]-k[0]^4*k[1]^3-(
+1/3)*k[0]^4*k[1]+4*sin(L)*cos(L)^3*k[0]*k[1]^3-4*sin(L)*cos(L)^3*k[0]*
+k[1]+4*sin(L)*cos(L)^3*k[0]^3*k[1]+12*sin(L)*cos(L)^3*k[0]^2*k[1]^2;\n
+" }{MPLTEXT 1 0 15 "simplify(X-X0);" }}{PARA 11 "" 1 "" {XPPMATH 20 ",
+fo*&&I\"kG6\"6#\"\"!\"\"#&F%6#\"\"\"F,#!\"%\"\"$*&-I$sinG6$%*protected
+GI(_syslibGF&6#I\"LGF&F,-I$cosGF3F6F,#!\"\"F/F$#F,F/*&F$F/F*F)F)*$F$F/
+F<*(F8F)F$\"\"%F*F/F)*(F8F)F$F@F*F,#!\"#F/*(F8F)F$F/F*F)!#5*(F8F)F$F)F
+*F/!\"'*(F8F)F$F)F*F,\"\"'*(F8F)F$F,F*F)FI*(F8F@F$F/F*F)\"\")*(F8F@F$F
+)F*F/FI*(F8F,F$F@F1F,F<*(F8F@F$F)F*F,FG*(F8F@F$F,F*F)!\")*(F1F,F8F/F*F
+)FC*&F8F@F*F/F;*&F8F@F*F,F,*&F$F@F*F/F;*&F8F)F$F/FB*&F8F)F$F,FB*&F8F)F
+*F,F-*&F$F@F*F,F:*(F8F@F$F@F*F/F;*(F8F@F$F@F*F,F,**F1F,F8F/F$F@F*F)FC*
+*F1F,F8F/F$F/F*F/F.**F8F,F$F)F*F)F1F,FG**F8F,F$F/F*F,F1F,F-**F8F,F$F@F
+*F)F1F,F)**F8F,F$F/F*F/F1F,F@**F*F,F$F,F1F,F8F,#FLF/**F1F,F8F/F$F,F*F/
+F@**F1F,F8F/F$F,F*F,F.**F1F,F8F/F$F/F*F,F@**F1F,F8F/F$F)F*F)\"#7" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 121 "simplify(X0+AA0*(D@D)(k)(0)+AA1*(D@D)(k)(s[1])+A11*(
+(D)(k)(s[1]))^2+A00*((D)(k)(0))^2+A01*(D)(k)(0)*(D)(k)(s[1])-b[3,0]);"
+ }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 113 "b[3,0]:= X0+AA0*(D@D)(k)(0)+AA1*(D@D)(k)(s[1])+A11*(
+(D)(k)(s[1]))^2+A00*((D)(k)(0))^2+A01*(D)(k)(0)*(D)(k)(s[1]);" }}
+{PARA 11 "" 1 "" {XPPMATH 20 ",^p*&&I\"kG6\"6#\"\"!\"\"#&F%6#\"\"\"F,#
+!\"%\"\"$*&-I$sinG6$%*protectedGI(_syslibGF&6#I\"LGF&F,-I$cosGF3F6F,#!
+\"\"F/F$#F,F/*&F$F/F*F)F)*$F$F/F<*(F8F)F$\"\"%F*F/F)*(F8F)F$F@F*F,#!\"
+#F/*(F8F)F$F/F*F)!#5*(F8F)F$F)F*F/!\"'*(F8F)F$F)F*F,\"\"'*(F8F)F$F,F*F
+)FI*(F8F@F$F/F*F)\"\")*(F8F@F$F)F*F/FI*(F8F,F$F@F1F,F<*(F8F@F$F)F*F,FG
+*(F8F@F$F,F*F)!\")*(F1F,F8F/F*F)FC*(F1F,,8**F1F,F8F)F$F,F*F)F)*(F8F/F$
+F,F*F,F.*&F8F/F*F)FC*(F1F,F8F)F$F,FC*(F1F,F8F)F*F,F.*(F$F,F*F)F1F,FC*$
+F8F/F)*(F8F,F$F,F*F,F@*&F8F,F*F)F)*&F*F,F1F,F,F8F;F,--I\"DGF36#F%F'F)F
+;**F1F,,>*(F8F@F$F/F*F,F,*(F1F,F8F/F$F/F,**F1F,F8F/F$F)F*F,F/*&F8F@F$F
+)!\"$*(F8F@F$F,F*F,Fco*(F8F)F$F/F*F,FC*(F1F,F8F/F$F,Fco*(F1F,F8F/F*F,F
+;*(F8F,F$F/F1F,F;**F8F,F$F)F*F,F1F,Fco*$F8F@F,*&F8F)F$F)F/*(F8F)F$F,F*
+F,F/*&F$F/F*F,F,F,FinF,-Fjn6#&I\"sGF&F+F,F)*&,`qFboFIF[pFC*$F8FI#F@F/F
+_oFQF`oF-FgoF@Fao!#;FioF@Fdo\"#?FeoF@FfoF@F\\p#!#GF/FjoFC*$F8F)Fep**F1
+F,F8F/F$F)F*F/FL**F1F,F8F/F$F,F*F)Ffp**F1F,F8\"\"&F$F/F*F)F.**F1F,F8F^
+qF$F)F*F/F.**F1F,F8F^qF$F)F*F,\"#7**F1F,F8F^qF$F,F*F)Faq**F1F,F8F/F$F/
+F*F)FL**F8F,F$F,F*F)F1F,F@**F8F,F$F/F*F)F1F,F.**F8F,F$F)F*F/F1F,F.*&F$
+F,F*F,Fep*&F8FIF$F)F.*&F8FIF*F)F.*&F8F)F*F)FC*&F8F@F*F)FI*&F$F/F*F/Fep
+*&F$F)F*F)FC*(F1F,F8F,F$F,F-*(F*F,F1F,F8F,F-*(F1F,F8F/F*F/F-*(F1F,F8F^
+qF$F/Fep*(F1F,F8F^qF*F/Fep*(F8F@F$F/F*F/F@*(F8F@F$F)F*F)!#E*(F8F@F$F,F
+*F/FQ*(F8F)F$F/F*F/F.*(F8FIF$F/F*F/F-*(F8FIF$F/F*F,F@*(F8FIF$F)F*F)Faq
+*(F8FIF$F,F*F/F@*(F8FIF$F,F*F,!#7*(F8F)F$F)F*F)\"#;*(F8F)F$F,F*F/F@*(F
+1F,F8F^qF$F,F.*(F1F,F8F^qF*F,F.F:F,F,---I#@@GF36$F[oF)F\\oF'F,F,*&,4*&
+F8F@F$F@F<F`oFepFboFC*&F8F)F$F@FBFfoF-FhoF-FjoF<F[pF)*$F$F@F<F,-FdsF_p
+F,F,*&F8F@F*F/F;*&F8F@F*F,F,*&F$F@F*F/F;*&F8F)F$F/FB*&F8F)F$F,FB*&F8F)
+F*F,F-*&F$F@F*F,F:*(F8F@F$F@F*F/F;*(F8F@F$F@F*F,F,**F1F,F8F/F$F@F*F)FC
+**F1F,F8F/F$F/F*F/F.**F8F,F$F)F*F)F1F,FG**F8F,F$F/F*F,F1F,F-**F8F,F$F@
+F*F)F1F,F)**F8F,F$F/F*F/F1F,F@**F*F,F$F,F1F,F8F,#FLF/**F1F,F8F/F$F,F*F
+/F@**F1F,F8F/F$F,F*F,F.**F1F,F8F/F$F/F*F,F@**F1F,F8F/F$F)F*F)Faq" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 2860 "b[3,0] := -(4/3)*k[0]^2*k[
+1]-(1/3)*sin(L)*cos(L)+(1/3)*k[0]+2*k[0]^3*k[1]^2+(1/3)*k[0]^3+2*cos(L
+)^2*k[0]^4*k[1]^3-(2/3)*cos(L)^2*k[0]^4*k[1]-10*cos(L)^2*k[0]^3*k[1]^2
+-6*cos(L)^2*k[0]^2*k[1]^3+6*cos(L)^2*k[0]^2*k[1]+6*cos(L)^2*k[0]*k[1]^
+2+8*cos(L)^4*k[0]^3*k[1]^2+6*cos(L)^4*k[0]^2*k[1]^3+(1/3)*cos(L)*k[0]^
+4*sin(L)-6*cos(L)^4*k[0]^2*k[1]-8*cos(L)^4*k[0]*k[1]^2-2*sin(L)*cos(L)
+^3*k[1]^2-sin(L)*(2*sin(L)*cos(L)^2*k[0]*k[1]^2-4*cos(L)^3*k[0]*k[1]-2
+*cos(L)^3*k[1]^2-2*sin(L)*cos(L)^2*k[0]-4*sin(L)*cos(L)^2*k[1]-2*k[0]*
+k[1]^2*sin(L)+2*cos(L)^3+4*cos(L)*k[0]*k[1]+2*cos(L)*k[1]^2+k[1]*sin(L
+)-cos(L))*(D(k))(0)^2+2*sin(L)*(cos(L)^4*k[0]^3*k[1]+sin(L)*cos(L)^3*k
+[0]^3+3*sin(L)*cos(L)^3*k[0]^2*k[1]-3*cos(L)^4*k[0]^2-3*cos(L)^4*k[0]*
+k[1]-2*cos(L)^2*k[0]^3*k[1]-3*sin(L)*cos(L)^3*k[0]-sin(L)*cos(L)^3*k[1
+]-cos(L)*k[0]^3*sin(L)-3*cos(L)*k[0]^2*k[1]*sin(L)+cos(L)^4+3*cos(L)^2
+*k[0]^2+3*cos(L)^2*k[0]*k[1]+k[0]^3*k[1])*(D(k))(0)*(D(k))(s[1])+(6*co
+s(L)^4*k[0]^2-2*cos(L)^2*k[0]^2+(4/3)*cos(L)^6-8*cos(L)^4*k[0]^3*k[1]-
+(4/3)*sin(L)*cos(L)^3*k[0]^3+4*sin(L)*cos(L)^3*k[1]-16*sin(L)*cos(L)^3
+*k[0]^2*k[1]+4*cos(L)*k[0]^2*k[1]*sin(L)+20*cos(L)^4*k[0]*k[1]+4*cos(L
+)^2*k[0]^3*k[1]+4*sin(L)*cos(L)^3*k[0]-(28/3)*cos(L)^2*k[0]*k[1]-2*cos
+(L)^4+(4/3)*cos(L)^2+8*sin(L)*cos(L)^3*k[0]^2*k[1]^3-16*sin(L)*cos(L)^
+3*k[0]*k[1]^2-4*sin(L)*cos(L)^5*k[0]^3*k[1]^2-4*sin(L)*cos(L)^5*k[0]^2
+*k[1]^3+12*sin(L)*cos(L)^5*k[0]^2*k[1]+12*sin(L)*cos(L)^5*k[0]*k[1]^2+
+8*sin(L)*cos(L)^3*k[0]^3*k[1]^2+4*cos(L)*k[0]*k[1]^2*sin(L)-4*cos(L)*k
+[0]^3*k[1]^2*sin(L)-4*cos(L)*k[0]^2*k[1]^3*sin(L)+(4/3)*k[0]*k[1]-4*co
+s(L)^6*k[0]^2-4*cos(L)^6*k[1]^2-2*cos(L)^2*k[1]^2+6*cos(L)^4*k[1]^2+(4
+/3)*k[0]^3*k[1]^3-2*k[0]^2*k[1]^2-(4/3)*sin(L)*cos(L)*k[0]-(4/3)*k[1]*
+sin(L)*cos(L)-(4/3)*sin(L)*cos(L)^3*k[1]^3+(4/3)*sin(L)*cos(L)^5*k[0]^
+3+(4/3)*sin(L)*cos(L)^5*k[1]^3+4*cos(L)^4*k[0]^3*k[1]^3-26*cos(L)^4*k[
+0]^2*k[1]^2-8*cos(L)^4*k[0]*k[1]^3-4*cos(L)^2*k[0]^3*k[1]^3-(4/3)*cos(
+L)^6*k[0]^3*k[1]^3+4*cos(L)^6*k[0]^3*k[1]+12*cos(L)^6*k[0]^2*k[1]^2+4*
+cos(L)^6*k[0]*k[1]^3-12*cos(L)^6*k[0]*k[1]+16*cos(L)^2*k[0]^2*k[1]^2+4
+*cos(L)^2*k[0]*k[1]^3-4*sin(L)*cos(L)^5*k[0]-4*sin(L)*cos(L)^5*k[1]-1/
+3)*((D@@2)(k))(0)+((1/3)*cos(L)^4*k[0]^4+(4/3)*sin(L)*cos(L)^3*k[0]^3-
+2*cos(L)^4*k[0]^2-(2/3)*cos(L)^2*k[0]^4-(4/3)*sin(L)*cos(L)^3*k[0]-(4/
+3)*cos(L)*k[0]^3*sin(L)+(1/3)*cos(L)^4+2*cos(L)^2*k[0]^2+(1/3)*k[0]^4)
+*((D@@2)(k))(s[1])-cos(L)^4*k[1]^3+cos(L)^4*k[1]-k[0]^4*k[1]^3-(2/3)*c
+os(L)^2*k[0]^3-(2/3)*cos(L)^2*k[0]-(4/3)*cos(L)^2*k[1]-(1/3)*k[0]^4*k[
+1]-cos(L)^4*k[0]^4*k[1]^3+cos(L)^4*k[0]^4*k[1]-2*sin(L)*cos(L)^3*k[0]^
+4*k[1]^2-4*sin(L)*cos(L)^3*k[0]^3*k[1]^3-6*cos(L)*k[0]^2*k[1]^2*sin(L)
+-(4/3)*cos(L)*k[0]^3*k[1]*sin(L)+2*cos(L)*k[0]^4*k[1]^2*sin(L)+4*cos(L
+)*k[0]^3*k[1]^3*sin(L)+(8/3)*k[1]*k[0]*sin(L)*cos(L)+4*sin(L)*cos(L)^3
+*k[0]*k[1]^3-4*sin(L)*cos(L)^3*k[0]*k[1]+4*sin(L)*cos(L)^3*k[0]^3*k[1]
++12*sin(L)*cos(L)^3*k[0]^2*k[1]^2:" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}{PARA 0 "" 0 "" {TEXT 214 0 "" }}}{SECT 1 {PARA 4
+ "" 0 "" {TEXT 216 6 "b[2,1]" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+8 "restart:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 4738 "b[2,1]:=((
+(D@@2)(k))(0)*(k[1]*sin(L)-cos(L))*sin(L)^2*k[1]-((D@@2)(k))(0)*(k[1]*
+sin(L)-cos(L))*sin(L)*cos(L)+(k[0]*sin(L)-cos(L))*(k[1]*k[0]*sin(L)-k[
+1]*cos(L)-sin(L)-k[0]*cos(L))*sin(L)-k[1]*sin(L)^2*(k[1]*k[0]*sin(L)-k
+[1]*cos(L)-sin(L)-k[0]*cos(L))-k[1]*k[0]*sin(L)*(k[1]*k[0]*sin(L)-k[1]
+*cos(L)-sin(L)-k[0]*cos(L))*cos(L)-k[0]*sin(L)^2*(k[1]*k[0]*sin(L)-k[1
+]*cos(L)-sin(L)-k[0]*cos(L))+sin(L)*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(
+L)-k[0]*cos(L))*cos(L)+k[1]*cos(L)*(k[0]*sin(L)-cos(L))*(k[1]*k[0]*sin
+(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))+(D(k))(s[1])*sin(L)^2*(D(k))(0))*(
+k[0]*sin(L)-cos(L))*sin(L)*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*c
+os(L))+(k[1]*cos(L)*(k[0]*sin(L)-cos(L))^2-k[1]*sin(L)^2*(k[0]*sin(L)-
+cos(L))-k[0]*k[1]*sin(L)*(k[0]*sin(L)-cos(L))*cos(L)-k[0]*sin(L)^2*(k[
+0]*sin(L)-cos(L))+k[0]*cos(L)+((D@@2)(k))(0)*sin(L)^3*k[1]-((D@@2)(k))
+(0)*sin(L)^2*cos(L)+sin(L)*(k[0]*sin(L)-cos(L))^2+sin(L)*(k[0]*sin(L)-
+cos(L))*cos(L)+sin(L))*(k[0]*sin(L)-cos(L))*(k[1]*k[0]*sin(L)-k[1]*cos
+(L)-sin(L)-k[0]*cos(L))*(k[1]*sin(L)-cos(L))+(1/2*(k[0]*cos(L)*(k[1]*s
+in(L)-cos(L))*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))+((D@@2
+)(k))(s[1])*(k[0]*sin(L)-cos(L))*sin(L)^2*k[0]-((D@@2)(k))(s[1])*(k[0]
+*sin(L)-cos(L))*sin(L)*cos(L)+sin(L)*(k[1]*sin(L)-cos(L))*(k[1]*k[0]*s
+in(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))-k[1]*k[0]*sin(L)*(k[1]*k[0]*sin(
+L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))*cos(L)+sin(L)*(k[1]*k[0]*sin(L)-k[1
+]*cos(L)-sin(L)-k[0]*cos(L))*cos(L)+(D(k))(s[1])*sin(L)^2*(D(k))(0)-k[
+1]*sin(L)^2*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))-k[0]*sin
+(L)^2*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))))*(k[0]*sin(L)
+-cos(L))+(1/2*(-k[0]*sin(L)*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*
+cos(L))*cos(L)-sin(L)^2*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(
+L))+(k[0]*sin(L)-cos(L))*(k[1]*sin(L)-cos(L))*(k[1]*k[0]*sin(L)-k[1]*c
+os(L)-sin(L)-k[0]*cos(L))))*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*
+cos(L))+(D(k))(0)*sin(L)^2*((D(k))(s[1])*sin(L)^2*k[0]-(D(k))(s[1])*si
+n(L)*cos(L))*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))+((D(k))
+(s[1])*sin(L)^2*k[0]-(D(k))(s[1])*sin(L)*cos(L))*((D(k))(0)*sin(L)^2*k
+[1]-(D(k))(0)*sin(L)*cos(L))*(k[0]*sin(L)-cos(L))+(1/2*(((D@@2)(k))(0)
+*(k[1]*sin(L)-cos(L))*sin(L)^2*k[1]-((D@@2)(k))(0)*(k[1]*sin(L)-cos(L)
+)*sin(L)*cos(L)+(k[0]*sin(L)-cos(L))*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin
+(L)-k[0]*cos(L))*sin(L)-k[1]*sin(L)^2*(k[1]*k[0]*sin(L)-k[1]*cos(L)-si
+n(L)-k[0]*cos(L))-k[1]*k[0]*sin(L)*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L
+)-k[0]*cos(L))*cos(L)-k[0]*sin(L)^2*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(
+L)-k[0]*cos(L))+sin(L)*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L
+))*cos(L)+k[1]*cos(L)*(k[0]*sin(L)-cos(L))*(k[1]*k[0]*sin(L)-k[1]*cos(
+L)-sin(L)-k[0]*cos(L))+(D(k))(s[1])*sin(L)^2*(D(k))(0)))*(k[0]*sin(L)-
+cos(L))^2*(k[1]*sin(L)-cos(L))+(1/2*(k[1]*cos(L)*(k[0]*sin(L)-cos(L))^
+2-k[1]*sin(L)^2*(k[0]*sin(L)-cos(L))-k[0]*k[1]*sin(L)*(k[0]*sin(L)-cos
+(L))*cos(L)-k[0]*sin(L)^2*(k[0]*sin(L)-cos(L))+k[0]*cos(L)+((D@@2)(k))
+(0)*sin(L)^3*k[1]-((D@@2)(k))(0)*sin(L)^2*cos(L)+sin(L)*(k[0]*sin(L)-c
+os(L))^2+sin(L)*(k[0]*sin(L)-cos(L))*cos(L)+sin(L)))*sin(L)*(k[1]*k[0]
+*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))^2+(1/2*(((D@@2)(k))(0)*sin(L)^
+3-k[0]*sin(L)*(k[0]*sin(L)-cos(L))*cos(L)-sin(L)^2*(k[0]*sin(L)-cos(L)
+)+cos(L)*(k[0]*sin(L)-cos(L))^2+k[0]*sin(L)-cos(L)))*(k[1]*k[0]*sin(L)
+-k[1]*cos(L)-sin(L)-k[0]*cos(L))^2*(k[1]*sin(L)-cos(L))+(1/2*(((D@@2)(
+k))(0)*(k[1]*sin(L)-cos(L))^2*k[1]*sin(L)-((D@@2)(k))(0)*(k[1]*sin(L)-
+cos(L))^2*cos(L)-k[1]*(k[1]*sin(L)-cos(L))*(k[1]*k[0]*sin(L)-k[1]*cos(
+L)-sin(L)-k[0]*cos(L))*sin(L)-k[0]*k[1]*(k[1]*sin(L)-cos(L))*(k[1]*k[0
+]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))*cos(L)-k[0]*(k[1]*sin(L)-cos(
+L))*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))*sin(L)+2*(D(k))(
+0)*(k[1]*sin(L)-cos(L))*(D(k))(s[1])*sin(L)+(k[1]*sin(L)-cos(L))*(k[1]
+*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))*cos(L)-((D@@2)(k))(s[1])*
+cos(L)+k[0]*((D@@2)(k))(s[1])*sin(L)+(D(k))(0)*(D(k))(s[1])*sin(L)^2*k
+[1]+k[1]*cos(L)*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))^2-(D
+(k))(s[1])*(D(k))(0)*sin(L)*cos(L)+sin(L)*(k[1]*k[0]*sin(L)-k[1]*cos(L
+)-sin(L)-k[0]*cos(L))^2))*(k[0]*sin(L)-cos(L))^2*sin(L)+(1/2)*(D(k))(0
+)*sin(L)^2*((D(k))(s[1])*(k[0]*sin(L)-cos(L))*k[0]*sin(L)+k[1]*(D(k))(
+0)*sin(L)-(D(k))(s[1])*(k[0]*sin(L)-cos(L))*cos(L)-(D(k))(0)*cos(L))*(
+k[1]*sin(L)-cos(L))+(1/2*((D(k))(s[1])*(k[0]*sin(L)-cos(L))*k[0]*sin(L
+)+k[1]*(D(k))(0)*sin(L)-(D(k))(s[1])*(k[0]*sin(L)-cos(L))*cos(L)-(D(k)
+)(0)*cos(L)))*((D(k))(0)*sin(L)^2*k[1]-(D(k))(0)*sin(L)*cos(L))*sin(L)
++(1/2*((D(k))(0)*(k[1]*sin(L)-cos(L))*k[1]*sin(L)+k[0]*(D(k))(s[1])*si
+n(L)-(D(k))(0)*(k[1]*sin(L)-cos(L))*cos(L)-(D(k))(s[1])*cos(L)))*(D(k)
+)(0)*sin(L)^2+(1/2*((D(k))(0)*sin(L)^2*k[1]-(D(k))(0)*sin(L)*cos(L)))*
+(D(k))(0)*sin(L)*(k[1]*sin(L)-cos(L)):" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 47 "X:=coeff(coeff(b[2,1],(D)(k)(0)),(D)(k)(s[1])):" }}
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 222 "A01:=-sin(L)^2*(6*sin(L)*cos(L)^2*
+k[0]^2*k[1]-6*cos(L)^3*k[0]^2-12*cos(L)^3*k[0]*k[1]-12*sin(L)*cos(L)^2
+*k[0]-6*sin(L)*cos(L)^2*k[1]-6*k[0]^2*k[1]*sin(L)+6*cos(L)^3+6*cos(L)*
+k[0]^2+12*cos(L)*k[0]*k[1]+k[0]*sin(L)-cos(L));\n" }{MPLTEXT 1 0 16 "s
+implify(X-A01);" }}{PARA 11 "" 1 "" {XPPMATH 20 ",$*&-I$sinG6$%*protec
+tedGI(_syslibG6\"6#I\"LGF)\"\"#,8**F$\"\"\"-I$cosGF&F*F,&I\"kGF)6#\"\"
+!F,&F36#F/F/\"\"'*&F0\"\"$F2F,!\"'*(F0F:F2F/F6F/!#7*(F$F/F0F,F2F/F=*(F
+$F/F0F,F6F/F;*(F2F,F6F/F$F/F;*$F0F:F8*&F0F/F2F,F8*(F0F/F2F/F6F/\"#7*&F
+2F/F$F/F/F0!\"\"F/FF" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}{PARA 
+11 "" 0 "" {TEXT 217 0 "" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 29 "
+X:=coeff(b[2,1],(D)(k)(0),2):" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 89 "A0
+0:=-2*sin(L)^2*(cos(L)^2*k[1]^2+2*sin(L)*cos(L)*k[1]-cos(L)^2-k[1]^2);
+\nsimplify(X-A00);" }}{PARA 11 "" 1 "" {XPPMATH 20 ",$*&-I$sinG6$%*pro
+tectedGI(_syslibG6\"6#I\"LGF)\"\"#,**&-I$cosGF&F*F,&I\"kGF)6#\"\"\"F,F
+4*(F$F4F/F4F1F4F,*$F/F,!\"\"*$F1F,F7F4!\"#" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 44 "A11:=
+simplify(coeff(b[2,1],(D)(k)(s[1]),2));" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 44 "AA1:=simplify(
+coeff(b[2,1],(D@D)(k)(s[1])));" }}{PARA 11 "" 1 "" {XPPMATH 20 ",$*&-I
+$sinG6$%*protectedGI(_syslibG6\"6#I\"LGF)\"\"\",.*(F$F,-I$cosGF&F*\"\"
+#&I\"kGF)6#\"\"!\"\"$F,*&F/F6F2F1!\"$*(F$F,F/F1F2F,F8*&F$F,F2F6!\"\"*$
+F/F6F,*&F/F,F2F1F6F,F;" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 29 "X
+:=coeff(b[2,1],(D@D)(k)(0)):" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 729 "AA
+0:= sin(L)*(k[1]*sin(L)-cos(L)+12*sin(L)*cos(L)^2*k[0]^2*k[1]+4*cos(L)
+^3-4*sin(L)*cos(L)^2*k[0]-8*sin(L)*cos(L)^2*k[1]+8*cos(L)*k[0]*k[1]-4*
+cos(L)^3*k[0]^2-32*cos(L)^3*k[0]*k[1]+4*cos(L)^5*k[0]^2+12*cos(L)^5*k[
+1]^2+4*sin(L)*cos(L)^4*k[0]^2*k[1]^3-12*sin(L)*cos(L)^4*k[0]^2*k[1]-24
+*sin(L)*cos(L)^4*k[0]*k[1]^2-8*sin(L)*cos(L)^2*k[0]^2*k[1]^3+28*sin(L)
+*cos(L)^2*k[0]*k[1]^2-12*cos(L)^5*k[0]^2*k[1]^2-8*cos(L)^5*k[0]*k[1]^3
++24*cos(L)^5*k[0]*k[1]+24*cos(L)^3*k[0]^2*k[1]^2+16*cos(L)^3*k[0]*k[1]
+^3-4*sin(L)*cos(L)^4*k[1]^3+4*sin(L)*cos(L)^2*k[1]^3-16*cos(L)^3*k[1]^
+2-4*cos(L)^5+4*cos(L)*k[1]^2-8*cos(L)*k[0]*k[1]^3-4*k[0]*k[1]^2*sin(L)
+-12*cos(L)*k[0]^2*k[1]^2+4*k[0]^2*k[1]^3*sin(L)+8*sin(L)*cos(L)^4*k[0]
++12*sin(L)*cos(L)^4*k[1]);\n" }{MPLTEXT 1 0 17 "simplify(X-AA0);\n" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "*&-I$sinG6$%*protectedGI(_syslibG6\"6#I
+\"LGF(\"\"\",\\o*&&I\"kGF(6#F+F+F#F+F+*&-I$cosGF%F)\"\"$&F/6#\"\"!\"\"
+#!\"%F2!\"\"**F#F+F2F8F5F8F.F+\"#7**F#F+F2\"\"%F5F8F.F4F>**F#F+F2F>F5F
+8F.F+!#7**F#F+F2F>F5F+F.F8!#C**F#F+F2F8F5F8F.F4!\")**F#F+F2F8F5F+F.F8
+\"#G*(F2F4F5F+F.F+!#K*(F#F+F2F8F5F+F9*(F#F+F2F8F.F+FD*(F2F+F5F+F.F+\"
+\")*$F2F4F>*(F2\"\"&F5F8F.F8F@*(F2FOF5F+F.F4FD*(F2FOF5F+F.F+\"#C*(F2F4
+F5F8F.F8FR*(F2F4F5F+F.F4\"#;*(F#F+F2F>F.F4F9*(F#F+F2F8F.F4F>*(F2F+F5F+
+F.F4FD*(F5F+F.F8F#F+F9*(F2F+F5F8F.F8F@*(F5F8F.F4F#F+F>*(F#F+F2F>F5F+FL
+*(F#F+F2F>F.F+F<*&F2FOF5F8F>*&F2FOF.F8F<*&F2F4F.F8!#;*&F2F+F.F8F>*$F2F
+OF9F+" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}{PARA 11 "" 0 "" 
+{TEXT 217 0 "" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 74 "X:=subs((D@
+D)(k)(s[1])=0,(D)(k)(s[1])=0,(D@D)(k)(0)=0,(D)(k)(0)=0,b[2,1]):" }}
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 709 "X0:=k[0]^2+6*cos(L)*k[0]^3*k[1]^2*
+sin(L)+9*cos(L)*k[0]^2*k[1]^3*sin(L)+5*cos(L)^2*k[1]^2-3*cos(L)^4*k[0]
+^3*k[1]^3-6*sin(L)*cos(L)^3*k[0]^3*k[1]^2-9*sin(L)*cos(L)^3*k[0]^2*k[1
+]^3+2*sin(L)*cos(L)*k[1]-6*cos(L)^4*k[1]^2-k[0]^3*k[1]-3*k[0]^3*k[1]^3
+-10*k[0]*k[1]^2*sin(L)*cos(L)-3*sin(L)*k[0]^2*k[1]*cos(L)+6*cos(L)^2*k
+[0]^3*k[1]^3-2*cos(L)^2*k[0]^3*k[1]-23*cos(L)^2*k[0]^2*k[1]^2-9*cos(L)
+^2*k[0]*k[1]^3+9*cos(L)^2*k[0]*k[1]+3*cos(L)^4*k[0]^3*k[1]+18*cos(L)^4
+*k[0]^2*k[1]^2+9*cos(L)^4*k[0]*k[1]^3-2*cos(L)^2*k[0]^2-k[0]*sin(L)*co
+s(L)+3*sin(L)*cos(L)^3*k[1]^3-9*cos(L)^4*k[0]*k[1]+cos(L)*k[0]^3*sin(L
+)-3*sin(L)*cos(L)^3*k[1]+9*sin(L)*cos(L)^3*k[0]^2*k[1]+18*sin(L)*cos(L
+)^3*k[0]*k[1]^2-2*k[0]*k[1]+5*k[0]^2*k[1]^2;\n" }{MPLTEXT 1 0 16 "simp
+lify(X-X0);\n" }}{PARA 11 "" 1 "" {XPPMATH 20 ",jn*(&I\"kG6\"6#\"\"!\"
+\"\"-I$sinG6$%*protectedGI(_syslibGF&6#I\"LGF&F)-I$cosGF,F/F)!\"\"*(F1
+F)F$\"\"$F*F)F)**F1F)F$F5&F%6#F)\"\"#F*F)\"\"'**F1F)F$F9F7F5F*F)\"\"**
+*F*F)F1F5F$F5F7F9!\"'**F*F)F1F5F$F9F7F5!\"***F$F)F7F9F*F)F1F)!#5**F*F)
+F$F9F7F)F1F)!\"$**F*F)F1F5F$F9F7F)F<**F*F)F1F5F$F)F7F9\"#=*(F1\"\"%F$F
+5F7F5FD*(F1F9F$F5F7F5F:*(F1F9F$F5F7F)!\"#*(F1F9F$F9F7F9!#B*(F1F9F$F)F7
+F5F@*(F1F9F$F)F7F)F<*(F1FIF$F5F7F)F5*(F1FIF$F9F7F9FG*(F1FIF$F)F7F5F<*(
+F*F)F1F5F7F5F5*(F1FIF$F)F7F)F@*(F*F)F1F5F7F)FD*$F$F9F)*(F*F)F1F)F7F)F9
+*&F1F9F7F9\"\"&*&F$F5F7F)F3*&F1FIF7F9F>*&F$F5F7F5FD*&F1F9F$F9FL*&F$F9F
+7F9FZ*&F$F)F7F)FL" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 79 "simplify(X0+A01*(D)(k)(0)*(D)(k)(s[
+1])+AA1*(D@D)(k)(s[1])+A11*((D)(k)(s[1]))^2\n" }{MPLTEXT 1 0 43 "+A00*
+((D)(k)(0))^2+AA0*(D@D)(k)(0)-b[2,1]);" }}{PARA 11 "" 1 "" {XPPMATH 20
+ "\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 79 "b[2,1]:= X0+A01*
+(D)(k)(0)*(D)(k)(s[1])+AA1*(D@D)(k)(s[1])+A11*((D)(k)(s[1]))^2\n" }
+{MPLTEXT 1 0 35 "+A00*((D)(k)(0))^2+AA0*(D@D)(k)(0);" }}{PARA 11 "" 1 
+"" {XPPMATH 20 ",bo*(&I\"kG6\"6#\"\"!\"\"\"-I$sinG6$%*protectedGI(_sys
+libGF&6#I\"LGF&F)-I$cosGF,F/F)!\"\"*(F1F)F$\"\"$F*F)F)**F1F)F$F5&F%6#F
+)\"\"#F*F)\"\"'**F1F)F$F9F7F5F*F)\"\"***F*F)F1F5F$F5F7F9!\"'**F*F)F1F5
+F$F9F7F5!\"***F$F)F7F9F*F)F1F)!#5**F*F)F$F9F7F)F1F)!\"$**F*F)F1F5F$F9F
+7F)F<**F*F)F1F5F$F)F7F9\"#=*(F1\"\"%F$F5F7F5FD*(F1F9F$F5F7F5F:*(F1F9F$
+F5F7F)!\"#*(F1F9F$F9F7F9!#B*(F1F9F$F)F7F5F@*(F1F9F$F)F7F)F<*(F1FIF$F5F
+7F)F5*(F1FIF$F9F7F9FG*(F1FIF$F)F7F5F<*(F*F)F1F5F7F5F5*(F1FIF$F)F7F)F@*
+(F*F)F1F5F7F)FD*$F$F9F)*(F*F)F1F)F7F)F9*&F1F9F7F9\"\"&*&F$F5F7F)F3*&F1
+FIF7F9F>*&F$F5F7F5FD*&F1F9F$F9FL*&F$F9F7F9FZ*&F$F)F7F)FL*(F*F),.*(F*F)
+F1F9F$F5F)*&F1F5F$F9FD*(F*F)F1F9F$F)FD*&F*F)F$F5F3*$F1F5F)*&F1F)F$F9F5
+F)---I#@@GF,6$I\"DGF,F96#F%6#&I\"sGF&F8F)F3*(F*F9,*FYF)FXF9*$F1F9F3*$F
+7F9F3F)--FhoFioF'F9FL*(F*F),\\o*&F7F)F*F)F)F^o!\"%F1F3**F*F)F1F9F$F9F7
+F)\"#7**F*F)F1FIF$F9F7F5FI**F*F)F1FIF$F9F7F)!#7**F*F)F1FIF$F)F7F9!#C**
+F*F)F1F9F$F9F7F5!\")**F*F)F1F9F$F)F7F9\"#G*(F1F5F$F)F7F)!#KF_oFfp*(F*F
+)F1F9F7F)F_q*(F1F)F$F)F7F)\"\")FaoFI*(F1FZF$F9F7F9F[q*(F1FZF$F)F7F5F_q
+*(F1FZF$F)F7F)\"#C*(F1F5F$F9F7F9Fjq*(F1F5F$F)F7F5\"#;*(F*F)F1FIF7F5Ffp
+*(F*F)F1F9F7F5FI*(F1F)F$F)F7F5F_q*(F$F)F7F9F*F)Ffp*(F1F)F$F9F7F9F[q*(F
+$F9F7F5F*F)FI*(F*F)F1FIF$F)Ffq*(F*F)F1FIF7F)Fhp*&F1FZF$F9FI*&F1FZF7F9F
+hp*&F1F5F7F9!#;*&F1F)F7F9FI*$F1FZFfpF)-FdoF'F)F)**F*F9,8FgpF:F^oF>FbqF
+[qF_oF[qFdqF>*(F$F9F7F)F*F)F>FaoF:FboF:FeqFhp*&F$F)F*F)F)F1F3F)FapF)-F
+bpFjoF)F3" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 1898 "b[2,1] := -k
+[0]*sin(L)*cos(L)+cos(L)*k[0]^3*sin(L)+6*cos(L)*k[0]^3*k[1]^2*sin(L)+9
+*cos(L)*k[0]^2*k[1]^3*sin(L)-6*sin(L)*cos(L)^3*k[0]^3*k[1]^2-9*sin(L)*
+cos(L)^3*k[0]^2*k[1]^3-10*k[0]*k[1]^2*sin(L)*cos(L)-3*sin(L)*k[0]^2*k[
+1]*cos(L)+9*sin(L)*cos(L)^3*k[0]^2*k[1]+18*sin(L)*cos(L)^3*k[0]*k[1]^2
+-3*cos(L)^4*k[0]^3*k[1]^3+6*cos(L)^2*k[0]^3*k[1]^3-2*cos(L)^2*k[0]^3*k
+[1]-23*cos(L)^2*k[0]^2*k[1]^2-9*cos(L)^2*k[0]*k[1]^3+9*cos(L)^2*k[0]*k
+[1]+3*cos(L)^4*k[0]^3*k[1]+18*cos(L)^4*k[0]^2*k[1]^2+9*cos(L)^4*k[0]*k
+[1]^3+3*sin(L)*cos(L)^3*k[1]^3-9*cos(L)^4*k[0]*k[1]-3*sin(L)*cos(L)^3*
+k[1]+k[0]^2+2*sin(L)*cos(L)*k[1]+5*cos(L)^2*k[1]^2-k[0]^3*k[1]-6*cos(L
+)^4*k[1]^2-3*k[0]^3*k[1]^3-2*cos(L)^2*k[0]^2+5*k[0]^2*k[1]^2-2*k[0]*k[
+1]-sin(L)*(sin(L)*cos(L)^2*k[0]^3-3*cos(L)^3*k[0]^2-3*sin(L)*cos(L)^2*
+k[0]-sin(L)*k[0]^3+cos(L)^3+3*cos(L)*k[0]^2)*((D@@2)(k))(s[1])-2*sin(L
+)^2*(cos(L)^2*k[1]^2+2*sin(L)*cos(L)*k[1]-cos(L)^2-k[1]^2)*(D(k))(0)^2
++sin(L)*(k[1]*sin(L)-4*cos(L)^3*k[0]^2-cos(L)+12*sin(L)*cos(L)^2*k[0]^
+2*k[1]+4*sin(L)*cos(L)^4*k[0]^2*k[1]^3-12*sin(L)*cos(L)^4*k[0]^2*k[1]-
+24*sin(L)*cos(L)^4*k[0]*k[1]^2-8*sin(L)*cos(L)^2*k[0]^2*k[1]^3+28*sin(
+L)*cos(L)^2*k[0]*k[1]^2-32*cos(L)^3*k[0]*k[1]-4*sin(L)*cos(L)^2*k[0]-8
+*sin(L)*cos(L)^2*k[1]+8*cos(L)*k[0]*k[1]+4*cos(L)^3-12*cos(L)^5*k[0]^2
+*k[1]^2-8*cos(L)^5*k[0]*k[1]^3+24*cos(L)^5*k[0]*k[1]+24*cos(L)^3*k[0]^
+2*k[1]^2+16*cos(L)^3*k[0]*k[1]^3-4*sin(L)*cos(L)^4*k[1]^3+4*sin(L)*cos
+(L)^2*k[1]^3-8*cos(L)*k[0]*k[1]^3-4*k[0]*k[1]^2*sin(L)-12*cos(L)*k[0]^
+2*k[1]^2+4*k[0]^2*k[1]^3*sin(L)+8*sin(L)*cos(L)^4*k[0]+12*sin(L)*cos(L
+)^4*k[1]+4*cos(L)^5*k[0]^2+12*cos(L)^5*k[1]^2-16*cos(L)^3*k[1]^2+4*cos
+(L)*k[1]^2-4*cos(L)^5)*((D@@2)(k))(0)-sin(L)^2*(6*sin(L)*cos(L)^2*k[0]
+^2*k[1]-6*cos(L)^3*k[0]^2-12*cos(L)^3*k[0]*k[1]-12*sin(L)*cos(L)^2*k[0
+]-6*sin(L)*cos(L)^2*k[1]-6*k[0]^2*k[1]*sin(L)+6*cos(L)^3+6*cos(L)*k[0]
+^2+12*cos(L)*k[0]*k[1]+k[0]*sin(L)-cos(L))*(D(k))(0)*(D(k))(s[1]):" }}
+}{PARA 0 "" 0 "" {TEXT 214 0 "" }}}{SECT 1 {PARA 4 "" 0 "" {TEXT 216 
+6 "b[1,2]" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "restart:" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 3865 "b[1,2] := (((D@@2)(k))(0)*
+(k[1]*sin(L)-cos(L))*sin(L)^2*k[1]-((D@@2)(k))(0)*(k[1]*sin(L)-cos(L))
+*sin(L)*cos(L)+(k[0]*sin(L)-cos(L))*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(
+L)-k[0]*cos(L))*sin(L)-k[1]*sin(L)^2*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin
+(L)-k[0]*cos(L))-k[1]*k[0]*sin(L)*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)
+-k[0]*cos(L))*cos(L)-k[0]*sin(L)^2*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L
+)-k[0]*cos(L))+sin(L)*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L)
+)*cos(L)+k[1]*cos(L)*(k[0]*sin(L)-cos(L))*(k[1]*k[0]*sin(L)-k[1]*cos(L
+)-sin(L)-k[0]*cos(L))+(D(k))(s[1])*sin(L)^2*(D(k))(0))*(k[0]*sin(L)-co
+s(L))*sin(L)*(k[1]*sin(L)-cos(L))+(k[1]*cos(L)*(k[0]*sin(L)-cos(L))^2-
+k[1]*sin(L)^2*(k[0]*sin(L)-cos(L))-k[0]*k[1]*sin(L)*(k[0]*sin(L)-cos(L
+))*cos(L)-k[0]*sin(L)^2*(k[0]*sin(L)-cos(L))+k[0]*cos(L)+((D@@2)(k))(0
+)*sin(L)^3*k[1]-((D@@2)(k))(0)*sin(L)^2*cos(L)+sin(L)*(k[0]*sin(L)-cos
+(L))^2+sin(L)*(k[0]*sin(L)-cos(L))*cos(L)+sin(L))*sin(L)*(k[1]*k[0]*si
+n(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))*(k[1]*sin(L)-cos(L))+(1/2*(sin(L)
++k[0]*cos(L)*(k[1]*sin(L)-cos(L))^2-k[1]*k[0]*sin(L)*(k[1]*sin(L)-cos(
+L))*cos(L)+k[1]*cos(L)-((D@@2)(k))(s[1])*sin(L)^2*cos(L)+((D@@2)(k))(s
+[1])*sin(L)^3*k[0]+sin(L)*(k[1]*sin(L)-cos(L))^2+sin(L)*(k[1]*sin(L)-c
+os(L))*cos(L)-k[1]*sin(L)^2*(k[1]*sin(L)-cos(L))-k[0]*sin(L)^2*(k[1]*s
+in(L)-cos(L))))*(k[0]*sin(L)-cos(L))+(1/2*(-k[0]*sin(L)*(k[1]*sin(L)-c
+os(L))*cos(L)-sin(L)^2*(k[1]*sin(L)-cos(L))+cos(L)+(k[0]*sin(L)-cos(L)
+)*(k[1]*sin(L)-cos(L))^2))*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*c
+os(L))+(D(k))(0)*sin(L)^2*((D(k))(s[1])*sin(L)^2*k[0]-(D(k))(s[1])*sin
+(L)*cos(L))*(k[1]*sin(L)-cos(L))+((D(k))(s[1])*sin(L)^2*k[0]-(D(k))(s[
+1])*sin(L)*cos(L))*((D(k))(0)*sin(L)^2*k[1]-(D(k))(0)*sin(L)*cos(L))*s
+in(L)+(1/2*(((D@@2)(k))(0)*(k[1]*sin(L)-cos(L))*sin(L)^2*k[1]-((D@@2)(
+k))(0)*(k[1]*sin(L)-cos(L))*sin(L)*cos(L)+(k[0]*sin(L)-cos(L))*(k[1]*k
+[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))*sin(L)-k[1]*sin(L)^2*(k[1]*
+k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))-k[1]*k[0]*sin(L)*(k[1]*k[0
+]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))*cos(L)-k[0]*sin(L)^2*(k[1]*k[
+0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))+sin(L)*(k[1]*k[0]*sin(L)-k[1
+]*cos(L)-sin(L)-k[0]*cos(L))*cos(L)+k[1]*cos(L)*(k[0]*sin(L)-cos(L))*(
+k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))+(D(k))(s[1])*sin(L)^2
+*(D(k))(0)))*sin(L)^2*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L)
+)+(1/2*(k[1]*cos(L)*(k[0]*sin(L)-cos(L))^2-k[1]*sin(L)^2*(k[0]*sin(L)-
+cos(L))-k[0]*k[1]*sin(L)*(k[0]*sin(L)-cos(L))*cos(L)-k[0]*sin(L)^2*(k[
+0]*sin(L)-cos(L))+k[0]*cos(L)+((D@@2)(k))(0)*sin(L)^3*k[1]-((D@@2)(k))
+(0)*sin(L)^2*cos(L)+sin(L)*(k[0]*sin(L)-cos(L))^2+sin(L)*(k[0]*sin(L)-
+cos(L))*cos(L)+sin(L)))*(k[0]*sin(L)-cos(L))*(k[1]*sin(L)-cos(L))^2+(1
+/2*(((D@@2)(k))(0)*sin(L)^3-k[0]*sin(L)*(k[0]*sin(L)-cos(L))*cos(L)-si
+n(L)^2*(k[0]*sin(L)-cos(L))+cos(L)*(k[0]*sin(L)-cos(L))^2+k[0]*sin(L)-
+cos(L)))*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))*(k[1]*sin(L
+)-cos(L))^2+(1/2*(((D@@2)(k))(0)*(k[1]*sin(L)-cos(L))^2*k[1]*sin(L)-((
+D@@2)(k))(0)*(k[1]*sin(L)-cos(L))^2*cos(L)-k[1]*(k[1]*sin(L)-cos(L))*(
+k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))*sin(L)-k[0]*k[1]*(k[1
+]*sin(L)-cos(L))*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))*cos
+(L)-k[0]*(k[1]*sin(L)-cos(L))*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0
+]*cos(L))*sin(L)+2*(D(k))(0)*(k[1]*sin(L)-cos(L))*(D(k))(s[1])*sin(L)+
+(k[1]*sin(L)-cos(L))*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))
+*cos(L)-((D@@2)(k))(s[1])*cos(L)+k[0]*((D@@2)(k))(s[1])*sin(L)+(D(k))(
+0)*(D(k))(s[1])*sin(L)^2*k[1]+k[1]*cos(L)*(k[1]*k[0]*sin(L)-k[1]*cos(L
+)-sin(L)-k[0]*cos(L))^2-(D(k))(s[1])*(D(k))(0)*sin(L)*cos(L)+sin(L)*(k
+[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))^2))*(k[0]*sin(L)-cos(L
+))*sin(L)^2+(1/2)*(D(k))(0)*sin(L)^4*(D(k))(s[1])*(k[1]*k[0]*sin(L)-k[
+1]*cos(L)-sin(L)-k[0]*cos(L))+(1/2)*(D(k))(s[1])*sin(L)^2*((D(k))(0)*s
+in(L)^2*k[1]-(D(k))(0)*sin(L)*cos(L))*(k[0]*sin(L)-cos(L)):" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 57 "X:=simplify(coeff(coeff(b[1,
+2],(D)(k)(0)),(D)(k)(s[1]))):" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 106 "A
+01:=-sin(L)^3*(6*cos(L)^2*k[0]*k[1]+6*sin(L)*cos(L)*k[0]+6*sin(L)*cos(
+L)*k[1]-6*cos(L)^2-6*k[0]*k[1]+1);\n" }{MPLTEXT 1 0 16 "simplify(X-A01
+);" }}{PARA 11 "" 1 "" {XPPMATH 20 ",$*&-I$sinG6$%*protectedGI(_syslib
+G6\"6#I\"LGF)\"\"$,.*(-I$cosGF&F*\"\"#&I\"kGF)6#\"\"!\"\"\"&F36#F6F6\"
+\"'*(F$F6F/F6F2F6F9*(F$F6F/F6F7F6F9*$F/F1!\"'*&F2F6F7F6F=F6F6F6!\"\"" 
+}}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}{PARA 11 "" 0 "" {TEXT 217 
+0 "" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 40 "X:=simplify(coeff(b[1
+,2],(D)(k)(0),2));\n" }{MPLTEXT 1 0 9 "A00:= 0;\n" }{MPLTEXT 1 0 16 "s
+implify(X-A00);" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}{PARA 11 "" 
+1 "" {XPPMATH 20 "\"\"!" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}
+{PARA 11 "" 0 "" {TEXT 217 0 "" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 44 "A11:=simplify(coeff(b[1,2],(D)(k)(s[1]),2));" }}{PARA 11 "" 1 ""
+ {XPPMATH 20 "\"\"!" }}}{PARA 11 "" 0 "" {TEXT 217 0 "" }}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 44 "AA1:=simplify(coeff(b[1,2],(D@D)(k)
+(s[1])));" }}{PARA 11 "" 1 "" {XPPMATH 20 ",$*&-I$sinG6$%*protectedGI(
+_syslibG6\"6#I\"LGF)\"\"#,**&-I$cosGF&F*F,&I\"kGF)6#\"\"!F,\"\"\"*(F$F
+5F/F5F1F5F,*$F/F,!\"\"*$F1F,F8F5F8" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 29 "X:=coeff(b[1,2],(D@D)(k)(0)):" }}}{EXCHG {PARA 0 "> "
+ 0 "" {MPLTEXT 1 0 357 "AA0:=2*sin(L)^2*(2*cos(L)^4*k[0]*k[1]^3+6*sin(
+L)*cos(L)^3*k[0]*k[1]^2+2*sin(L)*cos(L)^3*k[1]^3-6*cos(L)^4*k[0]*k[1]-
+6*cos(L)^4*k[1]^2-4*cos(L)^2*k[0]*k[1]^3-2*sin(L)*cos(L)^3*k[0]-6*sin(
+L)*cos(L)^3*k[1]-6*cos(L)*k[0]*k[1]^2*sin(L)-2*cos(L)*k[1]^3*sin(L)+2*
+cos(L)^4+6*cos(L)^2*k[0]*k[1]+7*cos(L)^2*k[1]^2+2*k[0]*k[1]^3+2*sin(L)
+*cos(L)*k[1]-cos(L)^2-k[1]^2);\n" }{MPLTEXT 1 0 17 "simplify(X-AA0);\n
+" }}{PARA 11 "" 1 "" {XPPMATH 20 ",$*&-I$sinG6$%*protectedGI(_syslibG6
+\"6#I\"LGF)\"\"#,D*(-I$cosGF&F*\"\"%&I\"kGF)6#\"\"!\"\"\"&F36#F6\"\"$F
+,**F$F6F/F9F2F6F7F,\"\"'*(F$F6F/F9F7F9F,*(F/F1F2F6F7F6!\"'*&F/F1F7F,F>
+*(F/F,F2F6F7F9!\"%*(F$F6F/F9F2F6!\"#*(F$F6F/F9F7F6F>**F/F6F2F6F7F,F$F6
+F>*(F/F6F7F9F$F6FC*$F/F1F,*(F/F,F2F6F7F6F;*&F/F,F7F,\"\"(*&F2F6F7F9F,*
+(F$F6F/F6F7F6F,*$F/F,!\"\"*$F7F,FNF6F," }}{PARA 11 "" 1 "" {XPPMATH 20
+ "\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 74 "X:=subs((D@D)(k)
+(s[1])=0,(D)(k)(s[1])=0,(D@D)(k)(0)=0,(D)(k)(0)=0,b[1,2]):" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 543 "X0:=-k[1]+k[0]-sin(L)*cos(L)+6*sin
+(L)*cos(L)^3*k[0]*k[1]-2*k[1]*k[0]*sin(L)*cos(L)+6*cos(L)*k[0]^2*k[1]^
+2*sin(L)+6*cos(L)*k[0]*k[1]^3*sin(L)-4*cos(L)*k[1]^2*sin(L)+cos(L)*k[0
+]^2*sin(L)-3*cos(L)^4*k[0]^2*k[1]^3+6*cos(L)^2*k[0]^2*k[1]^3-2*cos(L)^
+2*k[0]^2*k[1]-16*cos(L)^2*k[0]*k[1]^2+3*cos(L)^4*k[0]^2*k[1]+12*cos(L)
+^4*k[0]*k[1]^2-6*sin(L)*cos(L)^3*k[0]^2*k[1]^2-6*sin(L)*cos(L)^3*k[0]*
+k[1]^3-3*cos(L)^2*k[1]^3+3*cos(L)^4*k[1]^3-3*cos(L)^4*k[1]+3*cos(L)^2*
+k[1]-k[0]^2*k[1]-3*k[0]^2*k[1]^3+6*sin(L)*cos(L)^3*k[1]^2+4*k[0]*k[1]^
+2-2*cos(L)^2*k[0];\n" }{MPLTEXT 1 0 15 "simplify(X-X0);" }}{PARA 11 ""
+ 1 "" {XPPMATH 20 ",V&I\"kG6\"6#\"\"\"!\"\"&F$6#\"\"!F'*&-I$sinG6$%*pr
+otectedGI(_syslibGF%6#I\"LGF%F'-I$cosGF/F2F'F(*(F4F'F)\"\"#F-F'F'**F-F
+'F4\"\"$F)F'F#F'\"\"'**F#F'F)F'F-F'F4F'!\"#**F4F'F)F7F#F7F-F'F:**F4F'F
+)F'F#F9F-F'F:**F-F'F4F9F)F7F#F7!\"'**F-F'F4F9F)F'F#F9F@*&F)F7F#F'F(*&F
+4F7F#F9!\"$*&F4\"\"%F#F9F9*&F4FFF#F'FD*&F4F7F#F'F9*&F)F7F#F9FD*&F)F'F#
+F7FF*&F4F7F)F'F<*(F4F'F#F7F-F'!\"%*(F4FFF)F7F#F9FD*(F4F7F)F7F#F9F:*(F4
+F7F)F7F#F'F<*(F4F7F)F'F#F7!#;*(F4FFF)F7F#F'F9*(F4FFF)F'F#F7\"#7*(F-F'F
+4F9F#F7F:" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}{EXCHG {PARA 0 ">
+ " 0 "" {MPLTEXT 1 0 79 "simplify(X0+A01*(D)(k)(0)*(D)(k)(s[1])+AA1*(D
+@D)(k)(s[1])+A11*((D)(k)(s[1]))^2\n" }{MPLTEXT 1 0 43 "+A00*((D)(k)(0)
+)^2+AA0*(D@D)(k)(0)-b[1,2]);" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }
+}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 79 "b[1,2]:= X0+A01*(D)(k)(0)*
+(D)(k)(s[1])+AA1*(D@D)(k)(s[1])+A11*((D)(k)(s[1]))^2\n" }{MPLTEXT 1 0 
+35 "+A00*((D)(k)(0))^2+AA0*(D@D)(k)(0);" }}{PARA 11 "" 1 "" {XPPMATH 
+20 ",fn&I\"kG6\"6#\"\"\"!\"\"&F$6#\"\"!F'*&-I$sinG6$%*protectedGI(_sys
+libGF%6#I\"LGF%F'-I$cosGF/F2F'F(*(F4F'F)\"\"#F-F'F'**F-F'F4\"\"$F)F'F#
+F'\"\"'**F#F'F)F'F-F'F4F'!\"#**F4F'F)F7F#F7F-F'F:**F4F'F)F'F#F9F-F'F:*
+*F-F'F4F9F)F7F#F7!\"'**F-F'F4F9F)F'F#F9F@*(F-F7,**&F4F7F)F7F'*(F-F'F4F
+'F)F'F7*$F4F7F(*$F)F7F(F'---I#@@GF/6$I\"DGF/F76#F$6#&I\"sGF%F&F'F(*(F-
+F7,D*(F4\"\"%F)F'F#F9F7**F-F'F4F9F)F'F#F7F:*(F-F'F4F9F#F9F7*(F4FUF)F'F
+#F'F@*&F4FUF#F7F@*(F4F7F)F'F#F9!\"%*(F-F'F4F9F)F'F<*(F-F'F4F9F#F'F@**F
+4F'F)F'F#F7F-F'F@*(F4F'F#F9F-F'F<*$F4FUF7*(F4F7F)F'F#F'F:*&F4F7F#F7\"
+\"(*&F)F'F#F9F7*(F-F'F4F'F#F'F7FFF(*$F#F7F(F'-FIF*F'F7*&F)F7F#F'F(*&F4
+F7F#F9!\"$*&F4FUF#F9F9*&F4FUF#F'Fdo*&F4F7F#F'F9*&F)F7F#F9Fdo*&F)F'F#F7
+FU*&F4F7F)F'F<*(F4F'F#F7F-F'Fen*(F4FUF)F7F#F9Fdo*(F4F7F)F7F#F9F:*(F4F7
+F)F7F#F'F<*(F4F7F)F'F#F7!#;*(F4FUF)F7F#F'F9*(F4FUF)F'F#F7\"#7*(F-F'F4F
+9F#F7F:**F-F9,.F[oF:FEF:F_oF:FFF@*&F)F'F#F'F@F'F'F'--FMFNF*F'-FipFOF'F
+(" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 1118 "b[1,2] := -k[1]+k[0]
+-sin(L)*cos(L)+cos(L)*k[0]^2*sin(L)+6*sin(L)*cos(L)^3*k[0]*k[1]-2*k[1]
+*k[0]*sin(L)*cos(L)+6*cos(L)*k[0]^2*k[1]^2*sin(L)+6*cos(L)*k[0]*k[1]^3
+*sin(L)-6*sin(L)*cos(L)^3*k[0]^2*k[1]^2-6*sin(L)*cos(L)^3*k[0]*k[1]^3-
+sin(L)^2*(cos(L)^2*k[0]^2+2*sin(L)*cos(L)*k[0]-cos(L)^2-k[0]^2)*((D@@2
+)(k))(s[1])+2*sin(L)^2*(2*cos(L)^4*k[0]*k[1]^3+6*sin(L)*cos(L)^3*k[0]*
+k[1]^2+2*sin(L)*cos(L)^3*k[1]^3-6*cos(L)^4*k[0]*k[1]-6*cos(L)^4*k[1]^2
+-4*cos(L)^2*k[0]*k[1]^3-2*sin(L)*cos(L)^3*k[0]-6*sin(L)*cos(L)^3*k[1]-
+6*cos(L)*k[0]*k[1]^2*sin(L)-2*cos(L)*k[1]^3*sin(L)+2*cos(L)^4+6*cos(L)
+^2*k[0]*k[1]+7*cos(L)^2*k[1]^2+2*k[0]*k[1]^3+2*sin(L)*cos(L)*k[1]-cos(
+L)^2-k[1]^2)*((D@@2)(k))(0)-k[0]^2*k[1]-3*cos(L)^2*k[1]^3+3*cos(L)^4*k
+[1]^3-3*cos(L)^4*k[1]+3*cos(L)^2*k[1]-3*k[0]^2*k[1]^3+4*k[0]*k[1]^2-2*
+cos(L)^2*k[0]-4*cos(L)*k[1]^2*sin(L)-3*cos(L)^4*k[0]^2*k[1]^3+6*cos(L)
+^2*k[0]^2*k[1]^3-2*cos(L)^2*k[0]^2*k[1]-16*cos(L)^2*k[0]*k[1]^2+3*cos(
+L)^4*k[0]^2*k[1]+12*cos(L)^4*k[0]*k[1]^2+6*sin(L)*cos(L)^3*k[1]^2-sin(
+L)^3*(6*cos(L)^2*k[0]*k[1]+6*sin(L)*cos(L)*k[0]+6*sin(L)*cos(L)*k[1]-6
+*cos(L)^2-6*k[0]*k[1]+1)*(D(k))(0)*(D(k))(s[1]):" }}}{PARA 0 "" 0 "" 
+{TEXT 214 0 "" }}}{SECT 1 {PARA 4 "" 0 "" {TEXT 216 6 "b[0,3]" }}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "restart:" }}}{EXCHG {PARA 0 "
+> " 0 "" {MPLTEXT 1 0 2305 "b[0,3] := (1/6*(((D@@2)(k))(s[1])*sin(L)^3
+-k[1]*sin(L)*(k[1]*sin(L)-cos(L))*cos(L)-sin(L)^2*(k[1]*sin(L)-cos(L))
++cos(L)*(k[1]*sin(L)-cos(L))^2+k[1]*sin(L)-cos(L)))*(k[0]*sin(L)-cos(L
+))+(1/6*(-sin(L)*(k[1]*sin(L)-cos(L))*cos(L)+sin(L)+sin(L)*(k[1]*sin(L
+)-cos(L))^2))*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))+(1/2*(
+((D@@2)(k))(0)*(k[1]*sin(L)-cos(L))*sin(L)^2*k[1]-((D@@2)(k))(0)*(k[1]
+*sin(L)-cos(L))*sin(L)*cos(L)+(k[0]*sin(L)-cos(L))*(k[1]*k[0]*sin(L)-k
+[1]*cos(L)-sin(L)-k[0]*cos(L))*sin(L)-k[1]*sin(L)^2*(k[1]*k[0]*sin(L)-
+k[1]*cos(L)-sin(L)-k[0]*cos(L))-k[1]*k[0]*sin(L)*(k[1]*k[0]*sin(L)-k[1
+]*cos(L)-sin(L)-k[0]*cos(L))*cos(L)-k[0]*sin(L)^2*(k[1]*k[0]*sin(L)-k[
+1]*cos(L)-sin(L)-k[0]*cos(L))+sin(L)*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin
+(L)-k[0]*cos(L))*cos(L)+k[1]*cos(L)*(k[0]*sin(L)-cos(L))*(k[1]*k[0]*si
+n(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))+(D(k))(s[1])*sin(L)^2*(D(k))(0)))
+*sin(L)^2*(k[1]*sin(L)-cos(L))+(1/2*(k[1]*cos(L)*(k[0]*sin(L)-cos(L))^
+2-k[1]*sin(L)^2*(k[0]*sin(L)-cos(L))-k[0]*k[1]*sin(L)*(k[0]*sin(L)-cos
+(L))*cos(L)-k[0]*sin(L)^2*(k[0]*sin(L)-cos(L))+k[0]*cos(L)+((D@@2)(k))
+(0)*sin(L)^3*k[1]-((D@@2)(k))(0)*sin(L)^2*cos(L)+sin(L)*(k[0]*sin(L)-c
+os(L))^2+sin(L)*(k[0]*sin(L)-cos(L))*cos(L)+sin(L)))*sin(L)*(k[1]*sin(
+L)-cos(L))^2+(1/2)*(D(k))(0)*sin(L)^4*(D(k))(s[1])*(k[1]*sin(L)-cos(L)
+)+(1/2)*(D(k))(s[1])*sin(L)^3*((D(k))(0)*sin(L)^2*k[1]-(D(k))(0)*sin(L
+)*cos(L))+(1/6*(((D@@2)(k))(0)*sin(L)^3-k[0]*sin(L)*(k[0]*sin(L)-cos(L
+))*cos(L)-sin(L)^2*(k[0]*sin(L)-cos(L))+cos(L)*(k[0]*sin(L)-cos(L))^2+
+k[0]*sin(L)-cos(L)))*(k[1]*sin(L)-cos(L))^3+(1/6*(((D@@2)(k))(0)*(k[1]
+*sin(L)-cos(L))^2*k[1]*sin(L)-((D@@2)(k))(0)*(k[1]*sin(L)-cos(L))^2*co
+s(L)-k[1]*(k[1]*sin(L)-cos(L))*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[
+0]*cos(L))*sin(L)-k[0]*k[1]*(k[1]*sin(L)-cos(L))*(k[1]*k[0]*sin(L)-k[1
+]*cos(L)-sin(L)-k[0]*cos(L))*cos(L)-k[0]*(k[1]*sin(L)-cos(L))*(k[1]*k[
+0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))*sin(L)+2*(D(k))(0)*(k[1]*sin
+(L)-cos(L))*(D(k))(s[1])*sin(L)+(k[1]*sin(L)-cos(L))*(k[1]*k[0]*sin(L)
+-k[1]*cos(L)-sin(L)-k[0]*cos(L))*cos(L)-((D@@2)(k))(s[1])*cos(L)+k[0]*
+((D@@2)(k))(s[1])*sin(L)+(D(k))(0)*(D(k))(s[1])*sin(L)^2*k[1]+k[1]*cos
+(L)*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0]*cos(L))^2-(D(k))(s[1])*(
+D(k))(0)*sin(L)*cos(L)+sin(L)*(k[1]*k[0]*sin(L)-k[1]*cos(L)-sin(L)-k[0
+]*cos(L))^2))*sin(L)^3:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 59 "
+A01:=simplify(coeff(coeff(b[0,3],(D)(k)(0)),(D)(k)(s[1])));" }}{PARA 
+11 "" 1 "" {XPPMATH 20 ",$*&-I$sinG6$%*protectedGI(_syslibG6\"6#I\"LGF
+)\"\"%,&*&&I\"kGF)6#\"\"\"F2F$F2F2-I$cosGF&F*!\"\"F2\"\"#" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 41 "A00:=simplify(coeff(b[0,3],(D)(k)(0
+),2));" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 44 "A11:=simplify(coeff(b[0,3],(D)(k)(s[1]),2));" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 41 "AA0:=simplify(coeff(b[0,3],(D@D)(k)(0)));" }}{PARA 11
+ "" 1 "" {XPPMATH 20 ",$*&-I$sinG6$%*protectedGI(_syslibG6\"6#I\"LGF)
+\"\"$,.*(F$\"\"\"-I$cosGF&F*\"\"#&I\"kGF)6#F/F,F/*&F0F,F3F2!\"$*(F$F/F
+0F2F3F/F7*&F3F,F$F/!\"\"*$F0F,F/*&F0F/F3F2F,F/#!\"%F," }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 44 "AA1:=simplify(coeff(b[0,3],(D@D)(k)
+(s[1])));" }}{PARA 11 "" 1 "" {XPPMATH 20 ",$*&-I$sinG6$%*protectedGI(
+_syslibG6\"6#I\"LGF)\"\"$,&*&&I\"kGF)6#\"\"!\"\"\"F$F3F3-I$cosGF&F*!\"
+\"F3#F3F," }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 74 "X:=subs((D@D)(
+k)(s[1])=0,(D)(k)(s[1])=0,(D@D)(k)(0)=0,(D)(k)(0)=0,b[0,3]);" }}{PARA 
+11 "" 1 "" {XPPMATH 20 ",.*&,,**&I\"kG6\"6#\"\"\"F*-I$sinG6$%*protecte
+dGI(_syslibGF(6#I\"LGF(F*,&*&F&F*F+F*F*-I$cosGF-F0!\"\"F*F4F*F6*&F+\"
+\"#F2F*F6*&F4F*F2F8F*F3F*F4F6F*,&*&&F'6#\"\"!F*F+F*F*F4F6F*#F*\"\"'*&,
+(*(F+F*F2F*F4F*F6F+F**&F+F*F2F8F*F*,**(F&F*F<F*F+F*F**&F&F*F4F*F6F+F6*
+&F<F*F4F*F6F*F?*(,.*(F:F*FEF*F+F*F**(F&F*F+F8FEF*F6*,F&F*F<F*F+F*FEF*F
+4F*F6*(F<F*F+F8FEF*F6*(F+F*FEF*F4F*F***F&F*F4F*F:F*FEF*F*F*F+F8F2F*#F*
+F8*(,2*(F&F*F4F*F:F8F**(F&F*F+F8F:F*F6*,F<F*F&F*F+F*F:F*F4F*F6*(F<F*F+
+F8F:F*F6FHF**&F+F*F:F8F**(F+F*F:F*F4F*F*F+F*F*F+F*F2F8FQ*&,,**F<F*F+F*
+F:F*F4F*F6*&F+F8F:F*F6*&F4F*F:F8F*F;F*F4F6F*F2\"\"$F?*&,.**F&F*F2F*FEF
+*F+F*F6*,F<F*F&F*F2F*FEF*F4F*F6**F<F*F2F*FEF*F+F*F6*(F2F*FEF*F4F*F**(F
+&F*F4F*FEF8F**&F+F*FEF8F*F*F+FinF?" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 148 "X0:=sin(L)^2*k[1]*(cos(L)^2*k[0]*k[1]^2+2*k[1]*k[0]*
+sin(L)*cos(L)+sin(L)*cos(L)*k[1]^2-cos(L)^2*k[0]-2*cos(L)^2*k[1]-k[0]*
+k[1]^2-cos(L)*sin(L)+k[1])" }{MPLTEXT 1 0 17 ";\nsimplify(X-X0);" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "*(-I$sinG6$%*protectedGI(_syslibG6\"6#I
+\"LGF(\"\"#&I\"kGF(6#\"\"\"F/,2*(-I$cosGF%F)F+&F-6#\"\"!F/F,F+F/**F,F/
+F4F/F#F/F2F/F+*(F#F/F2F/F,F+F/*&F2F+F4F/!\"\"*&F2F+F,F/!\"#*&F4F/F,F+F
+:*&F#F/F2F/F:F,F/F/" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 79 "simplify(X0+A01*(D)(k)(0)*(D)(k)(s[
+1])+AA1*(D@D)(k)(s[1])+A11*((D)(k)(s[1]))^2\n" }{MPLTEXT 1 0 43 "+A00*
+((D)(k)(0))^2+AA0*(D@D)(k)(0)-b[0,3]);" }}{PARA 11 "" 1 "" {XPPMATH 20
+ "\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 78 "b[0,3]:=X0+A01*(
+D)(k)(0)*(D)(k)(s[1])+AA1*(D@D)(k)(s[1])+A11*((D)(k)(s[1]))^2\n" }
+{MPLTEXT 1 0 35 "+A00*((D)(k)(0))^2+AA0*(D@D)(k)(0);" }}{PARA 11 "" 1 
+"" {XPPMATH 20 ",**(-I$sinG6$%*protectedGI(_syslibG6\"6#I\"LGF)\"\"#&I
+\"kGF)6#\"\"\"F0,2*(-I$cosGF&F*F,&F.6#\"\"!F0F-F,F0**F-F0F5F0F$F0F3F0F
+,*(F$F0F3F0F-F,F0*&F3F,F5F0!\"\"*&F3F,F-F0!\"#*&F5F0F-F,F;*&F$F0F3F0F;
+F-F0F0F0**--I\"DGF&6#F.F6F0F$\"\"%-FB6#&I\"sGF)F/F0,&*&F-F0F$F0F0F3F;F
+0F,*(F$\"\"$,&*&F5F0F$F0F0F3F;F0---I#@@GF&6$FCF,FDFGF0#F0FM*(F$FM,.*(F
+$F0F3F,F-FMF0*&F3FMF-F,!\"$*(F$F0F3F,F-F0FZ*&F-FMF$F0F;*$F3FMF0*&F3F0F
+-F,FMF0-FQF6F0#!\"%FM" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 399 "b
+[0,3] := sin(L)^2*k[1]*(cos(L)^2*k[0]*k[1]^2+2*k[1]*k[0]*sin(L)*cos(L)
++sin(L)*cos(L)*k[1]^2-cos(L)^2*k[0]-2*cos(L)^2*k[1]-k[0]*k[1]^2-sin(L)
+*cos(L)+k[1])+2*(D(k))(0)*sin(L)^4*(D(k))(s[1])*(k[1]*sin(L)-cos(L))+(
+1/3)*sin(L)^3*(k[0]*sin(L)-cos(L))*((D@@2)(k))(s[1])-(4/3)*sin(L)^3*(s
+in(L)*cos(L)^2*k[1]^3-3*cos(L)^3*k[1]^2-3*sin(L)*cos(L)^2*k[1]-k[1]^3*
+sin(L)+cos(L)^3+3*cos(L)*k[1]^2)*((D@@2)(k))(0):" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 ",**()-I%sinhG6$%*protectedGI(_syslibG6\"6#I\"LGF*\"\"#\"
+\"\"&I\"kGF*6#F.F.,2*()-I%coshGF'F+F-F.&F06#\"\"!F.)F/F-F.!\"\"*,F-F.F
+/F.F7F.F%F.F5F.F.*(F%F.F5F.F:F.F.*&F4F.F7F.F;*(F-F.F4F.F/F.F;*&F7F.F:F
+.F.*&F%F.F5F.F.F/F.F.F.*,F-F.--I\"DGF'6#F0F8F.)F%\"\"%F.-FD6#&I\"sGF*F
+1F.,&*&F/F.F%F.F.F5F;F.F.**#F.\"\"$F.,&*&F7F.F%F.F.F5F;F.)F%FQF.---I#@
+@GF'6$FEF-FFFJF.F.**#FHFQF.FTF.,.*(F%F.F4F.)F/FQF.F.*(FQF.)F5FQF.F:F.F
+;**FQF.F%F.F4F.F/F.F.*&FhnF.F%F.F;*$FjnF.F;*(FQF.F5F.F:F.F.F.-FVF8F.F.
+" }}}{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1 "Typesetting:-mi(\"?\", it
+alic = \"true\", mathvariant = \"italic\");" "-I#miG6#/I+modulenameG6
+\"I,TypesettingGI(_syslibGF'6%Q\"?F'/%'italicGQ%trueF'/%,mathvariantGQ
+'italicF'" }}}{PARA 0 "" 0 "" {TEXT 214 0 "" }}}{PARA 4 "" 0 "" {TEXT 
+216 0 "" }}{PARA 0 "" 0 "" {TEXT 214 0 "" }}{PARA 0 "" 0 "" {TEXT 214 
+0 "" }}}}
+{MARK "0 0 0" 0 }{VIEWOPTS 1 1 0 1 1 1803 1 1 1 1 }{PAGENUMBERS 0 1 2
+ 33 1 1 }

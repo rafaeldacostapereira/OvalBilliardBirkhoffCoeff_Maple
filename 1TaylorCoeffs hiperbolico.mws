@@ -1,0 +1,2067 @@
+{VERSION 4 0 "Windows 8" "4.0" }
+{USTYLETAB {PSTYLE "Ordered List 1" -1 200 1 {CSTYLE "" -1 -1 "Times"
+ 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Ordered List 2" -1 201 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 
+1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 36 2 0 2 2 -1 1 }{PSTYLE "Ordered
+ List 3" -1 202 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 
+0 0 1 }1 1 0 0 3 3 2 72 2 0 2 2 -1 1 }{PSTYLE "Ordered List 4" -1 203 
+1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3
+ 3 2 108 2 0 2 2 -1 1 }{PSTYLE "Ordered List 5" -1 204 1 {CSTYLE "" -1
+ -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 144 2 0 2 
+2 -1 1 }{PSTYLE "Author" -1 19 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1
+ 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 8 8 2 0 2 0 2 2 -1 1 }{PSTYLE "Warning" 
+-1 7 1 {CSTYLE "" -1 -1 "Courier" 1 10 0 0 255 1 2 2 2 2 2 1 1 0 0 1 }
+1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Annotation Title" -1 205 1 
+{CSTYLE "" -1 -1 "Times" 1 18 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }3 1 0 0 12 
+12 2 0 2 0 2 2 -1 1 }{PSTYLE "Fixed Width" -1 17 1 {CSTYLE "" -1 -1 "C
+ourier" 1 10 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1
+ }{PSTYLE "Maple Plot" -1 13 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2
+ 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Line Printe
+d Output" -1 6 1 {CSTYLE "" -1 -1 "Courier" 1 10 0 0 255 1 2 2 2 2 2 1
+ 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Help" -1 10 1 {CSTYLE
+ "" -1 -1 "Courier" 1 9 0 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0
+ 2 0 2 2 -1 1 }{PSTYLE "Text Output" -1 2 1 {CSTYLE "" -1 -1 "Courier"
+ 1 10 0 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Diagnostic" -1 9 1 {CSTYLE "" -1 -1 "Courier" 1 10 64 128 64 
+1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Normal" 
+-1 0 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 
+0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Maple Output" -1 11 1 {CSTYLE "" -1
+ -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 
+-1 1 }{PSTYLE "Dash Item" -1 16 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 
+1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }{PSTYLE "Hyperlin
+kError" -1 206 1 {CSTYLE "" -1 -1 "Courier New" 1 12 255 0 255 1 2 2 1
+ 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Error" -1 8 1 
+{CSTYLE "" -1 -1 "Courier" 1 10 255 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0
+ 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Title" -1 18 1 {CSTYLE "" -1 -1 "Tim
+es" 1 18 0 0 0 1 2 1 1 2 2 2 1 0 0 1 }3 1 0 0 12 12 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Heading 1" -1 3 1 {CSTYLE "" -1 -1 "Times" 1 18 0 0 0 1 2 1 2
+ 2 2 2 1 0 0 1 }1 1 0 0 8 4 2 0 2 0 2 2 -1 1 }{PSTYLE "Bullet Item" -1
+ 15 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0
+ 0 3 3 2 0 2 0 2 2 -1 1 }{PSTYLE "Heading 4" -1 20 1 {CSTYLE "" -1 -1 
+"Times" 1 10 0 0 0 1 1 1 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1
+ }{PSTYLE "Heading 3" -1 5 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 1 1
+ 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Heading 2" -1
+ 4 1 {CSTYLE "" -1 -1 "Times" 1 14 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 
+0 8 2 2 0 2 0 2 2 -1 1 }{PSTYLE "HyperlinkWarning" -1 207 1 {CSTYLE ""
+ -1 -1 "Courier New" 1 12 0 0 255 1 2 2 1 2 2 1 1 0 0 1 }1 1 0 0 0 0 2
+ 0 2 0 2 2 -1 1 }{PSTYLE "Left Justified Maple Output" -1 12 1 {CSTYLE
+ "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 
+0 2 2 -1 1 }{PSTYLE "List Item" -1 14 1 {CSTYLE "" -1 -1 "Times" 1 12 
+0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }{CSTYLE "An
+notation Text" -1 200 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "Help Maple Name" -1 35 "Times" 1 12 104 64 92 1 2 1 2 2 2 2 0
+ 0 0 1 }{CSTYLE "2D Math Bold" -1 5 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0
+ 0 0 1 }{CSTYLE "Help Menus" -1 36 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 
+0 0 1 }{CSTYLE "2D Math Italic" -1 3 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 
+0 0 0 1 }{CSTYLE "Help Normal" -1 30 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 
+0 0 0 1 }{CSTYLE "Plot Text" -1 28 "Times" 1 8 0 0 0 1 2 2 2 2 2 2 0 0
+ 0 1 }{CSTYLE "Help Nonterminal" -1 24 "Courier" 1 12 0 0 0 1 2 1 2 2 
+2 2 0 0 0 1 }{CSTYLE "Help Heading" -1 26 "Times" 1 14 0 0 0 1 2 1 2 2
+ 2 2 0 0 0 1 }{CSTYLE "Help Italic" -1 42 "Times" 1 12 0 0 0 1 1 2 2 2
+ 2 2 0 0 0 1 }{CSTYLE "Help Variable" -1 25 "Courier" 1 12 0 0 0 1 2 2
+ 2 2 2 2 0 0 0 1 }{CSTYLE "Help Italic Bold" -1 40 "Times" 1 12 0 0 0 
+1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Default" -1 38 "Times" 1 12 0 0 0 1 2 
+2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Underlined Italic" -1 43 "Times" 1 12
+ 0 0 0 1 1 2 1 2 2 2 0 0 0 1 }{CSTYLE "Maple Input" -1 0 "Courier" 1 
+12 255 0 0 1 2 1 2 2 1 2 0 0 0 1 }{CSTYLE "2D Output" -1 20 "Times" 1 
+12 0 0 255 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Bold Small" -1 10 "
+Times" 1 1 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Small" -1 7 "
+Times" 1 1 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Page Number" -1 33 "T
+imes" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Output Labels" -1 29 
+"Times" 1 8 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Plot Title" -1 27 "T
+imes" 1 10 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Emphasized" -1 
+22 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Symbol 2
+" -1 16 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Maple Comme
+nt" -1 21 "Courier" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math
+ Italic Small202" -1 201 "Times" 1 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "Caption Reference" -1 202 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 
+0 0 1 }{CSTYLE "Maple Input Placeholder" -1 203 "Courier New" 1 12 200
+ 0 200 1 2 1 2 2 1 2 0 0 0 1 }{CSTYLE "Code" -1 204 "Courier New" 1 12
+ 255 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Italic Small205" -1 
+205 "Times" 1 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Inert Output"
+ -1 206 "Times" 1 12 144 144 144 1 2 2 2 2 1 2 0 0 0 1 }{CSTYLE "2D Ma
+th Italic Small" -1 207 "Times" 1 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "2D Comment" -1 18 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "Help Underlined Bold" -1 41 "Times" 1 12 0 0 0 1 1 1 2 2 2 2 
+0 0 0 1 }{CSTYLE "Copyright" -1 34 "Times" 1 10 0 0 0 1 2 2 2 2 2 2 0 
+0 0 1 }{CSTYLE "Hyperlink" -1 17 "Times" 1 12 0 128 128 1 2 2 1 2 2 2 
+0 0 0 1 }{CSTYLE "Help Underlined" -1 44 "Times" 1 12 0 0 0 1 2 2 1 2 
+2 2 0 0 0 1 }{CSTYLE "Prompt" -1 1 "Courier" 1 12 0 0 0 1 2 1 2 2 2 2 
+0 0 0 1 }{CSTYLE "2D Math" -1 2 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0
+ 1 }{CSTYLE "2D Input" -1 19 "Times" 1 12 255 0 0 1 2 2 2 2 1 2 0 0 0 
+1 }{CSTYLE "Header and Footer" -1 208 "Times" 1 10 0 0 0 1 2 2 2 2 2 2
+ 0 0 0 1 }{CSTYLE "Text" -1 209 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0
+ 1 }{CSTYLE "Help Notes" -1 37 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 
+1 }{CSTYLE "Help Bold" -1 39 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 
+}{CSTYLE "Equation Label" -1 210 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 
+0 1 }{CSTYLE "LaTeX" -1 32 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "Popup" -1 31 "Times" 1 12 0 128 128 1 1 2 1 2 2 2 0 0 0 1 }
+{CSTYLE "Atomic Variable" -1 211 "Times" 1 12 175 0 175 1 1 2 2 2 2 2 
+0 0 0 1 }{CSTYLE "Dictionary Hyperlink" -1 45 "Times" 1 12 147 0 15 1 
+2 2 1 2 2 2 0 0 0 1 }{CSTYLE "Caption Text" -1 212 "Times" 1 12 0 0 0 
+1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Fixed" -1 23 "Courier" 1 10 0 0 0
+ 1 2 2 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 208 1 {CSTYLE "" -1 -1 "Times" 1
+ 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 8 4 2 0 2 0 2 2 -1 1 }{PSTYLE
+ "" -1 209 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1
+ }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 210 1 {CSTYLE "" -1 -1 "
+Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 
+}}
+{SECT 0 {PARA 208 "" 0 "" {TEXT 209 14 "Taylor  Coeffs" }}{EXCHG 
+{PARA 0 "" 0 "" {TEXT 213 147 "In this worksheet we study the Taylor c
+oefficients ( a[i,j] and b[i,j] )in the 3-jet of the billiard map with
+ elliptical period 2 orbit at (0,0) = " }{XPPEDIT 18 0 "Typesetting:-m
+row(Typesetting:-mi(\"\"), Typesetting:-mrow(Typesetting:-msup(Typeset
+ting:-mi(\"T\", italic = \"true\", mathvariant = \"italic\"), Typesett
+ing:-mn(\"2\", mathvariant = \"normal\"), superscriptshift = \"0\")), \+
+Typesetting:-mi(\"\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_
+syslibGF'6%-I#miGF$6#Q!F'-F#6#-I%msupGF$6%-F,6%Q\"TF'/%'italicGQ%trueF
+'/%,mathvariantGQ'italicF'-I#mnGF$6$Q\"2F'/F;Q'normalF'/%1superscripts
+hiftGQ\"0F'F+" }{TEXT 213 6 "(0,0)." }}{PARA 0 "" 0 "" {TEXT 213 10 "W
+e define " }{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-mi(\"\"), Ty
+pesetting:-mrow(Typesetting:-mfenced(Typesetting:-mrow(Typesetting:-mi
+(\"S\", italic = \"true\", mathvariant = \"italic\"), Typesetting:-mo(
+\",\", mathvariant = \"normal\", fence = \"false\", separator = \"true
+\", stretchy = \"false\", symmetric = \"false\", largeop = \"false\", \+
+movablelimits = \"false\", accent = \"false\", lspace = \"0.0em\", rsp
+ace = \"0.3333333em\"), Typesetting:-mi(\"P\", italic = \"true\", math
+variant = \"italic\")), mathvariant = \"normal\"), Typesetting:-mo(\"=
+\", mathvariant = \"normal\", fence = \"false\", separator = \"false\"
+, stretchy = \"false\", symmetric = \"false\", largeop = \"false\", mo
+vablelimits = \"false\", accent = \"false\", lspace = \"0.2777778em\",
+ rspace = \"0.2777778em\"), Typesetting:-mrow(Typesetting:-mfenced(Typ
+esetting:-mrow(Typesetting:-msup(Typesetting:-mi(\"T\", italic = \"tru
+e\", mathvariant = \"italic\"), Typesetting:-mn(\"2\", mathvariant = \+
+\"normal\"), superscriptshift = \"0\")), mathvariant = \"normal\"), Ty
+pesetting:-mo(\"&ApplyFunction;\", mathvariant = \"normal\", fence = \+
+\"false\", separator = \"false\", stretchy = \"false\", symmetric = \"
+false\", largeop = \"false\", movablelimits = \"false\", accent = \"fa
+lse\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mfenced(T
+ypesetting:-mrow(Typesetting:-mi(\"s\", italic = \"true\", mathvariant
+ = \"italic\"), Typesetting:-mo(\",\", mathvariant = \"normal\", fence
+ = \"false\", separator = \"true\", stretchy = \"false\", symmetric = \+
+\"false\", largeop = \"false\", movablelimits = \"false\", accent = \"
+false\", lspace = \"0.0em\", rspace = \"0.3333333em\"), Typesetting:-m
+i(\"p\", italic = \"true\", mathvariant = \"italic\")), mathvariant = \+
+\"normal\")), Typesetting:-mi(\"\")), Typesetting:-mi(\"\"));" "-I%mro
+wG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6%-I#miGF$6#Q!F'-F#6&-I
+(mfencedGF$6$-F#6%-F,6%Q\"SF'/%'italicGQ%trueF'/%,mathvariantGQ'italic
+F'-I#moGF$6-Q\",F'/F=Q'normalF'/%&fenceGQ&falseF'/%*separatorGF;/%)str
+etchyGFG/%*symmetricGFG/%(largeopGFG/%.movablelimitsGFG/%'accentGFG/%'
+lspaceGQ&0.0emF'/%'rspaceGQ,0.3333333emF'-F,6%Q\"PF'F9F<FC-F@6-Q\"=F'F
+CFE/FIFGFJFLFNFPFR/FUQ,0.2777778emF'/FXF\\o-F#6%-F26$-F#6#-I%msupGF$6%
+-F,6%Q\"TF'F9F<-I#mnGF$6$Q\"2F'FC/%1superscriptshiftGQ\"0F'FC-F@6-Q0&A
+pplyFunction;F'FCFEFjnFJFLFNFPFRFT/FXFV-F26$-F#6%-F,6%Q\"sF'F9F<F?-F,6
+%Q\"pF'F9F<FCF+F+" }{TEXT 213 29 "  and the 3 -jet is given by:" }}
+{PARA 0 "" 0 "" {TEXT 213 0 "" }{XPPEDIT 18 0 "Typesetting:-mrow(Types
+etting:-mi(\"\"), Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetting
+:-mrow(Typesetting:-mi(\"S\", italic = \"true\", mathvariant = \"itali
+c\"), Typesetting:-mo(\"&ApplyFunction;\", mathvariant = \"normal\", f
+ence = \"false\", separator = \"false\", stretchy = \"false\", symmetr
+ic = \"false\", largeop = \"false\", movablelimits = \"false\", accent
+ = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mf
+enced(Typesetting:-mrow(Typesetting:-mi(\"s\", italic = \"true\", math
+variant = \"italic\"), Typesetting:-mo(\",\", mathvariant = \"normal\"
+, fence = \"false\", separator = \"true\", stretchy = \"false\", symme
+tric = \"false\", largeop = \"false\", movablelimits = \"false\", acce
+nt = \"false\", lspace = \"0.0em\", rspace = \"0.3333333em\"), Typeset
+ting:-mi(\"p\", italic = \"true\", mathvariant = \"italic\")), mathvar
+iant = \"normal\")), Typesetting:-mo(\"=\", mathvariant = \"normal\", \+
+fence = \"false\", separator = \"false\", stretchy = \"false\", symmet
+ric = \"false\", largeop = \"false\", movablelimits = \"false\", accen
+t = \"false\", lspace = \"0.2777778em\", rspace = \"0.2777778em\"), Ty
+pesetting:-mrow(Typesetting:-mi(\"\"), Typesetting:-mrow(Typesetting:-
+msub(Typesetting:-mi(\"a\", italic = \"true\", mathvariant = \"italic
+\"), Typesetting:-mrow(Typesetting:-mn(\"1\", mathvariant = \"normal\"
+), Typesetting:-mo(\",\", mathvariant = \"normal\", fence = \"false\",
+ separator = \"true\", stretchy = \"false\", symmetric = \"false\", la
+rgeop = \"false\", movablelimits = \"false\", accent = \"false\", lspa
+ce = \"0.0em\", rspace = \"0.3333333em\"), Typesetting:-mn(\"0\", math
+variant = \"normal\")), subscriptshift = \"0\"), Typesetting:-mo(\"&In
+visibleTimes;\", mathvariant = \"normal\", fence = \"false\", separato
+r = \"false\", stretchy = \"false\", symmetric = \"false\", largeop = \+
+\"false\", movablelimits = \"false\", accent = \"false\", lspace = \"0
+.0em\", rspace = \"0.0em\"), Typesetting:-mi(\"s\", italic = \"true\",
+ mathvariant = \"italic\")), Typesetting:-mo(\"+\", mathvariant = \"no
+rmal\", fence = \"false\", separator = \"false\", stretchy = \"false\"
+, symmetric = \"false\", largeop = \"false\", movablelimits = \"false
+\", accent = \"false\", lspace = \"0.2222222em\", rspace = \"0.2222222
+em\"), Typesetting:-mrow(Typesetting:-msub(Typesetting:-mi(\"a\", ital
+ic = \"true\", mathvariant = \"italic\"), Typesetting:-mrow(Typesettin
+g:-mn(\"0\", mathvariant = \"normal\"), Typesetting:-mo(\",\", mathvar
+iant = \"normal\", fence = \"false\", separator = \"true\", stretchy =
+ \"false\", symmetric = \"false\", largeop = \"false\", movablelimits \+
+= \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.3333
+333em\"), Typesetting:-mn(\"1\", mathvariant = \"normal\")), subscript
+shift = \"0\"), Typesetting:-mo(\"&InvisibleTimes;\", mathvariant = \"
+normal\", fence = \"false\", separator = \"false\", stretchy = \"false
+\", symmetric = \"false\", largeop = \"false\", movablelimits = \"fals
+e\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Type
+setting:-mi(\"p\", italic = \"true\", mathvariant = \"italic\")), Type
+setting:-mo(\"+\", mathvariant = \"normal\", fence = \"false\", separa
+tor = \"false\", stretchy = \"false\", symmetric = \"false\", largeop \+
+= \"false\", movablelimits = \"false\", accent = \"false\", lspace = \+
+\"0.2222222em\", rspace = \"0.2222222em\"), Typesetting:-mrow(Typesett
+ing:-msub(Typesetting:-mi(\"a\", italic = \"true\", mathvariant = \"it
+alic\"), Typesetting:-mrow(Typesetting:-mn(\"2\", mathvariant = \"norm
+al\"), Typesetting:-mo(\",\", mathvariant = \"normal\", fence = \"fals
+e\", separator = \"true\", stretchy = \"false\", symmetric = \"false\"
+, largeop = \"false\", movablelimits = \"false\", accent = \"false\", \+
+lspace = \"0.0em\", rspace = \"0.3333333em\"), Typesetting:-mn(\"0\", \+
+mathvariant = \"normal\")), subscriptshift = \"0\"), Typesetting:-mo(
+\"&InvisibleTimes;\", mathvariant = \"normal\", fence = \"false\", sep
+arator = \"false\", stretchy = \"false\", symmetric = \"false\", large
+op = \"false\", movablelimits = \"false\", accent = \"false\", lspace \+
+= \"0.0em\", rspace = \"0.0em\"), Typesetting:-mrow(Typesetting:-msup(
+Typesetting:-mi(\"s\", italic = \"true\", mathvariant = \"italic\"), T
+ypesetting:-mn(\"2\", mathvariant = \"normal\"), superscriptshift = \"
+0\")), Typesetting:-mi(\"\")), Typesetting:-mo(\"+\", mathvariant = \"
+normal\", fence = \"false\", separator = \"false\", stretchy = \"false
+\", symmetric = \"false\", largeop = \"false\", movablelimits = \"fals
+e\", accent = \"false\", lspace = \"0.2222222em\", rspace = \"0.222222
+2em\"), Typesetting:-mrow(Typesetting:-msub(Typesetting:-mi(\"a\", ita
+lic = \"true\", mathvariant = \"italic\"), Typesetting:-mrow(Typesetti
+ng:-mn(\"1\", mathvariant = \"normal\"), Typesetting:-mo(\",\", mathva
+riant = \"normal\", fence = \"false\", separator = \"true\", stretchy \+
+= \"false\", symmetric = \"false\", largeop = \"false\", movablelimits
+ = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.333
+3333em\"), Typesetting:-mn(\"1\", mathvariant = \"normal\")), subscrip
+tshift = \"0\"), Typesetting:-mo(\"&InvisibleTimes;\", mathvariant = \+
+\"normal\", fence = \"false\", separator = \"false\", stretchy = \"fal
+se\", symmetric = \"false\", largeop = \"false\", movablelimits = \"fa
+lse\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Ty
+pesetting:-mi(\"s\", italic = \"true\", mathvariant = \"italic\"), Typ
+esetting:-mo(\"&InvisibleTimes;\", mathvariant = \"normal\", fence = \+
+\"false\", separator = \"false\", stretchy = \"false\", symmetric = \"
+false\", largeop = \"false\", movablelimits = \"false\", accent = \"fa
+lse\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mi(\"p\",
+ italic = \"true\", mathvariant = \"italic\")), Typesetting:-mo(\"+\",
+ mathvariant = \"normal\", fence = \"false\", separator = \"false\", s
+tretchy = \"false\", symmetric = \"false\", largeop = \"false\", movab
+lelimits = \"false\", accent = \"false\", lspace = \"0.2222222em\", rs
+pace = \"0.2222222em\"), Typesetting:-mrow(Typesetting:-msub(Typesetti
+ng:-mi(\"a\", italic = \"true\", mathvariant = \"italic\"), Typesettin
+g:-mrow(Typesetting:-mn(\"0\", mathvariant = \"normal\"), Typesetting:
+-mo(\",\", mathvariant = \"normal\", fence = \"false\", separator = \"
+true\", stretchy = \"false\", symmetric = \"false\", largeop = \"false
+\", movablelimits = \"false\", accent = \"false\", lspace = \"0.0em\",
+ rspace = \"0.3333333em\"), Typesetting:-mn(\"2\", mathvariant = \"nor
+mal\")), subscriptshift = \"0\"), Typesetting:-mo(\"&InvisibleTimes;\"
+, mathvariant = \"normal\", fence = \"false\", separator = \"false\", \+
+stretchy = \"false\", symmetric = \"false\", largeop = \"false\", mova
+blelimits = \"false\", accent = \"false\", lspace = \"0.0em\", rspace \+
+= \"0.0em\"), Typesetting:-mrow(Typesetting:-msup(Typesetting:-mi(\"p
+\", italic = \"true\", mathvariant = \"italic\"), Typesetting:-mn(\"2
+\", mathvariant = \"normal\"), superscriptshift = \"0\")), Typesetting
+:-mi(\"\")), Typesetting:-mo(\"+\", mathvariant = \"normal\", fence = \+
+\"false\", separator = \"false\", stretchy = \"false\", symmetric = \"
+false\", largeop = \"false\", movablelimits = \"false\", accent = \"fa
+lse\", lspace = \"0.2222222em\", rspace = \"0.2222222em\"), Typesettin
+g:-mrow(Typesetting:-msub(Typesetting:-mi(\"a\", italic = \"true\", ma
+thvariant = \"italic\"), Typesetting:-mrow(Typesetting:-mn(\"3\", math
+variant = \"normal\"), Typesetting:-mo(\",\", mathvariant = \"normal\"
+, fence = \"false\", separator = \"true\", stretchy = \"false\", symme
+tric = \"false\", largeop = \"false\", movablelimits = \"false\", acce
+nt = \"false\", lspace = \"0.0em\", rspace = \"0.3333333em\"), Typeset
+ting:-mn(\"0\", mathvariant = \"normal\")), subscriptshift = \"0\"), T
+ypesetting:-mo(\"&InvisibleTimes;\", mathvariant = \"normal\", fence =
+ \"false\", separator = \"false\", stretchy = \"false\", symmetric = \+
+\"false\", largeop = \"false\", movablelimits = \"false\", accent = \"
+false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mrow(Ty
+pesetting:-msup(Typesetting:-mi(\"s\", italic = \"true\", mathvariant \+
+= \"italic\"), Typesetting:-mn(\"3\", mathvariant = \"normal\"), super
+scriptshift = \"0\")), Typesetting:-mi(\"\")), Typesetting:-mo(\"+\", \+
+mathvariant = \"normal\", fence = \"false\", separator = \"false\", st
+retchy = \"false\", symmetric = \"false\", largeop = \"false\", movabl
+elimits = \"false\", accent = \"false\", lspace = \"0.2222222em\", rsp
+ace = \"0.2222222em\"), Typesetting:-mrow(Typesetting:-msub(Typesettin
+g:-mi(\"a\", italic = \"true\", mathvariant = \"italic\"), Typesetting
+:-mrow(Typesetting:-mn(\"2\", mathvariant = \"normal\"), Typesetting:-
+mo(\",\", mathvariant = \"normal\", fence = \"false\", separator = \"t
+rue\", stretchy = \"false\", symmetric = \"false\", largeop = \"false
+\", movablelimits = \"false\", accent = \"false\", lspace = \"0.0em\",
+ rspace = \"0.3333333em\"), Typesetting:-mn(\"1\", mathvariant = \"nor
+mal\")), subscriptshift = \"0\"), Typesetting:-mo(\"&InvisibleTimes;\"
+, mathvariant = \"normal\", fence = \"false\", separator = \"false\", \+
+stretchy = \"false\", symmetric = \"false\", largeop = \"false\", mova
+blelimits = \"false\", accent = \"false\", lspace = \"0.0em\", rspace \+
+= \"0.0em\"), Typesetting:-mrow(Typesetting:-msup(Typesetting:-mi(\"s
+\", italic = \"true\", mathvariant = \"italic\"), Typesetting:-mn(\"2
+\", mathvariant = \"normal\"), superscriptshift = \"0\")), Typesetting
+:-mo(\"&InvisibleTimes;\", mathvariant = \"normal\", fence = \"false\"
+, separator = \"false\", stretchy = \"false\", symmetric = \"false\", \+
+largeop = \"false\", movablelimits = \"false\", accent = \"false\", ls
+pace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mi(\"p\", italic =
+ \"true\", mathvariant = \"italic\")), Typesetting:-mo(\"+\", mathvari
+ant = \"normal\", fence = \"false\", separator = \"false\", stretchy =
+ \"false\", symmetric = \"false\", largeop = \"false\", movablelimits \+
+= \"false\", accent = \"false\", lspace = \"0.2222222em\", rspace = \"
+0.2222222em\"), Typesetting:-mrow(Typesetting:-msub(Typesetting:-mi(\"
+a\", italic = \"true\", mathvariant = \"italic\"), Typesetting:-mrow(T
+ypesetting:-mn(\"1\", mathvariant = \"normal\"), Typesetting:-mo(\",\"
+, mathvariant = \"normal\", fence = \"false\", separator = \"true\", s
+tretchy = \"false\", symmetric = \"false\", largeop = \"false\", movab
+lelimits = \"false\", accent = \"false\", lspace = \"0.0em\", rspace =
+ \"0.3333333em\"), Typesetting:-mn(\"2\", mathvariant = \"normal\")), \+
+subscriptshift = \"0\"), Typesetting:-mo(\"&InvisibleTimes;\", mathvar
+iant = \"normal\", fence = \"false\", separator = \"false\", stretchy \+
+= \"false\", symmetric = \"false\", largeop = \"false\", movablelimits
+ = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em
+\"), Typesetting:-mi(\"s\", italic = \"true\", mathvariant = \"italic
+\"), Typesetting:-mo(\"&InvisibleTimes;\", mathvariant = \"normal\", f
+ence = \"false\", separator = \"false\", stretchy = \"false\", symmetr
+ic = \"false\", largeop = \"false\", movablelimits = \"false\", accent
+ = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-ms
+up(Typesetting:-mi(\"p\", italic = \"true\", mathvariant = \"italic\")
+, Typesetting:-mn(\"2\", mathvariant = \"normal\"), superscriptshift =
+ \"0\")), Typesetting:-mo(\"+\", mathvariant = \"normal\", fence = \"f
+alse\", separator = \"false\", stretchy = \"false\", symmetric = \"fal
+se\", largeop = \"false\", movablelimits = \"false\", accent = \"false
+\", lspace = \"0.2222222em\", rspace = \"0.2222222em\"), Typesetting:-
+mrow(Typesetting:-msub(Typesetting:-mi(\"a\", italic = \"true\", mathv
+ariant = \"italic\"), Typesetting:-mrow(Typesetting:-mn(\"0\", mathvar
+iant = \"normal\"), Typesetting:-mo(\",\", mathvariant = \"normal\", f
+ence = \"false\", separator = \"true\", stretchy = \"false\", symmetri
+c = \"false\", largeop = \"false\", movablelimits = \"false\", accent \+
+= \"false\", lspace = \"0.0em\", rspace = \"0.3333333em\"), Typesettin
+g:-mn(\"3\", mathvariant = \"normal\")), subscriptshift = \"0\"), Type
+setting:-mo(\"&InvisibleTimes;\", mathvariant = \"normal\", fence = \"
+false\", separator = \"false\", stretchy = \"false\", symmetric = \"fa
+lse\", largeop = \"false\", movablelimits = \"false\", accent = \"fals
+e\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mrow(Typese
+tting:-msup(Typesetting:-mi(\"p\", italic = \"true\", mathvariant = \"
+italic\"), Typesetting:-mn(\"3\", mathvariant = \"normal\"), superscri
+ptshift = \"0\")), Typesetting:-mi(\"\")), Typesetting:-mi(\"\")), Typ
+esetting:-mi(\"\")), Typesetting:-mi(\"\"));" "-I%mrowG6#/I+modulename
+G6\"I,TypesettingGI(_syslibGF'6%-I#miGF$6#Q!F'-F#6'F+-F#6%-F,6%Q\"SF'/
+%'italicGQ%trueF'/%,mathvariantGQ'italicF'-I#moGF$6-Q0&ApplyFunction;F
+'/F:Q'normalF'/%&fenceGQ&falseF'/%*separatorGFD/%)stretchyGFD/%*symmet
+ricGFD/%(largeopGFD/%.movablelimitsGFD/%'accentGFD/%'lspaceGQ&0.0emF'/
+%'rspaceGFS-I(mfencedGF$6$-F#6%-F,6%Q\"sF'F6F9-F=6-Q\",F'F@FB/FFF8FGFI
+FKFMFOFQ/FUQ,0.3333333emF'-F,6%Q\"pF'F6F9F@-F=6-Q\"=F'F@FBFEFGFIFKFMFO
+/FRQ,0.2777778emF'/FUFeo-F#65F+-F#6%-I%msubGF$6%-F,6%Q\"aF'F6F9-F#6%-I
+#mnGF$6$Q\"1F'F@Fhn-Fdp6$Q\"0F'F@/%/subscriptshiftGFip-F=6-Q1&Invisibl
+eTimes;F'F@FBFEFGFIFKFMFOFQFTFen-F=6-Q\"+F'F@FBFEFGFIFKFMFO/FRQ,0.2222
+222emF'/FUFcq-F#6%-F\\p6%F^p-F#6%FgpFhnFcpFjpF\\qF^oF_q-F#6&-F\\p6%F^p
+-F#6%-Fdp6$Q\"2F'F@FhnFgpFjpF\\q-F#6#-I%msupGF$6%FenFar/%1superscripts
+hiftGFipF+F_q-F#6'-F\\p6%F^p-F#6%FcpFhnFcpFjpF\\qFenF\\qF^oF_q-F#6&-F
+\\p6%F^p-F#6%FgpFhnFarFjpF\\q-F#6#-Fgr6%F^oFarFirF+F_q-F#6&-F\\p6%F^p-
+F#6%-Fdp6$Q\"3F'F@FhnFgpFjpF\\q-F#6#-Fgr6%FenFatFirF+F_q-F#6'-F\\p6%F^
+p-F#6%FarFhnFcpFjpF\\qFdrF\\qF^oF_q-F#6'-F\\p6%F^p-F#6%FcpFhnFarFjpF
+\\qFenF\\qFisF_q-F#6&-F\\p6%F^p-F#6%FgpFhnFatFjpF\\q-F#6#-Fgr6%F^oFatF
+irF+F+F+F+" }}{PARA 0 "" 0 "" {TEXT 213 0 "" }{XPPEDIT 18 0 "Typesetti
+ng:-mrow(Typesetting:-mi(\"\"), Typesetting:-mrow(Typesetting:-mi(\"\"
+), Typesetting:-mrow(Typesetting:-mi(\"P\", italic = \"true\", mathvar
+iant = \"italic\"), Typesetting:-mo(\"&ApplyFunction;\", mathvariant =
+ \"normal\", fence = \"false\", separator = \"false\", stretchy = \"fa
+lse\", symmetric = \"false\", largeop = \"false\", movablelimits = \"f
+alse\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), T
+ypesetting:-mfenced(Typesetting:-mrow(Typesetting:-mi(\"s\", italic = \+
+\"true\", mathvariant = \"italic\"), Typesetting:-mo(\",\", mathvarian
+t = \"normal\", fence = \"false\", separator = \"true\", stretchy = \"
+false\", symmetric = \"false\", largeop = \"false\", movablelimits = \+
+\"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.333333
+3em\"), Typesetting:-mi(\"p\", italic = \"true\", mathvariant = \"ital
+ic\")), mathvariant = \"normal\")), Typesetting:-mo(\"=\", mathvariant
+ = \"normal\", fence = \"false\", separator = \"false\", stretchy = \"
+false\", symmetric = \"false\", largeop = \"false\", movablelimits = \+
+\"false\", accent = \"false\", lspace = \"0.2777778em\", rspace = \"0.
+2777778em\"), Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetting:-mr
+ow(Typesetting:-msub(Typesetting:-mi(\"b\", italic = \"true\", mathvar
+iant = \"italic\"), Typesetting:-mrow(Typesetting:-mn(\"1\", mathvaria
+nt = \"normal\"), Typesetting:-mo(\",\", mathvariant = \"normal\", fen
+ce = \"false\", separator = \"true\", stretchy = \"false\", symmetric \+
+= \"false\", largeop = \"false\", movablelimits = \"false\", accent = \+
+\"false\", lspace = \"0.0em\", rspace = \"0.3333333em\"), Typesetting:
+-mn(\"0\", mathvariant = \"normal\")), subscriptshift = \"0\"), Typese
+tting:-mo(\"&InvisibleTimes;\", mathvariant = \"normal\", fence = \"fa
+lse\", separator = \"false\", stretchy = \"false\", symmetric = \"fals
+e\", largeop = \"false\", movablelimits = \"false\", accent = \"false
+\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mi(\"s\", it
+alic = \"true\", mathvariant = \"italic\")), Typesetting:-mo(\"+\", ma
+thvariant = \"normal\", fence = \"false\", separator = \"false\", stre
+tchy = \"false\", symmetric = \"false\", largeop = \"false\", movablel
+imits = \"false\", accent = \"false\", lspace = \"0.2222222em\", rspac
+e = \"0.2222222em\"), Typesetting:-mrow(Typesetting:-msub(Typesetting:
+-mi(\"b\", italic = \"true\", mathvariant = \"italic\"), Typesetting:-
+mrow(Typesetting:-mn(\"0\", mathvariant = \"normal\"), Typesetting:-mo
+(\",\", mathvariant = \"normal\", fence = \"false\", separator = \"tru
+e\", stretchy = \"false\", symmetric = \"false\", largeop = \"false\",
+ movablelimits = \"false\", accent = \"false\", lspace = \"0.0em\", rs
+pace = \"0.3333333em\"), Typesetting:-mn(\"1\", mathvariant = \"normal
+\")), subscriptshift = \"0\"), Typesetting:-mo(\"&InvisibleTimes;\", m
+athvariant = \"normal\", fence = \"false\", separator = \"false\", str
+etchy = \"false\", symmetric = \"false\", largeop = \"false\", movable
+limits = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \+
+\"0.0em\"), Typesetting:-mi(\"p\", italic = \"true\", mathvariant = \"
+italic\")), Typesetting:-mo(\"+\", mathvariant = \"normal\", fence = \+
+\"false\", separator = \"false\", stretchy = \"false\", symmetric = \"
+false\", largeop = \"false\", movablelimits = \"false\", accent = \"fa
+lse\", lspace = \"0.2222222em\", rspace = \"0.2222222em\"), Typesettin
+g:-mrow(Typesetting:-msub(Typesetting:-mi(\"b\", italic = \"true\", ma
+thvariant = \"italic\"), Typesetting:-mrow(Typesetting:-mn(\"2\", math
+variant = \"normal\"), Typesetting:-mo(\",\", mathvariant = \"normal\"
+, fence = \"false\", separator = \"true\", stretchy = \"false\", symme
+tric = \"false\", largeop = \"false\", movablelimits = \"false\", acce
+nt = \"false\", lspace = \"0.0em\", rspace = \"0.3333333em\"), Typeset
+ting:-mn(\"0\", mathvariant = \"normal\")), subscriptshift = \"0\"), T
+ypesetting:-mo(\"&InvisibleTimes;\", mathvariant = \"normal\", fence =
+ \"false\", separator = \"false\", stretchy = \"false\", symmetric = \+
+\"false\", largeop = \"false\", movablelimits = \"false\", accent = \"
+false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mrow(Ty
+pesetting:-msup(Typesetting:-mi(\"s\", italic = \"true\", mathvariant \+
+= \"italic\"), Typesetting:-mn(\"2\", mathvariant = \"normal\"), super
+scriptshift = \"0\")), Typesetting:-mi(\"\")), Typesetting:-mo(\"+\", \+
+mathvariant = \"normal\", fence = \"false\", separator = \"false\", st
+retchy = \"false\", symmetric = \"false\", largeop = \"false\", movabl
+elimits = \"false\", accent = \"false\", lspace = \"0.2222222em\", rsp
+ace = \"0.2222222em\"), Typesetting:-mrow(Typesetting:-msub(Typesettin
+g:-mi(\"b\", italic = \"true\", mathvariant = \"italic\"), Typesetting
+:-mrow(Typesetting:-mn(\"1\", mathvariant = \"normal\"), Typesetting:-
+mo(\",\", mathvariant = \"normal\", fence = \"false\", separator = \"t
+rue\", stretchy = \"false\", symmetric = \"false\", largeop = \"false
+\", movablelimits = \"false\", accent = \"false\", lspace = \"0.0em\",
+ rspace = \"0.3333333em\"), Typesetting:-mn(\"1\", mathvariant = \"nor
+mal\")), subscriptshift = \"0\"), Typesetting:-mo(\"&InvisibleTimes;\"
+, mathvariant = \"normal\", fence = \"false\", separator = \"false\", \+
+stretchy = \"false\", symmetric = \"false\", largeop = \"false\", mova
+blelimits = \"false\", accent = \"false\", lspace = \"0.0em\", rspace \+
+= \"0.0em\"), Typesetting:-mi(\"s\", italic = \"true\", mathvariant = \+
+\"italic\"), Typesetting:-mo(\"&InvisibleTimes;\", mathvariant = \"nor
+mal\", fence = \"false\", separator = \"false\", stretchy = \"false\",
+ symmetric = \"false\", largeop = \"false\", movablelimits = \"false\"
+, accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typeset
+ting:-mi(\"p\", italic = \"true\", mathvariant = \"italic\")), Typeset
+ting:-mo(\"+\", mathvariant = \"normal\", fence = \"false\", separator
+ = \"false\", stretchy = \"false\", symmetric = \"false\", largeop = \+
+\"false\", movablelimits = \"false\", accent = \"false\", lspace = \"0
+.2222222em\", rspace = \"0.2222222em\"), Typesetting:-mrow(Typesetting
+:-msub(Typesetting:-mi(\"b\", italic = \"true\", mathvariant = \"itali
+c\"), Typesetting:-mrow(Typesetting:-mn(\"0\", mathvariant = \"normal
+\"), Typesetting:-mo(\",\", mathvariant = \"normal\", fence = \"false
+\", separator = \"true\", stretchy = \"false\", symmetric = \"false\",
+ largeop = \"false\", movablelimits = \"false\", accent = \"false\", l
+space = \"0.0em\", rspace = \"0.3333333em\"), Typesetting:-mn(\"2\", m
+athvariant = \"normal\")), subscriptshift = \"0\"), Typesetting:-mo(\"
+&InvisibleTimes;\", mathvariant = \"normal\", fence = \"false\", separ
+ator = \"false\", stretchy = \"false\", symmetric = \"false\", largeop
+ = \"false\", movablelimits = \"false\", accent = \"false\", lspace = \+
+\"0.0em\", rspace = \"0.0em\"), Typesetting:-mrow(Typesetting:-msup(Ty
+pesetting:-mi(\"p\", italic = \"true\", mathvariant = \"italic\"), Typ
+esetting:-mn(\"2\", mathvariant = \"normal\"), superscriptshift = \"0
+\")), Typesetting:-mi(\"\")), Typesetting:-mo(\"+\", mathvariant = \"n
+ormal\", fence = \"false\", separator = \"false\", stretchy = \"false
+\", symmetric = \"false\", largeop = \"false\", movablelimits = \"fals
+e\", accent = \"false\", lspace = \"0.2222222em\", rspace = \"0.222222
+2em\"), Typesetting:-mrow(Typesetting:-msub(Typesetting:-mi(\"b\", ita
+lic = \"true\", mathvariant = \"italic\"), Typesetting:-mrow(Typesetti
+ng:-mn(\"3\", mathvariant = \"normal\"), Typesetting:-mo(\",\", mathva
+riant = \"normal\", fence = \"false\", separator = \"true\", stretchy \+
+= \"false\", symmetric = \"false\", largeop = \"false\", movablelimits
+ = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.333
+3333em\"), Typesetting:-mn(\"0\", mathvariant = \"normal\")), subscrip
+tshift = \"0\"), Typesetting:-mo(\"&InvisibleTimes;\", mathvariant = \+
+\"normal\", fence = \"false\", separator = \"false\", stretchy = \"fal
+se\", symmetric = \"false\", largeop = \"false\", movablelimits = \"fa
+lse\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Ty
+pesetting:-mrow(Typesetting:-msup(Typesetting:-mi(\"s\", italic = \"tr
+ue\", mathvariant = \"italic\"), Typesetting:-mn(\"3\", mathvariant = \+
+\"normal\"), superscriptshift = \"0\")), Typesetting:-mi(\"\")), Types
+etting:-mo(\"+\", mathvariant = \"normal\", fence = \"false\", separat
+or = \"false\", stretchy = \"false\", symmetric = \"false\", largeop =
+ \"false\", movablelimits = \"false\", accent = \"false\", lspace = \"
+0.2222222em\", rspace = \"0.2222222em\"), Typesetting:-mrow(Typesettin
+g:-msub(Typesetting:-mi(\"b\", italic = \"true\", mathvariant = \"ital
+ic\"), Typesetting:-mrow(Typesetting:-mn(\"2\", mathvariant = \"normal
+\"), Typesetting:-mo(\",\", mathvariant = \"normal\", fence = \"false
+\", separator = \"true\", stretchy = \"false\", symmetric = \"false\",
+ largeop = \"false\", movablelimits = \"false\", accent = \"false\", l
+space = \"0.0em\", rspace = \"0.3333333em\"), Typesetting:-mn(\"1\", m
+athvariant = \"normal\")), subscriptshift = \"0\"), Typesetting:-mo(\"
+&InvisibleTimes;\", mathvariant = \"normal\", fence = \"false\", separ
+ator = \"false\", stretchy = \"false\", symmetric = \"false\", largeop
+ = \"false\", movablelimits = \"false\", accent = \"false\", lspace = \+
+\"0.0em\", rspace = \"0.0em\"), Typesetting:-mrow(Typesetting:-msup(Ty
+pesetting:-mi(\"s\", italic = \"true\", mathvariant = \"italic\"), Typ
+esetting:-mn(\"2\", mathvariant = \"normal\"), superscriptshift = \"0
+\")), Typesetting:-mo(\"&InvisibleTimes;\", mathvariant = \"normal\", \+
+fence = \"false\", separator = \"false\", stretchy = \"false\", symmet
+ric = \"false\", largeop = \"false\", movablelimits = \"false\", accen
+t = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-m
+i(\"p\", italic = \"true\", mathvariant = \"italic\")), Typesetting:-m
+o(\"+\", mathvariant = \"normal\", fence = \"false\", separator = \"fa
+lse\", stretchy = \"false\", symmetric = \"false\", largeop = \"false
+\", movablelimits = \"false\", accent = \"false\", lspace = \"0.222222
+2em\", rspace = \"0.2222222em\"), Typesetting:-mrow(Typesetting:-msub(
+Typesetting:-mi(\"b\", italic = \"true\", mathvariant = \"italic\"), T
+ypesetting:-mrow(Typesetting:-mn(\"1\", mathvariant = \"normal\"), Typ
+esetting:-mo(\",\", mathvariant = \"normal\", fence = \"false\", separ
+ator = \"true\", stretchy = \"false\", symmetric = \"false\", largeop \+
+= \"false\", movablelimits = \"false\", accent = \"false\", lspace = \+
+\"0.0em\", rspace = \"0.3333333em\"), Typesetting:-mn(\"2\", mathvaria
+nt = \"normal\")), subscriptshift = \"0\"), Typesetting:-mo(\"&Invisib
+leTimes;\", mathvariant = \"normal\", fence = \"false\", separator = \+
+\"false\", stretchy = \"false\", symmetric = \"false\", largeop = \"fa
+lse\", movablelimits = \"false\", accent = \"false\", lspace = \"0.0em
+\", rspace = \"0.0em\"), Typesetting:-mi(\"s\", italic = \"true\", mat
+hvariant = \"italic\"), Typesetting:-mo(\"&InvisibleTimes;\", mathvari
+ant = \"normal\", fence = \"false\", separator = \"false\", stretchy =
+ \"false\", symmetric = \"false\", largeop = \"false\", movablelimits \+
+= \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em
+\"), Typesetting:-msup(Typesetting:-mi(\"p\", italic = \"true\", mathv
+ariant = \"italic\"), Typesetting:-mn(\"2\", mathvariant = \"normal\")
+, superscriptshift = \"0\")), Typesetting:-mo(\"+\", mathvariant = \"n
+ormal\", fence = \"false\", separator = \"false\", stretchy = \"false
+\", symmetric = \"false\", largeop = \"false\", movablelimits = \"fals
+e\", accent = \"false\", lspace = \"0.2222222em\", rspace = \"0.222222
+2em\"), Typesetting:-mrow(Typesetting:-msub(Typesetting:-mi(\"b\", ita
+lic = \"true\", mathvariant = \"italic\"), Typesetting:-mrow(Typesetti
+ng:-mn(\"0\", mathvariant = \"normal\"), Typesetting:-mo(\",\", mathva
+riant = \"normal\", fence = \"false\", separator = \"true\", stretchy \+
+= \"false\", symmetric = \"false\", largeop = \"false\", movablelimits
+ = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.333
+3333em\"), Typesetting:-mn(\"3\", mathvariant = \"normal\")), subscrip
+tshift = \"0\"), Typesetting:-mo(\"&InvisibleTimes;\", mathvariant = \+
+\"normal\", fence = \"false\", separator = \"false\", stretchy = \"fal
+se\", symmetric = \"false\", largeop = \"false\", movablelimits = \"fa
+lse\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Ty
+pesetting:-mrow(Typesetting:-msup(Typesetting:-mi(\"p\", italic = \"tr
+ue\", mathvariant = \"italic\"), Typesetting:-mn(\"3\", mathvariant = \+
+\"normal\"), superscriptshift = \"0\")), Typesetting:-mi(\"\")), Types
+etting:-mi(\"\")), Typesetting:-mi(\"\")), Typesetting:-mi(\"\"));" "-
+I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6%-I#miGF$6#Q!F'-F
+#6'F+-F#6%-F,6%Q\"PF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'-I#moG
+F$6-Q0&ApplyFunction;F'/F:Q'normalF'/%&fenceGQ&falseF'/%*separatorGFD/
+%)stretchyGFD/%*symmetricGFD/%(largeopGFD/%.movablelimitsGFD/%'accentG
+FD/%'lspaceGQ&0.0emF'/%'rspaceGFS-I(mfencedGF$6$-F#6%-F,6%Q\"sF'F6F9-F
+=6-Q\",F'F@FB/FFF8FGFIFKFMFOFQ/FUQ,0.3333333emF'-F,6%Q\"pF'F6F9F@-F=6-
+Q\"=F'F@FBFEFGFIFKFMFO/FRQ,0.2777778emF'/FUFeo-F#65F+-F#6%-I%msubGF$6%
+-F,6%Q\"bF'F6F9-F#6%-I#mnGF$6$Q\"1F'F@Fhn-Fdp6$Q\"0F'F@/%/subscriptshi
+ftGFip-F=6-Q1&InvisibleTimes;F'F@FBFEFGFIFKFMFOFQFTFen-F=6-Q\"+F'F@FBF
+EFGFIFKFMFO/FRQ,0.2222222emF'/FUFcq-F#6%-F\\p6%F^p-F#6%FgpFhnFcpFjpF
+\\qF^oF_q-F#6&-F\\p6%F^p-F#6%-Fdp6$Q\"2F'F@FhnFgpFjpF\\q-F#6#-I%msupGF
+$6%FenFar/%1superscriptshiftGFipF+F_q-F#6'-F\\p6%F^p-F#6%FcpFhnFcpFjpF
+\\qFenF\\qF^oF_q-F#6&-F\\p6%F^p-F#6%FgpFhnFarFjpF\\q-F#6#-Fgr6%F^oFarF
+irF+F_q-F#6&-F\\p6%F^p-F#6%-Fdp6$Q\"3F'F@FhnFgpFjpF\\q-F#6#-Fgr6%FenFa
+tFirF+F_q-F#6'-F\\p6%F^p-F#6%FarFhnFcpFjpF\\qFdrF\\qF^oF_q-F#6'-F\\p6%
+F^p-F#6%FcpFhnFarFjpF\\qFenF\\qFisF_q-F#6&-F\\p6%F^p-F#6%FgpFhnFatFjpF
+\\q-F#6#-Fgr6%F^oFatFirF+F+F+F+" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 213 
+53 "These coefficients where calculated in the woksheet  " }{HYPERLNK 
+17 "0Derivadas3" 1 "0Derivadas3.mws" "" }{TEXT 213 311 " . They depend
+end on L (the distance between the two points of impact of the period \+
+2 orbit) and on k[0] and k[1] (and its derivatives),  the curvature ra
+dius at these points. In this worksheet we simplify the expressions al
+ready obtained and indentify the dependence on the curvature radius an
+d is derivatives." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "restart
+:" }}}{PARA 0 "" 0 "" {TEXT 213 0 "" }}{SECT 1 {PARA 3 "" 0 "" {TEXT 
+214 11 "First order" }}{PARA 0 "" 0 "" {TEXT 213 59 "The first order (
+linear) coefficients are the entries of   " }{XPPEDIT 18 0 "Typesettin
+g:-mrow(Typesetting:-mi(\"\"), Typesetting:-mrow(Typesetting:-msup(Typ
+esetting:-mi(\"DT\", italic = \"true\", mathvariant = \"italic\"), Typ
+esetting:-mn(\"2\", mathvariant = \"normal\"), superscriptshift = \"0
+\")), Typesetting:-mi(\"\"));" "-I%mrowG6#/I+modulenameG6\"I,Typesetti
+ngGI(_syslibGF'6%-I#miGF$6#Q!F'-F#6#-I%msupGF$6%-F,6%Q#DTF'/%'italicGQ
+%trueF'/%,mathvariantGQ'italicF'-I#mnGF$6$Q\"2F'/F;Q'normalF'/%1supers
+criptshiftGQ\"0F'F+" }{TEXT 213 46 "at (0,0)  and depend only on L, k[
+0] and k[1]." }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 119 "a[1,0] := (
+k[1]*sinh(L)-cosh(L))*(k[0]*sinh(L)-cosh(L))+sinh(L)*(k[1]*k[0]*sinh(L
+)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L));\n" }{MPLTEXT 1 0 44 "a[0,1] := 2
+*sinh(L)*(k[1]*sinh(L)-cosh(L));\n" }{MPLTEXT 1 0 92 "b[1,0] := (2*(k[
+0]*sinh(L)-cosh(L)))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh
+(L));\n" }{MPLTEXT 1 0 118 "b[0,1] := (k[1]*sinh(L)-cosh(L))*(k[0]*sin
+h(L)-cosh(L))+sinh(L)*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cos
+h(L));" }}}{PARA 0 "" 0 "" {TEXT 213 0 "" }}{PARA 0 "" 0 "" {TEXT 213 
+0 "" }}}{SECT 0 {PARA 3 "" 0 "" {TEXT 214 12 "Second order" }}{PARA 
+209 "" 0 "" {TEXT 209 119 "The second order coefficients depend on L, \+
+k[0] , k[1] and linearly on D(k)(0) and D(k)(s[1]) , they can be writt
+en as\n" }}{PARA 210 "" 0 "" {TEXT 209 27 "A0*D(k)(0) + A1*D(k)(s[1]) 
+" }}{PARA 0 "" 0 "" {TEXT 213 42 "where A0 and Ai1depend on L,k[0] and
+ k[1]." }}{SECT 1 {PARA 4 "" 0 "" {TEXT 215 6 "a[2,0]" }}{PARA 0 "" 0 
+"" {TEXT 213 0 "" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 9 "restart:
+\n" }{MPLTEXT 1 0 259 "a[2,0] := (1/2)*(D(k))(s[1])*sinh(L)*(k[0]*sinh
+(L)-cosh(L))^2+(1/2)*(D(k))(0)*sinh(L)*(k[1]*sinh(L)-cosh(L))+(1/2*((D
+(k))(s[1])*(k[0]*sinh(L)-cosh(L))*k[0]*sinh(L)+k[1]*(D(k))(0)*sinh(L)-
+(D(k))(s[1])*(k[0]*sinh(L)-cosh(L))*cosh(L)-(D(k))(0)*cosh(L)))*sinh(L
+):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 27 "X:=coeff(a[2,0],(D)(k
+)(0));" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 50 "A0:=sinh(L)*(k[1]*sinh(L)
+-cosh(L));simplify(A0-X);" }}{PARA 11 "" 1 "" {XPPMATH 20 "*&-I%sinhG6
+$%*protectedGI(_syslibG6\"6#I\"LGF(\"\"\",&*&&I\"kGF(6#F+F+F#F+F+-I%co
+shGF%F)!\"\"F+" }}{PARA 11 "" 1 "" {XPPMATH 20 "*&-I%sinhG6$%*protecte
+dGI(_syslibG6\"6#I\"LGF(\"\"\",&*&&I\"kGF(6#F+F+F#F+F+-I%coshGF%F)!\"
+\"F+" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}{EXCHG {PARA 0 "> " 0 
+"" {MPLTEXT 1 0 30 "X:=coeff(a[2,0],(D)(k)(s[1]));" }}{PARA 0 "> " 0 "
+" {MPLTEXT 1 0 5 "A1 :=" }{MPLTEXT 1 0 38 "(sinh(L))*((cosh(L)*k[0]-si
+nh(L))^2+1-" }{MPLTEXT 1 0 6 "k[0]^2" }{MPLTEXT 1 0 2 ");" }{MPLTEXT 
+1 0 16 " simplify(A1-X);" }}{PARA 11 "" 1 "" {XPPMATH 20 ",&*(#\"\"\"
+\"\"#F%-I%sinhG6$%*protectedGI(_syslibG6\"6#I\"LGF,F%),&*&&I\"kGF,6#\"
+\"!F%F'F%F%-I%coshGF)F-!\"\"F&F%F%*(F$F%,&*(F0F%F2F%F'F%F%*&F0F%F6F%F8
+F%F'F%F%" }}{PARA 11 "" 1 "" {XPPMATH 20 "*&-I%sinhG6$%*protectedGI(_s
+yslibG6\"6#I\"LGF(\"\"\",(*$),&*&-I%coshGF%F)F+&I\"kGF(6#\"\"!F+F+F#!
+\"\"\"\"#F+F+F+F+*$)F3F8F+F7F+" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!"
+ }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 46 "simplify(A1*(D)(k)(s[1])
++A0*(D)(k)(0)-a[2,0]);" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 39 "a[2,0]:= \+
+A1*(D)(k)(s[1])+A0*(D)(k)(0);\n" }{MPLTEXT 1 0 119 "a[2,0]:=sinh(L)*(k
+[1]*sinh(L)-cosh(L))*D(k)(0)+sinh(L)*((cosh(L)*k[0]-sinh(L))^2+1-k[0]^
+2)*D(k)(s[1])/(r[0]^2*r[1]^2):\n" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"
+!" }}{PARA 11 "" 1 "" {XPPMATH 20 ",&*(-I%sinhG6$%*protectedGI(_syslib
+G6\"6#I\"LGF)\"\"\",(*$),&*&-I%coshGF&F*F,&I\"kGF)6#\"\"!F,F,F$!\"\"\"
+\"#F,F,F,F,*$)F4F9F,F8F,--I\"DGF&6#F56#&I\"sGF)6#F,F,F,*(-F=F6F,F$F,,&
+*&&F5FCF,F$F,F,F2F8F,F," }}}{PARA 0 "" 0 "" {TEXT 213 0 "" }}}{SECT 1 
+{PARA 4 "" 0 "" {TEXT 215 6 "a[1,1]" }}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 8 "restart:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "
+" }{TEXT 213 0 "" }{MPLTEXT 1 0 123 "a[1,1] := (D(k))(s[1])*sinh(L)^2*
+(k[0]*sinh(L)-cosh(L))+((D(k))(s[1])*sinh(L)^2*k[0]-(D(k))(s[1])*sinh(
+L)*cosh(L))*sinh(L):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 28 "A0:
+=coeff(a[1,1],(D)(k)(0));" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 31 "X:=coeff(a[1,1],(D)(k)(s[1])
+);\n" }{MPLTEXT 1 0 54 "A1:=2*sinh(L)^2*(k[0]*sinh(L)-cosh(L));simplif
+y(A1-X);" }}{PARA 11 "" 1 "" {XPPMATH 20 ",&*&)-I%sinhG6$%*protectedGI
+(_syslibG6\"6#I\"LGF*\"\"#\"\"\",&*&&I\"kGF*6#\"\"!F.F%F.F.-I%coshGF'F
++!\"\"F.F.*&,&*&F$F.F1F.F.*&F%F.F5F.F7F.F%F.F." }}{PARA 11 "" 1 "" 
+{XPPMATH 20 ",$*(\"\"#\"\"\")-I%sinhG6$%*protectedGI(_syslibG6\"6#I\"L
+GF,F$F%,&*&&I\"kGF,6#\"\"!F%F'F%F%-I%coshGF)F-!\"\"F%F%" }}{PARA 11 ""
+ 1 "" {XPPMATH 20 "\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 33 
+"simplify(A1*(D)(k)(s[1])-a[1,1]);" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 
+27 "a[1,1]:= A1*(D)(k)(s[1]) ;\n" }{MPLTEXT 1 0 55 "a[1,1]:= 2*sinh(L)
+^2*(k[0]*sinh(L)-cosh(L))*D(k)(s[1]):" }}{PARA 11 "" 1 "" {XPPMATH 20 
+"\"\"!" }}{PARA 11 "" 1 "" {XPPMATH 20 ",$**\"\"#\"\"\"--I\"DG6$%*prot
+ectedGI(_syslibG6\"6#I\"kGF,6#&I\"sGF,6#F%F%)-I%sinhGF)6#I\"LGF,F$F%,&
+*&&F.6#\"\"!F%F4F%F%-I%coshGF)F6!\"\"F%F%" }}}}{SECT 1 {PARA 4 "" 0 ""
+ {TEXT 215 6 "a[0,2]" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }
+{TEXT 213 0 "" }{MPLTEXT 1 0 9 "restart:\n" }{MPLTEXT 1 0 33 "a[0,2] :
+= (D(k))(s[1])*sinh(L)^3:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+28 "A0:=coeff(a[0,2],(D)(k)(0));" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"
+!" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 30 "X:=coeff(a[0,2],(D)(k)
+(s[1])):" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 14 "A1:=sinh(L)^3;" }}
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 15 "simplify(A1-X);" }}{PARA 11 "" 1 ""
+ {XPPMATH 20 "*$)-I%sinhG6$%*protectedGI(_syslibG6\"6#I\"LGF)\"\"$\"\"
+\"" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}{EXCHG {PARA 0 "> " 0 ""
+ {MPLTEXT 1 0 33 "simplify(A1*(D)(k)(s[1])-a[0,2]);" }}{PARA 0 "> " 0 
+"" {MPLTEXT 1 0 25 "a[0,2]:= A1*(D)(k)(s[1]);" }}{PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 31 "a[0,2] := sinh(L)^3*D(k)(s[1]):" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "\"\"!" }}{PARA 11 "" 1 "" {XPPMATH 20 "*&--I\"DG6$%*prote
+ctedGI(_syslibG6\"6#I\"kGF)6#&I\"sGF)6#\"\"\"F0)-I%sinhGF&6#I\"LGF)\"
+\"$F0" }}}}{SECT 1 {PARA 4 "" 0 "" {TEXT 215 6 "b[2,0]" }}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "restart:" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 632 "b[2,0] := (1/2*((D(k))(0)*(k[1]*sinh(L)-cosh(L))*k
+[1]*sinh(L)+k[0]*(D(k))(s[1])*sinh(L)-(D(k))(0)*(k[1]*sinh(L)-cosh(L))
+*cosh(L)-(D(k))(s[1])*cosh(L)))*(k[0]*sinh(L)-cosh(L))^2+((D(k))(0)*si
+nh(L)^2*k[1]-(D(k))(0)*sinh(L)*cosh(L))*(k[0]*sinh(L)-cosh(L))*(k[1]*k
+[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))+(1/2)*(D(k))(0)*sinh(L)
+^2*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))^2+(1/2)*(D(k)
+)(0)*sinh(L)*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))+(1/
+2*((D(k))(s[1])*(k[0]*sinh(L)-cosh(L))*k[0]*sinh(L)+k[1]*(D(k))(0)*sin
+h(L)-(D(k))(s[1])*(k[0]*sinh(L)-cosh(L))*cosh(L)-(D(k))(0)*cosh(L)))*(
+k[0]*sinh(L)-cosh(L)):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 41 "A
+1:=simplify(coeff(b[2,0],(D)(k)(s[1])));" }}{PARA 11 "" 1 "" {XPPMATH 
+20 ",.*(-I%sinhG6$%*protectedGI(_syslibG6\"6#I\"LGF)\"\"\"-I%coshGF&F*
+\"\"#&I\"kGF)6#\"\"!\"\"$F,*&F-F4F0F/!\"$*(F-F/F0F,F$F,F4*&F$F,F0F4!\"
+\"*$F-F4F9*&F-F,F0F/F4" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 27 "X
+:=coeff(b[2,0],(D)(k)(0));" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 455 "A0:=
+2*cosh(L)^4*k[0]^2*k[1]^2-4*sinh(L)*cosh(L)^3*k[0]^2*k[1]-4*sinh(L)*co
+sh(L)^3*k[0]*k[1]^2+2*cosh(L)^4*k[0]^2+8*cosh(L)^4*k[0]*k[1]+2*cosh(L)
+^4*k[1]^2-4*cosh(L)^2*k[0]^2*k[1]^2-4*sinh(L)*cosh(L)^3*k[0]-4*sinh(L)
+*cosh(L)^3*k[1]+4*cosh(L)*k[0]^2*k[1]*sinh(L)+4*cosh(L)*k[0]*k[1]^2*si
+nh(L)+2*cosh(L)^4-2*cosh(L)^2*k[0]^2-9*cosh(L)^2*k[0]*k[1]-2*cosh(L)^2
+*k[1]^2+2*k[0]^2*k[1]^2+sinh(L)*cosh(L)*k[0]+sinh(L)*cosh(L)*k[1]-cosh
+(L)^2+k[0]*k[1];simplify(A0-X);" }}{PARA 11 "" 1 "" {XPPMATH 20 ",,*&,
+&*(,&*&&I\"kG6\"6#\"\"\"F,-I%sinhG6$%*protectedGI(_syslibGF*6#I\"LGF*F
+,F,-I%coshGF/F2!\"\"F,F(F,F-F,F,*&F&F,F4F,F6F,,&*&&F)6#\"\"!F,F-F,F,F4
+F6\"\"##F,F=*(,&*&F-F=F(F,F,*&F-F,F4F,F6F,F8F,,**(F(F,F:F,F-F,F,*&F(F,
+F4F,F6F-F,*&F:F,F4F,F6F,F,*&F-F=FCF=F>*&F-F,FCF,F>*&F&F,F8F,F>" }}
+{PARA 11 "" 1 "" {XPPMATH 20 ",J*(-I%coshG6$%*protectedGI(_syslibG6\"6
+#I\"LGF)\"\"%&I\"kGF)6#\"\"!\"\"#&F.6#\"\"\"F1F1**-I%sinhGF&F*F4F$\"\"
+$F-F1F2F4!\"%**F6F4F$F8F-F4F2F1F9*&F$F,F-F1F1*(F$F,F-F4F2F4\"\")*&F$F,
+F2F1F1*(F$F1F-F1F2F1F9*(F6F4F$F8F-F4F9*(F6F4F$F8F2F4F9**F$F4F-F1F2F4F6
+F4F,**F$F4F-F4F2F1F6F4F,*$F$F,F1*&F$F1F-F1!\"#*(F$F1F-F4F2F4!\"**&F$F1
+F2F1FF*&F-F1F2F1F1*(F6F4F$F4F-F4F4*(F6F4F$F4F2F4F4*$F$F1!\"\"*&F-F4F2F
+4F4" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 50 "simplify(b[2,0]-A0*((D)(k)(0))-A1*((D)(k)(s[1])));"
+ }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 42 "b[2,0]:= A0*((D)(k)(0))+A1*((D)(
+k)(s[1]));" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 584 "b[2,0] := (2*cosh(L)
+^4*k[0]^2*k[1]^2-4*sinh(L)*cosh(L)^3*k[0]^2*k[1]-4*sinh(L)*cosh(L)^3*k
+[0]*k[1]^2+2*cosh(L)^4*k[0]^2+8*cosh(L)^4*k[0]*k[1]+2*cosh(L)^4*k[1]^2
+-4*cosh(L)^2*k[0]^2*k[1]^2-4*sinh(L)*cosh(L)^3*k[0]-4*sinh(L)*cosh(L)^
+3*k[1]+4*cosh(L)*k[0]^2*k[1]*sinh(L)+4*cosh(L)*k[0]*k[1]^2*sinh(L)+2*c
+osh(L)^4-2*cosh(L)^2*k[0]^2-9*cosh(L)^2*k[0]*k[1]-2*cosh(L)^2*k[1]^2+2
+*k[0]^2*k[1]^2+sinh(L)*cosh(L)*k[0]+sinh(L)*cosh(L)*k[1]-cosh(L)^2+k[0
+]*k[1])*(D(k))(0)+(sinh(L)*cosh(L)^2*k[0]^3-3*cosh(L)^3*k[0]^2+3*cosh(
+L)^2*k[0]*sinh(L)-sinh(L)*k[0]^3-cosh(L)^3+3*cosh(L)*k[0]^2)*(D(k))(s[
+1]):" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 ",&*&,J*(-I%coshG6$%*protectedGI(_syslibG6\"6#I\"LGF+\"\"%
+&I\"kGF+6#\"\"!\"\"#&F06#\"\"\"F3F3**-I%sinhGF(F,F6F&\"\"$F/F3F4F6!\"%
+**F8F6F&F:F/F6F4F3F;*&F&F.F/F3F3*(F&F.F/F6F4F6\"\")*&F&F.F4F3F3*(F&F3F
+/F3F4F3F;*(F8F6F&F:F/F6F;*(F8F6F&F:F4F6F;**F&F6F/F3F4F6F8F6F.**F&F6F/F
+6F4F3F8F6F.*$F&F.F3*&F&F3F/F3!\"#*(F&F3F/F6F4F6!\"**&F&F3F4F3FH*&F/F3F
+4F3F3*(F8F6F&F6F/F6F6*(F8F6F&F6F4F6F6*$F&F3!\"\"*&F/F6F4F6F6F6--I\"DGF
+(6#F0F1F6F6*&,.*(F8F6F&F3F/F:F6*&F&F:F/F3!\"$*(F&F3F/F6F8F6F:*&F8F6F/F
+:FP*$F&F:FP*&F&F6F/F3F:F6-FS6#&I\"sGF+F5F6F6" }}}}{SECT 1 {PARA 4 "" 0
+ "" {TEXT 215 6 "b[1,1]" }}{PARA 0 "" 0 "" {TEXT 213 0 "" }}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 9 "restart:\n" }{MPLTEXT 1 0 570 "b[1,1
+] := ((D(k))(0)*(k[1]*sinh(L)-cosh(L))*k[1]*sinh(L)+k[0]*(D(k))(s[1])*
+sinh(L)-(D(k))(0)*(k[1]*sinh(L)-cosh(L))*cosh(L)-(D(k))(s[1])*cosh(L))
+*(k[0]*sinh(L)-cosh(L))*sinh(L)+((D(k))(0)*sinh(L)^2*k[1]-(D(k))(0)*si
+nh(L)*cosh(L))*(k[0]*sinh(L)-cosh(L))*(k[1]*sinh(L)-cosh(L))+((D(k))(0
+)*sinh(L)^2*k[1]-(D(k))(0)*sinh(L)*cosh(L))*sinh(L)*(k[1]*k[0]*sinh(L)
+-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))+(D(k))(0)*sinh(L)^2*(k[1]*k[0]*sin
+h(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))*(k[1]*sinh(L)-cosh(L))+((D(k))
+(s[1])*sinh(L)^2*k[0]-(D(k))(s[1])*sinh(L)*cosh(L))*(k[0]*sinh(L)-cosh
+(L)):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 27 "X:=coeff(b[1,1],(D
+)(k)(0)):" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 233 "A0:= 2*sinh(L)*(2*sin
+h(L)*cosh(L)^2*k[0]*k[1]^2-4*cosh(L)^3*k[0]*k[1]-2*cosh(L)^3*k[1]^2+2*
+sinh(L)*cosh(L)^2*k[0]+4*sinh(L)*cosh(L)^2*k[1]-2*k[0]*k[1]^2*sinh(L)-
+2*cosh(L)^3+4*cosh(L)*k[0]*k[1]+2*cosh(L)*k[1]^2-k[1]*sinh(L)+cosh(L))
+;\n" }{MPLTEXT 1 0 15 "simplify(X-A0);" }}{PARA 11 "" 1 "" {XPPMATH 20
+ ",$*&-I%sinhG6$%*protectedGI(_syslibG6\"6#I\"LGF)\"\"\",8**F$F,-I%cos
+hGF&F*\"\"#&I\"kGF)6#\"\"!F,&F36#F,F1F1*(F/\"\"$F2F,F6F,!\"%*&F/F9F6F1
+!\"#*(F$F,F/F1F2F,F1*(F$F,F/F1F6F,\"\"%*(F2F,F6F1F$F,F<*$F/F9F<*(F/F,F
+2F,F6F,F?*&F/F,F6F1F1*&F6F,F$F,!\"\"F/F,F,F1" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 41 "A1:=s
+implify(coeff(b[1,1],(D)(k)(s[1])));" }}{PARA 11 "" 1 "" {XPPMATH 20 "
+,$*&-I%sinhG6$%*protectedGI(_syslibG6\"6#I\"LGF)\"\"\",**&-I%coshGF&F*
+\"\"#&I\"kGF)6#\"\"!F1!\"\"*(F$F,F/F,F2F,F1*$F/F1F6*$F2F1F,F,!\"#" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 46 "simplify(A0*(D)(k)(0)+A1*(D)
+(k)(s[1])-b[1,1]);" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 37 "b[1,1]:=A0*(D
+)(k)(0)+A1*(D)(k)(s[1]);" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 330 "b[1,1]
+ := 2*sinh(L)*(2*sinh(L)*cosh(L)^2*k[0]*k[1]^2-4*cosh(L)^3*k[0]*k[1]-2
+*cosh(L)^3*k[1]^2+2*sinh(L)*cosh(L)^2*k[0]+4*sinh(L)*cosh(L)^2*k[1]-2*
+k[0]*k[1]^2*sinh(L)-2*cosh(L)^3+4*cosh(L)*k[0]*k[1]+2*cosh(L)*k[1]^2-k
+[1]*sinh(L)+cosh(L))*(D(k))(0)-2*sinh(L)*(-cosh(L)^2*k[0]^2+2*sinh(L)*
+cosh(L)*k[0]-cosh(L)^2+k[0]^2)*(D(k))(s[1]):" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "\"\"!" }}{PARA 11 "" 1 "" {XPPMATH 20 ",&*(-I%sinhG6$%*pr
+otectedGI(_syslibG6\"6#I\"LGF)\"\"\",8**F$F,-I%coshGF&F*\"\"#&I\"kGF)6
+#\"\"!F,&F36#F,F1F1*(F/\"\"$F2F,F6F,!\"%*&F/F9F6F1!\"#*(F$F,F/F1F2F,F1
+*(F$F,F/F1F6F,\"\"%*(F2F,F6F1F$F,F<*$F/F9F<*(F/F,F2F,F6F,F?*&F/F,F6F1F
+1*&F6F,F$F,!\"\"F/F,F,--I\"DGF&6#F3F4F,F1*(F$F,,**&F/F1F2F1FE*(F$F,F/F
+,F2F,F1*$F/F1FE*$F2F1F,F,-FG6#&I\"sGF)F7F,F<" }}}}{SECT 1 {PARA 4 "" 0
+ "" {TEXT 215 6 "b[0,2]" }}{PARA 0 "" 0 "" {TEXT 213 0 "" }}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 9 "restart:\n" }{MPLTEXT 1 0 349 "b[0,2
+] := (1/2*((D(k))(0)*(k[1]*sinh(L)-cosh(L))*k[1]*sinh(L)+k[0]*(D(k))(s
+[1])*sinh(L)-(D(k))(0)*(k[1]*sinh(L)-cosh(L))*cosh(L)-(D(k))(s[1])*cos
+h(L)))*sinh(L)^2+((D(k))(0)*sinh(L)^2*k[1]-(D(k))(0)*sinh(L)*cosh(L))*
+sinh(L)*(k[1]*sinh(L)-cosh(L))+(1/2)*(D(k))(0)*sinh(L)^2*(k[1]*sinh(L)
+-cosh(L))^2+(1/2)*(D(k))(s[1])*sinh(L)^2*(k[0]*sinh(L)-cosh(L)):" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 38 "A0:=simplify(coeff(b[0,2],(D
+)(k)(0)));" }}{PARA 11 "" 1 "" {XPPMATH 20 ",$*&-I%sinhG6$%*protectedG
+I(_syslibG6\"6#I\"LGF)\"\"#,**&-I%coshGF&F*F,&I\"kGF)6#\"\"\"F,!\"\"*(
+F$F4F/F4F1F4F,*$F/F,F5*$F1F,F4F4!\"#" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 41 "A1:=simplify(coeff(b[0,2],(D)(k)(s[1])));" }}{PARA 11
+ "" 1 "" {XPPMATH 20 "*&,&*&&I\"kG6\"6#\"\"!\"\"\"-I%sinhG6$%*protecte
+dGI(_syslibGF'6#I\"LGF'F*F*-I%coshGF-F0!\"\"F*F+\"\"#" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 46 "simplify(A0*(D)(k)(0)+A1*(D)(k)(s[1
+])-b[0,2]);" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 37 "b[0,2]:=A0*(D)(k)(0)
++A1*(D)(k)(s[1]);" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 139 "b[0,2] := -2*
+sinh(L)^2*(-cosh(L)^2*k[1]^2+2*sinh(L)*cosh(L)*k[1]-cosh(L)^2+k[1]^2)*
+(D(k))(0)+(D(k))(s[1])*sinh(L)^2*(k[0]*sinh(L)-cosh(L)):" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "\"\"!" }}{PARA 11 "" 1 "" {XPPMATH 20 ",&*(-I%sinh
+G6$%*protectedGI(_syslibG6\"6#I\"LGF)\"\"#,**&-I%coshGF&F*F,&I\"kGF)6#
+\"\"\"F,!\"\"*(F$F4F/F4F1F4F,*$F/F,F5*$F1F,F4F4--I\"DGF&6#F26#\"\"!F4!
+\"#*(-F:6#&I\"sGF)F3F4F$F,,&*&&F2F=F4F$F4F4F/F5F4F4" }}}}}{SECT 0 
+{PARA 3 "" 0 "" {TEXT 214 11 "Third order" }}{PARA 0 "" 0 "" {TEXT 
+213 0 "" }}{PARA 0 "" 0 "" {TEXT 213 13 "Depend on L, " }{XPPEDIT 18 0
+ "Typesetting:-mrow(Typesetting:-msub(Typesetting:-mi(\"k\", italic = \+
+\"true\", mathvariant = \"italic\"), Typesetting:-mrow(Typesetting:-mn
+(\"0\", mathvariant = \"normal\")), subscriptshift = \"0\"));" "-I%mro
+wG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6#-I%msubGF$6%-I#miGF$6
+%Q\"kF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'-F#6#-I#mnGF$6$Q\"0F
+'/F6Q'normalF'/%/subscriptshiftGF=" }{TEXT 213 2 ", " }{XPPEDIT 18 0 "
+Typesetting:-mrow(Typesetting:-msub(Typesetting:-mi(\"k\", italic = \"
+true\", mathvariant = \"italic\"), Typesetting:-mrow(Typesetting:-mn(
+\"1\", mathvariant = \"normal\")), subscriptshift = \"0\"));" "-I%mrow
+G6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6#-I%msubGF$6%-I#miGF$6%
+Q\"kF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'-F#6#-I#mnGF$6$Q\"1F'
+/F6Q'normalF'/%/subscriptshiftGQ\"0F'" }{TEXT 213 45 ", with quadratic
+ dependence on  k'(0) and k'(" }{XPPEDIT 18 0 "Typesetting:-mrow(Types
+etting:-msub(Typesetting:-mi(\"s\", italic = \"true\", mathvariant = \+
+\"italic\"), Typesetting:-mrow(Typesetting:-mn(\"1\", mathvariant = \"
+normal\")), subscriptshift = \"0\"));" "-I%mrowG6#/I+modulenameG6\"I,T
+ypesettingGI(_syslibGF'6#-I%msubGF$6%-I#miGF$6%Q\"sF'/%'italicGQ%trueF
+'/%,mathvariantGQ'italicF'-F#6#-I#mnGF$6$Q\"1F'/F6Q'normalF'/%/subscri
+ptshiftGQ\"0F'" }{TEXT 213 42 ") and linear dependence on k''(0) and k
+''(" }{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-msub(Typesetting:-
+mi(\"s\", italic = \"true\", mathvariant = \"italic\"), Typesetting:-m
+row(Typesetting:-mn(\"1\", mathvariant = \"normal\")), subscriptshift \+
+= \"0\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6#-I
+%msubGF$6%-I#miGF$6%Q\"sF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'-
+F#6#-I#mnGF$6$Q\"1F'/F6Q'normalF'/%/subscriptshiftGQ\"0F'" }{TEXT 213 
+28 ") . They can be written as  " }}{PARA 0 "" 0 "" {TEXT 213 0 "" }
+{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetting:-m
+row(Typesetting:-mi(\"X0\", italic = \"true\", mathvariant = \"italic
+\"), Typesetting:-mo(\"+\", mathvariant = \"normal\", fence = \"false
+\", separator = \"false\", stretchy = \"false\", symmetric = \"false\"
+, largeop = \"false\", movablelimits = \"false\", accent = \"false\", \+
+lspace = \"0.2222222em\", rspace = \"0.2222222em\"), Typesetting:-mrow
+(Typesetting:-mi(\"A00\", italic = \"true\", mathvariant = \"italic\")
+, Typesetting:-mo(\"&ApplyFunction;\", mathvariant = \"normal\", fence
+ = \"false\", separator = \"false\", stretchy = \"false\", symmetric =
+ \"false\", largeop = \"false\", movablelimits = \"false\", accent = \+
+\"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-msup(
+Typesetting:-mfenced(Typesetting:-mrow(Typesetting:-mi(\"\"), Typesett
+ing:-mrow(Typesetting:-mi(\"\"), Typesetting:-mrow(Typesetting:-mi(\"D
+\", italic = \"false\", mathvariant = \"normal\"), Typesetting:-mo(\"&
+ApplyFunction;\", mathvariant = \"normal\", fence = \"false\", separat
+or = \"false\", stretchy = \"false\", symmetric = \"false\", largeop =
+ \"false\", movablelimits = \"false\", accent = \"false\", lspace = \"
+0.0em\", rspace = \"0.0em\"), Typesetting:-mfenced(Typesetting:-mrow(T
+ypesetting:-mi(\"k\", italic = \"true\", mathvariant = \"italic\")), m
+athvariant = \"normal\")), Typesetting:-mo(\"&ApplyFunction;\", mathva
+riant = \"normal\", fence = \"false\", separator = \"false\", stretchy
+ = \"false\", symmetric = \"false\", largeop = \"false\", movablelimit
+s = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0e
+m\"), Typesetting:-mfenced(Typesetting:-mrow(Typesetting:-mn(\"0\", ma
+thvariant = \"normal\")), mathvariant = \"normal\")), Typesetting:-mi(
+\"\")), mathvariant = \"normal\"), Typesetting:-mn(\"2\", mathvariant \+
+= \"normal\"), superscriptshift = \"0\")), Typesetting:-mo(\"+\", math
+variant = \"normal\", fence = \"false\", separator = \"false\", stretc
+hy = \"false\", symmetric = \"false\", largeop = \"false\", movablelim
+its = \"false\", accent = \"false\", lspace = \"0.2222222em\", rspace \+
+= \"0.2222222em\"), Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetti
+ng:-mrow(Typesetting:-mi(\"A01\", italic = \"true\", mathvariant = \"i
+talic\"), Typesetting:-mo(\"&ApplyFunction;\", mathvariant = \"normal
+\", fence = \"false\", separator = \"false\", stretchy = \"false\", sy
+mmetric = \"false\", largeop = \"false\", movablelimits = \"false\", a
+ccent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesettin
+g:-mfenced(Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetting:-mrow(
+Typesetting:-mi(\"\"), Typesetting:-mrow(Typesetting:-mi(\"D\", italic
+ = \"false\", mathvariant = \"normal\"), Typesetting:-mo(\"&ApplyFunct
+ion;\", mathvariant = \"normal\", fence = \"false\", separator = \"fal
+se\", stretchy = \"false\", symmetric = \"false\", largeop = \"false\"
+, movablelimits = \"false\", accent = \"false\", lspace = \"0.0em\", r
+space = \"0.0em\"), Typesetting:-mfenced(Typesetting:-mrow(Typesetting
+:-mi(\"k\", italic = \"true\", mathvariant = \"italic\")), mathvariant
+ = \"normal\")), Typesetting:-mo(\"&ApplyFunction;\", mathvariant = \"
+normal\", fence = \"false\", separator = \"false\", stretchy = \"false
+\", symmetric = \"false\", largeop = \"false\", movablelimits = \"fals
+e\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Type
+setting:-mfenced(Typesetting:-mrow(Typesetting:-mn(\"0\", mathvariant \+
+= \"normal\")), mathvariant = \"normal\")), Typesetting:-mi(\"\")), ma
+thvariant = \"normal\")), Typesetting:-mo(\"&ApplyFunction;\", mathvar
+iant = \"normal\", fence = \"false\", separator = \"false\", stretchy \+
+= \"false\", symmetric = \"false\", largeop = \"false\", movablelimits
+ = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em
+\"), Typesetting:-mfenced(Typesetting:-mrow(Typesetting:-mi(\"\"), Typ
+esetting:-mrow(Typesetting:-mi(\"\"), Typesetting:-mrow(Typesetting:-m
+i(\"D\", italic = \"false\", mathvariant = \"normal\"), Typesetting:-m
+o(\"&ApplyFunction;\", mathvariant = \"normal\", fence = \"false\", se
+parator = \"false\", stretchy = \"false\", symmetric = \"false\", larg
+eop = \"false\", movablelimits = \"false\", accent = \"false\", lspace
+ = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mfenced(Typesetting:-m
+row(Typesetting:-mi(\"k\", italic = \"true\", mathvariant = \"italic\"
+)), mathvariant = \"normal\")), Typesetting:-mo(\"&ApplyFunction;\", m
+athvariant = \"normal\", fence = \"false\", separator = \"false\", str
+etchy = \"false\", symmetric = \"false\", largeop = \"false\", movable
+limits = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \+
+\"0.0em\"), Typesetting:-mfenced(Typesetting:-mrow(Typesetting:-msub(T
+ypesetting:-mi(\"s\", italic = \"true\", mathvariant = \"italic\"), Ty
+pesetting:-mrow(Typesetting:-mn(\"1\", mathvariant = \"normal\")), sub
+scriptshift = \"0\")), mathvariant = \"normal\")), Typesetting:-mi(\"
+\")), mathvariant = \"normal\")), Typesetting:-mo(\"+\", mathvariant =
+ \"normal\", fence = \"false\", separator = \"false\", stretchy = \"fa
+lse\", symmetric = \"false\", largeop = \"false\", movablelimits = \"f
+alse\", accent = \"false\", lspace = \"0.2222222em\", rspace = \"0.222
+2222em\"), Typesetting:-mrow(Typesetting:-mi(\"A11\", italic = \"true
+\", mathvariant = \"italic\"), Typesetting:-mo(\"&ApplyFunction;\", ma
+thvariant = \"normal\", fence = \"false\", separator = \"false\", stre
+tchy = \"false\", symmetric = \"false\", largeop = \"false\", movablel
+imits = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"
+0.0em\"), Typesetting:-msup(Typesetting:-mfenced(Typesetting:-mrow(Typ
+esetting:-mi(\"\"), Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetti
+ng:-mrow(Typesetting:-mi(\"D\", italic = \"false\", mathvariant = \"no
+rmal\"), Typesetting:-mo(\"&ApplyFunction;\", mathvariant = \"normal\"
+, fence = \"false\", separator = \"false\", stretchy = \"false\", symm
+etric = \"false\", largeop = \"false\", movablelimits = \"false\", acc
+ent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:
+-mfenced(Typesetting:-mrow(Typesetting:-mi(\"k\", italic = \"true\", m
+athvariant = \"italic\")), mathvariant = \"normal\")), Typesetting:-mo
+(\"&ApplyFunction;\", mathvariant = \"normal\", fence = \"false\", sep
+arator = \"false\", stretchy = \"false\", symmetric = \"false\", large
+op = \"false\", movablelimits = \"false\", accent = \"false\", lspace \+
+= \"0.0em\", rspace = \"0.0em\"), Typesetting:-mfenced(Typesetting:-mr
+ow(Typesetting:-msub(Typesetting:-mi(\"s\", italic = \"true\", mathvar
+iant = \"italic\"), Typesetting:-mrow(Typesetting:-mn(\"1\", mathvaria
+nt = \"normal\")), subscriptshift = \"0\")), mathvariant = \"normal\")
+), Typesetting:-mi(\"\")), mathvariant = \"normal\"), Typesetting:-mn(
+\"2\", mathvariant = \"normal\"), superscriptshift = \"0\")), Typesett
+ing:-mo(\"+\", mathvariant = \"normal\", fence = \"false\", separator \+
+= \"false\", stretchy = \"false\", symmetric = \"false\", largeop = \"
+false\", movablelimits = \"false\", accent = \"false\", lspace = \"0.2
+222222em\", rspace = \"0.2222222em\"), Typesetting:-mrow(Typesetting:-
+mi(\"\"), Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetting:-mrow(T
+ypesetting:-mi(\"AA0\", italic = \"true\", mathvariant = \"italic\"), \+
+Typesetting:-mo(\"&ApplyFunction;\", mathvariant = \"normal\", fence =
+ \"false\", separator = \"false\", stretchy = \"false\", symmetric = \+
+\"false\", largeop = \"false\", movablelimits = \"false\", accent = \"
+false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mfenced
+(Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetting:-mrow(Typesettin
+g:-msup(Typesetting:-mi(\"D\", italic = \"false\", mathvariant = \"nor
+mal\"), Typesetting:-mn(\"2\", mathvariant = \"normal\"), superscripts
+hift = \"0\")), Typesetting:-mi(\"\")), mathvariant = \"normal\")), Ty
+pesetting:-mo(\"&ApplyFunction;\", mathvariant = \"normal\", fence = \+
+\"false\", separator = \"false\", stretchy = \"false\", symmetric = \"
+false\", largeop = \"false\", movablelimits = \"false\", accent = \"fa
+lse\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mfenced(T
+ypesetting:-mrow(Typesetting:-mi(\"k\", italic = \"true\", mathvariant
+ = \"italic\")), mathvariant = \"normal\")), Typesetting:-mo(\"&ApplyF
+unction;\", mathvariant = \"normal\", fence = \"false\", separator = \+
+\"false\", stretchy = \"false\", symmetric = \"false\", largeop = \"fa
+lse\", movablelimits = \"false\", accent = \"false\", lspace = \"0.0em
+\", rspace = \"0.0em\"), Typesetting:-mfenced(Typesetting:-mrow(Typese
+tting:-mn(\"0\", mathvariant = \"normal\")), mathvariant = \"normal\")
+), Typesetting:-mo(\"+\", mathvariant = \"normal\", fence = \"false\",
+ separator = \"false\", stretchy = \"false\", symmetric = \"false\", l
+argeop = \"false\", movablelimits = \"false\", accent = \"false\", lsp
+ace = \"0.2222222em\", rspace = \"0.2222222em\"), Typesetting:-mrow(Ty
+pesetting:-mi(\"\"), Typesetting:-mrow(Typesetting:-mi(\"\"), Typesett
+ing:-mrow(Typesetting:-mi(\"AA1\", italic = \"true\", mathvariant = \"
+italic\"), Typesetting:-mo(\"&ApplyFunction;\", mathvariant = \"normal
+\", fence = \"false\", separator = \"false\", stretchy = \"false\", sy
+mmetric = \"false\", largeop = \"false\", movablelimits = \"false\", a
+ccent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesettin
+g:-mfenced(Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetting:-mrow(
+Typesetting:-msup(Typesetting:-mi(\"D\", italic = \"false\", mathvaria
+nt = \"normal\"), Typesetting:-mn(\"2\", mathvariant = \"normal\"), su
+perscriptshift = \"0\")), Typesetting:-mi(\"\")), mathvariant = \"norm
+al\")), Typesetting:-mo(\"&ApplyFunction;\", mathvariant = \"normal\",
+ fence = \"false\", separator = \"false\", stretchy = \"false\", symme
+tric = \"false\", largeop = \"false\", movablelimits = \"false\", acce
+nt = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-
+mfenced(Typesetting:-mrow(Typesetting:-mi(\"k\", italic = \"true\", ma
+thvariant = \"italic\")), mathvariant = \"normal\")), Typesetting:-mo(
+\"&ApplyFunction;\", mathvariant = \"normal\", fence = \"false\", sepa
+rator = \"false\", stretchy = \"false\", symmetric = \"false\", largeo
+p = \"false\", movablelimits = \"false\", accent = \"false\", lspace =
+ \"0.0em\", rspace = \"0.0em\"), Typesetting:-mfenced(Typesetting:-mro
+w(Typesetting:-msub(Typesetting:-mi(\"s\", italic = \"true\", mathvari
+ant = \"italic\"), Typesetting:-mrow(Typesetting:-mn(\"1\", mathvarian
+t = \"normal\")), subscriptshift = \"0\")), mathvariant = \"normal\"))
+, Typesetting:-mi(\"\")), Typesetting:-mi(\"\"));" "-I%mrowG6#/I+modul
+enameG6\"I,TypesettingGI(_syslibGF'6%-I#miGF$6#Q!F'-F#6.-F,6%Q#X0F'/%'
+italicGQ%trueF'/%,mathvariantGQ'italicF'-I#moGF$6-Q\"+F'/F8Q'normalF'/
+%&fenceGQ&falseF'/%*separatorGFB/%)stretchyGFB/%*symmetricGFB/%(largeo
+pGFB/%.movablelimitsGFB/%'accentGFB/%'lspaceGQ,0.2222222emF'/%'rspaceG
+FQ-F#6%-F,6%Q$A00F'F4F7-F;6-Q0&ApplyFunction;F'F>F@FCFEFGFIFKFM/FPQ&0.
+0emF'/FSFgn-I%msupGF$6%-I(mfencedGF$6$-F#6%F+-F#6&F+-F#6%-F,6%Q\"DF'/F
+5FBF>FY-F]o6$-F#6#-F,6%Q\"kF'F4F7F>FY-F]o6$-F#6#-I#mnGF$6$Q\"0F'F>F>F+
+F>-Fep6$Q\"2F'F>/%1superscriptshiftGFgpF:-F#6&F+-F#6%-F,6%Q$A01F'F4F7F
+YF\\oFY-F]o6$-F#6%F+-F#6&F+FcoFY-F]o6$-F#6#-I%msubGF$6%-F,6%Q\"sF'F4F7
+-F#6#-Fep6$Q\"1F'F>/%/subscriptshiftGFgpF>F+F>F:-F#6%-F,6%Q$A11F'F4F7F
+Y-Fjn6%FdqFhpF[qF:-F#6&F+-F#6&F+-F#6%-F,6%Q$AA0F'F4F7FY-F]o6$-F#6%F+-F
+#6#-Fjn6%FeoFhpF[qF+F>FYFioFYF`pF:-F#6&F+-F#6&F+-F#6%-F,6%Q$AA1F'F4F7F
+YF[tFYFioFYFjqF+F+" }{TEXT 213 2 " ." }}{SECT 1 {PARA 4 "" 0 "" {TEXT 
+215 6 "a[3,0]" }}{PARA 0 "" 0 "" {TEXT 213 0 "" }}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 9 "restart:\n" }{MPLTEXT 1 0 2184 "a[3,0]:=(1/2*(-k[
+1]*sinh(L)*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))*cosh(
+L)+sinh(L)^2*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))+(k[
+0]*sinh(L)-cosh(L))*(k[1]*sinh(L)-cosh(L))*(k[1]*k[0]*sinh(L)-k[1]*cos
+h(L)+sinh(L)-k[0]*cosh(L))))*(k[0]*sinh(L)-cosh(L))^2*(k[1]*k[0]*sinh(
+L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))+(1/2*(-k[1]*sinh(L)*(k[0]*sinh(L
+)-cosh(L))*cosh(L)+sinh(L)^2*(k[0]*sinh(L)-cosh(L))+cosh(L)+(k[1]*sinh
+(L)-cosh(L))*(k[0]*sinh(L)-cosh(L))^2))*(k[0]*sinh(L)-cosh(L))*(k[1]*k
+[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))^2+(1/2)*(D(k))(s[1])*si
+nh(L)^2*(D(k))(0)*(k[0]*sinh(L)-cosh(L))+(1/6*(((D@@2)(k))(s[1])*sinh(
+L)-k[1]*(k[1]*sinh(L)-cosh(L))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)
+-k[0]*cosh(L))*cosh(L)+sinh(L)*(k[1]*sinh(L)-cosh(L))*(k[1]*k[0]*sinh(
+L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))+(k[1]*sinh(L)-cosh(L))*(k[1]*k[0
+]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))^2))*(k[0]*sinh(L)-cosh(L)
+)^3+(1/6*(-sinh(L)*(k[0]*sinh(L)-cosh(L))*cosh(L)+sinh(L)+sinh(L)*(k[0
+]*sinh(L)-cosh(L))^2))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*co
+sh(L))^3+(1/6*(((D@@2)(k))(0)*sinh(L)-k[0]*(k[0]*sinh(L)-cosh(L))*(k[1
+]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))*cosh(L)+(k[0]*sinh(L
+)-cosh(L))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))*sinh(
+L)+(k[0]*sinh(L)-cosh(L))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]
+*cosh(L))^2))*(k[1]*sinh(L)-cosh(L))+(1/6*(2*(D(k))(s[1])*(k[0]*sinh(L
+)-cosh(L))*(D(k))(0)*sinh(L)-((D@@2)(k))(s[1])*(k[0]*sinh(L)-cosh(L))^
+2*cosh(L)+((D@@2)(k))(s[1])*(k[0]*sinh(L)-cosh(L))^2*k[0]*sinh(L)-sinh
+(L)*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))^2-(k[0]*sinh
+(L)-cosh(L))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))*cos
+h(L)-(D(k))(s[1])*(D(k))(0)*sinh(L)*cosh(L)+(D(k))(s[1])*(D(k))(0)*sin
+h(L)^2*k[0]+k[0]*cosh(L)*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*
+cosh(L))^2+k[0]*(k[0]*sinh(L)-cosh(L))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)
++sinh(L)-k[0]*cosh(L))*sinh(L)+k[1]*(k[0]*sinh(L)-cosh(L))*(k[1]*k[0]*
+sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))*sinh(L)-k[1]*k[0]*(k[0]*sin
+h(L)-cosh(L))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))*co
+sh(L)+k[1]*((D@@2)(k))(0)*sinh(L)-((D@@2)(k))(0)*cosh(L)))*sinh(L):" }
+}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 59 "A01:=simplify(coeff(coeff(
+a[3,0],(D)(k)(0)),(D)(k)(s[1])));" }}{PARA 11 "" 1 "" {XPPMATH 20 "*&-
+I%sinhG6$%*protectedGI(_syslibG6\"6#I\"LGF(\"\"#,&*&&I\"kGF(6#\"\"!\"
+\"\"F#F2F2-I%coshGF%F)!\"\"F2" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 42 "AA0 :=simplify(coeff(a[3,0],(D@D)(k)(0)));" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 ",$*&-I%sinhG6$%*protectedGI(_syslibG6\"6#I\"LGF)\"\"\",&*
+&&I\"kGF)6#F,F,F$F,F,-I%coshGF&F*!\"\"F,#F,\"\"$" }}}{EXCHG {PARA 0 ">
+ " 0 "" {MPLTEXT 1 0 44 "AA1:=simplify(coeff(a[3,0],(D@D)(k)(s[1])));"
+ }}{PARA 11 "" 1 "" {XPPMATH 20 ",$*&-I%sinhG6$%*protectedGI(_syslibG6
+\"6#I\"LGF)\"\"\",.*(F$F,-I%coshGF&F*\"\"#&I\"kGF)6#\"\"!\"\"$F,*&F/F6
+F2F1!\"$*(F$F,F/F1F2F,F6*&F$F,F2F6!\"\"*$F/F6F;*&F/F,F2F1F6F,#F,F6" }}
+}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 41 "A00:=simplify(coeff(a[3,0],
+(D)(k)(0),2));" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 44 "A11:=simplify(coeff(a[3,0],(D)(k)(s
+[1]),2));" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}{EXCHG {PARA 0 ">
+ " 0 "" {MPLTEXT 1 0 74 "X:=subs((D@D)(k)(s[1])=0,(D)(k)(s[1])=0,(D@D)
+(k)(0)=0,(D)(k)(0)=0,a[3,0]):" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 1780 "
+X0:=(1/2*(-k[1]*sinh(L)*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*c
+osh(L))*cosh(L)+sinh(L)^2*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]
+*cosh(L))+(k[0]*sinh(L)-cosh(L))*(k[1]*sinh(L)-cosh(L))*(k[1]*k[0]*sin
+h(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))))*(k[0]*sinh(L)-cosh(L))^2*(k[
+1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))+(1/2*(-k[1]*sinh(L)
+*(k[0]*sinh(L)-cosh(L))*cosh(L)+sinh(L)^2*(k[0]*sinh(L)-cosh(L))+cosh(
+L)+(k[1]*sinh(L)-cosh(L))*(k[0]*sinh(L)-cosh(L))^2))*(k[0]*sinh(L)-cos
+h(L))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))^2+(1/6*(-k
+[1]*(k[1]*sinh(L)-cosh(L))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0
+]*cosh(L))*cosh(L)+sinh(L)*(k[1]*sinh(L)-cosh(L))*(k[1]*k[0]*sinh(L)-k
+[1]*cosh(L)+sinh(L)-k[0]*cosh(L))+(k[1]*sinh(L)-cosh(L))*(k[1]*k[0]*si
+nh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))^2))*(k[0]*sinh(L)-cosh(L))^3+
+(1/6*(-sinh(L)*(k[0]*sinh(L)-cosh(L))*cosh(L)+sinh(L)+sinh(L)*(k[0]*si
+nh(L)-cosh(L))^2))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L
+))^3+(1/6*(-k[0]*(k[0]*sinh(L)-cosh(L))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L
+)+sinh(L)-k[0]*cosh(L))*cosh(L)+(k[0]*sinh(L)-cosh(L))*(k[1]*k[0]*sinh
+(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))*sinh(L)+(k[0]*sinh(L)-cosh(L))*
+(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))^2))*(k[1]*sinh(L
+)-cosh(L))+(1/6*(-sinh(L)*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]
+*cosh(L))^2-(k[0]*sinh(L)-cosh(L))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sin
+h(L)-k[0]*cosh(L))*cosh(L)+k[0]*cosh(L)*(k[1]*k[0]*sinh(L)-k[1]*cosh(L
+)+sinh(L)-k[0]*cosh(L))^2+k[0]*(k[0]*sinh(L)-cosh(L))*(k[1]*k[0]*sinh(
+L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))*sinh(L)+k[1]*(k[0]*sinh(L)-cosh(
+L))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))*sinh(L)-k[1]
+*k[0]*(k[0]*sinh(L)-cosh(L))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k
+[0]*cosh(L))*cosh(L)))*sinh(L)" }{MPLTEXT 1 0 2 ";\n" }{MPLTEXT 1 0 
+15 "simplify(X0-X);" }}{PARA 11 "" 1 "" {XPPMATH 20 ",.*(,(**&I\"kG6\"
+6#\"\"\"F*-I%sinhG6$%*protectedGI(_syslibGF(6#I\"LGF(F*,**(F&F*&F'6#\"
+\"!F*F+F*F**&F&F*-I%coshGF-F0F*!\"\"F+F**&F4F*F8F*F:F*F8F*F:*&F+\"\"#F
+2F*F**(,&*&F4F*F+F*F*F8F:F*,&*&F&F*F+F*F*F8F:F*F2F*F*F*F?F=F2F*#F*F=*(
+,***F&F*F+F*F?F*F8F*F:*&F+F=F?F*F*F8F**&FAF*F?F=F*F*F?F*F2F=FC*&,(**F&
+F*FAF*F2F*F8F*F:*(F+F*FAF*F2F*F**&FAF*F2F=F*F*F?\"\"$#F*\"\"'*&,(*(F+F
+*F?F*F8F*F:F+F**&F+F*F?F=F*F*F2FNFO*&,(**F4F*F?F*F2F*F8F*F:*(F?F*F2F*F
++F*F**&F?F*F2F=F*F*FAF*FO*&,.*&F+F*F2F=F:*(F?F*F2F*F8F*F:*(F4F*F8F*F2F
+=F***F4F*F?F*F2F*F+F*F***F&F*F?F*F2F*F+F*F**,F&F*F4F*F?F*F2F*F8F*F:F*F
++F*FO" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}{EXCHG {PARA 0 "> " 0
+ "" {MPLTEXT 1 0 121 "simplify(X0+A01*(D)(k)(0)*(D)(k)(s[1])+A00*((D)(
+k)(0))^2+A11*((D)(k)(s[1]))^2+AA0*(D@D)(k)(0)+AA1*(D@D)(k)(s[1])-a[3,0
+]);" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 112 "a[3,0]:=X0+A01*(D)(k)(0)*(D
+)(k)(s[1])+A00*((D)(k)(0))^2+A11*((D)(k)(s[1]))^2+AA0*(D@D)(k)(0)+AA1*
+(D@D)(k)(s[1]);" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 2040 "a[3,0] := (1/2
+*(-k[1]*sinh(L)*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))*
+cosh(L)+sinh(L)^2*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L)
+)+(k[0]*sinh(L)-cosh(L))*(k[1]*sinh(L)-cosh(L))*(k[1]*k[0]*sinh(L)-k[1
+]*cosh(L)+sinh(L)-k[0]*cosh(L))))*(k[0]*sinh(L)-cosh(L))^2*(k[1]*k[0]*
+sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))+(1/2*(-k[1]*sinh(L)*(k[0]*s
+inh(L)-cosh(L))*cosh(L)+sinh(L)^2*(k[0]*sinh(L)-cosh(L))+cosh(L)+(k[1]
+*sinh(L)-cosh(L))*(k[0]*sinh(L)-cosh(L))^2))*(k[0]*sinh(L)-cosh(L))*(k
+[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))^2+(1/6*(-k[1]*(k[1
+]*sinh(L)-cosh(L))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L
+))*cosh(L)+sinh(L)*(k[1]*sinh(L)-cosh(L))*(k[1]*k[0]*sinh(L)-k[1]*cosh
+(L)+sinh(L)-k[0]*cosh(L))+(k[1]*sinh(L)-cosh(L))*(k[1]*k[0]*sinh(L)-k[
+1]*cosh(L)+sinh(L)-k[0]*cosh(L))^2))*(k[0]*sinh(L)-cosh(L))^3+(1/6*(-s
+inh(L)*(k[0]*sinh(L)-cosh(L))*cosh(L)+sinh(L)+sinh(L)*(k[0]*sinh(L)-co
+sh(L))^2))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))^3+(1/
+6*(-k[0]*(k[0]*sinh(L)-cosh(L))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L
+)-k[0]*cosh(L))*cosh(L)+(k[0]*sinh(L)-cosh(L))*(k[1]*k[0]*sinh(L)-k[1]
+*cosh(L)+sinh(L)-k[0]*cosh(L))*sinh(L)+(k[0]*sinh(L)-cosh(L))*(k[1]*k[
+0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))^2))*(k[1]*sinh(L)-cosh(L
+))+(1/6*(-sinh(L)*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L)
+)^2-(k[0]*sinh(L)-cosh(L))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0
+]*cosh(L))*cosh(L)+k[0]*cosh(L)*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L
+)-k[0]*cosh(L))^2+k[0]*(k[0]*sinh(L)-cosh(L))*(k[1]*k[0]*sinh(L)-k[1]*
+cosh(L)+sinh(L)-k[0]*cosh(L))*sinh(L)+k[1]*(k[0]*sinh(L)-cosh(L))*(k[1
+]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))*sinh(L)-k[1]*k[0]*(k
+[0]*sinh(L)-cosh(L))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh
+(L))*cosh(L)))*sinh(L)+(D(k))(s[1])*sinh(L)^2*(D(k))(0)*(k[0]*sinh(L)-
+cosh(L))+(1/3)*sinh(L)*(k[1]*sinh(L)-cosh(L))*((D@@2)(k))(0)+(1/3)*sin
+h(L)*(sinh(L)*cosh(L)^2*k[0]^3-3*cosh(L)^3*k[0]^2+3*sinh(L)*cosh(L)^2*
+k[0]-sinh(L)*k[0]^3-cosh(L)^3+3*cosh(L)*k[0]^2)*((D@@2)(k))(s[1]):" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}{PARA 11 "" 1 "" {XPPMATH 20 ",
+4*(,(**&I\"kG6\"6#\"\"\"F*-I%sinhG6$%*protectedGI(_syslibGF(6#I\"LGF(F
+*,**(F&F*&F'6#\"\"!F*F+F*F**&F&F*-I%coshGF-F0F*!\"\"F+F**&F4F*F8F*F:F*
+F8F*F:*&F+\"\"#F2F*F**(,&*&F4F*F+F*F*F8F:F*,&*&F&F*F+F*F*F8F:F*F2F*F*F
+*F?F=F2F*#F*F=*(,***F&F*F+F*F?F*F8F*F:*&F+F=F?F*F*F8F**&FAF*F?F=F*F*F?
+F*F2F=FC*&,(**F&F*FAF*F2F*F8F*F:*(F+F*FAF*F2F*F**&FAF*F2F=F*F*F?\"\"$#
+F*\"\"'*&,(*(F+F*F?F*F8F*F:F+F**&F+F*F?F=F*F*F2FNFO*&,(**F4F*F?F*F2F*F
+8F*F:*(F?F*F2F*F+F*F**&F?F*F2F=F*F*FAF*FO*&,.*&F+F*F2F=F:*(F?F*F2F*F8F
+*F:*(F4F*F8F*F2F=F***F4F*F?F*F2F*F+F*F***F&F*F?F*F2F*F+F*F**,F&F*F4F*F
+?F*F2F*F8F*F:F*F+F*FO**--I\"DGF-6#F'6#&I\"sGF(F)F*F+F=-F^oF5F*F?F*F**(
+F+F*FAF*---I#@@GF-6$F_oF=F`oF5F*#F*FN*(F+F*,.*(F+F*F8F=F4FNF**&F8FNF4F
+=!\"$*(F+F*F8F=F4F*FN*&F+F*F4FNF:*$F8FNF:*&F8F*F4F=FNF*-FgoFaoF*F[p" }
+}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}}{SECT 1 {PARA 4 "" 0 
+"" {TEXT 215 6 "a[2,1]" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 9 "res
+tart:\n" }{MPLTEXT 1 0 2502 "a[2,1] := (1/2*(-k[0]*sinh(L)*(k[1]*k[0]*
+sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))*cosh(L)+sinh(L)^2*(k[1]*k[0
+]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))+(k[0]*sinh(L)-cosh(L))*(k
+[1]*sinh(L)-cosh(L))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh
+(L))))*(k[1]*sinh(L)-cosh(L))+(1/2*(k[0]*cosh(L)*(k[1]*sinh(L)-cosh(L)
+)*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))+(D(k))(s[1])*s
+inh(L)^2*(D(k))(0)-sinh(L)*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0
+]*cosh(L))*cosh(L)+k[1]*sinh(L)^2*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh
+(L)-k[0]*cosh(L))+k[0]*sinh(L)^2*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(
+L)-k[0]*cosh(L))-((D@@2)(k))(s[1])*(k[0]*sinh(L)-cosh(L))*sinh(L)*cosh
+(L)+((D@@2)(k))(s[1])*(k[0]*sinh(L)-cosh(L))*sinh(L)^2*k[0]-sinh(L)*(k
+[1]*sinh(L)-cosh(L))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh
+(L))-k[1]*k[0]*sinh(L)*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*co
+sh(L))*cosh(L)))*sinh(L)+(1/2*(((D@@2)(k))(s[1])*sinh(L)-k[1]*(k[1]*si
+nh(L)-cosh(L))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))*c
+osh(L)+sinh(L)*(k[1]*sinh(L)-cosh(L))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+
+sinh(L)-k[0]*cosh(L))+(k[1]*sinh(L)-cosh(L))*(k[1]*k[0]*sinh(L)-k[1]*c
+osh(L)+sinh(L)-k[0]*cosh(L))^2))*(k[0]*sinh(L)-cosh(L))^2*sinh(L)+(1/2
+*(-k[1]*sinh(L)*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))*
+cosh(L)+sinh(L)^2*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L)
+)+(k[0]*sinh(L)-cosh(L))*(k[1]*sinh(L)-cosh(L))*(k[1]*k[0]*sinh(L)-k[1
+]*cosh(L)+sinh(L)-k[0]*cosh(L))))*(k[0]*sinh(L)-cosh(L))^2*(k[1]*sinh(
+L)-cosh(L))+(1/2*(-k[1]*sinh(L)*(k[0]*sinh(L)-cosh(L))*cosh(L)+sinh(L)
+^2*(k[0]*sinh(L)-cosh(L))+cosh(L)+(k[1]*sinh(L)-cosh(L))*(k[0]*sinh(L)
+-cosh(L))^2))*sinh(L)*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cos
+h(L))^2+(1/2*(-sinh(L)*(k[0]*sinh(L)-cosh(L))*cosh(L)+sinh(L)+sinh(L)*
+(k[0]*sinh(L)-cosh(L))^2))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0
+]*cosh(L))^2*(k[1]*sinh(L)-cosh(L))+(1/2)*(D(k))(s[1])*sinh(L)^3*(D(k)
+)(0)+(-k[1]*sinh(L)*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(
+L))*cosh(L)+sinh(L)^2*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cos
+h(L))+(k[0]*sinh(L)-cosh(L))*(k[1]*sinh(L)-cosh(L))*(k[1]*k[0]*sinh(L)
+-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L)))*(k[0]*sinh(L)-cosh(L))*sinh(L)*(k
+[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))+(-k[1]*sinh(L)*(k[
+0]*sinh(L)-cosh(L))*cosh(L)+sinh(L)^2*(k[0]*sinh(L)-cosh(L))+cosh(L)+(
+k[1]*sinh(L)-cosh(L))*(k[0]*sinh(L)-cosh(L))^2)*(k[0]*sinh(L)-cosh(L))
+*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))*(k[1]*sinh(L)-c
+osh(L)):#OK" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 59 "A01:=simplif
+y(coeff(coeff(a[2,1],(D)(k)(0)),(D)(k)(s[1])));" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "*$-I%sinhG6$%*protectedGI(_syslibG6\"6#I\"LGF(\"\"$" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 31 "A00:=coeff(a[2,1],(D)(k)(0),
+2);" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 31 "AA0:=coeff(a[2,1],(D@D)(k)(0));" }}{PARA 11 "" 1 ""
+ {XPPMATH 20 "\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 44 "AA1:
+=simplify(coeff(a[2,1],(D@D)(k)(s[1])));" }}{PARA 11 "" 1 "" {XPPMATH 
+20 ",$*&-I%sinhG6$%*protectedGI(_syslibG6\"6#I\"LGF)\"\"#,**&-I%coshGF
+&F*F,&I\"kGF)6#\"\"!F,!\"\"*(F$\"\"\"F/F7F1F7F,*$F/F,F5*$F1F,F7F7F5" }
+}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 44 "A11:=simplify(coeff(a[2,1]
+,(D)(k)(s[1]),2));" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 48 "X:=subs((D)(k)(s[1])=0,(D@D)(k)(s[1
+])=0,a[2,1]);" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 1651 "X0 :=-k[0]+k[1]-
+cosh(L)*sinh(L)+20*cosh(L)^6*k[0]^3+8*cosh(L)^6*k[1]^3+14*sinh(L)*cosh
+(L)^3*k[1]^2-4*sinh(L)*cosh(L)^5*k[0]^4+4*sinh(L)*cosh(L)^3*k[0]^4-12*
+cosh(L)^4*k[0]^4*k[1]^3-24*cosh(L)^4*k[0]^4*k[1]-130*cosh(L)^4*k[0]^3*
+k[1]^2-71*cosh(L)^4*k[0]^2*k[1]^3+12*cosh(L)^2*k[0]^4*k[1]^3+4*cosh(L)
+^6*k[0]^4*k[1]^3+12*cosh(L)^6*k[0]^4*k[1]+60*cosh(L)^6*k[0]^3*k[1]^2+3
+6*cosh(L)^6*k[0]^2*k[1]^3+108*cosh(L)^6*k[0]^2*k[1]+84*cosh(L)^6*k[0]*
+k[1]^2+12*cosh(L)^2*k[0]^4*k[1]+80*cosh(L)^2*k[0]^3*k[1]^2+34*cosh(L)^
+2*k[0]^2*k[1]^3+78*cosh(L)^2*k[0]^2*k[1]+36*cosh(L)^2*k[0]*k[1]^2-179*
+cosh(L)^4*k[0]^2*k[1]-122*cosh(L)^4*k[0]*k[1]^2+10*cosh(L)^2*k[0]^3+16
+*cosh(L)^2*k[0]+7*cosh(L)^2*k[1]-30*cosh(L)^4*k[0]^3-7*cosh(L)^4*k[1]^
+3-cosh(L)^2*k[1]^3-12*sinh(L)*cosh(L)^5*k[0]^4*k[1]^2-20*sinh(L)*cosh(
+L)^5*k[0]^3*k[1]^3-60*sinh(L)*cosh(L)^5*k[0]^3*k[1]-108*sinh(L)*cosh(L
+)^5*k[0]^2*k[1]^2-28*sinh(L)*cosh(L)^5*k[0]*k[1]^3+24*sinh(L)*cosh(L)^
+3*k[0]^4*k[1]^2+40*sinh(L)*cosh(L)^3*k[0]^3*k[1]^3+80*sinh(L)*cosh(L)^
+3*k[0]^3*k[1]+142*sinh(L)*cosh(L)^3*k[0]^2*k[1]^2+26*sinh(L)*cosh(L)^3
+*k[0]*k[1]^3-20*cosh(L)*k[0]^3*k[1]*sinh(L)-20*cosh(L)*k[0]^3*k[1]^3*s
+inh(L)-12*cosh(L)*k[0]^4*k[1]^2*sinh(L)+2*cosh(L)*k[0]*k[1]^3*sinh(L)+
+2*k[0]*k[1]^2+2*sinh(L)*cosh(L)*k[1]^2-7*cosh(L)*k[0]^2*sinh(L)-34*cos
+h(L)*k[0]^2*k[1]^2*sinh(L)-14*k[1]*k[0]*sinh(L)*cosh(L)+k[0]^2*k[1]^3-
+4*k[0]^4*k[1]^3-10*k[0]^3*k[1]^2-7*k[0]^2*k[1]-36*sinh(L)*cosh(L)^5*k[
+0]^2-24*sinh(L)*cosh(L)^5*k[1]^2+36*sinh(L)*cosh(L)^3*k[0]^2+28*cosh(L
+)^6*k[0]+24*cosh(L)^6*k[1]-8*sinh(L)*cosh(L)^5-42*cosh(L)^4*k[0]-31*co
+sh(L)^4*k[1]+8*sinh(L)*cosh(L)^3-84*sinh(L)*cosh(L)^5*k[0]*k[1]+82*sin
+h(L)*cosh(L)^3*k[0]*k[1];" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 15 "simpli
+fy(X-X0);" }}{PARA 11 "" 1 "" {XPPMATH 20 ",2*&,(**&I\"kG6\"6#\"\"!\"
+\"\"-I%sinhG6$%*protectedGI(_syslibGF(6#I\"LGF(F+,**(&F'6#F+F+F&F+F,F+
+F+*&F5F+-I%coshGF.F1F+!\"\"F,F+*&F&F+F8F+F:F+F8F+F:*&F,\"\"#F3F+F+*(,&
+*&F&F+F,F+F+F8F:F+,&*&F5F+F,F+F+F8F:F+F3F+F+F+FAF+#F+F=*&,.**F&F+F8F+F
+AF+F3F+F+*(F,F+F3F+F8F+F:*(F5F+F,F=F3F+F+*(F&F+F,F=F3F+F+*(F,F+FAF+F3F
++F:*,F5F+F&F+F,F+F3F+F8F+F:F+F,F+FC*(,(**F5F+FAF+F3F+F8F+F:FJF+*&FAF+F
+3F=F+F+F?F=F,F+FC*(,(**F5F+F,F+F3F+F8F+F:F<F+F>F+F+F?F=FAF+FC*(,***F5F
++F,F+F?F+F8F+F:*&F,F=F?F+F+F8F+*&FAF+F?F=F+F+F,F+F3F=FC*(,(*(F,F+F?F+F
+8F+F:F,F+*&F,F+F?F=F+F+F3F=FAF+FC**FQF+F?F+F,F+F3F+F+**FTF+F?F+F3F+FAF
++F+" }}{PARA 11 "" 1 "" {XPPMATH 20 ",`s&I\"kG6\"6#\"\"!!\"\"&F$6#\"\"
+\"F+*&-I%coshG6$%*protectedGI(_syslibGF%6#I\"LGF%F+-I%sinhGF/F2F+F(*&F
+-\"\"'F#\"\"$\"#?*&F-F7F)F8\"\")*(F4F+F-F8F)\"\"#\"#9*(F4F+F-\"\"&F#\"
+\"%!\"%*(F4F+F-F8F#FAFA*(F-FAF#FAF)F8!#7*(F-FAF#FAF)F+!#C*(F-FAF#F8F)F
+=!$I\"*(F-FAF#F=F)F8!#r*(F-F=F#FAF)F8\"#7*(F-F7F#FAF)F8FA*(F-F7F#FAF)F
++FM*(F-F7F#F8F)F=\"#g*(F-F7F#F=F)F8\"#O*(F-F7F#F=F)F+\"$3\"*(F-F7F#F+F
+)F=\"#%)*(F-F=F#FAF)F+FM*(F-F=F#F8F)F=\"#!)*(F-F=F#F=F)F8\"#M*(F-F=F#F
+=F)F+\"#y*(F-F=F#F+F)F=FS*(F-FAF#F=F)F+!$z\"*(F-FAF#F+F)F=!$A\"*&F-F=F
+#F8\"#5*&F-F=F#F+\"#;*&F-F=F)F+\"\"(*&F-FAF#F8!#I*&F-FAF)F8!\"(*&F-F=F
+)F8F(**F4F+F-F@F#FAF)F=FE**F4F+F-F@F#F8F)F8!#?**F4F+F-F@F#F8F)F+!#g**F
+4F+F-F@F#F=F)F=!$3\"**F4F+F-F@F#F+F)F8!#G**F4F+F-F8F#FAF)F=\"#C**F4F+F
+-F8F#F8F)F8\"#S**F4F+F-F8F#F8F)F+FZ**F4F+F-F8F#F=F)F=\"$U\"**F4F+F-F8F
+#F+F)F8\"#E**F-F+F#F8F)F+F4F+F[p**F-F+F#F8F)F8F4F+F[p**F-F+F#FAF)F=F4F
++FE**F-F+F#F+F)F8F4F+F=*&F#F+F)F=F=*(F4F+F-F+F)F=F=*(F-F+F#F=F4F+Fgo**
+F-F+F#F=F)F=F4F+!#M**F)F+F#F+F4F+F-F+!#9*&F#F=F)F8F+*&F#FAF)F8FB*&F#F8
+F)F=!#5*&F#F=F)F+Fgo*(F4F+F-F@F#F=!#O*(F4F+F-F@F)F=FG*(F4F+F-F8F#F=FS*
+&F-F7F#F+\"#G*&F-F7F)F+Fcp*&F4F+F-F@!\")*&F-FAF#F+!#U*&F-FAF)F+!#J*&F4
+F+F-F8F;**F4F+F-F@F#F+F)F+!#%)**F4F+F-F8F#F+F)F+\"##)" }}{PARA 11 "" 1
+ "" {XPPMATH 20 "\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 87 "s
+implify(X0+A01*(D)(k)(0)*(D)(k)(s[1])+AA1*(D@D)(k)(s[1])+A11*((D)(k)(s
+[1]))^2-a[2,1]);" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 78 "a[2,1]:=X0+A01*
+(D)(k)(0)*(D)(k)(s[1])+AA1*(D@D)(k)(s[1])+A11*((D)(k)(s[1]))^2;" }}
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 1776 "a[2,1] := (D(k))(s[1])*sinh(L)^3*
+(D(k))(0)-k[0]+k[1]-cosh(L)*sinh(L)+20*cosh(L)^6*k[0]^3+8*cosh(L)^6*k[
+1]^3+14*sinh(L)*cosh(L)^3*k[1]^2-4*sinh(L)*cosh(L)^5*k[0]^4+4*sinh(L)*
+cosh(L)^3*k[0]^4-12*cosh(L)^4*k[0]^4*k[1]^3-24*cosh(L)^4*k[0]^4*k[1]-1
+30*cosh(L)^4*k[0]^3*k[1]^2-71*cosh(L)^4*k[0]^2*k[1]^3+12*cosh(L)^2*k[0
+]^4*k[1]^3+4*cosh(L)^6*k[0]^4*k[1]^3+12*cosh(L)^6*k[0]^4*k[1]+60*cosh(
+L)^6*k[0]^3*k[1]^2+36*cosh(L)^6*k[0]^2*k[1]^3+108*cosh(L)^6*k[0]^2*k[1
+]+84*cosh(L)^6*k[0]*k[1]^2+12*cosh(L)^2*k[0]^4*k[1]+80*cosh(L)^2*k[0]^
+3*k[1]^2+34*cosh(L)^2*k[0]^2*k[1]^3+78*cosh(L)^2*k[0]^2*k[1]+36*cosh(L
+)^2*k[0]*k[1]^2-179*cosh(L)^4*k[0]^2*k[1]-122*cosh(L)^4*k[0]*k[1]^2+10
+*cosh(L)^2*k[0]^3+16*cosh(L)^2*k[0]+7*cosh(L)^2*k[1]-30*cosh(L)^4*k[0]
+^3-7*cosh(L)^4*k[1]^3-cosh(L)^2*k[1]^3-12*sinh(L)*cosh(L)^5*k[0]^4*k[1
+]^2-20*sinh(L)*cosh(L)^5*k[0]^3*k[1]^3-60*sinh(L)*cosh(L)^5*k[0]^3*k[1
+]-108*sinh(L)*cosh(L)^5*k[0]^2*k[1]^2-28*sinh(L)*cosh(L)^5*k[0]*k[1]^3
++24*sinh(L)*cosh(L)^3*k[0]^4*k[1]^2+40*sinh(L)*cosh(L)^3*k[0]^3*k[1]^3
++80*sinh(L)*cosh(L)^3*k[0]^3*k[1]+142*sinh(L)*cosh(L)^3*k[0]^2*k[1]^2+
+26*sinh(L)*cosh(L)^3*k[0]*k[1]^3-20*cosh(L)*k[0]^3*k[1]*sinh(L)-20*cos
+h(L)*k[0]^3*k[1]^3*sinh(L)-12*cosh(L)*k[0]^4*k[1]^2*sinh(L)+2*cosh(L)*
+k[0]*k[1]^3*sinh(L)+2*k[0]*k[1]^2+2*sinh(L)*cosh(L)*k[1]^2-7*cosh(L)*k
+[0]^2*sinh(L)-34*cosh(L)*k[0]^2*k[1]^2*sinh(L)-14*k[1]*k[0]*sinh(L)*co
+sh(L)+k[0]^2*k[1]^3-4*k[0]^4*k[1]^3-10*k[0]^3*k[1]^2-7*k[0]^2*k[1]-36*
+sinh(L)*cosh(L)^5*k[0]^2-24*sinh(L)*cosh(L)^5*k[1]^2+36*sinh(L)*cosh(L
+)^3*k[0]^2+28*cosh(L)^6*k[0]+24*cosh(L)^6*k[1]-8*sinh(L)*cosh(L)^5-42*
+cosh(L)^4*k[0]-31*cosh(L)^4*k[1]+8*sinh(L)*cosh(L)^3-84*sinh(L)*cosh(L
+)^5*k[0]*k[1]+82*sinh(L)*cosh(L)^3*k[0]*k[1]-sinh(L)^2*(-cosh(L)^2*k[0
+]^2+2*sinh(L)*cosh(L)*k[0]-cosh(L)^2+k[0]^2)*((D@@2)(k))(s[1]):" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}{PARA 11 "" 1 "" {XPPMATH 20 ",
+ds*(--I\"DG6$%*protectedGI(_syslibG6\"6#I\"kGF*6#&I\"sGF*6#\"\"\"F1-I%
+sinhGF'6#I\"LGF*\"\"$-F%6#\"\"!F1F1&F,F8!\"\"&F,F0F1*&-I%coshGF'F4F1F2
+F1F;*&F>\"\"'F:F6\"#?*&F>FAF<F6\"\")*(F2F1F>F6F<\"\"#\"#9*(F2F1F>\"\"&
+F:\"\"%!\"%*(F2F1F>F6F:FJFJ*(F>FJF:FJF<F6!#7*(F>FJF:FJF<F1!#C*(F>FJF:F
+6F<FF!$I\"*(F>FJF:FFF<F6!#r*(F>FFF:FJF<F6\"#7*(F>FAF:FJF<F6FJ*(F>FAF:F
+JF<F1FV*(F>FAF:F6F<FF\"#g*(F>FAF:FFF<F6\"#O*(F>FAF:FFF<F1\"$3\"*(F>FAF
+:F1F<FF\"#%)*(F>FFF:FJF<F1FV*(F>FFF:F6F<FF\"#!)*(F>FFF:FFF<F6\"#M*(F>F
+FF:FFF<F1\"#y*(F>FFF:F1F<FFFfn*(F>FJF:FFF<F1!$z\"*(F>FJF:F1F<FF!$A\"*&
+F>FFF:F6\"#5*&F>FFF:F1\"#;*&F>FFF<F1\"\"(*&F>FJF:F6!#I*&F>FJF<F6!\"(*&
+F>FFF<F6F;**F2F1F>FIF:FJF<FFFN**F2F1F>FIF:F6F<F6!#?**F2F1F>FIF:F6F<F1!
+#g**F2F1F>FIF:FFF<FF!$3\"**F2F1F>FIF:F1F<F6!#G**F2F1F>F6F:FJF<FF\"#C**
+F2F1F>F6F:F6F<F6\"#S**F2F1F>F6F:F6F<F1F]o**F2F1F>F6F:FFF<FF\"$U\"**F2F
+1F>F6F:F1F<F6\"#E**F>F1F:F6F<F1F2F1Fdp**F>F1F:F6F<F6F2F1Fdp**F>F1F:FJF
+<FFF2F1FN**F>F1F:F1F<F6F2F1FF*&F:F1F<FFFF*(F2F1F>F1F<FFFF*(F>F1F:FFF2F
+1F`p**F>F1F:FFF<FFF2F1!#M**F<F1F:F1F2F1F>F1!#9*&F:FFF<F6F1*&F:FJF<F6FK
+*&F:F6F<FF!#5*&F:FFF<F1F`p*(F2F1F>FIF:FF!#O*(F2F1F>FIF<FFFP*(F2F1F>F6F
+:FFFfn*&F>FAF:F1\"#G*&F>FAF<F1F\\q*&F2F1F>FI!\")*&F>FJF:F1!#U*&F>FJF<F
+1!#J*&F2F1F>F6FD**F2F1F>FIF:F1F<F1!#%)**F2F1F>F6F:F1F<F1\"##)*(F2FF,**
+&F>FFF:FFF;*(F2F1F>F1F:F1FF*$F>FFF;*$F:FFF1F1---I#@@GF'6$F&FFF+F-F1F;"
+ }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}}{SECT 1 {PARA 4 "" 
+0 "" {TEXT 215 6 "a[1,2]" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "r
+estart:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 2025 "a[1,2] := (1/2
+*(-k[0]*sinh(L)*(k[1]*sinh(L)-cosh(L))*cosh(L)+sinh(L)^2*(k[1]*sinh(L)
+-cosh(L))+cosh(L)+(k[0]*sinh(L)-cosh(L))*(k[1]*sinh(L)-cosh(L))^2))*(k
+[1]*sinh(L)-cosh(L))+(1/2*(-sinh(L)+k[0]*sinh(L)^2*(k[1]*sinh(L)-cosh(
+L))+k[1]*cosh(L)-((D@@2)(k))(s[1])*sinh(L)^2*cosh(L)+((D@@2)(k))(s[1])
+*sinh(L)^3*k[0]-sinh(L)*(k[1]*sinh(L)-cosh(L))^2-sinh(L)*(k[1]*sinh(L)
+-cosh(L))*cosh(L)+k[1]*sinh(L)^2*(k[1]*sinh(L)-cosh(L))+k[0]*cosh(L)*(
+k[1]*sinh(L)-cosh(L))^2-k[1]*k[0]*sinh(L)*(k[1]*sinh(L)-cosh(L))*cosh(
+L)))*sinh(L)+(1/2*(((D@@2)(k))(s[1])*sinh(L)-k[1]*(k[1]*sinh(L)-cosh(L
+))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))*cosh(L)+sinh(
+L)*(k[1]*sinh(L)-cosh(L))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]
+*cosh(L))+(k[1]*sinh(L)-cosh(L))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(
+L)-k[0]*cosh(L))^2))*(k[0]*sinh(L)-cosh(L))*sinh(L)^2+(1/2*(-k[1]*sinh
+(L)*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))*cosh(L)+sinh
+(L)^2*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))+(k[0]*sinh
+(L)-cosh(L))*(k[1]*sinh(L)-cosh(L))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+si
+nh(L)-k[0]*cosh(L))))*sinh(L)^2*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L
+)-k[0]*cosh(L))+(1/2*(-k[1]*sinh(L)*(k[0]*sinh(L)-cosh(L))*cosh(L)+sin
+h(L)^2*(k[0]*sinh(L)-cosh(L))+cosh(L)+(k[1]*sinh(L)-cosh(L))*(k[0]*sin
+h(L)-cosh(L))^2))*(k[0]*sinh(L)-cosh(L))*(k[1]*sinh(L)-cosh(L))^2+(1/2
+*(-sinh(L)*(k[0]*sinh(L)-cosh(L))*cosh(L)+sinh(L)+sinh(L)*(k[0]*sinh(L
+)-cosh(L))^2))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))*(
+k[1]*sinh(L)-cosh(L))^2+(-k[1]*sinh(L)*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)
++sinh(L)-k[0]*cosh(L))*cosh(L)+sinh(L)^2*(k[1]*k[0]*sinh(L)-k[1]*cosh(
+L)+sinh(L)-k[0]*cosh(L))+(k[0]*sinh(L)-cosh(L))*(k[1]*sinh(L)-cosh(L))
+*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L)))*(k[0]*sinh(L)-
+cosh(L))*sinh(L)*(k[1]*sinh(L)-cosh(L))+(-k[1]*sinh(L)*(k[0]*sinh(L)-c
+osh(L))*cosh(L)+sinh(L)^2*(k[0]*sinh(L)-cosh(L))+cosh(L)+(k[1]*sinh(L)
+-cosh(L))*(k[0]*sinh(L)-cosh(L))^2)*sinh(L)*(k[1]*k[0]*sinh(L)-k[1]*co
+sh(L)+sinh(L)-k[0]*cosh(L))*(k[1]*sinh(L)-cosh(L)):" }}}{EXCHG {PARA 0
+ "> " 0 "" {MPLTEXT 1 0 50 "A01:=coeff(coeff(a[1,2],(D)(k)(0)),(D)(k)(
+s[1]));\n" }{MPLTEXT 1 0 32 "A00:=coeff(a[1,2],(D)(k)(0),2);\n" }
+{MPLTEXT 1 0 31 "AA0:=coeff(a[1,2],(D@D)(k)(0));" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "\"\"!" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}{PARA 11 
+"" 1 "" {XPPMATH 20 "\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+45 "A11:=simplify(coeff(a[1,2],(D)(k)(s[1]),2));\n" }}{PARA 11 "" 1 ""
+ {XPPMATH 20 "\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 45 "AA1:
+=simplify(coeff(a[1,2],(D@D)(k)(s[1])));\n" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "*&-I%sinhG6$%*protectedGI(_syslibG6\"6#I\"LGF(\"\"$,&*&&I
+\"kGF(6#\"\"!\"\"\"F#F2F2-I%coshGF%F)!\"\"F2" }}}{EXCHG {PARA 0 "> " 0
+ "" {MPLTEXT 1 0 49 "X:=subs((D@D)(k)(s[1])=0,(D)(k)(s[1])=0,a[1,2]):
+\n" }{MPLTEXT 1 0 1100 "X0:= sinh(L)*(-12*cosh(L)*k[0]^3*k[1]^2-16*cos
+h(L)*k[0]^2*k[1]^3-16*cosh(L)*k[0]^2*k[1]-18*cosh(L)*k[0]*k[1]^2+64*co
+sh(L)^3*k[0]^2*k[1]+78*cosh(L)^3*k[0]*k[1]^2-3*k[1]*cosh(L)-4*k[0]*cos
+h(L)-4*cosh(L)^5*k[0]^3-8*cosh(L)^5*k[1]^3+8*sinh(L)*cosh(L)^4-4*sinh(
+L)*cosh(L)^2-sinh(L)*k[1]^2+4*k[1]*k[0]*sinh(L)-12*cosh(L)^5*k[0]^3*k[
+1]^2-16*cosh(L)^5*k[0]^2*k[1]^3-48*cosh(L)^5*k[0]^2*k[1]-60*cosh(L)^5*
+k[0]*k[1]^2+24*cosh(L)^3*k[0]^3*k[1]^2+32*cosh(L)^3*k[0]^2*k[1]^3+16*s
+inh(L)*cosh(L)^4*k[0]^2+24*sinh(L)*cosh(L)^4*k[1]^2+4*sinh(L)*k[0]^3*k
+[1]^3-8*sinh(L)*cosh(L)^2*k[0]^2-10*sinh(L)*cosh(L)^2*k[1]^2+8*sinh(L)
+*k[0]^2*k[1]^2-sinh(L)*k[0]*k[1]^3+4*sinh(L)*cosh(L)^4*k[0]^3*k[1]^3+1
+2*sinh(L)*cosh(L)^4*k[0]^3*k[1]+48*sinh(L)*cosh(L)^4*k[0]^2*k[1]^2+20*
+sinh(L)*cosh(L)^4*k[0]*k[1]^3-8*sinh(L)*cosh(L)^2*k[0]^3*k[1]^3+60*sin
+h(L)*cosh(L)^4*k[0]*k[1]-12*sinh(L)*cosh(L)^2*k[0]^3*k[1]-56*sinh(L)*c
+osh(L)^2*k[0]^2*k[1]^2-19*sinh(L)*cosh(L)^2*k[0]*k[1]^3-39*sinh(L)*cos
+h(L)^2*k[0]*k[1]+4*cosh(L)^3*k[0]^3+7*cosh(L)^3*k[1]^3+20*cosh(L)^3*k[
+0]+23*cosh(L)^3*k[1]+cosh(L)*k[1]^3-20*cosh(L)^5*k[0]-24*cosh(L)^5*k[1
+]);\n" }{MPLTEXT 1 0 16 "simplify(X-X0);\n" }{MPLTEXT 1 0 1 "\n" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "*&-I%sinhG6$%*protectedGI(_syslibG6\"6#I
+\"LGF(\"\"\",dp*(-I%coshGF%F)F+&I\"kGF(6#\"\"!\"\"$&F16#F+\"\"#!#7*(F.
+F+F0F7F5F4!#;*(F.F+F0F7F5F+F:*(F.F+F0F+F5F7!#=*(F.F4F0F7F5F+\"#k*(F.F4
+F0F+F5F7\"#y*&F5F+F.F+!\"$*&F0F+F.F+!\"%*&F.\"\"&F0F4FE*&F.FGF5F4!\")*
+&F#F+F.\"\"%\"\")*&F#F+F.F7FE*&F#F+F5F7!\"\"*(F5F+F0F+F#F+FK*(F.FGF0F4
+F5F7F8*(F.FGF0F7F5F4F:*(F.FGF0F7F5F+!#[*(F.FGF0F+F5F7!#g*(F.F4F0F4F5F7
+\"#C*(F.F4F0F7F5F4\"#K*(F#F+F.FKF0F7\"#;*(F#F+F.FKF5F7FX*(F#F+F0F4F5F4
+FK*(F#F+F.F7F0F7FI*(F#F+F.F7F5F7!#5*(F#F+F0F7F5F7FL*(F#F+F0F+F5F4FO**F
+#F+F.FKF0F4F5F4FK**F#F+F.FKF0F4F5F+\"#7**F#F+F.FKF0F7F5F7\"#[**F#F+F.F
+KF0F+F5F4\"#?**F#F+F.F7F0F4F5F4FI**F#F+F.FKF0F+F5F+\"#g**F#F+F.F7F0F4F
+5F+F8**F#F+F.F7F0F7F5F7!#c**F#F+F.F7F0F+F5F4!#>**F#F+F.F7F0F+F5F+!#R*&
+F.F4F0F4FK*&F.F4F5F4\"\"(*&F.F4F0F+Fdo*&F.F4F5F+\"#B*&F.F+F5F4F+*&F.FG
+F0F+!#?*&F.FGF5F+!#CF+" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 61 "simplify(X0+AA1*(D@D)(k)(s[1
+])+A11*((D)(k)(s[1]))^2-a[1,2]);\n" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 
+52 "a[1,2]:= X0+AA1*(D@D)(k)(s[1])+A11*((D)(k)(s[1]))^2;" }}{PARA 0 ">
+ " 0 "" {MPLTEXT 1 0 1155 "a[1,2] := sinh(L)*(-12*cosh(L)*k[0]^3*k[1]^
+2-16*cosh(L)*k[0]^2*k[1]^3-16*cosh(L)*k[0]^2*k[1]-18*cosh(L)*k[0]*k[1]
+^2+64*cosh(L)^3*k[0]^2*k[1]+78*cosh(L)^3*k[0]*k[1]^2-3*k[1]*cosh(L)-4*
+k[0]*cosh(L)-4*cosh(L)^5*k[0]^3-8*cosh(L)^5*k[1]^3+8*sinh(L)*cosh(L)^4
+-4*sinh(L)*cosh(L)^2-sinh(L)*k[1]^2+4*k[1]*k[0]*sinh(L)-12*cosh(L)^5*k
+[0]^3*k[1]^2-16*cosh(L)^5*k[0]^2*k[1]^3-48*cosh(L)^5*k[0]^2*k[1]-60*co
+sh(L)^5*k[0]*k[1]^2+24*cosh(L)^3*k[0]^3*k[1]^2+32*cosh(L)^3*k[0]^2*k[1
+]^3+16*sinh(L)*cosh(L)^4*k[0]^2+24*sinh(L)*cosh(L)^4*k[1]^2+4*sinh(L)*
+k[0]^3*k[1]^3-8*sinh(L)*cosh(L)^2*k[0]^2-10*sinh(L)*cosh(L)^2*k[1]^2+8
+*sinh(L)*k[0]^2*k[1]^2-sinh(L)*k[0]*k[1]^3+4*sinh(L)*cosh(L)^4*k[0]^3*
+k[1]^3+12*sinh(L)*cosh(L)^4*k[0]^3*k[1]+48*sinh(L)*cosh(L)^4*k[0]^2*k[
+1]^2+20*sinh(L)*cosh(L)^4*k[0]*k[1]^3-8*sinh(L)*cosh(L)^2*k[0]^3*k[1]^
+3+60*sinh(L)*cosh(L)^4*k[0]*k[1]-12*sinh(L)*cosh(L)^2*k[0]^3*k[1]-56*s
+inh(L)*cosh(L)^2*k[0]^2*k[1]^2-19*sinh(L)*cosh(L)^2*k[0]*k[1]^3-39*sin
+h(L)*cosh(L)^2*k[0]*k[1]+4*cosh(L)^3*k[0]^3+7*cosh(L)^3*k[1]^3+20*cosh
+(L)^3*k[0]+23*cosh(L)^3*k[1]+cosh(L)*k[1]^3-20*cosh(L)^5*k[0]-24*cosh(
+L)^5*k[1])+sinh(L)^3*(k[0]*sinh(L)-cosh(L))*((D@@2)(k))(s[1]):" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}{PARA 11 "" 1 "" {XPPMATH 20 ",
+&*&-I%sinhG6$%*protectedGI(_syslibG6\"6#I\"LGF)\"\"\",dp*(-I%coshGF&F*
+F,&I\"kGF)6#\"\"!\"\"$&F26#F,\"\"#!#7*(F/F,F1F8F6F5!#;*(F/F,F1F8F6F,F;
+*(F/F,F1F,F6F8!#=*(F/F5F1F8F6F,\"#k*(F/F5F1F,F6F8\"#y*&F6F,F/F,!\"$*&F
+1F,F/F,!\"%*&F/\"\"&F1F5FF*&F/FHF6F5!\")*&F$F,F/\"\"%\"\")*&F$F,F/F8FF
+*&F$F,F6F8!\"\"*(F6F,F1F,F$F,FL*(F/FHF1F5F6F8F9*(F/FHF1F8F6F5F;*(F/FHF
+1F8F6F,!#[*(F/FHF1F,F6F8!#g*(F/F5F1F5F6F8\"#C*(F/F5F1F8F6F5\"#K*(F$F,F
+/FLF1F8\"#;*(F$F,F/FLF6F8FY*(F$F,F1F5F6F5FL*(F$F,F/F8F1F8FJ*(F$F,F/F8F
+6F8!#5*(F$F,F1F8F6F8FM*(F$F,F1F,F6F5FP**F$F,F/FLF1F5F6F5FL**F$F,F/FLF1
+F5F6F,\"#7**F$F,F/FLF1F8F6F8\"#[**F$F,F/FLF1F,F6F5\"#?**F$F,F/F8F1F5F6
+F5FJ**F$F,F/FLF1F,F6F,\"#g**F$F,F/F8F1F5F6F,F9**F$F,F/F8F1F8F6F8!#c**F
+$F,F/F8F1F,F6F5!#>**F$F,F/F8F1F,F6F,!#R*&F/F5F1F5FL*&F/F5F6F5\"\"(*&F/
+F5F1F,Feo*&F/F5F6F,\"#B*&F/F,F6F5F,*&F/FHF1F,!#?*&F/FHF6F,!#CF,F,*(F$F
+5,&*&F1F,F$F,F,F/FPF,---I#@@GF&6$I\"DGF&F86#F26#&I\"sGF)F7F,F," }}}
+{PARA 0 "" 0 "" {TEXT 213 0 "" }}}{SECT 1 {PARA 4 "" 0 "" {TEXT 215 6 
+"a[0,3]" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "restart:" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 1167 "a[0,3]:=(1/2*(-k[1]*sinh(L
+)*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))*cosh(L)+sinh(L
+)^2*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))+(k[0]*sinh(L
+)-cosh(L))*(k[1]*sinh(L)-cosh(L))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh
+(L)-k[0]*cosh(L))))*sinh(L)^2*(k[1]*sinh(L)-cosh(L))+(1/2*(-k[1]*sinh(
+L)*(k[0]*sinh(L)-cosh(L))*cosh(L)+sinh(L)^2*(k[0]*sinh(L)-cosh(L))+cos
+h(L)+(k[1]*sinh(L)-cosh(L))*(k[0]*sinh(L)-cosh(L))^2))*sinh(L)*(k[1]*s
+inh(L)-cosh(L))^2+(1/6*(((D@@2)(k))(s[1])*sinh(L)-k[1]*(k[1]*sinh(L)-c
+osh(L))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))*cosh(L)+
+sinh(L)*(k[1]*sinh(L)-cosh(L))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)
+-k[0]*cosh(L))+(k[1]*sinh(L)-cosh(L))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+
+sinh(L)-k[0]*cosh(L))^2))*sinh(L)^3+(1/6*(-sinh(L)*(k[0]*sinh(L)-cosh(
+L))*cosh(L)+sinh(L)+sinh(L)*(k[0]*sinh(L)-cosh(L))^2))*(k[1]*sinh(L)-c
+osh(L))^3+(1/6*(-sinh(L)*(k[1]*sinh(L)-cosh(L))*cosh(L)+sinh(L)+sinh(L
+)*(k[1]*sinh(L)-cosh(L))^2))*(k[1]*sinh(L)-cosh(L))+(1/6*(((D@@2)(k))(
+s[1])*sinh(L)^3-k[1]*sinh(L)*(k[1]*sinh(L)-cosh(L))*cosh(L)+sinh(L)^2*
+(k[1]*sinh(L)-cosh(L))+cosh(L)*(k[1]*sinh(L)-cosh(L))^2+k[1]*sinh(L)-c
+osh(L)))*sinh(L): #OK" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 49 "A0
+1:=coeff(coeff(a[0,3],(D)(k)(0)),(D)(k)(s[1]));" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 31 "A00:=
+coeff(a[0,3],(D)(k)(0),2);" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 44 "A11:=simplify(coeff(a[0,3],(
+D)(k)(s[1]),2));" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 31 "AA0:=coeff(a[0,3],(D@D)(k)(0));" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 44 "AA1:=simplify(coeff(a[0,3],(D@D)(k)(s[1])));" }}
+{PARA 11 "" 1 "" {XPPMATH 20 ",$*$-I%sinhG6$%*protectedGI(_syslibG6\"6
+#I\"LGF)\"\"%#\"\"\"\"\"$" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+48 "X:=subs((D@D)(k)(s[1])=0,(D)(k)(s[1])=0,a[0,3]):" }}{PARA 0 "> " 0
+ "" {MPLTEXT 1 0 800 "X0:=(1/3)*sinh(L)*(3*k[1]*sinh(L)-3*cosh(L)+12*s
+inh(L)*cosh(L)^4*k[0]+24*sinh(L)*cosh(L)^4*k[1]-15*sinh(L)*cosh(L)^2*k
+[1]-12*cosh(L)*k[0]^2*k[1]^2-12*cosh(L)*k[0]*k[1]^3-8*cosh(L)^5+8*cosh
+(L)^3-k[1]^3*sinh(L)-6*cosh(L)*k[1]^2+6*sinh(L)*k[0]*k[1]^2-12*cosh(L)
+*k[0]*k[1]+4*k[0]^2*k[1]^3*sinh(L)+4*cosh(L)^3*k[0]^2+30*cosh(L)^3*k[1
+]^2+4*sinh(L)*cosh(L)^4*k[0]^2*k[1]^3+12*sinh(L)*cosh(L)^4*k[0]^2*k[1]
++36*sinh(L)*cosh(L)^4*k[0]*k[1]^2-8*sinh(L)*cosh(L)^2*k[0]^2*k[1]^3-12
+*sinh(L)*cosh(L)^2*k[0]^2*k[1]-42*sinh(L)*cosh(L)^2*k[0]*k[1]^2+48*cos
+h(L)^3*k[0]*k[1]+24*cosh(L)^3*k[0]^2*k[1]^2+24*cosh(L)^3*k[0]*k[1]^3+8
+*sinh(L)*cosh(L)^4*k[1]^3-7*sinh(L)*cosh(L)^2*k[1]^3-6*sinh(L)*cosh(L)
+^2*k[0]-12*cosh(L)^5*k[0]^2*k[1]^2-12*cosh(L)^5*k[0]*k[1]^3-36*cosh(L)
+^5*k[0]*k[1]-4*cosh(L)^5*k[0]^2-24*cosh(L)^5*k[1]^2)" }{MPLTEXT 1 0 
+17 ";\nsimplify(X-X0);" }}{PARA 11 "" 1 "" {XPPMATH 20 ",$*&-I%sinhG6$
+%*protectedGI(_syslibG6\"6#I\"LGF)\"\"\",^o*&&I\"kGF)6#F,F,F$F,\"\"$-I
+%coshGF&F*!\"$*(F$F,F3\"\"%&F06#\"\"!F,\"#7*(F$F,F3F7F/F,\"#C*(F$F,F3
+\"\"#F/F,!#:*(F3F,F8F?F/F?!#7*(F3F,F8F,F/F2FB*$F3\"\"&!\")*$F3F2\"\")*
+&F/F2F$F,!\"\"*&F3F,F/F?!\"'*(F$F,F8F,F/F?\"\"'*(F3F,F8F,F/F,FB*(F8F?F
+/F2F$F,F7*&F3F2F8F?F7*&F3F2F/F?\"#I**F$F,F3F7F8F?F/F2F7**F$F,F3F7F8F?F
+/F,F;**F$F,F3F7F8F,F/F?\"#O**F$F,F3F?F8F?F/F2FF**F$F,F3F?F8F?F/F,FB**F
+$F,F3F?F8F,F/F?!#U*(F3F2F8F,F/F,\"#[*(F3F2F8F?F/F?F=*(F3F2F8F,F/F2F=*(
+F$F,F3F7F/F2FH*(F$F,F3F?F/F2!\"(*(F$F,F3F?F8F,FL*(F3FEF8F?F/F?FB*(F3FE
+F8F,F/F2FB*(F3FEF8F,F/F,!#O*&F3FEF8F?!\"%*&F3FEF/F?!#CF,#F,F2" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 79 "simplify(X0+A01*(D)(k)(0)*(D)(k)(s[1])+A00*((D)(k)(0)
+)^2+A11*((D)(k)(s[1]))^2+\n" }{MPLTEXT 1 0 43 "AA0*(D@D)(k)(0)+AA1*(D@
+D)(k)(s[1])-a[0,3]);" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 78 "a[0,3]:=X0+
+A01*(D)(k)(0)*(D)(k)(s[1])+A00*((D)(k)(0))^2+A11*((D)(k)(s[1]))^2+\n" 
+}{MPLTEXT 1 0 35 "AA0*(D@D)(k)(0)+AA1*(D@D)(k)(s[1]);" }}{PARA 0 "> " 
+0 "" {MPLTEXT 1 0 841 "a[0,3] := (1/3)*sinh(L)*(3*k[1]*sinh(L)-3*cosh(
+L)+12*sinh(L)*cosh(L)^4*k[0]+24*sinh(L)*cosh(L)^4*k[1]-15*sinh(L)*cosh
+(L)^2*k[1]-12*cosh(L)*k[0]^2*k[1]^2-12*cosh(L)*k[0]*k[1]^3-8*cosh(L)^5
++8*cosh(L)^3-k[1]^3*sinh(L)-6*cosh(L)*k[1]^2+6*sinh(L)*k[0]*k[1]^2-12*
+cosh(L)*k[0]*k[1]+4*k[0]^2*k[1]^3*sinh(L)+4*cosh(L)^3*k[0]^2+30*cosh(L
+)^3*k[1]^2+4*sinh(L)*cosh(L)^4*k[0]^2*k[1]^3+12*sinh(L)*cosh(L)^4*k[0]
+^2*k[1]+36*sinh(L)*cosh(L)^4*k[0]*k[1]^2-8*sinh(L)*cosh(L)^2*k[0]^2*k[
+1]^3-12*sinh(L)*cosh(L)^2*k[0]^2*k[1]-42*sinh(L)*cosh(L)^2*k[0]*k[1]^2
++48*cosh(L)^3*k[0]*k[1]+24*cosh(L)^3*k[0]^2*k[1]^2+24*cosh(L)^3*k[0]*k
+[1]^3+8*sinh(L)*cosh(L)^4*k[1]^3-7*sinh(L)*cosh(L)^2*k[1]^3-6*sinh(L)*
+cosh(L)^2*k[0]-12*cosh(L)^5*k[0]^2*k[1]^2-12*cosh(L)^5*k[0]*k[1]^3-36*
+cosh(L)^5*k[0]*k[1]-4*cosh(L)^5*k[0]^2-24*cosh(L)^5*k[1]^2)+(1/3)*sinh
+(L)^4*((D@@2)(k))(s[1]):" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}
+{PARA 11 "" 1 "" {XPPMATH 20 ",&*&-I%sinhG6$%*protectedGI(_syslibG6\"6
+#I\"LGF)\"\"\",^o*&&I\"kGF)6#F,F,F$F,\"\"$-I%coshGF&F*!\"$*(F$F,F3\"\"
+%&F06#\"\"!F,\"#7*(F$F,F3F7F/F,\"#C*(F$F,F3\"\"#F/F,!#:*(F3F,F8F?F/F?!
+#7*(F3F,F8F,F/F2FB*$F3\"\"&!\")*$F3F2\"\")*&F/F2F$F,!\"\"*&F3F,F/F?!\"
+'*(F$F,F8F,F/F?\"\"'*(F3F,F8F,F/F,FB*(F8F?F/F2F$F,F7*&F3F2F8F?F7*&F3F2
+F/F?\"#I**F$F,F3F7F8F?F/F2F7**F$F,F3F7F8F?F/F,F;**F$F,F3F7F8F,F/F?\"#O
+**F$F,F3F?F8F?F/F2FF**F$F,F3F?F8F?F/F,FB**F$F,F3F?F8F,F/F?!#U*(F3F2F8F
+,F/F,\"#[*(F3F2F8F?F/F?F=*(F3F2F8F,F/F2F=*(F$F,F3F7F/F2FH*(F$F,F3F?F/F
+2!\"(*(F$F,F3F?F8F,FL*(F3FEF8F?F/F?FB*(F3FEF8F,F/F2FB*(F3FEF8F,F/F,!#O
+*&F3FEF8F?!\"%*&F3FEF/F?!#CF,#F,F2*&F$F7---I#@@GF&6$I\"DGF&F?6#F06#&I
+\"sGF)F1F,Ffo" }}}{PARA 0 "" 0 "" {TEXT 213 0 "" }}}{SECT 1 {PARA 4 ""
+ 0 "" {TEXT 215 6 "b[3,0]" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 9 "
+restart:\n" }{MPLTEXT 1 0 4045 "b[3,0] := (1/2*((D(k))(0)*(k[1]*sinh(L
+)-cosh(L))*k[1]*sinh(L)+k[0]*(D(k))(s[1])*sinh(L)-(D(k))(0)*(k[1]*sinh
+(L)-cosh(L))*cosh(L)-(D(k))(s[1])*cosh(L)))*(D(k))(0)*sinh(L)*(k[0]*si
+nh(L)-cosh(L))+(1/2*((D(k))(0)*sinh(L)^2*k[1]-(D(k))(0)*sinh(L)*cosh(L
+)))*(D(k))(0)*sinh(L)*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cos
+h(L))+(1/2*((D(k))(0)*sinh(L)^2*k[1]-(D(k))(0)*sinh(L)*cosh(L)))*((D(k
+))(s[1])*(k[0]*sinh(L)-cosh(L))*k[0]*sinh(L)+k[1]*(D(k))(0)*sinh(L)-(D
+(k))(s[1])*(k[0]*sinh(L)-cosh(L))*cosh(L)-(D(k))(0)*cosh(L))*(k[0]*sin
+h(L)-cosh(L))+(1/2)*(D(k))(0)*sinh(L)^2*((D(k))(s[1])*(k[0]*sinh(L)-co
+sh(L))*k[0]*sinh(L)+k[1]*(D(k))(0)*sinh(L)-(D(k))(s[1])*(k[0]*sinh(L)-
+cosh(L))*cosh(L)-(D(k))(0)*cosh(L))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+si
+nh(L)-k[0]*cosh(L))+(1/2*(k[1]*sinh(L)^2*(k[1]*k[0]*sinh(L)-k[1]*cosh(
+L)+sinh(L)-k[0]*cosh(L))-k[1]*k[0]*sinh(L)*(k[1]*k[0]*sinh(L)-k[1]*cos
+h(L)+sinh(L)-k[0]*cosh(L))*cosh(L)+k[0]*sinh(L)^2*(k[1]*k[0]*sinh(L)-k
+[1]*cosh(L)+sinh(L)-k[0]*cosh(L))-sinh(L)*(k[1]*k[0]*sinh(L)-k[1]*cosh
+(L)+sinh(L)-k[0]*cosh(L))*cosh(L)+((D@@2)(k))(0)*(k[1]*sinh(L)-cosh(L)
+)*sinh(L)^2*k[1]-((D@@2)(k))(0)*(k[1]*sinh(L)-cosh(L))*sinh(L)*cosh(L)
+-(k[0]*sinh(L)-cosh(L))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*c
+osh(L))*sinh(L)+k[1]*cosh(L)*(k[0]*sinh(L)-cosh(L))*(k[1]*k[0]*sinh(L)
+-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))+(D(k))(s[1])*sinh(L)^2*(D(k))(0)))
+*(k[0]*sinh(L)-cosh(L))^2*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]
+*cosh(L))+(1/2*(k[1]*cosh(L)*(k[0]*sinh(L)-cosh(L))^2+k[1]*sinh(L)^2*(
+k[0]*sinh(L)-cosh(L))-k[0]*k[1]*sinh(L)*(k[0]*sinh(L)-cosh(L))*cosh(L)
++k[0]*sinh(L)^2*(k[0]*sinh(L)-cosh(L))+k[0]*cosh(L)+((D@@2)(k))(0)*sin
+h(L)^3*k[1]-((D@@2)(k))(0)*sinh(L)^2*cosh(L)-sinh(L)*(k[0]*sinh(L)-cos
+h(L))^2-sinh(L)*(k[0]*sinh(L)-cosh(L))*cosh(L)-sinh(L)))*(k[0]*sinh(L)
+-cosh(L))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))^2+(1/6
+*(k[1]*(k[1]*sinh(L)-cosh(L))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-
+k[0]*cosh(L))*sinh(L)-k[0]*k[1]*(k[1]*sinh(L)-cosh(L))*(k[1]*k[0]*sinh
+(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))*cosh(L)+k[0]*(k[1]*sinh(L)-cosh
+(L))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))*sinh(L)+2*(
+D(k))(0)*(k[1]*sinh(L)-cosh(L))*(D(k))(s[1])*sinh(L)+((D@@2)(k))(0)*(k
+[1]*sinh(L)-cosh(L))^2*k[1]*sinh(L)-((D@@2)(k))(0)*(k[1]*sinh(L)-cosh(
+L))^2*cosh(L)-(k[1]*sinh(L)-cosh(L))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+s
+inh(L)-k[0]*cosh(L))*cosh(L)-((D@@2)(k))(s[1])*cosh(L)+k[0]*((D@@2)(k)
+)(s[1])*sinh(L)+(D(k))(0)*(D(k))(s[1])*sinh(L)^2*k[1]+k[1]*cosh(L)*(k[
+1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))^2-sinh(L)*(k[1]*k[0
+]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))^2-(D(k))(s[1])*(D(k))(0)*
+sinh(L)*cosh(L)))*(k[0]*sinh(L)-cosh(L))^3+(1/6*(((D@@2)(k))(0)*sinh(L
+)^3-k[0]*sinh(L)*(k[0]*sinh(L)-cosh(L))*cosh(L)+sinh(L)^2*(k[0]*sinh(L
+)-cosh(L))+cosh(L)*(k[0]*sinh(L)-cosh(L))^2+k[0]*sinh(L)-cosh(L)))*(k[
+1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))^3+(1/6*(((D@@2)(k))
+(0)*sinh(L)-k[0]*(k[0]*sinh(L)-cosh(L))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L
+)+sinh(L)-k[0]*cosh(L))*cosh(L)+(k[0]*sinh(L)-cosh(L))*(k[1]*k[0]*sinh
+(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))*sinh(L)+(k[0]*sinh(L)-cosh(L))*
+(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))^2))*(k[1]*k[0]*s
+inh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))+(1/6*(2*(D(k))(s[1])*(k[0]*s
+inh(L)-cosh(L))*(D(k))(0)*sinh(L)-((D@@2)(k))(s[1])*(k[0]*sinh(L)-cosh
+(L))^2*cosh(L)+((D@@2)(k))(s[1])*(k[0]*sinh(L)-cosh(L))^2*k[0]*sinh(L)
+-sinh(L)*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))^2-(k[0]
+*sinh(L)-cosh(L))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L)
+)*cosh(L)-(D(k))(s[1])*(D(k))(0)*sinh(L)*cosh(L)+(D(k))(s[1])*(D(k))(0
+)*sinh(L)^2*k[0]+k[0]*cosh(L)*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-
+k[0]*cosh(L))^2+k[0]*(k[0]*sinh(L)-cosh(L))*(k[1]*k[0]*sinh(L)-k[1]*co
+sh(L)+sinh(L)-k[0]*cosh(L))*sinh(L)+k[1]*(k[0]*sinh(L)-cosh(L))*(k[1]*
+k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))*sinh(L)-k[1]*k[0]*(k[0
+]*sinh(L)-cosh(L))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L
+))*cosh(L)+k[1]*((D@@2)(k))(0)*sinh(L)-((D@@2)(k))(0)*cosh(L)))*(k[0]*
+sinh(L)-cosh(L)):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 48 "X:=coe
+ff(coeff(b[3,0],(D)(k)(0)),(D)(k)(s[1])):\n" }{MPLTEXT 1 0 330 "A01 :=
+ -2*sinh(L)*(-cosh(L)^4*k[0]^3*k[1]+sinh(L)*cosh(L)^3*k[0]^3+3*sinh(L)
+*cosh(L)^3*k[0]^2*k[1]-3*cosh(L)^4*k[0]^2-3*cosh(L)^4*k[0]*k[1]+2*cosh
+(L)^2*k[0]^3*k[1]+3*sinh(L)*cosh(L)^3*k[0]+sinh(L)*cosh(L)^3*k[1]-sinh
+(L)*cosh(L)*k[0]^3-3*sinh(L)*cosh(L)*k[0]^2*k[1]-cosh(L)^4+3*cosh(L)^2
+*k[0]^2+3*cosh(L)^2*k[0]*k[1]-k[0]^3*k[1]);\n" }{MPLTEXT 1 0 16 "simpl
+ify(A01-X);" }}{PARA 11 "" 1 "" {XPPMATH 20 ",$*&-I%sinhG6$%*protected
+GI(_syslibG6\"6#I\"LGF)\"\"\",>*(-I%coshGF&F*\"\"%&I\"kGF)6#\"\"!\"\"$
+&F36#F,F,!\"\"*(F$F,F/F6F2F6F,**F$F,F/F6F2\"\"#F7F,F6*&F/F1F2F<!\"$*(F
+/F1F2F,F7F,F>*(F/F<F2F6F7F,F<*(F$F,F/F6F2F,F6*(F$F,F/F6F7F,F,*(F$F,F/F
+,F2F6F9**F$F,F/F,F2F<F7F,F>*$F/F1F9*&F/F<F2F<F6*(F/F<F2F,F7F,F6*&F2F6F
+7F,F9F,!\"#" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}{EXCHG {PARA 0 
+"> " 0 "" {MPLTEXT 1 0 29 "X:=coeff(b[3,0],(D)(k)(0),2):" }}{PARA 0 ">
+ " 0 "" {MPLTEXT 1 0 233 "A00 := sinh(L)*(2*sinh(L)*cosh(L)^2*k[0]*k[1
+]^2-4*cosh(L)^3*k[0]*k[1]-2*cosh(L)^3*k[1]^2+2*sinh(L)*cosh(L)^2*k[0]+
+4*sinh(L)*cosh(L)^2*k[1]-2*k[0]*k[1]^2*sinh(L)-2*cosh(L)^3+4*cosh(L)*k
+[0]*k[1]+2*cosh(L)*k[1]^2-k[1]*sinh(L)+cosh(L));\n" }{MPLTEXT 1 0 16 "
+simplify(A00-X);" }}{PARA 11 "" 1 "" {XPPMATH 20 "*&-I%sinhG6$%*protec
+tedGI(_syslibG6\"6#I\"LGF(\"\"\",8**F#F+-I%coshGF%F)\"\"#&I\"kGF(6#\"
+\"!F+&F26#F+F0F0*(F.\"\"$F1F+F5F+!\"%*&F.F8F5F0!\"#*(F#F+F.F0F1F+F0*(F
+#F+F.F0F5F+\"\"%*(F1F+F5F0F#F+F;*$F.F8F;*(F.F+F1F+F5F+F>*&F.F+F5F0F0*&
+F5F+F#F+!\"\"F.F+F+" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 44 "A11:=simplify(coeff(b[3,0],(D)(k)(s
+[1]),2));" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}{EXCHG {PARA 0 ">
+ " 0 "" {MPLTEXT 1 0 44 "AA1:=simplify(coeff(b[3,0],(D@D)(k)(s[1])));"
+ }{TEXT 213 0 "" }}{PARA 11 "" 1 "" {XPPMATH 20 ",4*&-I%coshG6$%*prote
+ctedGI(_syslibG6\"6#I\"LGF)\"\"%&I\"kGF)6#\"\"!F,#\"\"\"\"\"$*(-I%sinh
+GF&F*F2F$F3F-F3#!\"%F3*&F$F,F-\"\"#F:*&F$F:F-F,#!\"#F3*(F5F2F$F3F-F2F7
+*(F5F2F$F2F-F3#F,F3*$F$F,F1*&F$F:F-F:F=*$F-F,F1" }}}{EXCHG {PARA 0 "> 
+" 0 "" {MPLTEXT 1 0 30 "X:=coeff(b[3,0],(D@D)(k)(0)):\n" }{MPLTEXT 1 
+0 586 "AA0:=(1/2*((k[1]*sinh(L)-cosh(L))*sinh(L)^2*k[1]-(k[1]*sinh(L)-
+cosh(L))*sinh(L)*cosh(L)))*(k[0]*sinh(L)-cosh(L))^2*(k[1]*k[0]*sinh(L)
+-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))+(1/2*(sinh(L)^3*k[1]-sinh(L)^2*cos
+h(L)))*(k[0]*sinh(L)-cosh(L))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-
+k[0]*cosh(L))^2+(1/6*((k[1]*sinh(L)-cosh(L))^2*k[1]*sinh(L)-(k[1]*sinh
+(L)-cosh(L))^2*cosh(L)))*(k[0]*sinh(L)-cosh(L))^3+(1/6)*sinh(L)^3*(k[1
+]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))^3+(1/6)*sinh(L)*(k[1
+]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))+(1/6*(k[1]*sinh(L)-c
+osh(L)))*(k[0]*sinh(L)-cosh(L));\n" }{MPLTEXT 1 0 16 "simplify(AA0-X);
+" }}{PARA 11 "" 1 "" {XPPMATH 20 ",.*(,&*(,&*&&I\"kG6\"6#\"\"\"F,-I%si
+nhG6$%*protectedGI(_syslibGF*6#I\"LGF*F,F,-I%coshGF/F2!\"\"F,F-\"\"#F(
+F,F,*(F&F,F-F,F4F,F6F,,&*&&F)6#\"\"!F,F-F,F,F4F6F7,**(F(F,F;F,F-F,F,*&
+F(F,F4F,F6F-F,*&F;F,F4F,F6F,#F,F7*(,&*&F-\"\"$F(F,F,*&F-F7F4F,F6F,F9F,
+F>F7FB*&,&*(F&F7F(F,F-F,F,*&F&F7F4F,F6F,F9FF#F,\"\"'*&F-FFF>FFFL*&F-F,
+F>F,FL*&F&F,F9F,FL" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 75 "X:=subs((D@D)(k)(s[1])=0,(D)(k)(s[1
+])=0,(D@D)(k)(0)=0,(D)(k)(0)=0,b[3,0]):\n" }{MPLTEXT 1 0 931 "X0:=-(1/
+3)*k[0]-(1/3)*sinh(L)*cosh(L)+(1/3)*k[0]^3-(4/3)*k[0]^2*k[1]-2*k[0]^3*
+k[1]^2+2*cosh(L)^3*sinh(L)*k[0]^4*k[1]^2+4*cosh(L)^3*sinh(L)*k[0]^3*k[
+1]^3+2*cosh(L)^2*k[0]^4*k[1]^3-cosh(L)^4*k[0]^4*k[1]-8*cosh(L)^4*k[0]^
+3*k[1]^2-6*cosh(L)^4*k[0]^2*k[1]^3+(2/3)*cosh(L)^2*k[0]^4*k[1]+10*cosh
+(L)^2*k[0]^3*k[1]^2+6*cosh(L)^2*k[0]^2*k[1]^3+6*cosh(L)^2*k[0]^2*k[1]+
+6*cosh(L)^2*k[0]*k[1]^2-cosh(L)^4*k[0]^4*k[1]^3-(2/3)*cosh(L)^2*k[0]^3
++(2/3)*cosh(L)^2*k[0]+(4/3)*cosh(L)^2*k[1]-(8/3)*k[1]*k[0]*sinh(L)*cos
+h(L)-6*sinh(L)*k[0]^2*k[1]^2*cosh(L)-(4/3)*sinh(L)*k[0]^3*k[1]*cosh(L)
+-4*cosh(L)*sinh(L)*k[0]^3*k[1]^3-2*cosh(L)*sinh(L)*k[0]^4*k[1]^2+(1/3)
+*k[0]^4*k[1]+(1/3)*sinh(L)*k[0]^4*cosh(L)-k[0]^4*k[1]^3-cosh(L)^4*k[1]
+^3-cosh(L)^4*k[1]-6*cosh(L)^4*k[0]^2*k[1]-8*cosh(L)^4*k[0]*k[1]^2+2*co
+sh(L)^3*sinh(L)*k[1]^2+4*cosh(L)^3*sinh(L)*k[0]^3*k[1]+12*cosh(L)^3*si
+nh(L)*k[0]^2*k[1]^2+4*cosh(L)^3*sinh(L)*k[0]*k[1]^3+4*cosh(L)^3*sinh(L
+)*k[0]*k[1];\n" }{MPLTEXT 1 0 15 "simplify(X-X0);" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 ",fo&I\"kG6\"6#\"\"!#!\"\"\"\"$*&-I%sinhG6$%*protectedGI(_
+syslibGF%6#I\"LGF%\"\"\"-I%coshGF.F1F3F(*$F#F*#F3F**&F#\"\"#&F$6#F3F3#
+!\"%F**&F#F*F:F9!\"#**F4F*F,F3F#\"\"%F:F9F9**F4F*F,F3F#F*F:F*FA*(F4F9F
+#FAF:F*F9*(F4FAF#FAF:F3F)*(F4FAF#F*F:F9!\")*(F4FAF#F9F:F*!\"'*(F4F9F#F
+AF:F3#F9F**(F4F9F#F*F:F9\"#5*(F4F9F#F9F:F*\"\"'*(F4F9F#F9F:F3FN*(F4F9F
+#F3F:F9FN*(F4FAF#FAF:F*F)*&F4F9F#F*#F?F**&F4F9F#F3FJ*&F4F9F:F3#FAF***F
+:F3F#F3F,F3F4F3#FFF***F,F3F#F9F:F9F4F3FH**F,F3F#F*F:F3F4F3F<**F4F3F,F3
+F#F*F:F*F=**F4F3F,F3F#FAF:F9F?*&F#FAF:F3F7*(F,F3F#FAF4F3F7*&F#FAF:F*F)
+*&F4FAF:F*F)*&F4FAF:F3F)*(F4FAF#F9F:F3FH*(F4FAF#F3F:F9FF*(F4F*F,F3F:F9
+F9**F4F*F,F3F#F*F:F3FA**F4F*F,F3F#F9F:F9\"#7**F4F*F,F3F#F3F:F*FA**F4F*
+F,F3F#F3F:F3FA" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 121 "simplify(X0+AA0*(D@D)(k)(0)+AA1*(D
+@D)(k)(s[1])+A11*((D)(k)(s[1]))^2+A00*((D)(k)(0))^2+A01*(D)(k)(0)*(D)(
+k)(s[1])-b[3,0]);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#\"\"!" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 113 "b[3,0]:= X0+AA0*(D@D)(k)(0)+AA1*(D
+@D)(k)(s[1])+A11*((D)(k)(s[1]))^2+A00*((D)(k)(0))^2+A01*(D)(k)(0)*(D)(
+k)(s[1]);" }}{PARA 11 "" 1 "" {XPPMATH 20 ",^p&I\"kG6\"6#\"\"!#!\"\"\"
+\"$*&-I%sinhG6$%*protectedGI(_syslibGF%6#I\"LGF%\"\"\"-I%coshGF.F1F3F(
+*$F#F*#F3F**&F#\"\"#&F$6#F3F3#!\"%F**&F#F*F:F9!\"#**F,F3,>*(F4\"\"%F#F
+*F:F3F)*(F,F3F4F*F#F*F3**F,F3F4F*F#F9F:F3F**&F4FCF#F9!\"$*(F4FCF#F3F:F
+3FG*(F4F9F#F*F:F3F9*(F,F3F4F*F#F3F**(F,F3F4F*F:F3F3*(F,F3F4F3F#F*F)**F
+,F3F4F3F#F9F:F3FG*$F4FCF)*&F4F9F#F9F**(F4F9F#F3F:F3F**&F#F*F:F3F)F3--I
+\"DGF.6#F$F&F3-FS6#&I\"sGF%F;F3F?*&,.*(,&*(,&*&F:F3F,F3F3F4F)F3F,F9F:F
+3F3*(FinF3F,F3F4F3F)F3,&*&F#F3F,F3F3F4F)F9,**(F:F3F#F3F,F3F3*&F:F3F4F3
+F)F,F3*&F#F3F4F3F)F3#F3F9*(,&*&F,F*F:F3F3*&F,F9F4F3F)F3F\\oF3F^oF9Fbo*
+&,&*(FinF9F:F3F,F3F3*&FinF9F4F3F)F3F\\oF*#F3\"\"'*&F,F*F^oF*F[p*&F,F3F
+^oF3F[p*&FinF3F\\oF3F[pF3---I#@@GF.6$FTF9FUF&F3F3*&,4*&F4FCF#FCF7FDF<F
+FF9*&F4F9F#FC#F?F*FJF<FL#FCF*FNF7FOF?*$F#FCF7F3-FapFWF3F3*(F,F3,8**F,F
+3F4F9F#F3F:F9F9*(F4F*F#F3F:F3F=*&F4F*F:F9F?*(F,F3F4F9F#F3F9*(F,F3F4F9F
+:F3FC*(F#F3F:F9F,F3F?*$F4F*F?*(F4F3F#F3F:F3FC*&F4F3F:F9F9FjnF)F4F3F3FR
+F9F3**F4F*F,F3F#FCF:F9F9**F4F*F,F3F#F*F:F*FC*(F4F9F#FCF:F*F9*(F4FCF#FC
+F:F3F)*(F4FCF#F*F:F9!\")*(F4FCF#F9F:F*!\"'*(F4F9F#FCF:F3#F9F**(F4F9F#F
+*F:F9\"#5*(F4F9F#F9F:F*F\\p*(F4F9F#F9F:F3F\\p*(F4F9F#F3F:F9F\\p*(F4FCF
+#FCF:F*F)*&F4F9F#F*Fip*&F4F9F#F3Far*&F4F9F:F3Fjp**F:F3F#F3F,F3F4F3#F]r
+F***F,F3F#F9F:F9F4F3F_r**F,F3F#F*F:F3F4F3F<**F4F3F,F3F#F*F:F*F=**F4F3F
+,F3F#FCF:F9F?*&F#FCF:F3F7*(F,F3F#FCF4F3F7*&F#FCF:F*F)*&F4FCF:F*F)*&F4F
+CF:F3F)*(F4FCF#F9F:F3F_r*(F4FCF#F3F:F9F]r*(F4F*F,F3F:F9F9**F4F*F,F3F#F
+*F:F3FC**F4F*F,F3F#F9F:F9\"#7**F4F*F,F3F#F3F:F*FC**F4F*F,F3F#F3F:F3FC"
+ }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 2336 "b[3,0] := -(1/3)*k[0]-
+(1/3)*sinh(L)*cosh(L)+(1/3)*k[0]^3-(4/3)*k[0]^2*k[1]-2*k[0]^3*k[1]^2+(
+(1/2*((k[1]*sinh(L)-cosh(L))*sinh(L)^2*k[1]-(k[1]*sinh(L)-cosh(L))*sin
+h(L)*cosh(L)))*(k[0]*sinh(L)-cosh(L))^2*(k[1]*k[0]*sinh(L)-k[1]*cosh(L
+)+sinh(L)-k[0]*cosh(L))+(1/2*(sinh(L)^3*k[1]-sinh(L)^2*cosh(L)))*(k[0]
+*sinh(L)-cosh(L))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L)
+)^2+(1/6*((k[1]*sinh(L)-cosh(L))^2*k[1]*sinh(L)-(k[1]*sinh(L)-cosh(L))
+^2*cosh(L)))*(k[0]*sinh(L)-cosh(L))^3+(1/6)*sinh(L)^3*(k[1]*k[0]*sinh(
+L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))^3+(1/6)*sinh(L)*(k[1]*k[0]*sinh(
+L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))+(1/6*(k[1]*sinh(L)-cosh(L)))*(k[
+0]*sinh(L)-cosh(L)))*((D@@2)(k))(0)-2*sinh(L)*(-cosh(L)^4*k[0]^3*k[1]+
+sinh(L)*cosh(L)^3*k[0]^3+3*sinh(L)*cosh(L)^3*k[0]^2*k[1]-3*cosh(L)^4*k
+[0]^2-3*cosh(L)^4*k[0]*k[1]+2*cosh(L)^2*k[0]^3*k[1]+3*sinh(L)*cosh(L)^
+3*k[0]+sinh(L)*cosh(L)^3*k[1]-sinh(L)*cosh(L)*k[0]^3-3*sinh(L)*cosh(L)
+*k[0]^2*k[1]-cosh(L)^4+3*cosh(L)^2*k[0]^2+3*cosh(L)^2*k[0]*k[1]-k[0]^3
+*k[1])*(D(k))(0)*(D(k))(s[1])+((1/3)*cosh(L)^4*k[0]^4-(4/3)*sinh(L)*co
+sh(L)^3*k[0]^3+2*cosh(L)^4*k[0]^2-(2/3)*cosh(L)^2*k[0]^4-(4/3)*sinh(L)
+*cosh(L)^3*k[0]+(4/3)*sinh(L)*cosh(L)*k[0]^3+(1/3)*cosh(L)^4-2*cosh(L)
+^2*k[0]^2+(1/3)*k[0]^4)*((D@@2)(k))(s[1])+sinh(L)*(2*sinh(L)*cosh(L)^2
+*k[0]*k[1]^2-4*cosh(L)^3*k[0]*k[1]-2*cosh(L)^3*k[1]^2+2*sinh(L)*cosh(L
+)^2*k[0]+4*sinh(L)*cosh(L)^2*k[1]-2*k[0]*k[1]^2*sinh(L)-2*cosh(L)^3+4*
+cosh(L)*k[0]*k[1]+2*cosh(L)*k[1]^2-k[1]*sinh(L)+cosh(L))*(D(k))(0)^2+2
+*cosh(L)^3*sinh(L)*k[0]^4*k[1]^2+4*cosh(L)^3*sinh(L)*k[0]^3*k[1]^3+2*c
+osh(L)^2*k[0]^4*k[1]^3-cosh(L)^4*k[0]^4*k[1]-8*cosh(L)^4*k[0]^3*k[1]^2
+-6*cosh(L)^4*k[0]^2*k[1]^3+(2/3)*cosh(L)^2*k[0]^4*k[1]+10*cosh(L)^2*k[
+0]^3*k[1]^2+6*cosh(L)^2*k[0]^2*k[1]^3+6*cosh(L)^2*k[0]^2*k[1]+6*cosh(L
+)^2*k[0]*k[1]^2-cosh(L)^4*k[0]^4*k[1]^3-(2/3)*cosh(L)^2*k[0]^3+(2/3)*c
+osh(L)^2*k[0]+(4/3)*cosh(L)^2*k[1]-(8/3)*k[1]*k[0]*sinh(L)*cosh(L)-6*s
+inh(L)*k[0]^2*k[1]^2*cosh(L)-(4/3)*sinh(L)*k[0]^3*k[1]*cosh(L)-4*cosh(
+L)*sinh(L)*k[0]^3*k[1]^3-2*cosh(L)*sinh(L)*k[0]^4*k[1]^2+(1/3)*k[0]^4*
+k[1]+(1/3)*sinh(L)*k[0]^4*cosh(L)-k[0]^4*k[1]^3-cosh(L)^4*k[1]^3-cosh(
+L)^4*k[1]-6*cosh(L)^4*k[0]^2*k[1]-8*cosh(L)^4*k[0]*k[1]^2+2*cosh(L)^3*
+sinh(L)*k[1]^2+4*cosh(L)^3*sinh(L)*k[0]^3*k[1]+12*cosh(L)^3*sinh(L)*k[
+0]^2*k[1]^2+4*cosh(L)^3*sinh(L)*k[0]*k[1]^3+4*cosh(L)^3*sinh(L)*k[0]*k
+[1]:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{PARA 0 "" 0 ""
+ {TEXT 213 0 "" }}}{SECT 1 {PARA 4 "" 0 "" {TEXT 215 6 "b[2,1]" }}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "restart:" }}}{EXCHG {PARA 0 "
+> " 0 "" {MPLTEXT 1 0 5100 "b[2,1]:=(k[1]*sinh(L)^2*(k[1]*k[0]*sinh(L)
+-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))-k[1]*k[0]*sinh(L)*(k[1]*k[0]*sinh(
+L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))*cosh(L)+k[0]*sinh(L)^2*(k[1]*k[0
+]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))-sinh(L)*(k[1]*k[0]*sinh(L
+)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))*cosh(L)+((D@@2)(k))(0)*(k[1]*sinh
+(L)-cosh(L))*sinh(L)^2*k[1]-((D@@2)(k))(0)*(k[1]*sinh(L)-cosh(L))*sinh
+(L)*cosh(L)-(k[0]*sinh(L)-cosh(L))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sin
+h(L)-k[0]*cosh(L))*sinh(L)+k[1]*cosh(L)*(k[0]*sinh(L)-cosh(L))*(k[1]*k
+[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))+(D(k))(s[1])*sinh(L)^2*
+(D(k))(0))*(k[0]*sinh(L)-cosh(L))*sinh(L)*(k[1]*k[0]*sinh(L)-k[1]*cosh
+(L)+sinh(L)-k[0]*cosh(L))+(k[1]*cosh(L)*(k[0]*sinh(L)-cosh(L))^2+k[1]*
+sinh(L)^2*(k[0]*sinh(L)-cosh(L))-k[0]*k[1]*sinh(L)*(k[0]*sinh(L)-cosh(
+L))*cosh(L)+k[0]*sinh(L)^2*(k[0]*sinh(L)-cosh(L))+k[0]*cosh(L)+((D@@2)
+(k))(0)*sinh(L)^3*k[1]-((D@@2)(k))(0)*sinh(L)^2*cosh(L)-sinh(L)*(k[0]*
+sinh(L)-cosh(L))^2-sinh(L)*(k[0]*sinh(L)-cosh(L))*cosh(L)-sinh(L))*(k[
+0]*sinh(L)-cosh(L))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(
+L))*(k[1]*sinh(L)-cosh(L))+(1/2*(-k[0]*sinh(L)*(k[1]*k[0]*sinh(L)-k[1]
+*cosh(L)+sinh(L)-k[0]*cosh(L))*cosh(L)+sinh(L)^2*(k[1]*k[0]*sinh(L)-k[
+1]*cosh(L)+sinh(L)-k[0]*cosh(L))+(k[0]*sinh(L)-cosh(L))*(k[1]*sinh(L)-
+cosh(L))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))))*(k[1]
+*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))+(1/2*(k[0]*cosh(L)*(k
+[1]*sinh(L)-cosh(L))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh
+(L))+(D(k))(s[1])*sinh(L)^2*(D(k))(0)-sinh(L)*(k[1]*k[0]*sinh(L)-k[1]*
+cosh(L)+sinh(L)-k[0]*cosh(L))*cosh(L)+k[1]*sinh(L)^2*(k[1]*k[0]*sinh(L
+)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))+k[0]*sinh(L)^2*(k[1]*k[0]*sinh(L)
+-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))-((D@@2)(k))(s[1])*(k[0]*sinh(L)-co
+sh(L))*sinh(L)*cosh(L)+((D@@2)(k))(s[1])*(k[0]*sinh(L)-cosh(L))*sinh(L
+)^2*k[0]-sinh(L)*(k[1]*sinh(L)-cosh(L))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L
+)+sinh(L)-k[0]*cosh(L))-k[1]*k[0]*sinh(L)*(k[1]*k[0]*sinh(L)-k[1]*cosh
+(L)+sinh(L)-k[0]*cosh(L))*cosh(L)))*(k[0]*sinh(L)-cosh(L))+((D(k))(0)*
+sinh(L)^2*k[1]-(D(k))(0)*sinh(L)*cosh(L))*((D(k))(s[1])*sinh(L)^2*k[0]
+-(D(k))(s[1])*sinh(L)*cosh(L))*(k[0]*sinh(L)-cosh(L))+(D(k))(0)*sinh(L
+)^2*((D(k))(s[1])*sinh(L)^2*k[0]-(D(k))(s[1])*sinh(L)*cosh(L))*(k[1]*k
+[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))+(1/2*(k[1]*sinh(L)^2*(k
+[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))-k[1]*k[0]*sinh(L)*
+(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))*cosh(L)+k[0]*sin
+h(L)^2*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))-sinh(L)*(
+k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))*cosh(L)+((D@@2)(k
+))(0)*(k[1]*sinh(L)-cosh(L))*sinh(L)^2*k[1]-((D@@2)(k))(0)*(k[1]*sinh(
+L)-cosh(L))*sinh(L)*cosh(L)-(k[0]*sinh(L)-cosh(L))*(k[1]*k[0]*sinh(L)-
+k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))*sinh(L)+k[1]*cosh(L)*(k[0]*sinh(L)-
+cosh(L))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))+(D(k))(
+s[1])*sinh(L)^2*(D(k))(0)))*(k[0]*sinh(L)-cosh(L))^2*(k[1]*sinh(L)-cos
+h(L))+(1/2*(k[1]*cosh(L)*(k[0]*sinh(L)-cosh(L))^2+k[1]*sinh(L)^2*(k[0]
+*sinh(L)-cosh(L))-k[0]*k[1]*sinh(L)*(k[0]*sinh(L)-cosh(L))*cosh(L)+k[0
+]*sinh(L)^2*(k[0]*sinh(L)-cosh(L))+k[0]*cosh(L)+((D@@2)(k))(0)*sinh(L)
+^3*k[1]-((D@@2)(k))(0)*sinh(L)^2*cosh(L)-sinh(L)*(k[0]*sinh(L)-cosh(L)
+)^2-sinh(L)*(k[0]*sinh(L)-cosh(L))*cosh(L)-sinh(L)))*sinh(L)*(k[1]*k[0
+]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))^2+(1/2*(k[1]*(k[1]*sinh(L
+)-cosh(L))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))*sinh(
+L)-k[0]*k[1]*(k[1]*sinh(L)-cosh(L))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+si
+nh(L)-k[0]*cosh(L))*cosh(L)+k[0]*(k[1]*sinh(L)-cosh(L))*(k[1]*k[0]*sin
+h(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))*sinh(L)+2*(D(k))(0)*(k[1]*sinh
+(L)-cosh(L))*(D(k))(s[1])*sinh(L)+((D@@2)(k))(0)*(k[1]*sinh(L)-cosh(L)
+)^2*k[1]*sinh(L)-((D@@2)(k))(0)*(k[1]*sinh(L)-cosh(L))^2*cosh(L)-(k[1]
+*sinh(L)-cosh(L))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L)
+)*cosh(L)-((D@@2)(k))(s[1])*cosh(L)+k[0]*((D@@2)(k))(s[1])*sinh(L)+(D(
+k))(0)*(D(k))(s[1])*sinh(L)^2*k[1]+k[1]*cosh(L)*(k[1]*k[0]*sinh(L)-k[1
+]*cosh(L)+sinh(L)-k[0]*cosh(L))^2-sinh(L)*(k[1]*k[0]*sinh(L)-k[1]*cosh
+(L)+sinh(L)-k[0]*cosh(L))^2-(D(k))(s[1])*(D(k))(0)*sinh(L)*cosh(L)))*(
+k[0]*sinh(L)-cosh(L))^2*sinh(L)+(1/2*(((D@@2)(k))(0)*sinh(L)^3-k[0]*si
+nh(L)*(k[0]*sinh(L)-cosh(L))*cosh(L)+sinh(L)^2*(k[0]*sinh(L)-cosh(L))+
+cosh(L)*(k[0]*sinh(L)-cosh(L))^2+k[0]*sinh(L)-cosh(L)))*(k[1]*k[0]*sin
+h(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))^2*(k[1]*sinh(L)-cosh(L))+(1/2*
+((D(k))(0)*(k[1]*sinh(L)-cosh(L))*k[1]*sinh(L)+k[0]*(D(k))(s[1])*sinh(
+L)-(D(k))(0)*(k[1]*sinh(L)-cosh(L))*cosh(L)-(D(k))(s[1])*cosh(L)))*(D(
+k))(0)*sinh(L)^2+(1/2*((D(k))(0)*sinh(L)^2*k[1]-(D(k))(0)*sinh(L)*cosh
+(L)))*(D(k))(0)*sinh(L)*(k[1]*sinh(L)-cosh(L))+(1/2*((D(k))(0)*sinh(L)
+^2*k[1]-(D(k))(0)*sinh(L)*cosh(L)))*((D(k))(s[1])*(k[0]*sinh(L)-cosh(L
+))*k[0]*sinh(L)+k[1]*(D(k))(0)*sinh(L)-(D(k))(s[1])*(k[0]*sinh(L)-cosh
+(L))*cosh(L)-(D(k))(0)*cosh(L))*sinh(L)+(1/2)*(D(k))(0)*sinh(L)^2*((D(
+k))(s[1])*(k[0]*sinh(L)-cosh(L))*k[0]*sinh(L)+k[1]*(D(k))(0)*sinh(L)-(
+D(k))(s[1])*(k[0]*sinh(L)-cosh(L))*cosh(L)-(D(k))(0)*cosh(L))*(k[1]*si
+nh(L)-cosh(L)):#OK" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 47 "X:=co
+eff(coeff(b[2,1],(D)(k)(0)),(D)(k)(s[1])):" }}{PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 236 "A01:=sinh(L)^2*(6*sinh(L)*cosh(L)^2*k[0]^2*k[1]-6*co
+sh(L)^3*k[0]^2-12*cosh(L)^3*k[0]*k[1]+12*sinh(L)*cosh(L)^2*k[0]+6*sinh
+(L)*cosh(L)^2*k[1]-6*k[0]^2*k[1]*sinh(L)-6*cosh(L)^3+6*cosh(L)*k[0]^2+
+12*cosh(L)*k[0]*k[1]-k[0]*sinh(L)+cosh(L));\n" }{MPLTEXT 1 0 16 "simpl
+ify(X-A01);" }}{PARA 11 "" 1 "" {XPPMATH 20 "*&-I%sinhG6$%*protectedGI
+(_syslibG6\"6#I\"LGF(\"\"#,8**F#\"\"\"-I%coshGF%F)F+&I\"kGF(6#\"\"!F+&
+F26#F.F.\"\"'*&F/\"\"$F1F+!\"'*(F/F9F1F.F5F.!#7*(F#F.F/F+F1F.\"#7*(F#F
+.F/F+F5F.F7*(F1F+F5F.F#F.F:*$F/F9F:*&F/F.F1F+F7*(F/F.F1F.F5F.F>*&F1F.F
+#F.!\"\"F/F.F." }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}{PARA 11 "" 
+0 "" {TEXT 216 0 "" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 29 "X:=coe
+ff(b[2,1],(D)(k)(0),2):" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 94 "A00:=-2*
+sinh(L)^2*(-cosh(L)^2*k[1]^2+2*sinh(L)*cosh(L)*k[1]-cosh(L)^2+k[1]^2);
+simplify(X-A00);" }}{PARA 11 "" 1 "" {XPPMATH 20 ",$*&-I%sinhG6$%*prot
+ectedGI(_syslibG6\"6#I\"LGF)\"\"#,**&-I%coshGF&F*F,&I\"kGF)6#\"\"\"F,!
+\"\"*(F$F4F/F4F1F4F,*$F/F,F5*$F1F,F4F4!\"#" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 44 "A11:=
+simplify(coeff(b[2,1],(D)(k)(s[1]),2));" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 44 "AA1:=simplify(
+coeff(b[2,1],(D@D)(k)(s[1])));" }}{PARA 11 "" 1 "" {XPPMATH 20 "*&-I%s
+inhG6$%*protectedGI(_syslibG6\"6#I\"LGF(\"\"\",.*(F#F+-I%coshGF%F)\"\"
+#&I\"kGF(6#\"\"!\"\"$F+*&F.F5F1F0!\"$*(F#F+F.F0F1F+F5*&F#F+F1F5!\"\"*$
+F.F5F:*&F.F+F1F0F5F+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 29 "X:=
+coeff(b[2,1],(D@D)(k)(0)):" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 751 "AA0:
+= ((k[1]*sinh(L)-cosh(L))*sinh(L)^2*k[1]-(k[1]*sinh(L)-cosh(L))*sinh(L
+)*cosh(L))*(k[0]*sinh(L)-cosh(L))*sinh(L)*(k[1]*k[0]*sinh(L)-k[1]*cosh
+(L)+sinh(L)-k[0]*cosh(L))+(sinh(L)^3*k[1]-sinh(L)^2*cosh(L))*(k[0]*sin
+h(L)-cosh(L))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))*(k
+[1]*sinh(L)-cosh(L))+(1/2*((k[1]*sinh(L)-cosh(L))*sinh(L)^2*k[1]-(k[1]
+*sinh(L)-cosh(L))*sinh(L)*cosh(L)))*(k[0]*sinh(L)-cosh(L))^2*(k[1]*sin
+h(L)-cosh(L))+(1/2*(sinh(L)^3*k[1]-sinh(L)^2*cosh(L)))*sinh(L)*(k[1]*k
+[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))^2+(1/2*((k[1]*sinh(L)-c
+osh(L))^2*k[1]*sinh(L)-(k[1]*sinh(L)-cosh(L))^2*cosh(L)))*(k[0]*sinh(L
+)-cosh(L))^2*sinh(L)+(1/2)*sinh(L)^3*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+s
+inh(L)-k[0]*cosh(L))^2*(k[1]*sinh(L)-cosh(L));\n" }{MPLTEXT 1 0 17 "si
+mplify(X-AA0);\n" }}{PARA 11 "" 1 "" {XPPMATH 20 ",.**,&*(,&*&&I\"kG6
+\"6#\"\"\"F,-I%sinhG6$%*protectedGI(_syslibGF*6#I\"LGF*F,F,-I%coshGF/F
+2!\"\"F,F-\"\"#F(F,F,*(F&F,F-F,F4F,F6F,,&*&&F)6#\"\"!F,F-F,F,F4F6F,F-F
+,,**(F(F,F;F,F-F,F,*&F(F,F4F,F6F-F,*&F;F,F4F,F6F,F,**,&*&F-\"\"$F(F,F,
+*&F-F7F4F,F6F,F9F,F>F,F&F,F,*(F$F,F9F7F&F,#F,F7*(FCF,F-F,F>F7FH*(,&*(F
+&F7F(F,F-F,F,*&F&F7F4F,F6F,F9F7F-F,FH*(F-FEF>F7F&F,FH" }}{PARA 11 "" 1
+ "" {XPPMATH 20 "\"\"!" }}}{PARA 11 "" 0 "" {TEXT 216 0 "" }}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 74 "X:=subs((D@D)(k)(s[1])=0,(D)(k)(s[1
+])=0,(D@D)(k)(0)=0,(D)(k)(0)=0,b[2,1]):" }}{PARA 0 "> " 0 "" {MPLTEXT 
+1 0 748 "X0:=k[0]^2+cosh(L)*k[0]^3*sinh(L)-3*k[0]^3*k[1]^3+k[0]^3*k[1]
++3*sinh(L)*cosh(L)^3*k[1]^3-9*cosh(L)^4*k[0]*k[1]+3*sinh(L)*cosh(L)^3*
+k[1]-10*cosh(L)*k[0]*k[1]^2*sinh(L)-3*cosh(L)*k[0]^2*k[1]*sinh(L)-2*co
+sh(L)^2*k[0]^2-6*cosh(L)^4*k[1]^2+6*sinh(L)*cosh(L)^3*k[0]^3*k[1]^2+9*
+sinh(L)*cosh(L)^3*k[0]^2*k[1]^3-9*cosh(L)*k[0]^2*k[1]^3*sinh(L)-6*cosh
+(L)*k[0]^3*k[1]^2*sinh(L)-3*cosh(L)^4*k[0]^3*k[1]^3+5*cosh(L)^2*k[1]^2
++6*cosh(L)^2*k[0]^3*k[1]^3+2*cosh(L)^2*k[0]^3*k[1]+23*cosh(L)^2*k[0]^2
+*k[1]^2+9*cosh(L)^2*k[0]*k[1]^3+9*cosh(L)^2*k[0]*k[1]-3*cosh(L)^4*k[0]
+^3*k[1]-18*cosh(L)^4*k[0]^2*k[1]^2-9*cosh(L)^4*k[0]*k[1]^3-2*sinh(L)*c
+osh(L)*k[1]+k[0]*sinh(L)*cosh(L)+9*sinh(L)*cosh(L)^3*k[0]^2*k[1]+18*si
+nh(L)*cosh(L)^3*k[0]*k[1]^2-2*k[0]*k[1]-5*k[0]^2*k[1]^2;\n" }{MPLTEXT 
+1 0 16 "simplify(X-X0);\n" }}{PARA 11 "" 1 "" {XPPMATH 20 ",jn*(-I%cos
+hG6$%*protectedGI(_syslibG6\"6#I\"LGF)\"\"\"&I\"kGF)6#\"\"!\"\"$-I%sin
+hGF&F*F,F,*(F-F,F2F,F$F,F,**F$F,F-F,&F.6#F,\"\"#F2F,!#5**F$F,F-F8F6F,F
+2F,!\"$**F2F,F$F1F-F1F6F8\"\"'**F2F,F$F1F-F8F6F1\"\"***F$F,F-F8F6F1F2F
+,!\"***F$F,F-F1F6F8F2F,!\"'**F2F,F$F1F-F8F6F,F?**F2F,F$F1F-F,F6F8\"#=*
+$F-F8F,*&F-F,F6F,!\"#*(F2F,F$F,F6F,FI*&F$F8F6F8\"\"&*(F2F,F$F1F6F1F1*(
+F$\"\"%F-F,F6F,FA*(F2F,F$F1F6F,F1*(F$FOF-F1F6F1F;*(F$F8F-F1F6F1F=*(F$F
+8F-F1F6F,F8*(F$F8F-F8F6F8\"#B*(F$F8F-F,F6F1F?*(F$F8F-F,F6F,F?*(F$FOF-F
+1F6F,F;*(F$FOF-F8F6F8!#=*(F$FOF-F,F6F1FA*&F-F1F6F,F,*&F-F1F6F1F;*&F$F8
+F-F8FI*&F$FOF6F8FC*&F-F8F6F8!\"&" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"
+!" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 79 "simplify(X0+A01*(D)(k)
+(0)*(D)(k)(s[1])+AA1*(D@D)(k)(s[1])+A11*((D)(k)(s[1]))^2\n" }{MPLTEXT 
+1 0 43 "+A00*((D)(k)(0))^2+AA0*(D@D)(k)(0)-b[2,1]);" }}{PARA 11 "" 1 "
+" {XPPMATH 20 "\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 79 "b[2
+,1]:= X0+A01*(D)(k)(0)*(D)(k)(s[1])+AA1*(D@D)(k)(s[1])+A11*((D)(k)(s[1
+]))^2\n" }{MPLTEXT 1 0 35 "+A00*((D)(k)(0))^2+AA0*(D@D)(k)(0);" }}
+{PARA 11 "" 1 "" {XPPMATH 20 ",bo*(-I%coshG6$%*protectedGI(_syslibG6\"
+6#I\"LGF)\"\"\"&I\"kGF)6#\"\"!\"\"$-I%sinhGF&F*F,F,*(F-F,F2F,F$F,F,**F
+$F,F-F,&F.6#F,\"\"#F2F,!#5**F$F,F-F8F6F,F2F,!\"$**F2F,F$F1F-F1F6F8\"\"
+'**F2F,F$F1F-F8F6F1\"\"***F$F,F-F8F6F1F2F,!\"***F$F,F-F1F6F8F2F,!\"'**
+F2F,F$F1F-F8F6F,F?**F2F,F$F1F-F,F6F8\"#=*$F-F8F,*&F-F,F6F,!\"#*(F2F,F$
+F,F6F,FI*&F$F8F6F8\"\"&*(F2F,F$F1F6F1F1*(F$\"\"%F-F,F6F,FA*(F2F,F$F1F6
+F,F1*(F$FOF-F1F6F1F;*(F$F8F-F1F6F1F=*(F$F8F-F1F6F,F8*(F$F8F-F8F6F8\"#B
+*(F$F8F-F,F6F1F?*(F$F8F-F,F6F,F?*(F$FOF-F1F6F,F;*(F$FOF-F8F6F8!#=*(F$F
+OF-F,F6F1FA*&F-F1F6F,F,*&F-F1F6F1F;*&F$F8F-F8FI*&F$FOF6F8FC*&F-F8F6F8!
+\"&*(F2F,,.*(F2F,F$F8F-F1F,*&F$F1F-F8F;*(F2F,F$F8F-F,F1*&F2F,F-F1!\"\"
+*$F$F1Fbo*&F$F,F-F8F1F,---I#@@GF&6$I\"DGF&F86#F.6#&I\"sGF)F7F,F,*(F2F8
+,*FKFboFJF8*$F$F8Fbo*$F6F8F,F,--FjoF[pF/F8FI*&,.**,&*(,&*&F6F,F2F,F,F$
+FboF,F2F8F6F,F,*(FjpF,F2F,F$F,FboF,,&*&F-F,F2F,F,F$FboF,F2F,,**(F6F,F-
+F,F2F,F,*&F6F,F$F,FboF2F,*&F-F,F$F,FboF,F,**,&*&F2F1F6F,F,*&F2F8F$F,Fb
+oF,F]qF,F_qF,FjpF,F,*(FhpF,F]qF8FjpF,#F,F8*(FdqF,F2F,F_qF8Fhq*(,&*(Fjp
+F8F6F,F2F,F,*&FjpF8F$F,FboF,F]qF8F2F,Fhq*(F2F1F_qF8FjpF,FhqF,-FfoF/F,F
+,**F2F8,8**F2F,F$F8F-F8F6F,F=F_oFC*(F$F1F-F,F6F,!#7F`o\"#7*(F2F,F$F8F6
+F,F=*(F-F8F6F,F2F,FCFcoFCFdoF=*(F$F,F-F,F6F,FerF^qFboF$F,F,FcpF,-FdpF
+\\pF,F," }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 1990 "b[2,1] := cosh
+(L)*k[0]^3*sinh(L)+k[0]*sinh(L)*cosh(L)-10*cosh(L)*k[0]*k[1]^2*sinh(L)
+-3*cosh(L)*k[0]^2*k[1]*sinh(L)+6*sinh(L)*cosh(L)^3*k[0]^3*k[1]^2+9*sin
+h(L)*cosh(L)^3*k[0]^2*k[1]^3-9*cosh(L)*k[0]^2*k[1]^3*sinh(L)-6*cosh(L)
+*k[0]^3*k[1]^2*sinh(L)+9*sinh(L)*cosh(L)^3*k[0]^2*k[1]+18*sinh(L)*cosh
+(L)^3*k[0]*k[1]^2+k[0]^2-2*k[0]*k[1]-2*sinh(L)*cosh(L)*k[1]+5*cosh(L)^
+2*k[1]^2+3*sinh(L)*cosh(L)^3*k[1]^3-9*cosh(L)^4*k[0]*k[1]+3*sinh(L)*co
+sh(L)^3*k[1]-3*cosh(L)^4*k[0]^3*k[1]^3+6*cosh(L)^2*k[0]^3*k[1]^3+2*cos
+h(L)^2*k[0]^3*k[1]+23*cosh(L)^2*k[0]^2*k[1]^2+9*cosh(L)^2*k[0]*k[1]^3+
+9*cosh(L)^2*k[0]*k[1]-3*cosh(L)^4*k[0]^3*k[1]-18*cosh(L)^4*k[0]^2*k[1]
+^2-9*cosh(L)^4*k[0]*k[1]^3+k[0]^3*k[1]-3*k[0]^3*k[1]^3-2*cosh(L)^2*k[0
+]^2-6*cosh(L)^4*k[1]^2-5*k[0]^2*k[1]^2+sinh(L)*(sinh(L)*cosh(L)^2*k[0]
+^3-3*cosh(L)^3*k[0]^2+3*sinh(L)*cosh(L)^2*k[0]-sinh(L)*k[0]^3-cosh(L)^
+3+3*cosh(L)*k[0]^2)*((D@@2)(k))(s[1])-2*sinh(L)^2*(-cosh(L)^2*k[1]^2+2
+*sinh(L)*cosh(L)*k[1]-cosh(L)^2+k[1]^2)*(D(k))(0)^2+sinh(L)^2*(6*sinh(
+L)*cosh(L)^2*k[0]^2*k[1]-6*cosh(L)^3*k[0]^2-12*cosh(L)^3*k[0]*k[1]+12*
+sinh(L)*cosh(L)^2*k[0]+6*sinh(L)*cosh(L)^2*k[1]-6*k[0]^2*k[1]*sinh(L)-
+6*cosh(L)^3+6*cosh(L)*k[0]^2+12*cosh(L)*k[0]*k[1]-k[0]*sinh(L)+cosh(L)
+)*(D(k))(0)*(D(k))(s[1])+(((k[1]*sinh(L)-cosh(L))*sinh(L)^2*k[1]-(k[1]
+*sinh(L)-cosh(L))*sinh(L)*cosh(L))*(k[0]*sinh(L)-cosh(L))*sinh(L)*(k[1
+]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))+(sinh(L)^3*k[1]-sinh
+(L)^2*cosh(L))*(k[0]*sinh(L)-cosh(L))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+
+sinh(L)-k[0]*cosh(L))*(k[1]*sinh(L)-cosh(L))+(1/2*((k[1]*sinh(L)-cosh(
+L))*sinh(L)^2*k[1]-(k[1]*sinh(L)-cosh(L))*sinh(L)*cosh(L)))*(k[0]*sinh
+(L)-cosh(L))^2*(k[1]*sinh(L)-cosh(L))+(1/2*(sinh(L)^3*k[1]-sinh(L)^2*c
+osh(L)))*sinh(L)*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))
+^2+(1/2*((k[1]*sinh(L)-cosh(L))^2*k[1]*sinh(L)-(k[1]*sinh(L)-cosh(L))^
+2*cosh(L)))*(k[0]*sinh(L)-cosh(L))^2*sinh(L)+(1/2)*sinh(L)^3*(k[1]*k[0
+]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))^2*(k[1]*sinh(L)-cosh(L)))
+*((D@@2)(k))(0):" }}}{PARA 0 "" 0 "" {TEXT 213 0 "" }}}{SECT 1 {PARA 4
+ "" 0 "" {TEXT 215 6 "b[1,2]" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+8 "restart:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 4169 "b[1,2] := \+
+(k[1]*sinh(L)^2*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))-
+k[1]*k[0]*sinh(L)*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L)
+)*cosh(L)+k[0]*sinh(L)^2*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*
+cosh(L))-sinh(L)*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))
+*cosh(L)+((D@@2)(k))(0)*(k[1]*sinh(L)-cosh(L))*sinh(L)^2*k[1]-((D@@2)(
+k))(0)*(k[1]*sinh(L)-cosh(L))*sinh(L)*cosh(L)-(k[0]*sinh(L)-cosh(L))*(
+k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))*sinh(L)+k[1]*cosh
+(L)*(k[0]*sinh(L)-cosh(L))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0
+]*cosh(L))+(D(k))(s[1])*sinh(L)^2*(D(k))(0))*(k[0]*sinh(L)-cosh(L))*si
+nh(L)*(k[1]*sinh(L)-cosh(L))+(k[1]*cosh(L)*(k[0]*sinh(L)-cosh(L))^2+k[
+1]*sinh(L)^2*(k[0]*sinh(L)-cosh(L))-k[0]*k[1]*sinh(L)*(k[0]*sinh(L)-co
+sh(L))*cosh(L)+k[0]*sinh(L)^2*(k[0]*sinh(L)-cosh(L))+k[0]*cosh(L)+((D@
+@2)(k))(0)*sinh(L)^3*k[1]-((D@@2)(k))(0)*sinh(L)^2*cosh(L)-sinh(L)*(k[
+0]*sinh(L)-cosh(L))^2-sinh(L)*(k[0]*sinh(L)-cosh(L))*cosh(L)-sinh(L))*
+sinh(L)*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))*(k[1]*si
+nh(L)-cosh(L))+(1/2*(-k[0]*sinh(L)*(k[1]*sinh(L)-cosh(L))*cosh(L)+sinh
+(L)^2*(k[1]*sinh(L)-cosh(L))+cosh(L)+(k[0]*sinh(L)-cosh(L))*(k[1]*sinh
+(L)-cosh(L))^2))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))
++(1/2*(-sinh(L)+k[0]*sinh(L)^2*(k[1]*sinh(L)-cosh(L))+k[1]*cosh(L)-((D
+@@2)(k))(s[1])*sinh(L)^2*cosh(L)+((D@@2)(k))(s[1])*sinh(L)^3*k[0]-sinh
+(L)*(k[1]*sinh(L)-cosh(L))^2-sinh(L)*(k[1]*sinh(L)-cosh(L))*cosh(L)+k[
+1]*sinh(L)^2*(k[1]*sinh(L)-cosh(L))+k[0]*cosh(L)*(k[1]*sinh(L)-cosh(L)
+)^2-k[1]*k[0]*sinh(L)*(k[1]*sinh(L)-cosh(L))*cosh(L)))*(k[0]*sinh(L)-c
+osh(L))+((D(k))(0)*sinh(L)^2*k[1]-(D(k))(0)*sinh(L)*cosh(L))*((D(k))(s
+[1])*sinh(L)^2*k[0]-(D(k))(s[1])*sinh(L)*cosh(L))*sinh(L)+(D(k))(0)*si
+nh(L)^2*((D(k))(s[1])*sinh(L)^2*k[0]-(D(k))(s[1])*sinh(L)*cosh(L))*(k[
+1]*sinh(L)-cosh(L))+(1/2*(k[1]*sinh(L)^2*(k[1]*k[0]*sinh(L)-k[1]*cosh(
+L)+sinh(L)-k[0]*cosh(L))-k[1]*k[0]*sinh(L)*(k[1]*k[0]*sinh(L)-k[1]*cos
+h(L)+sinh(L)-k[0]*cosh(L))*cosh(L)+k[0]*sinh(L)^2*(k[1]*k[0]*sinh(L)-k
+[1]*cosh(L)+sinh(L)-k[0]*cosh(L))-sinh(L)*(k[1]*k[0]*sinh(L)-k[1]*cosh
+(L)+sinh(L)-k[0]*cosh(L))*cosh(L)+((D@@2)(k))(0)*(k[1]*sinh(L)-cosh(L)
+)*sinh(L)^2*k[1]-((D@@2)(k))(0)*(k[1]*sinh(L)-cosh(L))*sinh(L)*cosh(L)
+-(k[0]*sinh(L)-cosh(L))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*c
+osh(L))*sinh(L)+k[1]*cosh(L)*(k[0]*sinh(L)-cosh(L))*(k[1]*k[0]*sinh(L)
+-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))+(D(k))(s[1])*sinh(L)^2*(D(k))(0)))
+*sinh(L)^2*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))+(1/2*
+(k[1]*cosh(L)*(k[0]*sinh(L)-cosh(L))^2+k[1]*sinh(L)^2*(k[0]*sinh(L)-co
+sh(L))-k[0]*k[1]*sinh(L)*(k[0]*sinh(L)-cosh(L))*cosh(L)+k[0]*sinh(L)^2
+*(k[0]*sinh(L)-cosh(L))+k[0]*cosh(L)+((D@@2)(k))(0)*sinh(L)^3*k[1]-((D
+@@2)(k))(0)*sinh(L)^2*cosh(L)-sinh(L)*(k[0]*sinh(L)-cosh(L))^2-sinh(L)
+*(k[0]*sinh(L)-cosh(L))*cosh(L)-sinh(L)))*(k[0]*sinh(L)-cosh(L))*(k[1]
+*sinh(L)-cosh(L))^2+(1/2*(k[1]*(k[1]*sinh(L)-cosh(L))*(k[1]*k[0]*sinh(
+L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))*sinh(L)-k[0]*k[1]*(k[1]*sinh(L)-
+cosh(L))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))*cosh(L)
++k[0]*(k[1]*sinh(L)-cosh(L))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k
+[0]*cosh(L))*sinh(L)+2*(D(k))(0)*(k[1]*sinh(L)-cosh(L))*(D(k))(s[1])*s
+inh(L)+((D@@2)(k))(0)*(k[1]*sinh(L)-cosh(L))^2*k[1]*sinh(L)-((D@@2)(k)
+)(0)*(k[1]*sinh(L)-cosh(L))^2*cosh(L)-(k[1]*sinh(L)-cosh(L))*(k[1]*k[0
+]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))*cosh(L)-((D@@2)(k))(s[1])
+*cosh(L)+k[0]*((D@@2)(k))(s[1])*sinh(L)+(D(k))(0)*(D(k))(s[1])*sinh(L)
+^2*k[1]+k[1]*cosh(L)*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh
+(L))^2-sinh(L)*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))^2
+-(D(k))(s[1])*(D(k))(0)*sinh(L)*cosh(L)))*(k[0]*sinh(L)-cosh(L))*sinh(
+L)^2+(1/2*(((D@@2)(k))(0)*sinh(L)^3-k[0]*sinh(L)*(k[0]*sinh(L)-cosh(L)
+)*cosh(L)+sinh(L)^2*(k[0]*sinh(L)-cosh(L))+cosh(L)*(k[0]*sinh(L)-cosh(
+L))^2+k[0]*sinh(L)-cosh(L)))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k
+[0]*cosh(L))*(k[1]*sinh(L)-cosh(L))^2+(1/2*((D(k))(0)*sinh(L)^2*k[1]-(
+D(k))(0)*sinh(L)*cosh(L)))*(D(k))(s[1])*sinh(L)^2*(k[0]*sinh(L)-cosh(L
+))+(1/2)*(D(k))(0)*sinh(L)^4*(D(k))(s[1])*(k[1]*k[0]*sinh(L)-k[1]*cosh
+(L)+sinh(L)-k[0]*cosh(L)):#OK" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 57 "X:=simplify(coeff(coeff(b[1,2],(D)(k)(0)),(D)(k)(s[1]))):" }}
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 114 "A01:=-sinh(L)^3*(-6*cosh(L)^2*k[0]
+*k[1]+6*sinh(L)*cosh(L)*k[0]+6*sinh(L)*cosh(L)*k[1]-6*cosh(L)^2+6*k[0]
+*k[1]+1);\n" }{MPLTEXT 1 0 16 "simplify(X-A01);" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 ",$*&-I%sinhG6$%*protectedGI(_syslibG6\"6#I\"LGF)\"\"$,.*(
+-I%coshGF&F*\"\"#&I\"kGF)6#\"\"!\"\"\"&F36#F6F6!\"'*(F$F6F/F6F2F6\"\"'
+*(F$F6F/F6F7F6F;*$F/F1F9*&F2F6F7F6F;F6F6F6!\"\"" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "\"\"!" }}}{PARA 11 "" 0 "" {TEXT 216 0 "" }}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 40 "X:=simplify(coeff(b[1,2],(D)(k)(0),2));\n
+" }{MPLTEXT 1 0 9 "A00:= 0;\n" }{MPLTEXT 1 0 16 "simplify(X-A00);" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}{PARA 11 "" 1 "" {XPPMATH 20 "
+\"\"!" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}{PARA 11 "" 0 "" 
+{TEXT 216 0 "" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 44 "A11:=simpli
+fy(coeff(b[1,2],(D)(k)(s[1]),2));" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"
+\"!" }}}{PARA 11 "" 0 "" {TEXT 216 0 "" }}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 44 "AA1:=simplify(coeff(b[1,2],(D@D)(k)(s[1])));" }}
+{PARA 11 "" 1 "" {XPPMATH 20 ",$*&-I%sinhG6$%*protectedGI(_syslibG6\"6
+#I\"LGF)\"\"#,**&-I%coshGF&F*F,&I\"kGF)6#\"\"!F,!\"\"*(F$\"\"\"F/F7F1F
+7F,*$F/F,F5*$F1F,F7F7F5" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 29 "
+X:=coeff(b[1,2],(D@D)(k)(0)):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 382 "AA0:=-2*sinh(L)^2*(-2*cosh(L)^4*k[0]*k[1]^3+6*sinh(L)*cosh(L)^3
+*k[0]*k[1]^2+2*sinh(L)*cosh(L)^3*k[1]^3-6*cosh(L)^4*k[0]*k[1]-6*cosh(L
+)^4*k[1]^2+4*cosh(L)^2*k[0]*k[1]^3+2*sinh(L)*cosh(L)^3*k[0]+6*sinh(L)*
+cosh(L)^3*k[1]-6*cosh(L)*k[0]*k[1]^2*sinh(L)-2*cosh(L)*k[1]^3*sinh(L)-
+2*cosh(L)^4+6*cosh(L)^2*k[0]*k[1]+7*cosh(L)^2*k[1]^2-2*k[0]*k[1]^3-2*s
+inh(L)*cosh(L)*k[1]+cosh(L)^2-k[1]^2);\n" }{MPLTEXT 1 0 17 "simplify(X
+-AA0);\n" }}{PARA 11 "" 1 "" {XPPMATH 20 ",$*&-I%sinhG6$%*protectedGI(
+_syslibG6\"6#I\"LGF)\"\"#,D*(-I%coshGF&F*\"\"%&I\"kGF)6#\"\"!\"\"\"&F3
+6#F6\"\"$!\"#**F$F6F/F9F2F6F7F,\"\"'*(F$F6F/F9F7F9F,*(F/F1F2F6F7F6!\"'
+*&F/F1F7F,F?*(F/F,F2F6F7F9F1*(F$F6F/F9F2F6F,*(F$F6F/F9F7F6F<**F/F6F2F6
+F7F,F$F6F?*(F/F6F7F9F$F6F:*$F/F1F:*(F/F,F2F6F7F6F<*&F/F,F7F,\"\"(*&F2F
+6F7F9F:*(F$F6F/F6F7F6F:*$F/F,F6*$F7F,!\"\"F6F:" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 74 "X:=su
+bs((D@D)(k)(s[1])=0,(D)(k)(s[1])=0,(D@D)(k)(0)=0,(D)(k)(0)=0,b[1,2]):"
+ }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 574 "X0:=-k[1]+k[0]+6*sinh(L
+)*cosh(L)^3*k[0]*k[1]-2*k[1]*k[0]*sinh(L)*cosh(L)-6*cosh(L)*k[0]^2*k[1
+]^2*sinh(L)-6*cosh(L)*k[0]*k[1]^3*sinh(L)-3*cosh(L)^4*k[1]+3*cosh(L)^2
+*k[1]-3*k[0]^2*k[1]^3-4*k[0]*k[1]^2+k[0]^2*k[1]+6*sinh(L)*cosh(L)^3*k[
+1]^2+cosh(L)*k[0]^2*sinh(L)-4*cosh(L)*k[1]^2*sinh(L)-2*cosh(L)^2*k[0]+
+sinh(L)*cosh(L)-3*cosh(L)^4*k[0]^2*k[1]^3+6*cosh(L)^2*k[0]^2*k[1]^3+2*
+cosh(L)^2*k[0]^2*k[1]+16*cosh(L)^2*k[0]*k[1]^2-3*cosh(L)^4*k[0]^2*k[1]
+-12*cosh(L)^4*k[0]*k[1]^2+6*sinh(L)*cosh(L)^3*k[0]^2*k[1]^2+6*sinh(L)*
+cosh(L)^3*k[0]*k[1]^3+3*cosh(L)^2*k[1]^3-3*cosh(L)^4*k[1]^3;\n" }
+{MPLTEXT 1 0 15 "simplify(X-X0);" }}{PARA 11 "" 1 "" {XPPMATH 20 ",V&I
+\"kG6\"6#\"\"\"!\"\"&F$6#\"\"!F'*&F)F'F#\"\"#!\"%*(-I%sinhG6$%*protect
+edGI(_syslibGF%6#I\"LGF%F'-I%coshGF2F5\"\"$F#F-\"\"'*(F7F'F#F-F0F'F.*(
+F7\"\"%F)F-F#F9!\"$*(F7F-F)F-F#F9F:*(F7F-F)F-F#F'F-*(F7F-F)F'F#F-\"#;*
+(F7F=F)F-F#F'F>*(F7F=F)F'F#F-!#7*(F7F'F)F-F0F'F'**F0F'F7F9F)F'F#F'F:**
+F#F'F)F'F0F'F7F'!\"#**F7F'F)F-F#F-F0F'!\"'**F7F'F)F'F#F9F0F'FK**F0F'F7
+F9F)F-F#F-F:**F0F'F7F9F)F'F#F9F:*&F)F-F#F'F'*&F7F=F#F'F>*&F7F-F#F'F9*&
+F)F-F#F9F>*&F7F-F)F'FI*&F7F-F#F9F9*&F7F=F#F9F>*&F7F'F0F'F'" }}{PARA 11
+ "" 1 "" {XPPMATH 20 "\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+79 "simplify(X0+A01*(D)(k)(0)*(D)(k)(s[1])+AA1*(D@D)(k)(s[1])+A11*((D)
+(k)(s[1]))^2\n" }{MPLTEXT 1 0 43 "+A00*((D)(k)(0))^2+AA0*(D@D)(k)(0)-b
+[1,2]);" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}{EXCHG {PARA 0 "> "
+ 0 "" {MPLTEXT 1 0 79 "b[1,2]:= X0+A01*(D)(k)(0)*(D)(k)(s[1])+AA1*(D@D
+)(k)(s[1])+A11*((D)(k)(s[1]))^2\n" }{MPLTEXT 1 0 35 "+A00*((D)(k)(0))^
+2+AA0*(D@D)(k)(0);" }}{PARA 11 "" 1 "" {XPPMATH 20 ",fn&I\"kG6\"6#\"\"
+\"!\"\"&F$6#\"\"!F'*&F)F'F#\"\"#!\"%**-I%sinhG6$%*protectedGI(_syslibG
+F%6#I\"LGF%\"\"$,.*(-I%coshGF2F5F-F)F'F#F'!\"'*(F0F'F:F'F)F'\"\"'*(F0F
+'F:F'F#F'F>*$F:F-F<*&F)F'F#F'F>F'F'F'--I\"DGF26#F$F*F'-FC6#&I\"sGF%F&F
+'F(*(F0F-,**&F:F-F)F-F(F=F-F@F(*$F)F-F'F'---I#@@GF26$FDF-FEFGF'F(*(F0F
+-,D*(F:\"\"%F)F'F#F7!\"#**F0F'F:F7F)F'F#F-F>*(F0F'F:F7F#F7F-*(F:FVF)F'
+F#F'F<*&F:FVF#F-F<*(F:F-F)F'F#F7FV*(F0F'F:F7F)F'F-*(F0F'F:F7F#F'F>**F:
+F'F)F'F#F-F0F'F<*(F:F'F#F7F0F'FW*$F:FVFWF9F>*&F:F-F#F-\"\"(*&F)F'F#F7F
+WF?FWF@F'*$F#F-F(F'-FOF*F'FW*(F0F'F:F7F#F-F>*(F:F'F#F-F0F'F.*(F:FVF)F-
+F#F7!\"$*(F:F-F)F-F#F7F>*(F:F-F)F-F#F'F-*(F:F-F)F'F#F-\"#;*(F:FVF)F-F#
+F'Fdo*(F:FVF)F'F#F-!#7*(F:F'F)F-F0F'F'**F0F'F:F7F)F'F#F'F>**F#F'F)F'F0
+F'F:F'FW**F:F'F)F-F#F-F0F'F<**F:F'F)F'F#F7F0F'F<**F0F'F:F7F)F-F#F-F>**
+F0F'F:F7F)F'F#F7F>*&F)F-F#F'F'*&F:FVF#F'Fdo*&F:F-F#F'F7*&F)F-F#F7Fdo*&
+F:F-F)F'FW*&F:F-F#F7F7*&F:FVF#F7Fdo*&F:F'F0F'F'" }}}{EXCHG {PARA 0 "> 
+" 0 "" {MPLTEXT 1 0 1187 "b[1,2] := -k[1]+k[0]-4*k[0]*k[1]^2-sinh(L)^3
+*(-6*cosh(L)^2*k[0]*k[1]+6*sinh(L)*cosh(L)*k[0]+6*sinh(L)*cosh(L)*k[1]
+-6*cosh(L)^2+6*k[0]*k[1]+1)*(D(k))(0)*(D(k))(s[1])-sinh(L)^2*(-cosh(L)
+^2*k[0]^2+2*sinh(L)*cosh(L)*k[0]-cosh(L)^2+k[0]^2)*((D@@2)(k))(s[1])-2
+*sinh(L)^2*(-2*cosh(L)^4*k[0]*k[1]^3+6*sinh(L)*cosh(L)^3*k[0]*k[1]^2+2
+*sinh(L)*cosh(L)^3*k[1]^3-6*cosh(L)^4*k[0]*k[1]-6*cosh(L)^4*k[1]^2+4*c
+osh(L)^2*k[0]*k[1]^3+2*sinh(L)*cosh(L)^3*k[0]+6*sinh(L)*cosh(L)^3*k[1]
+-6*cosh(L)*k[0]*k[1]^2*sinh(L)-2*cosh(L)*k[1]^3*sinh(L)-2*cosh(L)^4+6*
+cosh(L)^2*k[0]*k[1]+7*cosh(L)^2*k[1]^2-2*k[0]*k[1]^3-2*sinh(L)*cosh(L)
+*k[1]+cosh(L)^2-k[1]^2)*((D@@2)(k))(0)+6*sinh(L)*cosh(L)^3*k[1]^2-4*co
+sh(L)*k[1]^2*sinh(L)-3*cosh(L)^4*k[0]^2*k[1]^3+6*cosh(L)^2*k[0]^2*k[1]
+^3+2*cosh(L)^2*k[0]^2*k[1]+16*cosh(L)^2*k[0]*k[1]^2-3*cosh(L)^4*k[0]^2
+*k[1]-12*cosh(L)^4*k[0]*k[1]^2+cosh(L)*k[0]^2*sinh(L)+6*sinh(L)*cosh(L
+)^3*k[0]*k[1]-2*k[1]*k[0]*sinh(L)*cosh(L)-6*cosh(L)*k[0]^2*k[1]^2*sinh
+(L)-6*cosh(L)*k[0]*k[1]^3*sinh(L)+6*sinh(L)*cosh(L)^3*k[0]^2*k[1]^2+6*
+sinh(L)*cosh(L)^3*k[0]*k[1]^3+k[0]^2*k[1]-3*cosh(L)^4*k[1]+3*cosh(L)^2
+*k[1]-3*k[0]^2*k[1]^3-2*cosh(L)^2*k[0]+3*cosh(L)^2*k[1]^3-3*cosh(L)^4*
+k[1]^3+cosh(L)*sinh(L):" }}}{PARA 0 "" 0 "" {TEXT 213 0 "" }}}{SECT 0 
+{PARA 4 "" 0 "" {TEXT 215 6 "b[0,3]" }}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 8 "restart:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+2485 "b[0,3] := (1/2*((D(k))(0)*sinh(L)^2*k[1]-(D(k))(0)*sinh(L)*cosh(
+L)))*(D(k))(s[1])*sinh(L)^3+(1/2)*(D(k))(0)*sinh(L)^4*(D(k))(s[1])*(k[
+1]*sinh(L)-cosh(L))+(1/2*(k[1]*sinh(L)^2*(k[1]*k[0]*sinh(L)-k[1]*cosh(
+L)+sinh(L)-k[0]*cosh(L))-k[1]*k[0]*sinh(L)*(k[1]*k[0]*sinh(L)-k[1]*cos
+h(L)+sinh(L)-k[0]*cosh(L))*cosh(L)+k[0]*sinh(L)^2*(k[1]*k[0]*sinh(L)-k
+[1]*cosh(L)+sinh(L)-k[0]*cosh(L))-sinh(L)*(k[1]*k[0]*sinh(L)-k[1]*cosh
+(L)+sinh(L)-k[0]*cosh(L))*cosh(L)+((D@@2)(k))(0)*(k[1]*sinh(L)-cosh(L)
+)*sinh(L)^2*k[1]-((D@@2)(k))(0)*(k[1]*sinh(L)-cosh(L))*sinh(L)*cosh(L)
+-(k[0]*sinh(L)-cosh(L))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*c
+osh(L))*sinh(L)+k[1]*cosh(L)*(k[0]*sinh(L)-cosh(L))*(k[1]*k[0]*sinh(L)
+-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))+(D(k))(s[1])*sinh(L)^2*(D(k))(0)))
+*sinh(L)^2*(k[1]*sinh(L)-cosh(L))+(1/2*(k[1]*cosh(L)*(k[0]*sinh(L)-cos
+h(L))^2+k[1]*sinh(L)^2*(k[0]*sinh(L)-cosh(L))-k[0]*k[1]*sinh(L)*(k[0]*
+sinh(L)-cosh(L))*cosh(L)+k[0]*sinh(L)^2*(k[0]*sinh(L)-cosh(L))+k[0]*co
+sh(L)+((D@@2)(k))(0)*sinh(L)^3*k[1]-((D@@2)(k))(0)*sinh(L)^2*cosh(L)-s
+inh(L)*(k[0]*sinh(L)-cosh(L))^2-sinh(L)*(k[0]*sinh(L)-cosh(L))*cosh(L)
+-sinh(L)))*sinh(L)*(k[1]*sinh(L)-cosh(L))^2+(1/6*(k[1]*(k[1]*sinh(L)-c
+osh(L))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))*sinh(L)-
+k[0]*k[1]*(k[1]*sinh(L)-cosh(L))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(
+L)-k[0]*cosh(L))*cosh(L)+k[0]*(k[1]*sinh(L)-cosh(L))*(k[1]*k[0]*sinh(L
+)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))*sinh(L)+2*(D(k))(0)*(k[1]*sinh(L)
+-cosh(L))*(D(k))(s[1])*sinh(L)+((D@@2)(k))(0)*(k[1]*sinh(L)-cosh(L))^2
+*k[1]*sinh(L)-((D@@2)(k))(0)*(k[1]*sinh(L)-cosh(L))^2*cosh(L)-(k[1]*si
+nh(L)-cosh(L))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))*c
+osh(L)-((D@@2)(k))(s[1])*cosh(L)+k[0]*((D@@2)(k))(s[1])*sinh(L)+(D(k))
+(0)*(D(k))(s[1])*sinh(L)^2*k[1]+k[1]*cosh(L)*(k[1]*k[0]*sinh(L)-k[1]*c
+osh(L)+sinh(L)-k[0]*cosh(L))^2-sinh(L)*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)
++sinh(L)-k[0]*cosh(L))^2-(D(k))(s[1])*(D(k))(0)*sinh(L)*cosh(L)))*sinh
+(L)^3+(1/6*(((D@@2)(k))(0)*sinh(L)^3-k[0]*sinh(L)*(k[0]*sinh(L)-cosh(L
+))*cosh(L)+sinh(L)^2*(k[0]*sinh(L)-cosh(L))+cosh(L)*(k[0]*sinh(L)-cosh
+(L))^2+k[0]*sinh(L)-cosh(L)))*(k[1]*sinh(L)-cosh(L))^3+(1/6*(-sinh(L)*
+(k[1]*sinh(L)-cosh(L))*cosh(L)+sinh(L)+sinh(L)*(k[1]*sinh(L)-cosh(L))^
+2))*(k[1]*k[0]*sinh(L)-k[1]*cosh(L)+sinh(L)-k[0]*cosh(L))+(1/6*(((D@@2
+)(k))(s[1])*sinh(L)^3-k[1]*sinh(L)*(k[1]*sinh(L)-cosh(L))*cosh(L)+sinh
+(L)^2*(k[1]*sinh(L)-cosh(L))+cosh(L)*(k[1]*sinh(L)-cosh(L))^2+k[1]*sin
+h(L)-cosh(L)))*(k[0]*sinh(L)-cosh(L)):#OK" }}}{EXCHG {PARA 0 "> " 0 ""
+ {MPLTEXT 1 0 59 "A01:=simplify(coeff(coeff(b[0,3],(D)(k)(0)),(D)(k)(s
+[1])));" }}{PARA 11 "" 1 "" {XPPMATH 20 ",$*&-I%sinhG6$%*protectedGI(_
+syslibG6\"6#I\"LGF)\"\"%,&*&&I\"kGF)6#\"\"\"F2F$F2F2-I%coshGF&F*!\"\"F
+2\"\"#" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 41 "A00:=simplify(coe
+ff(b[0,3],(D)(k)(0),2));" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 44 "A11:=simplify(coeff(b[0,3],(
+D)(k)(s[1]),2));" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 41 "AA0:=simplify(coeff(b[0,3],(D@D)(k)
+(0)));" }}{PARA 11 "" 1 "" {XPPMATH 20 ",$*&-I%sinhG6$%*protectedGI(_s
+yslibG6\"6#I\"LGF)\"\"$,.*(F$\"\"\"-I%coshGF&F*\"\"#&I\"kGF)6#F/F,F/*&
+F0F,F3F2!\"$*(F$F/F0F2F3F/F,*&F3F,F$F/!\"\"*$F0F,F:*&F0F/F3F2F,F/#\"\"
+%F," }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 44 "AA1:=simplify(coeff(
+b[0,3],(D@D)(k)(s[1])));" }}{PARA 11 "" 1 "" {XPPMATH 20 ",$*&,&*&&I\"
+kG6\"6#\"\"!\"\"\"-I%sinhG6$%*protectedGI(_syslibGF(6#I\"LGF(F+F+-I%co
+shGF.F1!\"\"F+F,\"\"$#F+F6" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+74 "X:=subs((D@D)(k)(s[1])=0,(D)(k)(s[1])=0,(D@D)(k)(0)=0,(D)(k)(0)=0,
+b[0,3]);" }}{PARA 11 "" 1 "" {XPPMATH 20 ",.*(,.*(&I\"kG6\"6#\"\"\"F*-
+I%sinhG6$%*protectedGI(_syslibGF(6#I\"LGF(\"\"#,**(F&F*&F'6#\"\"!F*F+F
+*F**&F&F*-I%coshGF-F0F*!\"\"F+F**&F5F*F9F*F;F*F**,F&F*F5F*F+F*F3F*F9F*
+F;*(F5F*F+F2F3F*F**(F+F*F3F*F9F*F;*(,&*&F5F*F+F*F*F9F;F*F3F*F+F*F;**F&
+F*F9F*FAF*F3F*F*F*F+F2,&*&F&F*F+F*F*F9F;F*#F*F2*(,2*(F&F*F9F*FAF2F**(F
+&F*F+F2FAF*F**,F5F*F&F*F+F*FAF*F9F*F;*(F5F*F+F2FAF*F*F<F**&F+F*FAF2F;*
+(F+F*FAF*F9F*F;F+F;F*F+F*FDF2FF*&,.**F&F*FDF*F3F*F+F*F**,F5F*F&F*FDF*F
+3F*F9F*F;**F5F*FDF*F3F*F+F*F**(FDF*F3F*F9F*F;*(F&F*F9F*F3F2F**&F+F*F3F
+2F;F*F+\"\"$#F*\"\"'*&,,**F5F*F+F*FAF*F9F*F;*&F+F2FAF*F**&F9F*FAF2F*FB
+F*F9F;F*FDFWFX*&,(*(F+F*FDF*F9F*F;F+F**&F+F*FDF2F*F*F3F*FX*&,,**F&F*F+
+F*FDF*F9F*F;*&F+F2FDF*F**&F9F*FDF2F*FEF*F9F;F*FAF*FX" }}}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 159 "X0:=sinh(L)^2*k[1]*(-cosh(L)^2*k[0]*k[1]
+^2+2*k[1]*k[0]*sinh(L)*cosh(L)+sinh(L)*cosh(L)*k[1]^2-cosh(L)^2*k[0]-2
+*cosh(L)^2*k[1]+k[0]*k[1]^2+cosh(L)*sinh(L)+k[1])" }{MPLTEXT 1 0 16 ";
+simplify(X-X0);" }}{PARA 11 "" 1 "" {XPPMATH 20 "*(-I%sinhG6$%*protect
+edGI(_syslibG6\"6#I\"LGF(\"\"#&I\"kGF(6#\"\"\"F/,2*(-I%coshGF%F)F+&F-6
+#\"\"!F/F,F+!\"\"**F,F/F4F/F#F/F2F/F+*(F#F/F2F/F,F+F/*&F2F+F4F/F7*&F2F
++F,F/!\"#*&F4F/F,F+F/*&F#F/F2F/F/F,F/F/" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 79 "simplify(X0+A0
+1*(D)(k)(0)*(D)(k)(s[1])+AA1*(D@D)(k)(s[1])+A11*((D)(k)(s[1]))^2\n" }
+{MPLTEXT 1 0 43 "+A00*((D)(k)(0))^2+AA0*(D@D)(k)(0)-b[0,3]);" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 78 "b[0,3]:=X0+A01*(D)(k)(0)*(D)(k)(s[1])+AA1*(D@D)(k)(s[1])+A11*((D
+)(k)(s[1]))^2\n" }{MPLTEXT 1 0 35 "+A00*((D)(k)(0))^2+AA0*(D@D)(k)(0);
+" }}{PARA 11 "" 1 "" {XPPMATH 20 ",**(-I%sinhG6$%*protectedGI(_syslibG
+6\"6#I\"LGF)\"\"#&I\"kGF)6#\"\"\"F0,2*(-I%coshGF&F*F,&F.6#\"\"!F0F-F,!
+\"\"**F-F0F5F0F$F0F3F0F,*(F$F0F3F0F-F,F0*&F3F,F5F0F8*&F3F,F-F0!\"#*&F5
+F0F-F,F0*&F$F0F3F0F0F-F0F0F0**--I\"DGF&6#F.F6F0F$\"\"%-FB6#&I\"sGF)F/F
+0,&*&F-F0F$F0F0F3F8F0F,*(,&*&F5F0F$F0F0F3F8F0F$\"\"$---I#@@GF&6$FCF,FD
+FGF0#F0FO*(F$FO,.*(F$F0F3F,F-FOF0*&F3FOF-F,!\"$*(F$F0F3F,F-F0FO*&F-FOF
+$F0F8*$F3FOF8*&F3F0F-F,FOF0-FQF6F0#FEFO" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 425 "b[0,3] := sinh(L)^2*k[1]*(-cosh(L)^2*k[0]*k[1]^2+2*k
+[1]*k[0]*sinh(L)*cosh(L)+sinh(L)*cosh(L)*k[1]^2-cosh(L)^2*k[0]-2*cosh(
+L)^2*k[1]+k[0]*k[1]^2+sinh(L)*cosh(L)+k[1])+2*(D(k))(0)*sinh(L)^4*(D(k
+))(s[1])*(k[1]*sinh(L)-cosh(L))+(1/3*(k[0]*sinh(L)-cosh(L)))*sinh(L)^3
+*((D@@2)(k))(s[1])+(4/3)*sinh(L)^3*(sinh(L)*cosh(L)^2*k[1]^3-3*cosh(L)
+^3*k[1]^2+3*sinh(L)*cosh(L)^2*k[1]-k[1]^3*sinh(L)-cosh(L)^3+3*cosh(L)*
+k[1]^2)*((D@@2)(k))(0);" }}{PARA 11 "" 1 "" {XPPMATH 20 ",**(-I%sinhG6
+$%*protectedGI(_syslibG6\"6#I\"LGF)\"\"#&I\"kGF)6#\"\"\"F0,2*(-I%coshG
+F&F*F,&F.6#\"\"!F0F-F,!\"\"**F-F0F5F0F$F0F3F0F,*(F$F0F3F0F-F,F0*&F3F,F
+5F0F8*&F3F,F-F0!\"#*&F5F0F-F,F0*&F$F0F3F0F0F-F0F0F0**--I\"DGF&6#F.F6F0
+F$\"\"%-FB6#&I\"sGF)F/F0,&*&F-F0F$F0F0F3F8F0F,*(,&*&F5F0F$F0F0F3F8F0F$
+\"\"$---I#@@GF&6$FCF,FDFGF0#F0FO*(F$FO,.*(F$F0F3F,F-FOF0*&F3FOF-F,!\"$
+*(F$F0F3F,F-F0FO*&F-FOF$F0F8*$F3FOF8*&F3F0F-F,FOF0-FQF6F0#FEFO" }}}
+{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1 "" "%#%?G" }}}{PARA 0 "" 0 "" 
+{TEXT 213 0 "" }}}{PARA 4 "" 0 "" {TEXT 215 0 "" }}{PARA 0 "" 0 "" 
+{TEXT 213 0 "" }}{PARA 0 "" 0 "" {TEXT 213 0 "" }}}}
+{MARK "0 0 0" 0 }{VIEWOPTS 1 1 0 1 1 1803 1 1 1 1 }{PAGENUMBERS 0 1 2
+ 33 1 1 }
